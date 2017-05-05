@@ -2,7 +2,9 @@
 
 | Poll |
 |:----:|
+| [2017-05-03-YouGov](2017-05-03-YouGov.html) |
 | [2017-05-02-Panelbase](2017-05-02-Panelbase.html) |
+| [2017-05-02-Kantar](2017-05-02-Kantar.html) |
 | [2017-05-02-ICM](2017-05-02-ICM.html) |
 | [2017-04-28-YouGov](2017-04-28-YouGov.html) |
 | [2017-04-28-Opinium](2017-04-28-Opinium.html) |
