@@ -2,9 +2,9 @@
 
 ## Percentages
 
-![Percentages](2017-04-24-Kantar-TNS.png "Percentages")
+![Graph with percentages not yet produced](2017-04-24-Kantar-TNS.png "Percentages")
 
 ## Seats
 
-![Seats](2017-04-24-Kantar-TNS-seats.png "Seats")
+![Graph with seats not yet produced](2017-04-24-Kantar-TNS-seats.png "Seats")
 

@@ -2,9 +2,9 @@
 
 ## Percentages
 
-![Percentages](2017-04-25-Ipsos-MORI.png "Percentages")
+![Graph with percentages not yet produced](2017-04-25-Ipsos-MORI.png "Percentages")
 
 ## Seats
 
-![Seats](2017-04-25-Ipsos-MORI-seats.png "Seats")
+![Graph with seats not yet produced](2017-04-25-Ipsos-MORI-seats.png "Seats")
 
