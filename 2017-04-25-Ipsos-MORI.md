@@ -1,10 +1,20 @@
 # Opinion Poll by Ipsos MORI for Evening Standard, 21–25 April 2017
 
-## Percentages
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
 
-![Graph with percentages not yet produced](2017-04-25-Ipsos-MORI.png "Percentages")
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2017-04-25-Ipsos-MORI.png "Voting Intentions")
 
 ## Seats
 
 ![Graph with seats not yet produced](2017-04-25-Ipsos-MORI-seats.png "Seats")
+
+## Technical Information
+
+| Key | Value |
+|-----|-------|
+| **Pollster** | Ipsos MORI | 
+| **Media** | Evening Standard | 
+| **Fieldwork period** | 21–25 April 2017 | 
 
