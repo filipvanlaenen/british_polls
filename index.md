@@ -1,9 +1,10 @@
 # Overview
 
-| Period     | Pollster/Media        | CON            | LAB            | UKIP         | LIBDEM        | SNP          | PC          | GREEN        |
-|:----------:|:---------------------:|:--------------:|:--------------:|:------------:|:-------------:|:------------:|:-----------:|:------------:|
-| 7 May 2015 | Last General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
+| Period     | Pollster/Media   | CON            | LAB            | UKIP         | LIBDEM        | SNP          | PC          | GREEN        |
+|:----------:|:----------------:|:--------------:|:--------------:|:------------:|:-------------:|:------------:|:-----------:|:------------:|
+| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
 | [2–3 May 2017](2017-05-03-YouGov.html) | YouGov<br>The Times | 44–49% <br> 346–387 | 28–33% <br> 179–219 | 5–7% <br> 0 | 9–11% <br> 8–25 | 3–5% <br> 37–55 | 0–1% <br> 0–5 | 1–3% <br> 0–1 |
+| [2–3 May 2017](2017-05-03-Opinium.html) | Opinium | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–2 May 2017](2017-05-02-Panelbase.html) | Panelbase | 44–51% <br> 344–405 | 27–33% <br> 159–219 | 4–7% <br> 0 | 8–13% <br> 7–33 | 3–6% <br> 32–56 | 0–1% <br> 0–7 | 1–4% <br> 0–1 |
 | [27 April–3 May 2017](2017-05-02-Kantar.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–2 May 2017](2017-05-02-ICM.html) | ICM<br>The Guardian | 46–51% <br> 380–423 | 24–29% <br> 148–190 | 7–10% <br> 0 | 8–11% <br> 7–23 | 3–5% <br> 30–54 | 0–1% <br> 0–4 | 2–4% <br> 0–2 |
@@ -18,8 +19,11 @@
 | [21–24 April 2017](2017-04-24-ICM.html) | ICM<br>The Guardian | 46–50% <br> 376–415 | 25–29% <br> 149–186 | 6–8% <br> 0 | 9–12% <br> 9–27 | 3–5% <br> 38–54 | 0–1% <br> 0–7 | 2–4% <br> 0–1 |
 | [21–22 april 2017](2017-04-22-Survation.html) | Survation<br>Mail on Sunday | 37–42% <br> 322–367 | 27–31% <br> 185–227 | 10–13% <br> 0–1 | 9–12% <br> 15–41 | 4–6% <br> 44–56 | 0–1% <br> 0–7 | 2–3% <br> 0–1 |
 | [19–21 April 2017](2017-04-21-ICM.html) | ICM<br>ITV | 47–52% <br> 390–433 | 23–27% <br> 131–174 | 6–9% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 36–55 | 0–1% <br> 0–7 | 3–4% <br> 0–2 |
+| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
 
 ***Legend:***
++ **Top row for each opinion poll:** Voting intentions (95% confidence interval)
++ **Bottom row for each opinion poll:** Seat projections for the House of Commons (95% confidence interval)
 + **CON:** Conservative Party
 + **LAB:** Labour Party
 + **UKIP:** UK Independence Party
