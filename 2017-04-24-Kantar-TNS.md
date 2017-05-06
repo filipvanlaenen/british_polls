@@ -12,9 +12,7 @@
 
 ## Technical Information
 
-| Key | Value |
-|-----|-------|
-| **Pollster** | Kantar TNS | 
-| **Media** | — | 
-| **Fieldwork period** | 20–24 April 2017 | 
++ **Pollster:** Kantar TNS
++ **Media:** —
++ **Fieldwork period:** 20–24 April 2017
 

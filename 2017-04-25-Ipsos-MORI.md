@@ -12,9 +12,7 @@
 
 ## Technical Information
 
-| Key | Value |
-|-----|-------|
-| **Pollster** | Ipsos MORI | 
-| **Media** | Evening Standard | 
-| **Fieldwork period** | 21–25 April 2017 | 
++ **Pollster:** Ipsos MORI
++ **Media:** Evening Standard
++ **Fieldwork period:** 21–25 April 2017
 

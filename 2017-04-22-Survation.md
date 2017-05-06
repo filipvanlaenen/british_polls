@@ -12,9 +12,7 @@
 
 ## Technical Information
 
-| Key | Value |
-|-----|-------|
-| **Pollster** | Survation | 
-| **Media** | Mail on Sunday | 
-| **Fieldwork period** | 21–22 april 2017 | 
++ **Pollster:** Survation
++ **Media:** Mail on Sunday
++ **Fieldwork period:** 21–22 april 2017
 

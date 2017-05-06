@@ -12,9 +12,7 @@
 
 ## Technical Information
 
-| Key | Value |
-|-----|-------|
-| **Pollster** | Panelbase | 
-| **Media** | — | 
-| **Fieldwork period** | 20–24 April 2017 | 
++ **Pollster:** Panelbase
++ **Media:** —
++ **Fieldwork period:** 20–24 April 2017
 
