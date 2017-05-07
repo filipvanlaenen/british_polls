@@ -3,6 +3,8 @@
 | Period     | Pollster/Media   | CON            | LAB            | UKIP         | LIBDEM        | SNP          | PC          | GREEN        |
 |:----------:|:----------------:|:--------------:|:--------------:|:------------:|:-------------:|:------------:|:-----------:|:------------:|
 | 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
+| [4–5 May 2017](2017-05-05-YouGov.html) | YouGov<br>The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–5 May 2017](2017-05-05-ICM.html) | ICM<br>Sun on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–4 May 2017](2017-05-04-ORB.html) | ORB<br>Sunday Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–3 May 2017](2017-05-03-YouGov.html) | YouGov<br>The Times | 44–49% <br> 346–387 | 28–33% <br> 179–219 | 5–7% <br> 0 | 9–11% <br> 8–25 | 3–5% <br> 37–55 | 0–1% <br> 0–5 | 1–3% <br> 0–1 |
 | [2–3 May 2017](2017-05-03-Opinium.html) | Opinium | 43–49% <br> 350–396 | 27–32% <br> 171–216 | 6–9% <br> 0 | 8–11% <br> 5–22 | 3–6% <br> 41–57 | 0–1% <br> 0–4 | 2–3% <br> 0–1 |
