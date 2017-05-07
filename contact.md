@@ -6,7 +6,9 @@ If you
 + want more information about how the results were calculated,
 + think you've found an error,
 + want to see a particular opinion poll added or its calculation started,
-+ or have suggestions for more information that could be published,
++ have suggestions for more information that could be published,
++ want to see a similar site for a different country,
++ or have any other suggestion to improve this site,
 
 you can contact me through any of the following channels:
 
@@ -17,3 +19,9 @@ you can contact me through any of the following channels:
 
 You can also check out my [backlog](backlog.md) to see whether your suggestion
 or comment is already on the list.
+
+Running the calculations to perform these analyses is quite resource intensive
+(eight hours or more for a reliable result per opinion poll). Financial help
+to move these calculations out to the cloud is always welcome. If you're a
+medium that would be interested in getting exclusive results and insights, I'm
+sure we can work something out!
