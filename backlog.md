@@ -5,6 +5,9 @@
 1. Add a graph with the probability per number of seats
 1. Add a graph with the probability per percentage for the voting intentions
 1. Add a page explaining the methodology
+   + Projecting national results on electoral districts
+   + Weighed Monte Carlo simulations
+   + Calculation of the error estimate
 1. Add a resources page
 1. Add the last election's results to the graph with the voting intentions
 1. Add the last election's results to the graph with the seat projections

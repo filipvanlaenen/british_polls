@@ -8,15 +8,15 @@
 
 ### Confidence Intervals
 
-| Party | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party | 46.8–51.6% |46.1–52.2% |45.5–52.8% |44.4–54.0% |
-| Labour Party | 24.6–28.8% |24.0–29.4% |23.5–29.9% |22.5–31.0% |
-| Liberal Democrats | 8.5–11.4% |8.2–11.8% |7.9–12.2% |7.3–13.0% |
-| Scottish National Party | 4.2–6.3% |3.9–6.7% |3.7–7.0% |3.3–7.6% |
-| UK Independence Party | 4.1–6.2% |3.8–6.5% |3.6–6.8% |3.2–7.5% |
-| Green Party | 2.2–3.9% |2.1–4.2% |1.9–4.4% |1.6–4.9% |
-| Plaid Cymru | 0.5–1.5% |0.4–1.6% |0.4–1.8% |0.3–2.2% |
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 37.8% | 49% | 46.8–51.6% |46.1–52.2% |45.5–52.8% |44.4–54.0% |
+| Labour Party | 31.2% | 27% | 24.6–28.8% |24.0–29.4% |23.5–29.9% |22.5–31.0% |
+| Liberal Democrats | 8.1% | 10% | 8.5–11.4% |8.2–11.8% |7.9–12.2% |7.3–13.0% |
+| Scottish National Party | 4.9% | 5% | 4.2–6.3% |3.9–6.7% |3.7–7.0% |3.3–7.6% |
+| UK Independence Party | 12.9% | 5% | 4.1–6.2% |3.8–6.5% |3.6–6.8% |3.2–7.5% |
+| Green Party | 3.8% | 3% | 2.2–3.9% |2.1–4.2% |1.9–4.4% |1.6–4.9% |
+| Plaid Cymru | 0.6% | 1% | 0.5–1.5% |0.4–1.6% |0.4–1.8% |0.3–2.2% |
 
 ## Seats
 
@@ -24,15 +24,15 @@
 
 ### Confidence Intervals
 
-| Party | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party | 380–418 |374–421 |370–425 |360–434 |
-| Labour Party | 141–180 |138–183 |133–189 |123–199 |
-| Liberal Democrats | 6–23 |5–26 |4–28 |4–31 |
-| Scottish National Party | 47–58 |45–59 |43–59 |40–59 |
-| UK Independence Party | 0 |0 |0 |0 |
-| Green Party | 0–1 |0–1 |0–2 |0–2 |
-| Plaid Cymru | 4–8 |3–11 |1–12 |0–13 |
+| Party | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 331 | 380–418 |374–421 |370–425 |360–434 |
+| Labour Party | 232 | 141–180 |138–183 |133–189 |123–199 |
+| Liberal Democrats | 8 | 6–23 |5–26 |4–28 |4–31 |
+| Scottish National Party | 56 | 47–58 |45–59 |43–59 |40–59 |
+| UK Independence Party | 1 | 0 |0 |0 |0 |
+| Green Party | 1 | 0–1 |0–1 |0–2 |0–2 |
+| Plaid Cymru | 3 | 4–8 |3–11 |1–12 |0–13 |
 
 ## Technical Information
 
@@ -44,6 +44,7 @@
 
 ### Calculations
 
++ **Sample size:** 718
 + **Simulations done:** 2,097,152
 + **Error estimate:** 1.63%
 
