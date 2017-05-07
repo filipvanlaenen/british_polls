@@ -22,6 +22,18 @@
 
 ![Graph with seats not yet produced](2017-04-24-Panelbase-seats.png "Seats")
 
+### Confidence Intervals
+
+| Party | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 380–418 |374–421 |370–425 |360–434 |
+| Labour Party | 141–180 |138–183 |133–189 |123–199 |
+| Liberal Democrats | 6–23 |5–26 |4–28 |4–31 |
+| Scottish National Party | 47–58 |45–59 |43–59 |40–59 |
+| UK Independence Party | 0 |0 |0 |0 |
+| Green Party | 0–1 |0–1 |0–2 |0–2 |
+| Plaid Cymru | 4–8 |3–11 |1–12 |0–13 |
+
 ## Technical Information
 
 ### Opinion Poll

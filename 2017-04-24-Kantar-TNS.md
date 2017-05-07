@@ -22,6 +22,18 @@
 
 ![Graph with seats not yet produced](2017-04-24-Kantar-TNS-seats.png "Seats")
 
+### Confidence Intervals
+
+| Party | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 374–419 |369–424 |363–429 |352–439 |
+| Labour Party | 130–173 |124–177 |119–181 |110–193 |
+| Liberal Democrats | 15–34 |12–37 |10–42 |8–48 |
+| UK Independence Party | 0 |0 |0 |0 |
+| Scottish National Party | 45–56 |43–58 |42–58 |37–59 |
+| Green Party | 1–2 |1–2 |1–2 |0–2 |
+| Plaid Cymru | 4–12 |4–14 |3–15 |1–19 |
+
 ## Technical Information
 
 ### Opinion Poll
