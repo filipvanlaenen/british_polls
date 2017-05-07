@@ -1,9 +1,5 @@
 # Backlog
 
-1. Add a column with the results from the last election to the table with all
-   confidence intervals (80%, 90%, 95% and 99%) for the voting intentions
-1. Add a column with the results from the last election to the table with all
-   confidence intervals (80%, 90%, 95% and 99%) for the seat projections 
 1. Add a table with the probability per number of seats
 1. Add a table with the probability per percentage for the voting intentions
 1. Add a graph with the probability per number of seats
