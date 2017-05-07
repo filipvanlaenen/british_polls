@@ -10,13 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party | 37.8% | 47% | 44.8–49.4% |44.1–50.1% |43.6–50.7% |42.5–51.8% |
-| Labour Party | 31.2% | 30% | 27.7–32.0% |27.2–32.6% |26.7–33.2% |25.7–34.2% |
-| Liberal Democrats | 8.1% | 10% | 9.1–12.0% |8.7–12.4% |8.4–12.8% |7.8–13.6% |
-| UK Independence Party | 12.9% | 5% | 4.4–6.5% |4.1–6.8% |3.9–7.1% |3.5–7.7% |
-| Scottish National Party | 4.9% | 4% | 3.4–5.3% |3.2–5.6% |3.0–5.9% |2.7–6.5% |
-| Green Party | 3.8% | 2% | 1.7–3.1% |1.5–3.4% |1.4–3.6% |1.2–4.0% |
-| Plaid Cymru | 0.6% | 0% | 0.2–0.9% |0.2–1.0% |0.1–1.2% |0.1–1.4% |
+| Conservative Party | 37.8% | 47.3% | 44.8–49.4% |44.1–50.1% |43.6–50.7% |42.5–51.8% |
+| Labour Party | 31.2% | 30.0% | 27.7–32.0% |27.2–32.6% |26.7–33.2% |25.7–34.2% |
+| Liberal Democrats | 8.1% | 10.5% | 9.1–12.0% |8.7–12.4% |8.4–12.8% |7.8–13.6% |
+| UK Independence Party | 12.9% | 5.3% | 4.4–6.5% |4.1–6.8% |3.9–7.1% |3.5–7.7% |
+| Scottish National Party | 4.9% | 4.2% | 3.4–5.3% |3.2–5.6% |3.0–5.9% |2.7–6.5% |
+| Green Party | 3.8% | 2.3% | 1.7–3.1% |1.5–3.4% |1.4–3.6% |1.2–4.0% |
+| Plaid Cymru | 0.6% | 0.4% | 0.2–0.9% |0.2–1.0% |0.1–1.2% |0.1–1.4% |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 

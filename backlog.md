@@ -8,6 +8,7 @@
    + Projecting national results on electoral districts
    + Weighed Monte Carlo simulations
    + Calculation of the error estimate
+   + Concept of a confidence interval
 1. Add a resources page
 1. Add the last election's results to the graph with the voting intentions
 1. Add the last election's results to the graph with the seat projections
