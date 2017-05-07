@@ -6,13 +6,22 @@
 
 ![Graph with voting intentions not yet produced](2017-04-24-Kantar-TNS.png "Voting Intentions")
 
+### Confidence Intervals
+
 ## Seats
 
 ![Graph with seats not yet produced](2017-04-24-Kantar-TNS-seats.png "Seats")
 
 ## Technical Information
 
+### Opinion Poll
+
 + **Pollster:** Kantar TNS
 + **Media:** —
 + **Fieldwork period:** 20–24 April 2017
+
+### Calculations
+
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.82%
 
