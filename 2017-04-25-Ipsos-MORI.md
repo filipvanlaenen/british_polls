@@ -8,6 +8,17 @@
 
 ### Confidence Intervals
 
+| Party | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 46–51% |46–52% |45–52% |44–54% |
+| Labour Party | 24–28% |23–28% |22–29% |22–30% |
+| Liberal Democrats | 12–15% |11–15% |11–16% |10–17% |
+| Scottish National Party | 3–5% |3–6% |3–6% |3–7% |
+| UK Independence Party | 3–5% |3–5% |3–5% |2–6% |
+| Plaid Cymru | 1–3% |1–3% |1–3% |1–4% |
+| Green Party | 1–2% |1–2% |1–2% |1–3% |
+| British National Party | 1–2% |0–2% |0–2% |0–2% |
+
 ## Seats
 
 ![Graph with seats not yet produced](2017-04-25-Ipsos-MORI-seats.png "Seats")
