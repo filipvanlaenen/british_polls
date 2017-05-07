@@ -36,6 +36,6 @@ Only polls for which at least the sample size has been published are included in
 + **SNP:** Scottish National Party
 + **PC:** Plaid Cymru
 + **GREEN:** Green Party
-+ **N/A (single party):** Result not included the published results
++ **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
