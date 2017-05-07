@@ -1,16 +1,17 @@
 # Contact
 
-If you have
+If you
 
-+ special inquiries about this site,
++ have special inquiries about this site,
 + want more information about how the results were calculated,
 + think you've found an error,
-+ want to see a particular opinion added or its calculation started,
++ want to see a particular opinion poll added or its calculation started,
 + or have suggestions for more information that could be published,
 
 you can contact me through any of the following channels:
 
-+ Create a GitHub issue at https://github.com/filipvanlaenen/british_polls/issues
++ Create a [GitHub issue](https://github.com/filipvanlaenen/british_polls/issues)
+  on this site's GitHub project
 + Send me a notification on Twitter at [@pollsgb](https://twitter.com/pollsgb)
 + Send me an e-mail at [f.a.vanlaenen@ieee.org](mailto:f.a.vanlaenen@ieee.org)
 
