@@ -4,8 +4,6 @@
    voting intentions
 1. Add tables with all confidence intervals (80%, 90%, 95% and 99%) for the
    seat projections
-1. Include the number of simulations and the error estimate in the technical
-   information for each opinion poll
 1. Add a table with the probability per number of seats
 1. Add a table with the probability per percentage for the voting intentions
 1. Add a graph with the probability per number of seats
