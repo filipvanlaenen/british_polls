@@ -12,6 +12,8 @@
 1. Add a graph with the probability per percentage for the voting intentions
 1. Add a page explaining the methodology
 1. Add a resources page
+1. Add the last election's results to the graph with the voting intentions
+1. Add the last election's results to the graph with the seat projections
 1. Add an overview page for each pollster
 1. Add an overview page for each medium
 1. Produce an average over the last *n* opinion polls, but only retain the last
