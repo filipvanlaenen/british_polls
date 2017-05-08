@@ -38,7 +38,18 @@
 | Green Party | 1 | 0 |0 |0 |0–1 |
 | British National Party | N/A | 0 |0 |0 |0 |
 
-### Conservative Party
 
-| Number of Seats | Probability |
-|:---------------:|:-----------:|
+## Technical Information
+
+### Opinion Poll
+
++ **Pollster:** Ipsos MORI
++ **Media:** Evening Standard
++ **Fieldwork period:** 21–25 April 2017
+
+### Calculations
+
++ **Sample size:** 690
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.19%
+

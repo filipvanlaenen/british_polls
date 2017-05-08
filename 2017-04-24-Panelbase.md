@@ -36,7 +36,18 @@
 | Green Party | 1 | 0–1 |0–1 |0–2 |0–2 |
 | Plaid Cymru | 3 | 4–8 |3–11 |1–12 |0–13 |
 
-### Conservative Party
 
-| Number of Seats | Probability |
-|:---------------:|:-----------:|
+## Technical Information
+
+### Opinion Poll
+
++ **Pollster:** Panelbase
++ **Media:** —
++ **Fieldwork period:** 20–24 April 2017
+
+### Calculations
+
++ **Sample size:** 718
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.63%
+
