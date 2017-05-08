@@ -1,15 +1,12 @@
 # Backlog
 
 1. Add a table with the probability per number of seats
-1. Add a table with the probability per percentage for the voting intentions
 1. Add a graph with the probability per number of seats
-1. Add a graph with the probability per percentage for the voting intentions
 1. Add a page explaining the methodology
    + Projecting national results on electoral districts
-   + Weighed Monte Carlo simulations
+   + Weighted Monte Carlo simulations
    + Calculation of the error estimate
    + Concept of a confidence interval
-1. Add a resources page
 1. Add the last election's results to the graph with the voting intentions
 1. Add the last election's results to the graph with the seat projections
 1. Add an overview page for each pollster
@@ -18,3 +15,5 @@
    poll for each pollster
 1. Move the full table to a separate page, and keep only the average and a
    limited set of opinion polls on the home page
+1. Add a table with the probability per percentage for the voting intentions
+1. Add a graph with the probability per percentage for the voting intentions
