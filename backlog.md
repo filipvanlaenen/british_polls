@@ -1,12 +1,16 @@
 # Backlog
 
-1. Add a table with the probability per number of seats
-1. Add a graph with the probability per number of seats
+1. Add a graph with the probability per number of seats and the accumulation
 1. Add a page explaining the methodology
    + Projecting national results on electoral districts
    + Weighted Monte Carlo simulations
    + Calculation of the error estimate
    + Concept of a confidence interval
+   + Seat probabilities not following a bell curve, and the accumulation column
+1. Add a legend to the graph with the voting intentions explaining the filled
+   and the hatched areas
+1. Add a legend to the graph with the seat projections intentions explaining the
+   filled and the hatched areas
 1. Add the last election's results to the graph with the voting intentions
 1. Add the last election's results to the graph with the seat projections
 1. Add an overview page for each pollster
