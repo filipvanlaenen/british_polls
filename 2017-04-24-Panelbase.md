@@ -28,13 +28,13 @@
 
 | Party | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="conservative-party">Conservative Party</a> | 331 | 380–418 |374–421 |370–425 |360–434 |
-| <a href="labour-party">Labour Party</a> | 232 | 141–180 |138–183 |133–189 |123–199 |
-| <a href="liberal-democrats">Liberal Democrats</a> | 8 | 6–23 |5–26 |4–28 |4–31 |
-| <a href="scottish-national-party">Scottish National Party</a> | 56 | 47–58 |45–59 |43–59 |40–59 |
-| <a href="uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
-| <a href="green-party">Green Party</a> | 1 | 0–1 |0–1 |0–2 |0–2 |
-| <a href="plaid-cymru">Plaid Cymru</a> | 3 | 4–8 |3–11 |1–12 |0–13 |
+| <a href="#conservative-party">Conservative Party</a> | 331 | 380–418 |374–421 |370–425 |360–434 |
+| <a href="#labour-party">Labour Party</a> | 232 | 141–180 |138–183 |133–189 |123–199 |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 8 | 6–23 |5–26 |4–28 |4–31 |
+| <a href="#scottish-national-party">Scottish National Party</a> | 56 | 47–58 |45–59 |43–59 |40–59 |
+| <a href="#uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
+| <a href="#green-party">Green Party</a> | 1 | 0–1 |0–1 |0–2 |0–2 |
+| <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 4–8 |3–11 |1–12 |0–13 |
 
 
 ## Technical Information

@@ -28,13 +28,13 @@
 
 | Party | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="conservative-party">Conservative Party</a> | 331 | 355–393 |348–399 |344–405 |335–414 |
-| <a href="labour-party">Labour Party</a> | 232 | 172–209 |165–215 |159–219 |150–233 |
-| <a href="liberal-democrats">Liberal Democrats</a> | 8 | 9–26 |8–30 |7–33 |6–38 |
-| <a href="uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
-| <a href="scottish-national-party">Scottish National Party</a> | 56 | 39–55 |36–56 |32–56 |17–58 |
-| <a href="green-party">Green Party</a> | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="plaid-cymru">Plaid Cymru</a> | 3 | 0–4 |0–5 |0–7 |0–8 |
+| <a href="#conservative-party">Conservative Party</a> | 331 | 355–393 |348–399 |344–405 |335–414 |
+| <a href="#labour-party">Labour Party</a> | 232 | 172–209 |165–215 |159–219 |150–233 |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 8 | 9–26 |8–30 |7–33 |6–38 |
+| <a href="#uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
+| <a href="#scottish-national-party">Scottish National Party</a> | 56 | 39–55 |36–56 |32–56 |17–58 |
+| <a href="#green-party">Green Party</a> | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 0–4 |0–5 |0–7 |0–8 |
 
 ### Conservative Party
 
@@ -312,6 +312,7 @@
 | Number of Seats | Probability | Accumulated |
 |:---------------:|:-----------:|:-----------:|
 | 0 | 100% | 100% |
+| 1 | 0% | 0% |
 
 ### Scottish National Party
 
