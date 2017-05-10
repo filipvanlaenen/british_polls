@@ -3,7 +3,7 @@
 | Period     | Pollster/Media   | CON            | LAB            | UKIP         | LIBDEM        | SNP          | PC          | GREEN        |
 |:----------:|:----------------:|:--------------:|:--------------:|:------------:|:-------------:|:------------:|:-----------:|:------------:|
 | 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
-| [4–8 May 2017](2017-05-08-Kantar.html) | Kantar Public | 40–48% <br> 339–405 | 24–32% <br> 152–219 | 6–10% <br> 0 | 8–13% <br> 9–40 | 3–6% <br> 36–58 | 0–1% <br> 0–7 | 3–7% <br> 1–2 |
+| [4–8 May 2017](2017-05-08-Kantar.html) | Kantar Public | 40–48% <br> 337–408 | 24–32% <br> 152–219 | 6–10% <br> 0 | 8–13% <br> 9–42 | 3–6% <br> 37–58 | 0–1% <br> 0–7 | 3–7% <br> 1–2 |
 | [5–6 May 2017](2017-05-06-Survation.html) | Survation<br>Good Morning Britain | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–5 May 2017](2017-05-05-YouGov.html) | YouGov<br>The Times | 42–48% <br> 341–388 | 27–32% <br> 171–215 | 5–8% <br> 0 | 9–13% <br> 11–34 | 3–6% <br> 40–56 | 0–1% <br> 0–7 | 1–3% <br> 0–1 |
 | [3–5 May 2017](2017-05-05-ICM.html) | ICM<br>Sun on Sunday | 45–50% <br> 365–409 | 26–30% <br> 155–201 | 6–8% <br> 0 | 8–11% <br> 7–24 | 3–5% <br> 40–56 | 0–1% <br> 0–4 | 2–4% <br> 0–1 |
