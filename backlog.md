@@ -1,5 +1,9 @@
 # Backlog
 
+1. Mark the median in the graph with the voting intentions with two outward ticks
+   or a line
+1. Mark the median in the graph with the seat projections with two outward ticks
+   or a line
 1. Add a graph with the probability per number of seats and the accumulation
    + Bars for the probability per number of seats
    + A line showing the accumulation
