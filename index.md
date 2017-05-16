@@ -1,8 +1,8 @@
 # Overview
 
-| Period     | Pollster/Media   | CON            | LAB            | UKIP         | LIBDEM        | SNP          | PC          | GREEN        |
-|:----------:|:----------------:|:--------------:|:--------------:|:------------:|:-------------:|:------------:|:-----------:|:------------:|
-| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
+| Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | PC | GREEN |
+|:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 | 8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 | 3.8% <br> 1 |
 | [12–14 May 2017](2017-05-14-ICM.html) | ICM<br>The Guardian | 46–52% <br> 377–416 | 25–30% <br> 147–186 | 4–6% <br> 0 | 9–12% <br> 7–24 | 4–6% <br> 43–56 | 0–1% <br> 0–4 | 2–4% <br> 0–1 |
 | [12–13 May 2017](2017-05-13-Survation.html) | Survation<br>Good Morning Britain | 44–51% <br> 353–411 | 27–33% <br> 158–214 | 2–5% <br> 0 | 7–10% <br> 2–19 | 3–6% <br> 33–57 | 0–2% <br> 3–11 | 2–4% <br> 0–1 |
 | [11–12 May 2017](2017-05-12-YouGov.html) | YouGov<br>The Times | 45–50% <br> 345–388 | 29–35% <br> 181–223 | 2–4% <br> 0 | 8–11% <br> 5–21 | 3–6% <br> 38–56 | 0–1% <br> 0–7 | 1–3% <br> 0–1 |
@@ -33,7 +33,7 @@
 | [21–24 April 2017](2017-04-24-ICM.html) | ICM<br>The Guardian | 46–50% <br> 376–415 | 25–29% <br> 149–186 | 6–8% <br> 0 | 9–12% <br> 9–27 | 3–5% <br> 38–54 | 0–1% <br> 0–7 | 2–4% <br> 0–1 |
 | [21–22 april 2017](2017-04-22-Survation.html) | Survation<br>Mail on Sunday | 37–42% <br> 322–367 | 27–31% <br> 185–227 | 10–13% <br> 0–1 | 9–12% <br> 15–41 | 4–6% <br> 44–56 | 0–1% <br> 0–7 | 2–3% <br> 0–1 |
 | [19–21 April 2017](2017-04-21-ICM.html) | ICM<br>ITV | 47–52% <br> 390–433 | 23–27% <br> 131–174 | 6–9% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 36–55 | 0–1% <br> 0–7 | 3–4% <br> 0–2 |
-| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 |   8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 |  3.8% <br> 1 |
+| 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 | 8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 | 3.8% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
