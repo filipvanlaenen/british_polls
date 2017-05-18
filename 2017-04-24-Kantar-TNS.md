@@ -1,6 +1,6 @@
 # Opinion Poll by Kantar TNS, 20–24 April 2017
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -36,6 +36,10 @@
 | <a href="#green-party">Green Party</a> | 1 | 1–2 |1–2 |1–2 |0–2 |
 | <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 4–12 |4–14 |3–15 |1–19 |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2017-04-24-Kantar-TNS-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 

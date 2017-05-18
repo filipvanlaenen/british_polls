@@ -1,6 +1,6 @@
 # Opinion Poll by Survation for Mail on Sunday, 21–22 april 2017
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -36,6 +36,10 @@
 | <a href="#green-party">Green Party</a> | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 3–4 |3–5 |0–7 |0–7 |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2017-04-22-Survation-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 

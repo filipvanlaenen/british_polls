@@ -1,6 +1,6 @@
 # Opinion Poll by Panelbase, 20–24 April 2017
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -36,6 +36,10 @@
 | <a href="#green-party">Green Party</a> | 1 | 0–1 |0–1 |0–2 |0–2 |
 | <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 4–8 |3–11 |1–12 |0–13 |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2017-04-24-Panelbase-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 

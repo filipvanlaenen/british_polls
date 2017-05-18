@@ -1,6 +1,6 @@
 # Opinion Poll by Ipsos MORI for Evening Standard, 21–25 April 2017
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -38,6 +38,10 @@
 | <a href="#green-party">Green Party</a> | 1 | 0 |0 |0 |0–1 |
 | <a href="#british-national-party">British National Party</a> | N/A | 0 |0 |0 |0 |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2017-04-25-Ipsos-MORI-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 

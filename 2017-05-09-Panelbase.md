@@ -1,6 +1,6 @@
 # Opinion Poll by Panelbase, 5–9 May 2017
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -396,6 +396,10 @@
 | 15 | 0% | 0.1% |
 | 16 | 0% | 0% |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2017-05-09-Panelbase-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 
