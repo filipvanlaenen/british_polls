@@ -43,6 +43,24 @@
 
 ![Graph with coalitions seats not yet produced](2017-04-25-Ipsos-MORI-coalitions-seats.png "Coalitions Seats")
 
+### Confidence Intervals
+
+| Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party | 331 | 373–419 | 367–422 | 362–427 | 352–438 |
+| Conservative Party – Liberal Democrats | 339 | 406–446 | 398–449 | 396–454 | 388–465 |
+| Conservative Party – Plaid Cymru | 334 | 384–433 | 377–436 | 372–441 | 362–453 |
+| Conservative Party – Scottish National Party – Plaid Cymru | 390 | 431–476 | 422–483 | 417–488 | 406–495 |
+| Conservative Party – Scottish National Party | 387 | 418–463 | 413–467 | 408–474 | 396–480 |
+| Labour Party | 232 | 129–169 | 122–175 | 118–177 | 110–189 |
+| Labour Party – Liberal Democrats | 240 | 156–201 | 149–209 | 144–215 | 137–226 |
+| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 169–214 | 165–219 | 158–224 | 152–236 |
+| Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 299 | 213–259 | 210–265 | 205–270 | 194–280 |
+| Labour Party – Liberal Democrats – Scottish National Party | 296 | 199–248 | 196–255 | 191–260 | 179–270 |
+| Labour Party – Plaid Cymru | 235 | 143–181 | 136–186 | 133–189 | 126–201 |
+| Labour Party – Scottish National Party – Plaid Cymru | 291 | 186–226 | 183–234 | 178–236 | 167–244 |
+| Labour Party – Scottish National Party | 288 | 172–214 | 168–221 | 164–226 | 152–235 |
+
 ## Technical Information
 
 ### Opinion Poll
