@@ -8,7 +8,7 @@
 | [12–15 May 2017](2017-05-15-Panelbase.html) | Panelbase | 43–50% <br> 333–388 | 30–36% <br> 183–239 | 4–7% <br> 0 | 5–9% <br> 0–11 | 4–7% <br> 45–59 | 0–1% <br> 0–6 | 2–4% <br> 0–1 |
 | [11–15 May 2017](2017-05-15-Kantar.html) | Kantar Public | 43–51% <br> 352–416 | 25–33% <br> 150–223 | 5–8% <br> 0 | 6–10% <br> 1–21 | 3–6% <br> 15–57 | 0–2% <br> 3–12 | 3–6% <br> 1–2 |
 | [12–14 May 2017](2017-05-14-ICM.html) | ICM <br> The Guardian | 46–52% <br> 377–416 | 25–30% <br> 147–186 | 4–6% <br> 0 | 9–12% <br> 7–24 | 4–6% <br> 43–56 | 0–1% <br> 0–4 | 2–4% <br> 0–1 |
-| [3–14 May 2017](2017-05-14-GfK.html) | GfK <br> Business Insider | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–14 May 2017](2017-05-14-GfK.html) | GfK <br> Business Insider | 46–50% <br> 375–407 | 26–30% <br> 160–193 | 4–6% <br> 0 | 6–8% <br> 0–7 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
 | [12–13 May 2017](2017-05-13-Survation.html) | Survation <br> Good Morning Britain | 44–51% <br> 353–411 | 27–33% <br> 158–214 | 2–5% <br> 0 | 7–10% <br> 2–19 | 3–6% <br> 33–57 | 0–2% <br> 3–11 | 2–4% <br> 0–1 |
 | [11–12 May 2017](2017-05-12-YouGov.html) | YouGov <br> The Times | 45–50% <br> 345–388 | 29–35% <br> 181–223 | 2–4% <br> 0 | 8–11% <br> 5–21 | 3–6% <br> 38–56 | 0–1% <br> 0–7 | 1–3% <br> 0–1 |
 | [9–12 May 2017](2017-05-12-Opinium.html) | Opinium <br> The Observer | 44–50% <br> 344–387 | 30–35% <br> 182–226 | 4–6% <br> 0 | 7–10% <br> 1–14 | 4–6% <br> 41–57 | 0–1% <br> 0–7 | 2–3% <br> 0–1 |
