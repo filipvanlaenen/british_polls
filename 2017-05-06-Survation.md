@@ -360,19 +360,19 @@
 
 | Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party | 331 | 356–389 | 351–397 | 349–404 | 341–409 |
-| Conservative Party – Liberal Democrats | 339 | 359–394 | 355–402 | 352–408 | 344–414 |
-| Conservative Party – Plaid Cymru | 334 | 363–396 | 357–403 | 354–410 | 346–417 |
 | Conservative Party – Scottish National Party – Plaid Cymru | 390 | 417–452 | 411–458 | 408–464 | 399–472 |
 | Conservative Party – Scottish National Party | 387 | 411–444 | 406–451 | 403–458 | 393–464 |
-| Labour Party | 232 | 176–211 | 169–216 | 163–219 | 156–227 |
-| Labour Party – Liberal Democrats | 240 | 180–214 | 173–220 | 167–223 | 160–233 |
-| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 187–220 | 180–225 | 174–229 | 168–238 |
+| Conservative Party – Plaid Cymru | 334 | 363–396 | 357–403 | 354–410 | 346–417 |
+| Conservative Party – Liberal Democrats | 339 | 359–394 | 355–402 | 352–408 | 344–414 |
+| Conservative Party | 331 | 356–389 | 351–397 | 349–404 | 341–409 |
 | Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 299 | 242–275 | 235–280 | 228–283 | 223–290 |
-| Labour Party – Liberal Democrats – Scottish National Party | 296 | 235–269 | 228–274 | 221–278 | 215–285 |
-| Labour Party – Plaid Cymru | 235 | 183–217 | 176–221 | 169–224 | 164–233 |
 | Labour Party – Scottish National Party – Plaid Cymru | 291 | 237–272 | 230–276 | 223–280 | 217–287 |
+| Labour Party – Liberal Democrats – Scottish National Party | 296 | 235–269 | 228–274 | 221–278 | 215–285 |
 | Labour Party – Scottish National Party | 288 | 230–265 | 222–271 | 217–275 | 210–281 |
+| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 187–220 | 180–225 | 174–229 | 168–238 |
+| Labour Party – Plaid Cymru | 235 | 183–217 | 176–221 | 169–224 | 164–233 |
+| Labour Party – Liberal Democrats | 240 | 180–214 | 173–220 | 167–223 | 160–233 |
+| Labour Party | 232 | 176–211 | 169–216 | 163–219 | 156–227 |
 
 ## Technical Information
 

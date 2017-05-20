@@ -315,19 +315,19 @@
 
 | Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party | 331 | 329–358 | 325–363 | 321–367 | 312–373 |
-| Conservative Party – Liberal Democrats | 339 | 357–384 | 353–389 | 349–393 | 341–400 |
-| Conservative Party – Plaid Cymru | 334 | 333–362 | 329–367 | 324–371 | 315–377 |
 | Conservative Party – Scottish National Party – Plaid Cymru | 390 | 381–413 | 377–418 | 373–421 | 363–428 |
 | Conservative Party – Scottish National Party | 387 | 378–409 | 374–414 | 369–417 | 360–424 |
-| Labour Party | 232 | 194–220 | 189–224 | 185–228 | 179–235 |
-| Labour Party – Liberal Democrats | 240 | 218–249 | 214–254 | 210–258 | 203–268 |
-| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 222–253 | 217–257 | 214–261 | 207–271 |
+| Conservative Party – Liberal Democrats | 339 | 357–384 | 353–389 | 349–393 | 341–400 |
+| Conservative Party – Plaid Cymru | 334 | 333–362 | 329–367 | 324–371 | 315–377 |
+| Conservative Party | 331 | 329–358 | 325–363 | 321–367 | 312–373 |
 | Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 299 | 273–302 | 268–306 | 264–310 | 258–319 |
 | Labour Party – Liberal Democrats – Scottish National Party | 296 | 269–298 | 265–302 | 260–307 | 254–316 |
-| Labour Party – Plaid Cymru | 235 | 198–223 | 193–227 | 189–232 | 183–239 |
 | Labour Party – Scottish National Party – Plaid Cymru | 291 | 247–274 | 242–278 | 238–282 | 232–290 |
 | Labour Party – Scottish National Party | 288 | 243–270 | 238–275 | 235–278 | 228–286 |
+| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 222–253 | 217–257 | 214–261 | 207–271 |
+| Labour Party – Liberal Democrats | 240 | 218–249 | 214–254 | 210–258 | 203–268 |
+| Labour Party – Plaid Cymru | 235 | 198–223 | 193–227 | 189–232 | 183–239 |
+| Labour Party | 232 | 194–220 | 189–224 | 185–228 | 179–235 |
 
 ## Technical Information
 
