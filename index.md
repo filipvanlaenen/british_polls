@@ -4,7 +4,7 @@
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 37.8% <br> 331 | 31.2% <br> 232 | 12.9% <br> 1 | 8.1% <br> 8 | 4.9% <br> 56 | 0.6% <br> 3 | 3.8% <br> 1 | 0.0% <br> 0 |
 | [19–20 May 2017](2017-05-20-Survation.html) | Survation <br> Mail on Sunday | 43–50% <br> 327–384 | 31–38% <br> 193–268 | 2–5% <br> 0 | 6–10% <br> 1–17 | 3–5% <br> 4–56 | 0–1% <br> 0–5 | 1–2% <br> 0 | N/A <br> N/A |
-| [11–12 May 2017](2017-05-19-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–19 May 2017](2017-05-19-YouGov.html) | YouGov <br> The Times | 40–45% <br> 306–350 | 34–38% <br> 217–261 | 2–4% <br> 0 | 8–11% <br> 5–24 | 4–6% <br> 33–57 | 0–1% <br> 0–5 | 1–3% <br> 0–1 | N/A <br> N/A |
 | [17–18 May 2017](2017-05-18-ORB.html) | ORB <br> Sunday Telegraph | 43–48% <br> 335–374 | 31–36% <br> 197–242 | 5–8% <br> 0 | 6–9% <br> 1–12 | 3–5% <br> 30–56 | 0–1% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
 | [16–17 May 2017](2017-05-17-YouGov.html) | YouGov <br> The Times | 41–46% <br> 323–367 | 31–36% <br> 201–247 | 5–7% <br> 0 | 7–10% <br> 2–16 | 3–6% <br> 41–57 | 0–1% <br> 0–5 | 1–3% <br> 0–1 | N/A <br> N/A |
 | [16–17 May 2017](2017-05-17-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
