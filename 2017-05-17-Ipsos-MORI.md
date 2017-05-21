@@ -17,7 +17,7 @@
 | Green Party | 3.8% | 2.6% | 2.0–3.5% |1.8–3.8% |1.7–4.0% |1.4–4.5% |
 | UK Independence Party | 12.9% | 2.3% | 1.7–3.2% |1.6–3.5% |1.4–3.7% |1.2–4.2% |
 | Plaid Cymru | 0.6% | 0.1% | 0.1–0.5% |0.0–0.7% |0.0–0.8% |0.0–1.0% |
-| British National Party | N/A | 0.1% | 0.1–0.5% |0.0–0.7% |0.0–0.8% |0.0–1.0% |
+| British National Party | 0.0% | 0.1% | 0.1–0.5% |0.0–0.7% |0.0–0.8% |0.0–1.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,7 +36,7 @@
 | <a href="#green-party">Green Party</a> | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
 | <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 0–3 |0–4 |0–5 |0–5 |
-| <a href="#british-national-party">British National Party</a> | N/A | 0 |0 |0 |0 |
+| <a href="#british-national-party">British National Party</a> | 0 | 0 |0 |0 |0 |
 
 ### Conservative Party
 
