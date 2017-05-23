@@ -49,8 +49,8 @@ The table below lists all polls registered and analyzed so far.
 Only polls for which at least the sample size has been published are included in the table above.
 
 **Legend:**
-+ **Top row of an opinion poll:** Voting intentions (95% confidence interval)
-+ **Bottom row of an opinion poll:** Seat projections for the House of Commons (95% confidence interval)
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the House of Commons (95% confidence interval)
 + **CON:** Conservative Party
 + **LAB:** Labour Party
 + **UKIP:** UK Independence Party
