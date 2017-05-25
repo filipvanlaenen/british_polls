@@ -7,7 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
 | [19–21 May 2017](2017-05-21-ICM.html) | ICM <br> The Guardian | 45–50% <br> 349–387 | 30–35% <br> 185–228 | 3–4% <br> 0 | 7–10% <br> 3–15 | 3–5% <br> 30–56 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [19–20 May 2017](2017-05-20-Survation-MoS.html) | Survation <br> Mail on Sunday | 43–50% <br> 327–384 | 31–38% <br> 193–268 | 2–5% <br> 0 | 6–10% <br> 1–17 | 3–5% <br> 4–56 | 1–2% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
-| [19–20 May 2017](2017-05-20-Survation-GMB.html) | Survation <br> Good Morning Britain | 40–47% <br> 315–371 | 31–38% <br> 203–281 | 3–5% <br> 0 | 7–11% <br> 3–23 | 2–5% <br> 2–55 | 1–3% <br> 0–1 | 0–1% <br> 0–7 | N/A <br> N/A |
+| [19–20 May 2017](2017-05-20-Survation-GMB.html) | Survation <br> Good Morning Britain | 40–47% <br> 315–371 | 31–38% <br> 203–282 | 3–5% <br> 0 | 7–11% <br> 3–23 | 2–5% <br> 2–55 | 1–3% <br> 0–1 | 0–1% <br> 0–7 | N/A <br> N/A |
 | [18–19 May 2017](2017-05-19-YouGov.html) | YouGov <br> The Times | 40–45% <br> 307–349 | 34–38% <br> 218–260 | 2–4% <br> 0 | 8–11% <br> 5–23 | 4–6% <br> 33–57 | 1–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [17–18 May 2017](2017-05-18-ORB.html) | ORB <br> Sunday Telegraph | 43–48% <br> 335–374 | 31–36% <br> 197–242 | 5–8% <br> 0 | 6–9% <br> 1–12 | 3–5% <br> 30–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
 | [16–17 May 2017](2017-05-17-YouGov.html) | YouGov <br> The Times | 41–46% <br> 323–367 | 31–36% <br> 201–247 | 5–7% <br> 0 | 7–10% <br> 2–16 | 3–6% <br> 41–57 | 1–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
