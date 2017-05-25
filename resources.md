@@ -13,9 +13,17 @@ The following resources have been consulted in order to create this site:
 
 The following websites provide similar information to this website:
 
++ [Britain Elects](http://britainelects.com/)
++ [ElectionForecast.co.uk](http://electionforecast.co.uk/) by Chris Hanretty
++ [Election Polling](http://www.electionpolling.co.uk/polls/general-election)
 + [Elections Etc](https://electionsetc.com/) by Stephen Fisher
 + [Electoral Calculus](http://www.electoralcalculus.co.uk/homepage.html) by Martin Baxter
++ [Forecast UK](http://forecastuk.org.uk/)
++ [Nigel Marriott's Blog](https://marriott-stats.com/nigels-blog/)
 + [Number Cruncher Politics](https://www.ncpolitics.uk/) by Matt Singh
++ [PME Politics](http://www.pmepolitics.co.uk/) by Patrick English
++ [Principalfish](http://principalfish.co.uk/electionmaps/)
++ [UK-Elect](http://www.ukelect.co.uk/index.html)
 
 ## Other Resources
 
