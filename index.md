@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 14 days old) registered a
 | Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | GREEN | PC | BNP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 317–398 | 169–257 | 0 | 0–17 | 7–58 | 0–1 | 0–11 | 0 |
-| [25–26 May 2017](2017-05-26-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 308–397 | 170–274 | 0 | 0–23 | 6–58 | 0–1 | 0–10 | 0 |
+| [25–26 May 2017](2017-05-26-YouGov.html) | YouGov <br> The Times | 39–44% <br> 301–340 | 34–39% <br> 231–292 | 4–6% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 5–52 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [24–26 May 2017](2017-05-26-ICM.html) | ICM <br> Sun on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–25 May 2017](2017-05-25-SurveyMonkey.html) | SurveyMonkey <br> The Sun | 43–45% <br> 325–349 | 35–37% <br> 222–247 | 4–5% <br> 0 | 5–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–24 May 2017](2017-05-24-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
