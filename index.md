@@ -7,8 +7,8 @@ The table below lists the most recent polls (less than 14 days old) registered a
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 310–395 | 173–272 | 0 | 0–23 | 9–58 | 0–1 | 0–8 | 0 |
 | [25–26 May 2017](2017-05-26-YouGov.html) | YouGov <br> The Times | 39–44% <br> 301–340 | 34–39% <br> 231–292 | 4–6% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 5–52 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
-| [24–26 May 2017](2017-05-26-ICM.html) | ICM <br> Sun on Sunday | 44–48% <br> 348–382 | 30–34% <br> 186–227 | 4–6% <br> 0 | 7–9% <br> 2–14 | 3–5% <br> 32–56 | 1–3% <br> 0–1 | 1–2% <br> 4–8 | N/A <br> N/A |
-| [24–26 May 2017](2017-05-26-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 43–49% <br> 329–379 | 31–37% <br> 194–257 | 4–6% <br> 0 | 7–10% <br> 2–17 | 3–5% <br> 10–55 | 2–3% <br> 0–1 | 0–1% <br> 0–7 | 0–0% <br> 0 |
+| [24–26 May 2017](2017-05-26-ICM.html) | ICM <br> Sun on Sunday | 44–48% <br> 348–383 | 30–34% <br> 187–223 | 4–6% <br> 0 | 7–9% <br> 2–14 | 3–5% <br> 37–55 | 1–3% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
+| [24–26 May 2017](2017-05-26-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 43–49% <br> 329–376 | 31–37% <br> 198–256 | 4–6% <br> 0 | 7–10% <br> 2–17 | 3–5% <br> 14–56 | 2–3% <br> 0–1 | 0–1% <br> 0–7 | 0–0% <br> 0 |
 | [24–25 May 2017](2017-05-25-SurveyMonkey.html) | SurveyMonkey <br> The Sun | 43–45% <br> 325–349 | 35–37% <br> 222–247 | 4–5% <br> 0 | 5–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–24 May 2017](2017-05-24-Opinium.html) | Opinium <br> The Observer | 42–47% <br> 321–365 | 33–38% <br> 207–254 | 4–7% <br> 0 | 5–8% <br> 0–7 | 4–6% <br> 41–58 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [18–22 May 2017](2017-05-22-Kantar.html) | Kantar Public | 39–46% <br> 304–365 | 31–38% <br> 197–263 | 3–6% <br> 0 | 7–11% <br> 2–24 | 3–6% <br> 25–59 | 3–6% <br> 0–2 | 1–3% <br> 4–15 | N/A <br> N/A |
