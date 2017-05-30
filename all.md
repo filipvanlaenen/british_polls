@@ -10,6 +10,7 @@ The table below lists all polls registered and analyzed so far.
 | [24–26 May 2017](2017-05-26-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 43–49% <br> 329–376 | 31–37% <br> 198–256 | 4–6% <br> 0 | 7–10% <br> 2–17 | 3–5% <br> 14–56 | 2–3% <br> 0–1 | 0–1% <br> 0–7 | 0–0% <br> 0 |
 | [24–25 May 2017](2017-05-25-YouGov.html) | YouGov <br> The Times | 39–44% <br> 286–328 | 36–41% <br> 239–285 | 3–5% <br> 0 | 8–11% <br> 6–25 | 3–6% <br> 25–57 | 1–2% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [24–25 May 2017](2017-05-25-SurveyMonkey.html) | SurveyMonkey <br> The Sun | 43–45% <br> 325–349 | 35–37% <br> 222–247 | 4–5% <br> 0 | 5–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–25 May 2017](2017-05-25-ORB.html) | ORB <br> Sunday Telegraph | 41–46% <br> 314–352 | 35–40% <br> 225–285 | 4–6% <br> 0 | 6–9% <br> 2–14 | 3–5% <br> 8–55 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
 | [23–24 May 2017](2017-05-24-Opinium.html) | Opinium <br> The Observer | 42–47% <br> 321–365 | 33–38% <br> 207–254 | 4–7% <br> 0 | 5–8% <br> 0–7 | 4–6% <br> 41–58 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [18–22 May 2017](2017-05-22-Kantar.html) | Kantar Public | 39–46% <br> 304–365 | 31–38% <br> 197–263 | 3–6% <br> 0 | 7–11% <br> 2–24 | 3–6% <br> 25–59 | 3–6% <br> 0–2 | 1–3% <br> 4–15 | N/A <br> N/A |
 | [19–21 May 2017](2017-05-21-ICM.html) | ICM <br> The Guardian | 45–50% <br> 349–387 | 30–35% <br> 185–228 | 3–4% <br> 0 | 7–10% <br> 3–15 | 3–5% <br> 30–56 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
