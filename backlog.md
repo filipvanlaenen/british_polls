@@ -1,7 +1,5 @@
 # Backlog
 
-1. Produce an average over the last *n* opinion polls, but only retain the last
-   poll for each pollster
 1. Mark the median in the graph with the voting intentions with two outward ticks
    or a line
 1. Mark the median in the graph with the seat projections with two outward ticks

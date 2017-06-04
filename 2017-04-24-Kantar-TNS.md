@@ -26,15 +26,15 @@
 
 ### Confidence Intervals
 
-| Party | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party">Conservative Party</a> | 331 | 374–419 |369–424 |363–429 |352–439 |
-| <a href="#labour-party">Labour Party</a> | 232 | 130–173 |124–177 |119–181 |110–193 |
-| <a href="#liberal-democrats">Liberal Democrats</a> | 8 | 15–34 |12–37 |10–42 |8–48 |
-| <a href="#uk-independence-party">UK Independence Party</a> | 1 | 0 |0 |0 |0 |
-| <a href="#scottish-national-party">Scottish National Party</a> | 56 | 45–56 |43–58 |42–58 |37–59 |
-| <a href="#green-party">Green Party</a> | 1 | 1–2 |1–2 |1–2 |0–2 |
-| <a href="#plaid-cymru">Plaid Cymru</a> | 3 | 4–12 |4–14 |3–15 |1–19 |
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#conservative-party">Conservative Party</a> | 331 | N/A | 374–419 |369–424 |363–429 |352–439 |
+| <a href="#labour-party">Labour Party</a> | 232 | N/A | 130–173 |124–177 |119–181 |110–193 |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 8 | N/A | 15–34 |12–37 |10–42 |8–48 |
+| <a href="#uk-independence-party">UK Independence Party</a> | 1 | N/A | 0 |0 |0 |0 |
+| <a href="#scottish-national-party">Scottish National Party</a> | 56 | N/A | 45–56 |43–58 |42–58 |37–59 |
+| <a href="#green-party">Green Party</a> | 1 | N/A | 1–2 |1–2 |1–2 |0–2 |
+| <a href="#plaid-cymru">Plaid Cymru</a> | 3 | N/A | 4–12 |4–14 |3–15 |1–19 |
 
 
 ## Coalitions
@@ -43,21 +43,22 @@
 
 ### Confidence Intervals
 
-| Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party – Scottish National Party – Plaid Cymru | 390 | 431–478 | 425–484 | 419–490 | 408–500 |
-| Conservative Party – Scottish National Party | 387 | 424–469 | 418–475 | 413–480 | 401–489 |
-| Conservative Party – Liberal Democrats | 339 | 400–442 | 394–448 | 390–453 | 379–463 |
-| Conservative Party – Plaid Cymru | 334 | 382–427 | 376–434 | 370–439 | 359–449 |
-| Conservative Party | 331 | 374–419 | 369–424 | 363–429 | 352–439 |
-| Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 299 | 212–256 | 206–262 | 201–267 | 192–279 |
-| Labour Party – Liberal Democrats – Scottish National Party | 296 | 203–249 | 197–255 | 192–260 | 182–272 |
-| Labour Party – Scottish National Party – Plaid Cymru | 291 | 188–231 | 182–236 | 178–240 | 168–252 |
-| Labour Party – Scottish National Party | 288 | 179–224 | 174–229 | 168–233 | 158–244 |
-| Labour Party – Liberal Democrats – Plaid Cymru | 243 | 161–207 | 155–213 | 150–218 | 141–230 |
-| Labour Party – Liberal Democrats | 240 | 152–199 | 146–206 | 140–211 | 130–223 |
-| Labour Party – Plaid Cymru | 235 | 140–180 | 133–184 | 129–188 | 120–200 |
-| Labour Party | 232 | 130–173 | 124–177 | 119–181 | 110–193 |
+| Coalition | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Conservative Party – Scottish National Party – Plaid Cymru | 390 | N/A | 431–478 | 425–484 | 419–490 | 408–500 |
+| Conservative Party – Scottish National Party | 387 | N/A | 424–469 | 418–475 | 413–480 | 401–489 |
+| Conservative Party – Liberal Democrats | 339 | N/A | 400–442 | 394–448 | 390–453 | 379–463 |
+| Conservative Party – Plaid Cymru | 334 | N/A | 382–427 | 376–434 | 370–439 | 359–449 |
+| Conservative Party | 331 | N/A | 374–419 | 369–424 | 363–429 | 352–439 |
+| Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 299 | N/A | 212–256 | 206–262 | 201–267 | 192–279 |
+| Labour Party – Liberal Democrats – Scottish National Party | 296 | N/A | 203–249 | 197–255 | 192–260 | 182–272 |
+| Labour Party – Scottish National Party – Plaid Cymru | 291 | N/A | 188–231 | 182–236 | 178–240 | 168–252 |
+| Labour Party – Scottish National Party | 288 | N/A | 179–224 | 174–229 | 168–233 | 158–244 |
+| Labour Party – Liberal Democrats – Plaid Cymru | 243 | N/A | 161–207 | 155–213 | 150–218 | 141–230 |
+| Labour Party – Liberal Democrats | 240 | N/A | 152–199 | 146–206 | 140–211 | 130–223 |
+| Labour Party – Plaid Cymru | 235 | N/A | 140–180 | 133–184 | 129–188 | 120–200 |
+| Labour Party | 232 | N/A | 130–173 | 124–177 | 119–181 | 110–193 |
+
 
 ## Technical Information
 
