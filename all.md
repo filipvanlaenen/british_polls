@@ -5,8 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | GREEN | PC | BNP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
-| [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3 June 2017](2017-06-03-Survation.html) | Survation <br> Mail on Sunday | 37–43% <br> 272–332 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
+| [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 331–368 | 32–37% <br> 203–251 | 3–5% <br> 0 | 6–9% <br> 2–12 | 3–5% <br> 18–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
+| [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 272–332 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–57 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
+| [2–3 June 2017](2017-06-03-Survation-GMB.html) | Survation <br> Good Morning Britain | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 May–2 June May 2017](2017-06-02-ICM.html) | ICM <br> Sun on Sunday | 42–47% <br> 322–366 | 33–37% <br> 208–259 | 4–6% <br> 0 | 7–10% <br> 3–16 | 3–5% <br> 21–55 | 2–3% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
 | [31 May–2 June 2017](2017-06-02-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 44–49% <br> 329–376 | 32–37% <br> 198–267 | 3–6% <br> 0 | 7–10% <br> 3–17 | 3–5% <br> 4–54 | 1–2% <br> 0 | 0–1% <br> 0–5 | 0–0% <br> 0 |
 | [26 May–1 June 2017](2017-06-01-Panelbase.html) | Panelbase | 40–47% <br> 314–364 | 32–39% <br> 206–259 | 4–7% <br> 0 | 5–9% <br> 0–9 | 4–6% <br> 38–59 | 1–3% <br> 0 | 1–2% <br> 4–11 | N/A <br> N/A |
@@ -16,7 +18,7 @@ The table below lists all polls registered and analyzed so far.
 | [25–30 May 2017](2017-05-30-Kantar.html) | Kantar Public | 40–47% <br> 304–368 | 30–37% <br> 190–255 | 3–5% <br> 0 | 9–13% <br> 9–39 | 3–6% <br> 24–57 | 2–5% <br> 0–1 | 0–2% <br> 2–8 | N/A <br> N/A |
 | [26–29 May 2017](2017-05-29-ICM.html) | ICM <br> The Guardian | 43–47% <br> 338–372 | 31–35% <br> 197–235 | 4–6% <br> 0 | 7–9% <br> 2–14 | 3–5% <br> 31–55 | 2–4% <br> 0–1 | 1–2% <br> 3–7 | N/A <br> N/A |
 | [26–27 May 2017](2017-05-27-Survation.html) | Survation <br> Good Morning Britain | 40–47% <br> 303–357 | 34–41% <br> 243–306 | 2–5% <br> 0 | 7–11% <br> 7–23 | 1–3% <br> 0–32 | 1–2% <br> 0 | 0–2% <br> 0–7 | N/A <br> N/A |
-| [25–26 May 2017](2017-05-26-YouGov.html) | YouGov <br> The Times | 39–44% <br> 301–340 | 34–39% <br> 231–292 | 4–6% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 5–52 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
+| [25–26 May 2017](2017-05-26-YouGov.html) | YouGov <br> Sunday Times | 39–44% <br> 301–340 | 34–39% <br> 231–292 | 4–6% <br> 0 | 8–11% <br> 9–27 | 3–5% <br> 5–52 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [24–26 May 2017](2017-05-26-ICM.html) | ICM <br> Sun on Sunday | 44–48% <br> 348–383 | 30–34% <br> 187–223 | 4–6% <br> 0 | 7–9% <br> 2–14 | 3–5% <br> 37–55 | 1–3% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
 | [24–26 May 2017](2017-05-26-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 43–49% <br> 329–376 | 31–37% <br> 198–256 | 4–6% <br> 0 | 7–10% <br> 2–17 | 3–5% <br> 14–56 | 2–3% <br> 0–1 | 0–1% <br> 0–7 | 0–0% <br> 0 |
 | [24–25 May 2017](2017-05-25-YouGov.html) | YouGov <br> The Times | 39–44% <br> 286–328 | 36–41% <br> 239–285 | 3–5% <br> 0 | 8–11% <br> 6–25 | 3–6% <br> 25–57 | 1–2% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
@@ -47,7 +49,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–7 May 2017](2017-05-07-ICM.html) | ICM <br> The Guardian | 48–53% <br> 392–433 | 24–28% <br> 138–179 | 5–7% <br> 0 | 8–11% <br> 6–21 | 3–5% <br> 36–56 | 2–4% <br> 0–1 | 0–0% <br> 0–3 | N/A <br> N/A |
 | [5–6 May 2017](2017-05-06-Survation.html) | Survation <br> Good Morning Britain | 43–50% <br> 349–404 | 27–34% <br> 163–219 | 2–5% <br> 0 | 6–9% <br> 0–12 | 4–7% <br> 45–59 | 2–4% <br> 0–1 | 1–2% <br> 3–11 | N/A <br> N/A |
 | [4–5 May 2017](2017-05-05-YouGov.html) | YouGov <br> The Times | 42–48% <br> 341–388 | 27–32% <br> 171–215 | 5–8% <br> 0 | 9–13% <br> 11–34 | 3–6% <br> 40–56 | 1–3% <br> 0–1 | 0–1% <br> 0–7 | N/A <br> N/A |
-| [3–5 May 2017](2017-05-05-ICM.html) | ICM <br> Sun on Sunday | 45–50% <br> 365–408 | 26–30% <br> 156–197 | 6–8% <br> 0 | 8–11% <br> 7–26 | 3–5% <br> 39–56 | 2–4% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
+| [3–5 May 2017](2017-05-05-ICM.html) | ICM <br> Sun on Sunday | 45–50% <br> 366–409 | 26–30% <br> 155–197 | 6–8% <br> 0 | 8–11% <br> 7–26 | 3–5% <br> 39–56 | 2–4% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
 | [3–4 May 2017](2017-05-04-ORB.html) | ORB <br> Sunday Telegraph | 44–49% <br> 351–391 | 29–33% <br> 185–240 | 7–10% <br> 0 | 7–10% <br> 6–19 | 3–4% <br> 9–53 | N/A <br> N/A | 0–1% <br> 0–4 | N/A <br> N/A |
 | [2–3 May 2017](2017-05-03-YouGov.html) | YouGov <br> The Times | 44–49% <br> 346–387 | 28–33% <br> 179–219 | 5–7% <br> 0 | 9–11% <br> 8–25 | 3–5% <br> 37–55 | 1–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [2–3 May 2017](2017-05-03-Opinium.html) | Opinium <br> The Observer | 43–49% <br> 350–396 | 27–32% <br> 171–216 | 6–9% <br> 0 | 8–11% <br> 5–22 | 3–6% <br> 41–57 | 2–3% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
