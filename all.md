@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
 | [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 331–368 | 32–37% <br> 203–251 | 3–5% <br> 0 | 6–9% <br> 2–12 | 3–5% <br> 18–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
-| [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 272–332 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–57 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
+| [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 273–333 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
 | [2–3 June 2017](2017-06-03-Survation-GMB.html) | Survation <br> Good Morning Britain | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 May–2 June May 2017](2017-06-02-ICM.html) | ICM <br> Sun on Sunday | 42–47% <br> 322–366 | 33–37% <br> 208–259 | 4–6% <br> 0 | 7–10% <br> 3–16 | 3–5% <br> 21–55 | 2–3% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
