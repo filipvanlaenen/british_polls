@@ -5,12 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | GREEN | PC | BNP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
+| [6–7 June 2017](2017-06-07-ICM.html) | ICM <br> The Guardian | 44–50% <br> 337–383 | 31–37% <br> 192–239 | 4–6% <br> 0 | 5–8% <br> 0–7 | 4–6% <br> 46–58 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [4–6 June 2017](2017-06-06-Opinium.html) | Opinium | 41–46% <br> 315–350 | 34–38% <br> 219–256 | 4–6% <br> 0 | 7–9% <br> 1–12 | 4–6% <br> 45–57 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
-| [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 332–371 | 32–37% <br> 201–261 | 3–5% <br> 0 | 6–9% <br> 1–15 | 3–5% <br> 9–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
+| [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 331–371 | 32–37% <br> 202–261 | 3–5% <br> 0 | 6–9% <br> 1–15 | 3–5% <br> 9–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
 | [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 273–333 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
 | [2–3 June 2017](2017-06-03-Survation-GMB.html) | Survation <br> Good Morning Britain | 38–45% <br> 278–334 | 37–44% <br> 239–304 | 2–4% <br> 0 | 5–8% <br> 0–6 | 3–6% <br> 14–58 | 0–2% <br> 0 | 1–3% <br> 5–13 | N/A <br> N/A |
 | [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | 37–42% <br> 269–318 | 38–43% <br> 260–331 | 3–5% <br> 0 | 8–10% <br> 6–24 | 3–5% <br> 4–51 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
-| [31 May–2 June May 2017](2017-06-02-ICM.html) | ICM <br> Sun on Sunday | 42–47% <br> 322–366 | 33–37% <br> 208–259 | 4–6% <br> 0 | 7–10% <br> 3–16 | 3–5% <br> 21–55 | 2–3% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
+| [31 May–2 June May 2017](2017-06-02-ICM.html) | ICM <br> Sun on Sunday | 42–47% <br> 322–365 | 33–37% <br> 209–260 | 4–6% <br> 0 | 7–10% <br> 3–17 | 3–5% <br> 20–55 | 2–3% <br> 0–1 | 0–1% <br> 0–4 | N/A <br> N/A |
 | [31 May–2 June 2017](2017-06-02-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 44–49% <br> 329–376 | 32–37% <br> 198–267 | 3–6% <br> 0 | 7–10% <br> 3–17 | 3–5% <br> 4–54 | 1–2% <br> 0 | 0–1% <br> 0–5 | 0–0% <br> 0 |
 | [26 May–1 June 2017](2017-06-01-Panelbase.html) | Panelbase | 40–47% <br> 314–364 | 32–39% <br> 206–259 | 4–7% <br> 0 | 5–9% <br> 0–9 | 4–6% <br> 38–59 | 1–3% <br> 0 | 1–2% <br> 4–11 | N/A <br> N/A |
 | [31 May–1 June May 2017](2017-06-01-Norstat.html) | Norstat | 36–42% <br> 292–345 | 32–38% <br> 221–272 | 5–8% <br> 0 | 6–10% <br> 2–18 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
