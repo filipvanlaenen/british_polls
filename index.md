@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 14 days old) registered a
 | Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | GREEN | PC | BNP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 282–370 | 200–312 | 0 | 0–27 | 1–57 | 0–1 | 0–7 | 0 |
-| [6–7 June 2017](2017-06-07-ICM.html) | ICM <br> The Guardian | 44–50% <br> 337–383 | 31–37% <br> 192–239 | 4–6% <br> 0 | 5–8% <br> 0–7 | 4–6% <br> 46–58 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 281–367 | 201–313 | 0 | 0–27 | 1–57 | 0–1 | 0–8 | N/A |
+| [6–7 June 2017](2017-06-07-ICM.html) | ICM <br> The Guardian | 44–50% <br> 336–380 | 31–37% <br> 194–239 | 4–6% <br> 0 | 5–8% <br> 0–6 | 4–6% <br> 46–58 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
+| [5–7 June 2017](2017-06-07-ComRes.html) | ComRes <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–6 June 2017](2017-06-06-Opinium.html) | Opinium | 41–46% <br> 315–350 | 34–38% <br> 219–256 | 4–6% <br> 0 | 7–9% <br> 1–12 | 4–6% <br> 45–57 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 273–333 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
-| [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | 37–42% <br> 269–318 | 38–43% <br> 260–331 | 3–5% <br> 0 | 8–10% <br> 6–24 | 3–5% <br> 4–51 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
-| [31 May–2 June 2017](2017-06-02-ComRes.html) | ComRes <br> The Sunday Mirror and Independent on Sunday | 44–49% <br> 329–376 | 32–37% <br> 198–267 | 3–6% <br> 0 | 7–10% <br> 3–17 | 3–5% <br> 4–54 | 1–2% <br> 0 | 0–1% <br> 0–5 | 0–0% <br> 0 |
+| [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | 37–42% <br> 269–318 | 38–43% <br> 259–331 | 3–5% <br> 0 | 8–10% <br> 6–25 | 3–5% <br> 4–51 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [26 May–1 June 2017](2017-06-01-Panelbase.html) | Panelbase | 40–47% <br> 314–364 | 32–39% <br> 206–259 | 4–7% <br> 0 | 5–9% <br> 0–9 | 4–6% <br> 38–59 | 1–3% <br> 0 | 1–2% <br> 4–11 | N/A <br> N/A |
 | [31 May–1 June May 2017](2017-06-01-Norstat.html) | Norstat | 36–42% <br> 292–345 | 32–38% <br> 221–272 | 5–8% <br> 0 | 6–10% <br> 2–18 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [30 May–1 June 2017](2017-06-01-Ipsos-MORI.html) | Ipsos MORI <br> Evening Standard | 42–48% <br> 308–354 | 37–43% <br> 251–308 | 1–3% <br> 0 | 6–9% <br> 2–14 | 2–4% <br> 0–42 | 1–3% <br> 0 | 0–1% <br> 0–5 | N/A <br> N/A |
