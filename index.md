@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 14 days old) registered a
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 282–366 | 205–312 | 0 | 0–27 | 1–57 | 0–1 | 0–8 | 0 |
-| [4–6 June 2017](2017-06-06-Opinium.html) | Opinium | 41–46% <br> 315–350 | 34–38% <br> 219–257 | 4–6% <br> 0 | 7–9% <br> 1–12 | 4–6% <br> 45–58 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
+| [4–6 June 2017](2017-06-06-Opinium.html) | Opinium | 41–46% <br> 315–350 | 34–38% <br> 219–256 | 4–6% <br> 0 | 7–9% <br> 1–12 | 4–6% <br> 45–57 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 331–370 | 32–37% <br> 201–260 | 3–5% <br> 0 | 6–9% <br> 1–15 | 3–5% <br> 10–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
 | [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 273–333 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
 | [1–2 June 2017](2017-06-02-YouGov.html) | YouGov <br> Sunday Times | 37–42% <br> 269–318 | 38–43% <br> 260–331 | 3–5% <br> 0 | 8–10% <br> 6–24 | 3–5% <br> 4–51 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
