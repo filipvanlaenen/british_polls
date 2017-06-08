@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 14 days old) registered a
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 304–368 | 201–295 | 0 | 0–25 | 1–57 | 0–1 | 0–5 | 0 |
-| [5–7 June 2017](2017-06-07-YouGov.html) | YouGov <br> The Times | 39–43% <br> 297–336 | 35–39% <br> 232–279 | 4–6% <br> 0 | 9–11% <br> 9–27 | 3–5% <br> 17–54 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
+| [5–7 June 2017](2017-06-07-YouGov.html) | YouGov <br> The Times | 39–43% <br> 296–336 | 35–39% <br> 232–279 | 4–6% <br> 0 | 9–11% <br> 9–27 | 3–5% <br> 17–54 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
 | [6–7 June 2017](2017-06-07-Survation.html) | Survation <br> Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–7 June 2017](2017-06-07-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–7 June 2017](2017-06-07-Kantar.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
