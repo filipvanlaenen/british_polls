@@ -11,7 +11,7 @@ The table below lists all polls registered and analyzed so far.
 | [1–7 June 2017](2017-06-07-Kantar.html) | Kantar Public | 41–45% <br> 312–343 | 36–40% <br> 234–279 | 3–5% <br> 0 | 6–8% <br> 1–9 | 3–5% <br> 21–55 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [6–7 June 2017](2017-06-07-ICM.html) | ICM <br> The Guardian | 44–50% <br> 336–380 | 31–37% <br> 194–239 | 4–6% <br> 0 | 5–8% <br> 0–6 | 4–6% <br> 46–58 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [5–7 June 2017](2017-06-07-ComRes.html) | ComRes <br> The Independent | 42–47% <br> 325–365 | 32–37% <br> 199–265 | 4–6% <br> 0 | 8–11% <br> 6–25 | 3–5% <br> 8–55 | 2–3% <br> 0–1 | 0–1% <br> 2–7 | 0–0% <br> 0 |
-| [6–7 June 2017](2017-06-07-BMG.html) | BMG Research <br> The Herald | 43–48% <br> 337–382 | 30–35% <br> 188–242 | 4–6% <br> 0 | 7–10% <br> 1–16 | 3–5% <br> 23–56 | 2–4% <br> 0–1 | 1–2% <br> 4–8 | N/A <br> N/A |
+| [6–7 June 2017](2017-06-07-BMG.html) | BMG Research <br> The Herald | 43–48% <br> 337–382 | 30–35% <br> 187–240 | 4–6% <br> 0 | 7–10% <br> 1–16 | 3–5% <br> 24–56 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
 | [4–6 June 2017](2017-06-06-Opinium.html) | Opinium | 41–46% <br> 315–350 | 34–38% <br> 219–256 | 4–6% <br> 0 | 7–9% <br> 1–12 | 4–6% <br> 45–57 | 2–3% <br> 0–1 | 0–1% <br> 0–5 | N/A <br> N/A |
 | [2–4 June 2017](2017-06-04-ICM.html) | ICM <br> The Guardian | 43–48% <br> 331–371 | 32–37% <br> 202–261 | 3–5% <br> 0 | 6–9% <br> 1–15 | 3–5% <br> 9–55 | 2–4% <br> 0–1 | 1–2% <br> 3–8 | N/A <br> N/A |
 | [3 June 2017](2017-06-03-Survation-MoS.html) | Survation <br> Mail on Sunday | 37–43% <br> 273–333 | 36–43% <br> 244–326 | 3–6% <br> 0 | 6–10% <br> 1–20 | 3–5% <br> 3–56 | N/A <br> N/A | 0–1% <br> 0–5 | N/A <br> N/A |
