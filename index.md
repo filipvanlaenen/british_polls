@@ -4,7 +4,7 @@ The table below lists the most recent polls (less than 14 days old) registered a
 
 | Period     | Pollster/Media   | CON | LAB | UKIP | LIBDEM | SNP | GREEN | PC | BNP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 7 May 2015 | General Election | 36.9% <br> 331 | 30.4% <br> 232 | 12.6% <br> 1 | 7.9% <br> 8 | 4.7% <br> 56 | 3.8% <br> 1 | 0.6% <br> 3 | 0.0% <br> 0 |
+| 8 June 2017 | General Election | 42.4% <br> 318 | 40.0% <br> 262 | 1.8% <br> 0 | 7.4% <br> 12 | 3.0% <br> 35 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 302–370 | 200–295 | 0 | 0–22 | 2–56 | 0–1 | 0–8 | 0 |
 | [5–7 June 2017](2017-06-07-YouGov.html) | YouGov <br> The Times | 39–43% <br> 296–336 | 35–39% <br> 232–279 | 4–6% <br> 0 | 9–11% <br> 9–27 | 3–5% <br> 17–54 | 1–3% <br> 0 | 0–1% <br> 0–4 | N/A <br> N/A |
 | [6–7 June 2017](2017-06-07-Survation.html) | Survation <br> Mail on Sunday | 39–44% <br> 289–324 | 38–42% <br> 251–308 | 2–3% <br> 0 | 7–9% <br> 2–14 | 3–4% <br> 5–51 | 2–3% <br> 0 | 1–2% <br> 5–13 | N/A <br> N/A |
