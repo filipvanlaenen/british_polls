@@ -35,3 +35,4 @@ The following websites provide similar information to this website:
 
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
++ [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
