@@ -28,7 +28,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
-+ The Twitter feed for this site: [@pollsgb](https://twitter.com/pollsgb)
++ The Twitter feed for this site: [@gbrpolls](https://twitter.com/gbrpolls)
 + The GitHub project for this site: [filipvanlaenen/british_polls](https://github.com/filipvanlaenen/british_polls)
 
 ## Sister Websites
