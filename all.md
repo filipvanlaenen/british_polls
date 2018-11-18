@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 278–335 | 8–10% <br> 18–28 | 2–4% <br> 8–51 | 6–8% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–334 | 36–42% <br> 229–301 | 7–10% <br> 7–25 | 3–5% <br> 34–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 39–44% <br> 288–344 | 35–40% <br> 220–276 | 7–9% <br> 7–23 | 3–4% <br> 27–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 39–44% <br> 278–341 | 37–42% <br> 239–286 | 6–8% <br> 4–18 | 3–4% <br> 27–54 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
@@ -23,8 +23,8 @@ The table below lists all polls registered and analyzed so far.
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 40–45% <br> 269–358 | 34–39% <br> 208–282 | 8–11% <br> 12–28 | 3–5% <br> 41–53 | 4–6% <br> 1–2 | 1–3% <br> 1 | 0–1% <br> 0–6 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 32–37% <br> 213–273 | 37–42% <br> 271–325 | 10–14% <br> 27–43 | 3–5% <br> 36–54 | 4–6% <br> 1 | 2–4% <br> 1–2 | 1–2% <br> 3–8 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 38–42% <br> 296–332 | 35–39% <br> 233–255 | 8–11% <br> 21–26 | 3–5% <br> 45–52 | 5–7% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 0–3 |
-| [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 37–41% <br> 252–321 | 38–42% <br> 249–318 | 8–10% <br> 16–28 | 2–4% <br> 2–52 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
-| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 40–45% <br> 296–345 | 34–39% <br> 215–256 | 10–13% <br> 21–29 | 3–4% <br> 40–48 | 3–5% <br> 1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
+| [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 37–41% <br> 257–319 | 38–42% <br> 253–322 | 8–10% <br> 17–28 | 2–4% <br> 7–51 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–3 |
+| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 40–45% <br> 293–350 | 34–39% <br> 208–262 | 10–13% <br> 21–31 | 3–4% <br> 21–50 | 3–5% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
