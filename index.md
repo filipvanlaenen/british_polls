@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 | N/A | [Poll Average](average.html) | 35–44% <br> 248–340 | 35–42% <br> 226–316 | 6–11% <br> 1–29 | 3–5% <br> 22–57 | 3–8% <br> 0–1 | 2–6% <br> 1–2 | 0–2% <br> 0–8 |
-| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 278–335 | 8–10% <br> 18–28 | 2–4% <br> 8–51 | 6–8% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–334 | 36–42% <br> 229–301 | 7–10% <br> 7–25 | 3–5% <br> 34–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 39–44% <br> 288–344 | 35–40% <br> 220–276 | 7–9% <br> 7–23 | 3–4% <br> 27–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [26–28 October 2018](2018-10-28-ICM.html) | ICM | 38–42% <br> 295–315 | 36–40% <br> 251–277 | 8–10% <br> 15–27 | 2–4% <br> 23–48 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 2–5 |
