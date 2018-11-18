@@ -61,7 +61,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 4–27 | 3–29 | 1–29 | 0–29 |
-| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–28 | 18–28 | 16–29 |
+| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–27 | 17–28 | 15–29 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 16 | 9–22 | 9–23 | 7–25 | 4–27 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 16 | 12–21 | 7–21 | 7–23 | 6–25 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 8 | 5–16 | 5–16 | 4–18 | 1–19 |
@@ -79,8 +79,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 21 | 17–27 | 12–27 | 12–28 | 5–31 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 33 | 28–38 | 27–41 | 27–43 | 24–45 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 26 | 21–26 | 21–26 | 21–26 | 18–26 |
-| [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 16–28 | 16–28 | 15–28 |
-| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 28 | 28 | 28 | 21–29 | 20–32 |
+| [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
+| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 26 | 24–31 | 23–31 | 21–31 | 20–33 |
 
 ### Probability Mass Function
 
@@ -110,14 +110,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 4% | 69% |  |
 | 18 | 3% | 65% |  |
 | 19 | 8% | 62% |  |
-| 20 | 2% | 53% |  |
-| 21 | 5% | 51% | Median |
-| 22 | 2% | 46% |  |
+| 20 | 2% | 54% |  |
+| 21 | 6% | 51% | Median |
+| 22 | 3% | 46% |  |
 | 23 | 8% | 43% |  |
-| 24 | 5% | 35% |  |
-| 25 | 3% | 31% |  |
+| 24 | 4% | 35% |  |
+| 25 | 2% | 31% |  |
 | 26 | 4% | 28% |  |
-| 27 | 15% | 24% |  |
+| 27 | 16% | 24% |  |
 | 28 | 2% | 8% |  |
 | 29 | 6% | 6% |  |
 | 30 | 0.2% | 0.3% |  |
