@@ -1,0 +1,113 @@
+# Liberal Democrats
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
+## Voting Intentions
+
+Last result: **7.4%** (General Election of 8 June 2017)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 8.2% | 6.3–9.8% | 5.8–10.3% | 5.4–10.8% | 4.8–11.6% |
+| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 8.0% | 7.1–9.1% | 6.8–9.5% | 6.6–9.7% | 6.2–10.3% |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
+| [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 7.1% | 6.3–8.0% | 6.1–8.2% | 5.9–8.4% | 5.6–8.9% |
+| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.4% | 7.6–10.8% |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 8.0% | 7.3–8.9% | 7.1–9.2% | 6.9–9.4% | 6.5–9.8% |
+| [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 9.9% | 8.8–11.2% | 8.5–11.5% | 8.2–11.8% | 7.7–12.5% |
+| [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 9.2% | 8.3–10.1% | 8.1–10.4% | 7.8–10.7% | 7.5–11.1% |
+| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.9–12.5% |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
+| [10 October 2018](2018-10-10-Survation.html) | Survation | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
+| [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
+| [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.3% | 5.7–8.7% |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Liberal Democrats.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 10% | 97% |  |
+| 6.5–7.5% | 17% | 87% | Last Result |
+| 7.5–8.5% | 29% | 70% | Median |
+| 8.5–9.5% | 26% | 41% |  |
+| 9.5–10.5% | 11% | 15% |  |
+| 10.5–11.5% | 3% | 4% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 0% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **12** seats (General Election of 8 June 2017)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 19 | 4–27 | 3–29 | 0–29 | 0–29 |
+| [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 19 | 19–23 | 17–23 | 17–28 | 15–28 |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 14 | 9–17 | 9–17 | 5–17 | 5–20 |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 20 | 7–23 | 7–24 | 7–24 | 6–24 |
+| [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 13 | 13 | 7–13 | 3–13 | 3–19 |
+| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 27 | 25–27 | 24–27 | 15–27 | 12–27 |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 3 | 0–10 | 0–10 | 0–12 | 0–12 |
+| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 12 | 12–22 | 9–22 | 9–22 | 9–22 |
+| [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 27 | 17–29 | 17–29 | 17–29 | 17–29 |
+| [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 17 | 15–22 | 15–22 | 15–22 | 15–25 |
+| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 23 | 17–27 | 17–32 | 17–35 | 10–37 |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 23 | 19–23 | 19–23 | 19–23 | 14–25 |
+| [10 October 2018](2018-10-10-Survation.html) | Survation | 18 | 4–22 | 4–22 | 4–22 | 4–26 |
+| [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 20 | 18–28 | 16–28 | 16–28 | 11–28 |
+| [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 8 | 8 | 8 | 8 | 8 |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Liberal Democrats.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 3% | 100% |  |
+| 1 | 0.5% | 97% |  |
+| 2 | 0% | 97% |  |
+| 3 | 6% | 97% |  |
+| 4 | 2% | 91% |  |
+| 5 | 0.6% | 88% |  |
+| 6 | 0.2% | 88% |  |
+| 7 | 4% | 88% |  |
+| 8 | 0.2% | 84% |  |
+| 9 | 5% | 84% |  |
+| 10 | 3% | 79% |  |
+| 11 | 3% | 76% |  |
+| 12 | 2% | 73% | Last Result |
+| 13 | 0.8% | 71% |  |
+| 14 | 2% | 70% |  |
+| 15 | 0.3% | 69% |  |
+| 16 | 0.5% | 68% |  |
+| 17 | 8% | 68% |  |
+| 18 | 0.5% | 60% |  |
+| 19 | 14% | 60% | Median |
+| 20 | 3% | 45% |  |
+| 21 | 5% | 42% |  |
+| 22 | 1.4% | 37% |  |
+| 23 | 14% | 36% |  |
+| 24 | 2% | 21% |  |
+| 25 | 0.2% | 20% |  |
+| 26 | 0.1% | 19% |  |
+| 27 | 13% | 19% |  |
+| 28 | 0.4% | 7% |  |
+| 29 | 6% | 6% |  |
+| 30 | 0% | 0% |  |
+
+
