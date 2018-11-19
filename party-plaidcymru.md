@@ -52,18 +52,18 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–5 | 0–7 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–8 | 0–8 | 0–9 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 4 | 2–5 | 2–5 | 1–5 | 0–5 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 4 | 2–5 | 2–5 | 1–5 | 0–5 |
-| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 5 | 3–5 | 2–5 | 2–5 | 2–5 |
-| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 5 | 4–6 | 4–7 | 4–8 | 3–8 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 4 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–9 | 2–10 |
-| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–7 | 4–8 | 4–8 | 4–8 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation |  |  |  |  |  |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–8 | 4–8 |
@@ -83,16 +83,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% |  |
-| 1 | 0.6% | 94% |  |
-| 2 | 3% | 94% |  |
-| 3 | 9% | 91% |  |
-| 4 | 14% | 82% | Last Result |
-| 5 | 60% | 68% | Median |
-| 6 | 2% | 8% |  |
-| 7 | 2% | 6% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.5% |  |
-| 10 | 0.1% | 0.2% |  |
+| 1 | 0.9% | 94% |  |
+| 2 | 2% | 93% |  |
+| 3 | 7% | 90% |  |
+| 4 | 13% | 83% | Last Result |
+| 5 | 60% | 70% | Median |
+| 6 | 3% | 10% |  |
+| 7 | 1.1% | 7% |  |
+| 8 | 6% | 6% |  |
+| 9 | 0.3% | 0.6% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
