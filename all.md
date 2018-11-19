@@ -9,13 +9,13 @@ The table below lists all polls registered and analyzed so far.
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–334 | 36–42% <br> 229–301 | 7–10% <br> 7–25 | 3–5% <br> 34–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> Times | 39–44% <br> 288–344 | 35–40% <br> 220–276 | 7–9% <br> 7–23 | 3–4% <br> 27–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> Times | 39–44% <br> 278–341 | 37–42% <br> 239–286 | 6–8% <br> 4–18 | 3–4% <br> 27–54 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
-| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 38–42% <br> 295–315 | 36–40% <br> 251–277 | 8–10% <br> 15–27 | 2–4% <br> 23–48 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 2–5 |
-| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 280–363 | 37–43% <br> 218–297 | 5–8% <br> 0–12 | 3–5% <br> 32–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
+| [26–28 October 2018](2018-10-28-ICM.html) | ICM | 38–42% <br> 272–335 | 36–40% <br> 232–299 | 8–10% <br> 16–27 | 2–4% <br> 17–50 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–354 | 37–43% <br> 227–294 | 5–8% <br> 0–12 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 39–44% <br> 294–341 | 34–39% <br> 215–263 | 7–9% <br> 4–19 | 4–6% <br> 52–58 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1% <br> 4–8 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 250–328 | 34–40% <br> 225–300 | 8–12% <br> 16–30 | 3–5% <br> 32–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 39–44% <br> 292–351 | 34–39% <br> 216–271 | 8–11% <br> 13–27 | 3–5% <br> 29–53 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 38–44% <br> 276–351 | 33–39% <br> 206–273 | 8–12% <br> 16–30 | 3–5% <br> 39–56 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–9 |
-| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 38–43% <br> 308–309 | 35–39% <br> 243–246 | 7–9% <br> 19–23 | 3–5% <br> 48–51 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 5–7 |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 38–43% <br> 289–340 | 35–39% <br> 223–271 | 7–9% <br> 7–22 | 3–5% <br> 41–57 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 37–43% <br> 263–335 | 36–42% <br> 236–301 | 6–9% <br> 2–20 | 3–5% <br> 30–58 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 39–43% <br> 280–338 | 35–39% <br> 221–272 | 8–10% <br> 13–26 | 3–5% <br> 41–57 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 266–331 | 37–42% <br> 246–315 | 6–8% <br> 5–17 | 2–4% <br> 8–52 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
