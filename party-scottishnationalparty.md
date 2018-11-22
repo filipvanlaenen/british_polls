@@ -72,7 +72,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 39 | 21–49 | 14–51 | 8–52 | 4–55 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> Independent | 50 | 47–54 | 44–55 | 42–56 | 29–57 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 43 | 35–50 | 32–52 | 26–53 | 20–55 |
-| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 51 | 47–54 | 44–54 | 36–54 | 29–56 |
+| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 51 | 48–54 | 44–54 | 33–54 | 26–56 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 52 | 45–56 | 42–57 | 41–57 | 39–57 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 33 | 18–47 | 9–49 | 7–51 | 6–52 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 45 | 40–48 | 37–50 | 29–51 | 19–51 |

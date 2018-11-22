@@ -72,14 +72,14 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 237 | 225–248 | 220–255 | 215–263 | 206–275 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 249 | 233–285 | 228–291 | 224–296 | 216–304 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 237 | 225–257 | 223–262 | 216–271 | 208–282 |
-| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 235 | 220–261 | 214–267 | 207–272 | 200–288 |
+| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 235 | 219–259 | 214–266 | 207–273 | 199–287 |
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 239 | 228–260 | 226–265 | 223–271 | 216–280 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 267 | 239–296 | 238–298 | 236–301 | 225–313 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 239 | 228–258 | 225–266 | 221–272 | 215–282 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 287 | 258–301 | 249–307 | 246–315 | 239–322 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> Independent | 278 | 254–295 | 250–301 | 238–303 | 236–311 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 235 | 218–248 | 215–255 | 209–263 | 202–272 |
-| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 300 | 288–315 | 280–319 | 271–325 | 258–334 |
+| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 300 | 287–316 | 279–319 | 269–324 | 256–334 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 246 | 234–274 | 230–284 | 226–286 | 223–289 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 292 | 266–312 | 260–318 | 254–322 | 245–330 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 236 | 219–241 | 216–254 | 209–261 | 206–272 |

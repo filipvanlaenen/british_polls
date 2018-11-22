@@ -70,14 +70,14 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> Times | 12 | 7–17 | 6–17 | 4–19 | 4–22 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 25 | 19–28 | 17–30 | 16–31 | 13–34 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 20 | 16–25 | 15–26 | 13–27 | 12–28 |
-| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 25 | 18–28 | 16–29 | 15–30 | 13–32 |
+| [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 25 | 18–28 | 17–29 | 15–30 | 13–32 |
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 15 | 11–19 | 9–22 | 7–22 | 5–24 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 11 | 4–17 | 3–19 | 2–20 | 1–24 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 20 | 15–24 | 13–25 | 13–26 | 11–27 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 14 | 9–16 | 8–16 | 5–17 | 3–20 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> Independent | 26 | 22–28 | 19–29 | 17–29 | 16–31 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 21 | 16–25 | 15–26 | 14–27 | 12–28 |
-| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 33 | 28–38 | 27–41 | 27–43 | 24–45 |
+| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 33 | 28–39 | 27–41 | 27–43 | 24–44 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 22 | 16–26 | 15–28 | 14–28 | 13–29 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 27 | 23–30 | 21–31 | 21–31 | 20–33 |
