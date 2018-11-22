@@ -15,13 +15,13 @@ The table below lists all polls registered and analyzed so far.
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 252–330 | 34–40% <br> 224–296 | 8–12% <br> 16–31 | 3–5% <br> 35–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–9 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 39–44% <br> 292–351 | 34–39% <br> 216–271 | 8–11% <br> 13–27 | 3–5% <br> 29–53 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 38–44% <br> 276–349 | 33–39% <br> 207–273 | 8–12% <br> 15–30 | 3–5% <br> 39–56 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–9 |
-| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 38–43% <br> 289–340 | 35–39% <br> 223–271 | 7–9% <br> 7–22 | 3–5% <br> 41–57 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 38–43% <br> 286–339 | 35–39% <br> 223–271 | 7–9% <br> 7–21 | 3–5% <br> 41–57 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 37–43% <br> 263–335 | 36–42% <br> 236–301 | 6–9% <br> 2–20 | 3–5% <br> 30–58 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 39–43% <br> 280–338 | 35–39% <br> 221–272 | 8–10% <br> 13–26 | 3–5% <br> 41–57 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 266–331 | 37–42% <br> 246–315 | 6–8% <br> 5–17 | 2–4% <br> 8–52 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> Independent | 35–40% <br> 244–315 | 36–41% <br> 238–303 | 9–12% <br> 17–29 | 3–5% <br> 42–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> Times | 40–45% <br> 299–356 | 34–39% <br> 209–263 | 8–11% <br> 14–27 | 3–5% <br> 26–53 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
-| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 32–37% <br> 213–274 | 37–42% <br> 269–324 | 10–14% <br> 27–43 | 3–5% <br> 33–54 | 4–6% <br> 1 | 2–4% <br> 1–2 | 1–2% <br> 3–8 |
+| [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 32–37% <br> 214–274 | 37–42% <br> 269–324 | 10–14% <br> 27–43 | 3–5% <br> 36–54 | 4–6% <br> 1 | 2–4% <br> 1–2 | 1–2% <br> 3–8 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 38–42% <br> 268–334 | 35–39% <br> 226–286 | 8–11% <br> 14–28 | 3–5% <br> 41–57 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 37–41% <br> 257–319 | 38–42% <br> 254–322 | 8–10% <br> 17–28 | 2–4% <br> 7–51 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–3 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> Times | 40–45% <br> 293–347 | 34–39% <br> 209–261 | 10–13% <br> 21–31 | 3–4% <br> 29–51 | 3–5% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
