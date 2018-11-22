@@ -71,7 +71,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 25 | 19–28 | 17–30 | 16–31 | 13–34 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> Times | 20 | 16–25 | 15–26 | 13–27 | 12–28 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 25 | 18–28 | 17–29 | 15–30 | 13–32 |
-| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 15 | 11–19 | 9–22 | 7–22 | 5–24 |
+| [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 14 | 11–19 | 10–20 | 7–21 | 5–24 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 11 | 4–17 | 3–19 | 2–20 | 1–24 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> Times | 20 | 15–24 | 13–25 | 13–26 | 11–27 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 14 | 9–16 | 8–16 | 5–17 | 3–20 |
@@ -97,23 +97,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 2% | 94% |  |
 | 5 | 1.4% | 92% |  |
 | 6 | 3% | 90% |  |
-| 7 | 1.3% | 87% |  |
-| 8 | 0.8% | 86% |  |
+| 7 | 1.2% | 87% |  |
+| 8 | 0.9% | 86% |  |
 | 9 | 2% | 85% |  |
 | 10 | 3% | 83% |  |
 | 11 | 3% | 81% |  |
-| 12 | 3% | 77% | Last Result |
+| 12 | 3% | 78% | Last Result |
 | 13 | 4% | 74% |  |
 | 14 | 4% | 70% |  |
 | 15 | 3% | 66% |  |
-| 16 | 7% | 63% |  |
-| 17 | 6% | 56% |  |
+| 16 | 8% | 63% |  |
+| 17 | 5% | 55% |  |
 | 18 | 5% | 50% | Median |
 | 19 | 3% | 45% |  |
-| 20 | 3% | 42% |  |
+| 20 | 4% | 42% |  |
 | 21 | 4% | 39% |  |
 | 22 | 3% | 35% |  |
-| 23 | 5% | 32% |  |
+| 23 | 4% | 32% |  |
 | 24 | 4% | 28% |  |
 | 25 | 6% | 24% |  |
 | 26 | 6% | 18% |  |
