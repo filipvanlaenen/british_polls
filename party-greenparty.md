@@ -69,7 +69,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 1 | 1 | 1 | 1 | 1 |
+| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 1 | 1 | 1 | 1–2 | 1–2 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1–2 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 1 | 1 | 1 | 1 | 1 |
@@ -92,10 +92,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [21–24 September 2018](2018-09-24-ICM.html) | ICM <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 1 | 1 | 1 | 1 | 1–2 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 1 | 1 | 1 | 1 | 1 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 
@@ -108,7 +108,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 83% | 100% | Last Result, Median |
-| 2 | 16% | 17% |  |
+| 2 | 15% | 17% |  |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |

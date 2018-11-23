@@ -62,9 +62,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–8 | 0–8 | 0–9 |
-| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 5–8 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–8 | 0–8 | 0–9 |
+| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 0–5 | 0–6 |
+| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 4–8 | 4–8 | 4–8 | 2–9 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 5 | 4–6 | 4–8 | 4–8 | 4–8 |
@@ -87,12 +87,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [21–24 September 2018](2018-09-24-ICM.html) | ICM <br> The Guardian | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 1 | 1 | 1–2 | 1–2 | 1–4 |
-| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 5 | 5 | 5 | 5 | 2–6 |
-| [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 0 | 0–3 | 0–3 | 0–3 | 0–5 |
-| [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 0 | 0–3 | 0–5 | 0–5 | 0–8 |
-| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5 | 5 | 3–8 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 2 | 0–3 | 0–4 | 0–5 | 0–5 |
+| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
+| [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 2 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 0–5 | 0–5 | 0–5 |
+| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–8 | 4–8 |
 
 ### Probability Mass Function
 
@@ -102,17 +102,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 0.6% | 85% |  |
-| 2 | 0.7% | 85% |  |
-| 3 | 4% | 84% |  |
-| 4 | 8% | 80% | Last Result |
-| 5 | 57% | 72% | Median |
-| 6 | 3% | 14% |  |
-| 7 | 0.8% | 11% |  |
-| 8 | 9% | 10% |  |
-| 9 | 0.4% | 0.6% |  |
-| 10 | 0.1% | 0.2% |  |
+| 0 | 6% | 100% |  |
+| 1 | 0.9% | 94% |  |
+| 2 | 2% | 93% |  |
+| 3 | 7% | 92% |  |
+| 4 | 13% | 85% | Last Result |
+| 5 | 61% | 72% | Median |
+| 6 | 4% | 11% |  |
+| 7 | 1.0% | 8% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.4% | 0.7% |  |
+| 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |

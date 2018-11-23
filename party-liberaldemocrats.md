@@ -70,12 +70,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 6–27 | 3–27 | 2–28 | 0–30 |
-| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 24 | 15–24 | 15–24 | 12–24 | 12–29 |
-| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 8 | 8–10 | 8–11 | 8–12 | 5–16 |
+| N/A | [Poll Average](average.html) | 17 | 6–27 | 3–27 | 2–28 | 0–30 |
+| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 17 | 14–22 | 12–24 | 10–25 | 7–26 |
+| [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 11 | 8–16 | 5–19 | 4–21 | 2–24 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–27 | 17–28 | 15–29 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 16 | 9–22 | 9–23 | 7–25 | 4–27 |
-| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 14 | 11–19 | 10–20 | 9–21 | 5–24 |
+| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–24 | 5–25 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 12–21 | 7–21 | 7–23 | 6–25 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
 | [26–28 October 2018](2018-10-28-ICM.html) | ICM | 21 | 17–25 | 16–26 | 16–27 | 14–27 |
@@ -95,12 +95,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 21–31 | 21–31 | 20–33 |
 | [21–24 September 2018](2018-09-24-ICM.html) | ICM <br> The Guardian | 21 | 17–24 | 17–26 | 16–27 | 15–28 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 28 | 28 | 28 | 25–29 | 23–30 |
-| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 24 | 17–24 | 17–24 | 17–24 | 12–26 |
-| [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 28 | 28 | 28 | 27–28 | 27–31 |
-| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 36 | 33–36 | 33–36 | 32–37 | 27–41 |
-| [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 28 | 28 | 27–30 | 27–30 | 27–33 |
-| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 11 | 10–11 | 10–11 | 10–12 | 9–16 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 27 | 22–28 | 18–29 | 16–30 | 14–36 |
+| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 22 | 16–26 | 14–27 | 14–27 | 12–28 |
+| [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 28 | 25–30 | 24–31 | 24–32 | 21–33 |
+| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 35 | 29–40 | 28–42 | 28–42 | 27–46 |
+| [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 28 | 25–32 | 25–33 | 23–33 | 20–36 |
+| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 10 | 5–15 | 4–16 | 3–17 | 2–19 |
 
 ### Probability Mass Function
 
@@ -112,34 +112,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% |  |
 | 1 | 1.0% | 99.1% |  |
-| 2 | 1.4% | 98% |  |
+| 2 | 2% | 98% |  |
 | 3 | 2% | 97% |  |
-| 4 | 2% | 95% |  |
-| 5 | 1.3% | 93% |  |
-| 6 | 2% | 91% |  |
-| 7 | 0.7% | 89% |  |
-| 8 | 6% | 88% |  |
-| 9 | 2% | 82% |  |
-| 10 | 6% | 80% |  |
-| 11 | 3% | 74% |  |
-| 12 | 4% | 71% | Last Result |
-| 13 | 3% | 68% |  |
-| 14 | 3% | 65% |  |
-| 15 | 4% | 62% |  |
-| 16 | 5% | 58% |  |
-| 17 | 3% | 53% |  |
-| 18 | 4% | 50% | Median |
-| 19 | 3% | 46% |  |
-| 20 | 3% | 44% |  |
-| 21 | 3% | 41% |  |
-| 22 | 2% | 38% |  |
-| 23 | 4% | 36% |  |
-| 24 | 10% | 32% |  |
-| 25 | 5% | 22% |  |
+| 4 | 3% | 95% |  |
+| 5 | 1.3% | 92% |  |
+| 6 | 3% | 91% |  |
+| 7 | 0.8% | 88% |  |
+| 8 | 1.4% | 87% |  |
+| 9 | 2% | 86% |  |
+| 10 | 4% | 84% |  |
+| 11 | 4% | 80% |  |
+| 12 | 4% | 76% | Last Result |
+| 13 | 4% | 72% |  |
+| 14 | 3% | 67% |  |
+| 15 | 4% | 64% |  |
+| 16 | 7% | 60% |  |
+| 17 | 4% | 54% | Median |
+| 18 | 5% | 49% |  |
+| 19 | 5% | 45% |  |
+| 20 | 3% | 40% |  |
+| 21 | 3% | 37% |  |
+| 22 | 3% | 33% |  |
+| 23 | 4% | 30% |  |
+| 24 | 4% | 26% |  |
+| 25 | 6% | 22% |  |
 | 26 | 5% | 16% |  |
 | 27 | 7% | 11% |  |
 | 28 | 2% | 4% |  |
-| 29 | 0.9% | 2% |  |
+| 29 | 0.8% | 2% |  |
 | 30 | 0.4% | 0.8% |  |
 | 31 | 0.2% | 0.4% |  |
 | 32 | 0.1% | 0.2% |  |
