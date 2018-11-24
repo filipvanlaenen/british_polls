@@ -41,6 +41,12 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
+| [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [7–9 September 2018](2018-09-09-ICM.html) | ICM <br> The Guardian | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> Independent | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
+| [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 
 ### Probability Mass Function
 
@@ -98,6 +104,12 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 September 2018](2018-09-09-ICM.html) | ICM <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> Independent | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
@@ -108,7 +120,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 83% | 100% | Last Result, Median |
-| 2 | 15% | 17% |  |
+| 2 | 16% | 17% |  |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |

@@ -41,6 +41,12 @@ Last result: **1.8%** (General Election of 8 June 2017)
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
+| [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 5.0% | 4.3–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
+| [7–9 September 2018](2018-09-09-ICM.html) | ICM <br> The Guardian | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.3% |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> Independent | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.8% |
+| [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.4% |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 
 ### Probability Mass Function
 
@@ -100,6 +106,12 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 0–1 |
+| [7–9 September 2018](2018-09-09-ICM.html) | ICM <br> The Guardian | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 1 | 1 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
 
