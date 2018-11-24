@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 37–42% <br> 275–340 | 34–39% <br> 226–285 | 7–10% <br> 10–25 | 3–4% <br> 27–55 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
+| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 37–42% <br> 276–341 | 34–39% <br> 226–286 | 7–10% <br> 10–25 | 3–4% <br> 26–55 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 33–39% <br> 235–303 | 36–42% <br> 253–316 | 6–9% <br> 4–21 | 4–6% <br> 53–58 | 7–10% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–334 | 36–42% <br> 229–301 | 7–10% <br> 7–25 | 3–5% <br> 34–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
@@ -32,9 +32,15 @@ The table below lists all polls registered and analyzed so far.
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 35–41% <br> 246–320 | 35–41% <br> 235–306 | 8–12% <br> 16–30 | 3–5% <br> 35–57 | 4–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 35–39% <br> 243–294 | 36–41% <br> 257–306 | 8–10% <br> 14–27 | 3–5% <br> 45–57 | 7–9% <br> 1–2 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 38–42% <br> 278–325 | 34–38% <br> 223–269 | 10–12% <br> 24–32 | 4–5% <br> 45–54 | 4–6% <br> 1 | 2–3% <br> 1 | 0–1% <br> 3–5 |
-| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 248–332 | 34–40% <br> 225–305 | 11–15% <br> 28–42 | 2–4% <br> 3–51 | 1–3% <br> 0 | 4–6% <br> 1–4 | 0–1% <br> 0–4 |
+| [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 251–333 | 34–40% <br> 226–310 | 11–15% <br> 28–43 | 2–4% <br> 6–51 | 1–3% <br> 0 | 4–6% <br> 1–4 | 0–1% <br> 0–4 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 38–43% <br> 276–340 | 34–39% <br> 218–279 | 10–13% <br> 23–33 | 3–4% <br> 25–51 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
-| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 264–329 | 36–41% <br> 237–294 | 6–8% <br> 3–17 | 3–5% <br> 41–58 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 265–328 | 36–41% <br> 237–294 | 6–8% <br> 4–17 | 3–5% <br> 41–58 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 37–43% <br> 280–354 | 33–38% <br> 209–273 | 8–12% <br> 17–31 | 3–5% <br> 37–57 | 4–6% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
+| [7–9 September 2018](2018-09-09-ICM.html) | ICM <br> The Guardian | 40–44% <br> 285–345 | 37–41% <br> 235–298 | 7–9% <br> 10–22 | 2–4% <br> 7–50 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 250–331 | 34–40% <br> 236–322 | 8–12% <br> 17–30 | 2–4% <br> 4–52 | 3–5% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 5–8 |
+| [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> Independent | 35–39% <br> 256–320 | 35–40% <br> 271–336 | 9–13% <br> 27–38 | 1–3% <br> 0–28 | 6–8% <br> 1–2 | 3–5% <br> 1–2 | 0–1% <br> 0–3 |
+| [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 37–41% <br> 267–335 | 33–37% <br> 212–276 | 10–12% <br> 22–35 | 3–5% <br> 45–56 | 4–6% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 3–8 |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 34–40% <br> 240–312 | 38–44% <br> 270–344 | 5–8% <br> 2–16 | 2–4% <br> 3–56 | 6–9% <br> 1–2 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
