@@ -99,7 +99,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 50 | 32–57 | 26–58 | 21–58 | 9–58 |
-| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 46 | 38–53 | 32–54 | 26–55 | 19–57 |
+| [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 46 | 38–53 | 31–54 | 25–55 | 19–57 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 58 | 55–58 | 54–58 | 53–58 | 52–58 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 39 | 17–50 | 10–51 | 8–52 | 4–54 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 53 | 45–57 | 40–57 | 34–58 | 23–58 |
@@ -145,12 +145,12 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 52 | 44–54 | 40–57 | 38–57 | 25–57 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 35 | 17–50 | 9–50 | 6–51 | 2–53 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 52 | 49–54 | 47–56 | 45–57 | 41–57 |
-| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 54 | 47–56 | 40–57 | 40–58 | 33–58 |
-| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 47 | 47 | 47 | 47 | 26–48 |
+| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 54 | 47–57 | 42–57 | 40–58 | 31–58 |
+| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 44 | 34–51 | 27–52 | 26–52 | 13–54 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 51 | 47–56 | 40–57 | 38–57 | 26–57 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 46 | 38–51 | 27–52 | 27–52 | 15–55 |
-| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 41 | 38–51 | 26–51 | 22–51 | 6–51 |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 52 | 48–57 | 48–57 | 48–57 | 42–57 |
+| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 28 | 9–49 | 9–49 | 7–51 | 2–54 |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 53 | 48–57 | 47–57 | 46–57 | 39–57 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 49 | 35–52 | 26–54 | 22–54 | 12–57 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 35 | 12–52 | 7–54 | 6–55 | 2–57 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 54 | 49–57 | 47–57 | 42–57 | 29–58 |
@@ -182,7 +182,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 99.1% |  |
 | 13 | 0.1% | 99.0% |  |
 | 14 | 0.1% | 98.9% |  |
-| 15 | 0% | 98.9% |  |
+| 15 | 0% | 98.8% |  |
 | 16 | 0.2% | 98.8% |  |
 | 17 | 0.2% | 98.6% |  |
 | 18 | 0.1% | 98% |  |
@@ -190,32 +190,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.5% | 98% |  |
 | 21 | 0.2% | 98% |  |
 | 22 | 0.5% | 97% |  |
-| 23 | 0.2% | 97% |  |
+| 23 | 0.3% | 97% |  |
 | 24 | 0.6% | 97% |  |
 | 25 | 0.4% | 96% |  |
 | 26 | 0.9% | 96% |  |
 | 27 | 0.3% | 95% |  |
-| 28 | 2% | 95% |  |
+| 28 | 2% | 94% |  |
 | 29 | 0.6% | 92% |  |
 | 30 | 0.5% | 92% |  |
 | 31 | 0.5% | 91% |  |
 | 32 | 2% | 91% |  |
 | 33 | 0.3% | 88% |  |
 | 34 | 0.2% | 88% |  |
-| 35 | 0.7% | 88% | Last Result |
+| 35 | 0.8% | 88% | Last Result |
 | 36 | 0.5% | 87% |  |
 | 37 | 0.3% | 87% |  |
 | 38 | 1.1% | 86% |  |
 | 39 | 2% | 85% |  |
 | 40 | 2% | 84% |  |
 | 41 | 3% | 81% |  |
-| 42 | 2% | 79% |  |
+| 42 | 1.4% | 79% |  |
 | 43 | 1.4% | 77% |  |
-| 44 | 1.5% | 76% |  |
-| 45 | 3% | 74% |  |
+| 44 | 2% | 76% |  |
+| 45 | 2% | 74% |  |
 | 46 | 3% | 72% |  |
-| 47 | 3% | 69% |  |
-| 48 | 4% | 66% |  |
+| 47 | 4% | 69% |  |
+| 48 | 5% | 66% |  |
 | 49 | 5% | 61% |  |
 | 50 | 7% | 57% | Median |
 | 51 | 7% | 49% |  |
