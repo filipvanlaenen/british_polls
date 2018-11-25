@@ -49,28 +49,30 @@ Last result: **7.4%** (General Election of 8 June 2017)
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 10.1% | 9.2–11.1% | 8.9–11.4% | 8.7–11.6% | 8.3–12.1% |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 8.9% | 8.1–9.8% | 7.8–10.1% | 7.6–10.3% | 7.3–10.8% |
-| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 7.8% | N/A | N/A | N/A | N/A |
+| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 7.8% | 7.1–8.6% | 6.9–8.9% | 6.7–9.1% | 6.4–9.5% |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 7.9% | 7.2–8.8% | 7.0–9.0% | 6.8–9.2% | 6.4–9.7% |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 7.9% | 7.1–8.8% | 6.9–9.1% | 6.7–9.3% | 6.3–9.8% |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 8.8% | 7.8–10.0% | 7.6–10.4% | 7.3–10.7% | 6.9–11.2% |
-| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 10.1% | N/A | N/A | N/A | N/A |
-| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 10.0% | N/A | N/A | N/A | N/A |
-| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 7.0% | N/A | N/A | N/A | N/A |
-| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 10.0% | N/A | N/A | N/A | N/A |
-| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 9.9% | N/A | N/A | N/A | N/A |
-| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 10.1% | N/A | N/A | N/A | N/A |
-| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 7.9% | N/A | N/A | N/A | N/A |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 9.0% | N/A | N/A | N/A | N/A |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 9.1% | N/A | N/A | N/A | N/A |
-| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 7.0% | N/A | N/A | N/A | N/A |
-| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 7.9% | N/A | N/A | N/A | N/A |
-| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 10.0% | N/A | N/A | N/A | N/A |
-| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 9.0% | N/A | N/A | N/A | N/A |
-| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 9.0% | N/A | N/A | N/A | N/A |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 9.0% | N/A | N/A | N/A | N/A |
-| [7 July 2018](2018-07-07-Survation.html) | Survation | 10.1% | N/A | N/A | N/A | N/A |
+| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 10.1% | 9.1–11.1% | 8.9–11.4% | 8.6–11.7% | 8.2–12.2% |
+| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 10.0% | 9.1–11.0% | 8.9–11.3% | 8.7–11.6% | 8.3–12.1% |
+| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 7.0% | 6.3–7.8% | 6.2–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 10.0% | 9.1–11.0% | 8.9–11.3% | 8.7–11.5% | 8.3–12.0% |
+| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 9.9% | 8.8–11.2% | 8.5–11.5% | 8.2–11.9% | 7.7–12.5% |
+| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 10.1% | 9.2–11.1% | 8.9–11.4% | 8.7–11.6% | 8.3–12.1% |
+| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–10.9% |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 9.1% | 8.2–10.0% | 8.0–10.3% | 7.8–10.5% | 7.4–11.0% |
+| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
+| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 7.9% | 7.2–8.8% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
+| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 10.0% | 9.1–11.0% | 8.9–11.2% | 8.7–11.5% | 8.3–12.0% |
+| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–10.9% |
+| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [7 July 2018](2018-07-07-Survation.html) | Survation | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.2% | 7.9–12.8% |
+| [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 10.3% | 9.3–11.3% | 9.1–11.6% | 8.8–11.9% | 8.4–12.4% |
+| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 
 ### Probability Mass Function
 
@@ -124,7 +126,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 22 | 16–26 | 15–28 | 14–28 | 13–29 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 21–31 | 21–31 | 20–33 |
-| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 16–28 | 15–28 | 15–28 | 13–30 |
+| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–24 | 17–26 | 16–27 | 15–28 |
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 27 | 22–28 | 18–29 | 16–30 | 14–36 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 22 | 16–26 | 14–27 | 14–27 | 12–28 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 28 | 25–30 | 24–31 | 24–32 | 21–33 |
@@ -139,28 +141,30 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 9 | 3–15 | 2–16 | 2–16 | 0–19 |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 24 | 16–29 | 16–32 | 16–32 | 16–32 |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 20 | 15–25 | 13–26 | 13–27 | 10–28 |
-| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 16 | 14–16 | 12–16 | 8–16 | 4–16 |
-| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 15 | 15–20 | 15–24 | 15–24 | 12–27 |
-| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 21 | 9–21 | 9–21 | 3–21 | 3–24 |
-| [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 21 | 11–21 | 9–21 | 9–21 | 9–23 |
-| [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 25 | 13–25 | 10–25 | 10–25 | 10–29 |
-| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
-| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
-| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research |  |  |  |  |  |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday |  |  |  |  |  |
-| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [7 July 2018](2018-07-07-Survation.html) | Survation |  |  |  |  |  |
+| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 18 | 18 | 16–21 | 16–21 | 13–21 |
+| [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 11 | 5–16 | 4–16 | 4–17 | 2–19 |
+| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–22 | 14–24 | 14–25 | 11–27 |
+| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 8–21 | 8–23 | 5–26 |
+| [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 15 | 11–22 | 9–25 | 8–27 | 4–28 |
+| [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 20 | 14–26 | 13–26 | 12–27 | 9–28 |
+| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–29 | 21–30 | 21–31 | 19–34 |
+| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 26 | 20–29 | 18–30 | 18–31 | 15–32 |
+| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 12 | 12–18 | 12–18 | 5–18 | 5–19 |
+| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 25 | 25–28 | 25–28 | 25–28 | 23–29 |
+| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 26 | 20–29 | 18–30 | 16–31 | 12–35 |
+| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 21–29 | 20–30 | 19–32 |
+| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 14 | 12–17 | 12–20 | 12–21 | 11–22 |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 22 | 15–27 | 15–27 | 15–27 | 11–29 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 27 | 22–27 | 22–27 | 22–27 | 14–27 |
+| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 17 | 12–17 | 12–17 | 11–18 | 3–21 |
+| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 16 | 11–23 | 11–24 | 11–27 | 5–27 |
+| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 27 | 25–29 | 25–29 | 25–29 | 25–29 |
+| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 26 | 26 | 26 | 26–27 | 26–27 |
+| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 20 | 15–26 | 13–27 | 12–27 | 10–29 |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 22 | 19–22 | 17–22 | 17–22 | 17–26 |
+| [7 July 2018](2018-07-07-Survation.html) | Survation | 27 | 21–29 | 19–30 | 17–31 | 15–35 |
+| [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 22–28 | 21–28 | 21–28 | 17–30 |
+| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 20 | 19–27 | 19–27 | 17–27 | 16–28 |
 
 ### Probability Mass Function
 
