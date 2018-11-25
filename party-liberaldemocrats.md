@@ -102,7 +102,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 6–27 | 3–27 | 2–28 | 0–30 |
+| N/A | [Poll Average](average.html) | 17 | 6–27 | 3–27 | 2–28 | 0–30 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 17 | 13–22 | 12–24 | 10–25 | 7–27 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 11 | 8–16 | 5–19 | 4–21 | 2–24 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–27 | 17–28 | 15–29 |
@@ -110,7 +110,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–24 | 5–25 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 12–21 | 7–21 | 7–23 | 6–25 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
-| [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 27 | 25–27 | 24–27 | 15–27 | 12–27 |
+| [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 21 | 16–25 | 16–26 | 16–27 | 14–27 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 1–10 | 0–10 | 0–12 | 0–16 |
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 12 | 7–17 | 6–17 | 4–19 | 4–22 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 25 | 19–28 | 17–30 | 16–31 | 13–34 |
@@ -134,37 +134,37 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 28 | 25–32 | 25–33 | 23–33 | 20–36 |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 11 | 5–15 | 4–16 | 4–17 | 2–19 |
 | [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 26 | 20–30 | 18–31 | 17–32 | 14–33 |
-| [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 18 | 18 | 18 | 18 | 18–22 |
+| [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 16 | 14–20 | 11–21 | 10–22 | 7–25 |
 | [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 25 | 21–28 | 19–29 | 17–30 | 15–35 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 31 | 29–35 | 28–36 | 27–38 | 25–39 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 28 | 25–31 | 24–32 | 23–33 | 20–36 |
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 9 | 3–15 | 2–16 | 2–16 | 0–19 |
-| [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 24 | 16–29 | 16–32 | 16–32 | 16–32 |
+| [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 27 | 21–28 | 21–29 | 19–29 | 16–32 |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 20 | 15–25 | 13–26 | 13–27 | 10–28 |
-| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 18 | 18 | 16–21 | 16–21 | 13–21 |
+| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 17 | 15–21 | 14–23 | 13–24 | 9–26 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 11 | 5–16 | 4–16 | 4–17 | 2–19 |
-| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–22 | 14–24 | 14–25 | 11–27 |
+| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–24 | 14–25 | 13–25 | 11–27 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 8–21 | 8–23 | 5–26 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 15 | 11–22 | 9–25 | 8–27 | 4–28 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 20 | 14–26 | 13–26 | 12–27 | 9–28 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–29 | 21–30 | 21–31 | 19–34 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 26 | 20–29 | 18–30 | 18–31 | 15–32 |
-| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 12 | 12–18 | 12–18 | 5–18 | 5–19 |
+| [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 12 | 7–14 | 5–16 | 4–18 | 2–20 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 25 | 25–28 | 25–28 | 25–28 | 23–29 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 26 | 20–29 | 18–30 | 16–31 | 12–35 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 21–29 | 20–30 | 19–32 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 14 | 12–17 | 12–20 | 12–21 | 11–22 |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 22 | 15–27 | 15–27 | 15–27 | 11–29 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 27 | 22–27 | 22–27 | 22–27 | 14–27 |
-| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 17 | 12–17 | 12–17 | 11–18 | 3–21 |
-| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 16 | 11–23 | 11–24 | 11–27 | 5–27 |
-| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 27 | 25–29 | 25–29 | 25–29 | 25–29 |
-| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 26 | 26 | 26 | 26–27 | 26–27 |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 23 | 16–26 | 14–26 | 13–27 | 11–28 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 24 | 20–27 | 17–29 | 15–29 | 13–29 |
+| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 15 | 8–18 | 6–20 | 5–21 | 3–24 |
+| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 17 | 12–23 | 12–24 | 11–25 | 10–27 |
+| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 28 | 25–29 | 22–30 | 20–30 | 18–33 |
+| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 21 | 16–27 | 15–27 | 15–28 | 12–29 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 20 | 15–26 | 13–27 | 12–27 | 10–29 |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 22 | 19–22 | 17–22 | 17–22 | 17–26 |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 20 | 17–26 | 17–27 | 16–28 | 15–28 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 27 | 21–29 | 19–30 | 17–31 | 15–35 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 22–28 | 21–28 | 21–28 | 17–30 |
-| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 20 | 19–27 | 19–27 | 17–27 | 16–28 |
+| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 21 | 16–26 | 15–26 | 14–28 | 12–28 |
 
 ### Probability Mass Function
 
@@ -187,21 +187,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 4% | 84% |  |
 | 11 | 4% | 80% |  |
 | 12 | 4% | 76% | Last Result |
-| 13 | 4% | 71% |  |
+| 13 | 4% | 72% |  |
 | 14 | 4% | 67% |  |
 | 15 | 4% | 63% |  |
-| 16 | 6% | 60% |  |
-| 17 | 4% | 54% |  |
-| 18 | 4% | 50% | Median |
-| 19 | 4% | 47% |  |
-| 20 | 2% | 43% |  |
-| 21 | 2% | 40% |  |
-| 22 | 3% | 38% |  |
-| 23 | 2% | 35% |  |
-| 24 | 4% | 33% |  |
-| 25 | 4% | 29% |  |
-| 26 | 5% | 25% |  |
-| 27 | 16% | 20% |  |
+| 16 | 7% | 60% |  |
+| 17 | 4% | 53% | Median |
+| 18 | 6% | 49% |  |
+| 19 | 4% | 43% |  |
+| 20 | 3% | 39% |  |
+| 21 | 3% | 36% |  |
+| 22 | 3% | 33% |  |
+| 23 | 5% | 30% |  |
+| 24 | 4% | 25% |  |
+| 25 | 5% | 22% |  |
+| 26 | 5% | 16% |  |
+| 27 | 7% | 11% |  |
 | 28 | 2% | 4% |  |
 | 29 | 0.8% | 2% |  |
 | 30 | 0.4% | 0.8% |  |

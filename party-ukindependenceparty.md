@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 0–1 |
-| [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
+| [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
@@ -154,13 +154,13 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 1 | 1 | 1 | 1 | 1–2 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
+| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 1 | 1 | 1 | 1 | 1 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation |  |  |  |  |  |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
