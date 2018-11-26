@@ -49,18 +49,18 @@ The table below lists all polls registered and analyzed so far.
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 38–43% <br> 279–343 | 35–40% <br> 229–288 | 7–9% <br> 8–23 | 3–4% <br> 21–55 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 35–41% <br> 244–317 | 37–43% <br> 243–315 | 7–10% <br> 8–27 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 1–2% <br> 3–8 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 36–42% <br> 253–329 | 35–41% <br> 230–300 | 7–11% <br> 12–27 | 3–5% <br> 37–57 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
-| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 35–40% <br> 243–310 | 37–42% <br> 253–326 | 9–12% <br> 21–31 | 2–4% <br> 6–51 | 4–6% <br> 1 | 4–6% <br> 1–3 | 0–1% <br> 0–3 |
+| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 35–40% <br> 242–309 | 37–42% <br> 253–326 | 9–12% <br> 21–31 | 2–4% <br> 7–51 | 4–6% <br> 1 | 4–6% <br> 1–4 | 0–1% <br> 0–4 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 37–41% <br> 274–334 | 33–37% <br> 216–272 | 9–12% <br> 18–31 | 3–5% <br> 45–57 | 6–8% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 2–7 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 37–41% <br> 257–318 | 38–42% <br> 251–306 | 6–8% <br> 4–17 | 3–5% <br> 40–58 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 36–40% <br> 252–321 | 36–40% <br> 238–305 | 9–12% <br> 20–30 | 3–4% <br> 26–52 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 241–324 | 35–41% <br> 231–304 | 8–12% <br> 16–31 | 3–5% <br> 38–57 | 5–8% <br> 1 | 2–4% <br> 1–2 | 1–2% <br> 3–9 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 36–41% <br> 251–322 | 36–41% <br> 239–304 | 9–12% <br> 20–30 | 3–4% <br> 27–52 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 37–42% <br> 261–325 | 38–43% <br> 257–321 | 7–9% <br> 12–23 | 2–4% <br> 7–51 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 36–40% <br> 248–309 | 37–41% <br> 244–304 | 8–10% <br> 12–27 | 3–5% <br> 46–57 | 5–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 36–40% <br> 247–309 | 37–41% <br> 246–304 | 8–10% <br> 12–27 | 3–5% <br> 46–57 | 5–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 34–39% <br> 231–275 | 39–44% <br> 288–330 | 8–11% <br> 15–29 | 3–4% <br> 22–54 | 6–8% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 35–39% <br> 237–293 | 39–45% <br> 282–341 | 6–8% <br> 5–21 | 2–4% <br> 6–55 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 237–280 | 37–42% <br> 278–318 | 7–9% <br> 11–25 | 3–5% <br> 42–57 | 7–9% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
-| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 35–39% <br> 242–300 | 37–41% <br> 255–314 | 9–11% <br> 20–30 | 3–4% <br> 24–54 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
+| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 35–39% <br> 242–303 | 37–41% <br> 255–316 | 9–11% <br> 21–30 | 3–4% <br> 24–54 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 37–41% <br> 256–324 | 37–41% <br> 238–307 | 8–10% <br> 15–28 | 3–4% <br> 22–54 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 37–43% <br> 262–333 | 35–41% <br> 227–295 | 7–11% <br> 12–27 | 3–5% <br> 33–57 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 39–43% <br> 276–337 | 37–41% <br> 238–306 | 8–10% <br> 16–28 | 2–4% <br> 7–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
