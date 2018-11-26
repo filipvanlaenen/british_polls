@@ -138,7 +138,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 5 | 5 | 4–6 | 4–8 | 3–8 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–6 | 4–8 | 3–8 | 2–9 |
-| [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 5 | 5–7 | 4–8 | 4–8 | 3–10 |
+| [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–2 | 0–3 | 0–3 | 0–5 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–7 | 2–8 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
@@ -169,11 +169,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 6% | 100% |  |
 | 1 | 0.8% | 94% |  |
 | 2 | 2% | 93% |  |
-| 3 | 7% | 92% |  |
+| 3 | 6% | 92% |  |
 | 4 | 13% | 85% | Last Result |
 | 5 | 61% | 72% | Median |
 | 6 | 4% | 11% |  |
-| 7 | 1.0% | 8% |  |
+| 7 | 1.1% | 8% |  |
 | 8 | 6% | 7% |  |
 | 9 | 0.4% | 0.7% |  |
 | 10 | 0.2% | 0.3% |  |
