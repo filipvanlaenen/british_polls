@@ -144,7 +144,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1 | 1 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |

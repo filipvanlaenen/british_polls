@@ -147,18 +147,18 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 8–21 | 8–23 | 5–26 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 15 | 11–22 | 9–25 | 8–27 | 4–28 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 20 | 13–26 | 12–27 | 12–27 | 9–28 |
-| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–29 | 21–30 | 21–31 | 19–34 |
+| [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–30 | 23–31 | 21–31 | 19–34 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 26 | 20–29 | 18–30 | 18–31 | 15–32 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 12 | 6–15 | 5–16 | 4–17 | 3–20 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 26 | 23–28 | 20–29 | 20–30 | 17–31 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 26 | 20–29 | 18–30 | 16–31 | 12–35 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 21–29 | 20–30 | 19–32 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 17 | 15–20 | 14–21 | 12–23 | 8–26 |
-| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 22 | 15–26 | 13–27 | 12–27 | 11–29 |
+| [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 21 | 15–26 | 13–27 | 12–27 | 11–28 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 24 | 20–27 | 17–29 | 15–29 | 13–29 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 15 | 8–18 | 6–20 | 5–21 | 3–24 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 17 | 12–23 | 12–24 | 11–25 | 10–27 |
-| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 28 | 25–29 | 22–30 | 20–30 | 18–33 |
+| [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 27 | 24–29 | 22–30 | 21–30 | 18–33 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 21 | 16–27 | 15–27 | 15–28 | 12–29 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 20 | 15–26 | 13–27 | 12–27 | 10–29 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 20 | 17–26 | 17–27 | 16–28 | 15–28 |
