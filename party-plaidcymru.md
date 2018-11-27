@@ -98,7 +98,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 4–8 | 4–8 | 4–8 | 2–9 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
-| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–9 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 5 | 4–6 | 4–8 | 4–8 | 4–8 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–5 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 0–5 | 0–5 |
@@ -137,7 +137,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 4–8 | 4–8 | 4–8 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 5 | 5 | 4–6 | 4–8 | 3–8 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
-| [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–6 | 4–8 | 3–8 | 2–9 |
+| [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–7 | 4–8 | 3–8 | 2–9 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–7 | 2–8 |
@@ -172,7 +172,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 6% | 92% |  |
 | 4 | 13% | 85% | Last Result |
 | 5 | 61% | 72% | Median |
-| 6 | 4% | 11% |  |
+| 6 | 3% | 11% |  |
 | 7 | 1.1% | 8% |  |
 | 8 | 6% | 7% |  |
 | 9 | 0.4% | 0.7% |  |
