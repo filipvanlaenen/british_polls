@@ -150,14 +150,14 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 288 | 260–307 | 252–310 | 244–315 | 236–325 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 262 | 237–290 | 234–295 | 230–300 | 223–309 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 295 | 270–318 | 262–322 | 255–327 | 243–337 |
-| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 238 | 225–260 | 222–270 | 216–272 | 212–282 |
+| [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 237 | 225–259 | 223–267 | 219–272 | 209–283 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 286 | 263–300 | 259–301 | 251–306 | 243–312 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 274 | 258–297 | 245–299 | 238–305 | 235–311 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 283 | 238–296 | 234–301 | 231–304 | 225–309 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 274 | 251–292 | 239–297 | 239–304 | 235–315 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 297 | 270–317 | 261–319 | 257–321 | 247–329 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 281 | 258–297 | 250–301 | 246–304 | 238–309 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 308 | 294–320 | 290–322 | 285–329 | 273–338 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 305 | 292–319 | 287–324 | 283–331 | 271–341 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 313 | 293–336 | 283–337 | 282–341 | 271–353 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 296 | 287–310 | 284–313 | 278–318 | 259–323 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 290 | 266–305 | 260–310 | 255–316 | 242–325 |
