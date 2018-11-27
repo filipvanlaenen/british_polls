@@ -8,9 +8,9 @@ The table below lists all polls registered and analyzed so far.
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 37–42% <br> 275–341 | 34–39% <br> 226–286 | 7–10% <br> 10–25 | 3–4% <br> 25–55 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 33–39% <br> 238–303 | 36–42% <br> 255–316 | 6–9% <br> 4–20 | 4–6% <br> 54–58 | 7–10% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
-| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 257–333 | 36–42% <br> 228–300 | 7–10% <br> 7–25 | 3–5% <br> 32–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–332 | 36–42% <br> 231–299 | 7–10% <br> 7–25 | 3–5% <br> 35–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 37–42% <br> 261–321 | 37–42% <br> 242–298 | 7–9% <br> 9–24 | 3–5% <br> 39–57 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
-| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 39–44% <br> 288–344 | 35–40% <br> 220–276 | 7–9% <br> 7–23 | 3–4% <br> 27–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 39–44% <br> 284–347 | 35–40% <br> 223–280 | 7–9% <br> 7–23 | 3–4% <br> 24–55 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 39–44% <br> 276–342 | 37–42% <br> 234–300 | 6–8% <br> 3–18 | 3–4% <br> 22–55 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38–42% <br> 273–335 | 36–40% <br> 235–299 | 8–10% <br> 16–27 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–354 | 37–43% <br> 227–294 | 5–8% <br> 0–12 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
@@ -57,7 +57,7 @@ The table below lists all polls registered and analyzed so far.
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 36–41% <br> 251–322 | 36–41% <br> 239–304 | 9–12% <br> 20–30 | 3–4% <br> 27–52 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 37–42% <br> 261–325 | 38–43% <br> 257–321 | 7–9% <br> 12–23 | 2–4% <br> 7–51 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 36–40% <br> 247–309 | 37–41% <br> 246–304 | 8–10% <br> 12–27 | 3–5% <br> 46–57 | 5–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 34–39% <br> 231–275 | 39–44% <br> 288–330 | 8–11% <br> 15–29 | 3–4% <br> 22–54 | 6–8% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 34–39% <br> 231–277 | 39–44% <br> 285–329 | 8–11% <br> 16–29 | 3–4% <br> 24–54 | 6–8% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 35–39% <br> 237–293 | 39–45% <br> 282–341 | 6–8% <br> 5–21 | 2–4% <br> 6–55 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 237–280 | 37–42% <br> 278–318 | 7–9% <br> 11–25 | 3–5% <br> 42–57 | 7–9% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 35–39% <br> 242–303 | 37–41% <br> 255–316 | 9–11% <br> 21–30 | 3–4% <br> 24–54 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
