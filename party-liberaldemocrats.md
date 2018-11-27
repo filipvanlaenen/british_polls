@@ -106,9 +106,9 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 17 | 13–22 | 12–24 | 10–25 | 6–27 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 11 | 8–16 | 4–18 | 4–20 | 2–23 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–27 | 17–28 | 15–29 |
-| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 15 | 9–21 | 9–23 | 7–25 | 4–27 |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 15 | 10–21 | 8–23 | 7–25 | 4–27 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–24 | 5–25 |
-| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 12–21 | 7–21 | 7–23 | 6–25 |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 9–22 | 7–23 | 5–26 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 21 | 17–25 | 16–26 | 16–27 | 14–27 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 1–10 | 0–10 | 0–12 | 0–16 |
@@ -155,7 +155,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 21–29 | 20–30 | 19–32 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 17 | 15–20 | 14–21 | 12–23 | 8–26 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 21 | 15–26 | 13–27 | 12–27 | 11–28 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 24 | 20–27 | 17–29 | 15–29 | 13–29 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 24 | 20–27 | 18–28 | 16–29 | 13–29 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 15 | 8–18 | 6–20 | 5–21 | 3–24 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 17 | 12–23 | 12–24 | 11–25 | 10–27 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 27 | 24–29 | 22–30 | 21–30 | 18–33 |
@@ -181,22 +181,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 3% | 95% |  |
 | 5 | 1.3% | 92% |  |
 | 6 | 3% | 91% |  |
-| 7 | 0.7% | 88% |  |
-| 8 | 1.3% | 87% |  |
+| 7 | 0.8% | 88% |  |
+| 8 | 1.4% | 87% |  |
 | 9 | 2% | 86% |  |
 | 10 | 4% | 84% |  |
 | 11 | 5% | 80% |  |
 | 12 | 5% | 75% | Last Result |
 | 13 | 4% | 70% |  |
 | 14 | 4% | 66% |  |
-| 15 | 4% | 63% |  |
-| 16 | 5% | 59% |  |
+| 15 | 4% | 62% |  |
+| 16 | 6% | 59% |  |
 | 17 | 4% | 53% | Median |
-| 18 | 5% | 49% |  |
+| 18 | 4% | 49% |  |
 | 19 | 4% | 44% |  |
 | 20 | 4% | 40% |  |
 | 21 | 4% | 36% |  |
-| 22 | 2% | 32% |  |
+| 22 | 3% | 32% |  |
 | 23 | 4% | 30% |  |
 | 24 | 4% | 26% |  |
 | 25 | 6% | 22% |  |

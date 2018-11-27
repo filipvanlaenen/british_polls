@@ -102,9 +102,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 46 | 38–53 | 31–54 | 25–55 | 19–57 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 58 | 56–58 | 54–58 | 54–58 | 52–58 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 39 | 17–50 | 10–51 | 8–52 | 4–54 |
-| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 53 | 42–57 | 38–57 | 32–58 | 22–58 |
+| [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 52 | 42–57 | 39–57 | 35–58 | 24–58 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 51 | 45–55 | 40–57 | 39–57 | 36–58 |
-| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 46 | 38–53 | 32–54 | 27–54 | 17–57 |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 46 | 36–53 | 28–54 | 24–55 | 15–57 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 48 | 35–54 | 25–54 | 22–55 | 9–56 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38 | 21–47 | 17–48 | 9–50 | 5–52 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 53 | 41–56 | 32–58 | 30–58 | 14–58 |
@@ -151,7 +151,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 46 | 38–51 | 27–52 | 27–52 | 15–55 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 28 | 9–49 | 9–49 | 7–51 | 2–54 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 53 | 49–57 | 47–57 | 46–57 | 39–58 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 49 | 35–52 | 26–54 | 22–54 | 12–57 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 49 | 33–52 | 27–53 | 24–54 | 12–57 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 35 | 12–52 | 7–54 | 6–55 | 2–57 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 54 | 49–57 | 47–57 | 42–57 | 29–58 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 47 | 32–51 | 28–52 | 24–54 | 12–54 |
@@ -197,7 +197,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.5% | 94% |  |
 | 28 | 1.3% | 94% |  |
 | 29 | 0.7% | 92% |  |
-| 30 | 0.4% | 91% |  |
+| 30 | 0.4% | 92% |  |
 | 31 | 0.2% | 91% |  |
 | 32 | 0.9% | 91% |  |
 | 33 | 0.3% | 90% |  |
@@ -213,18 +213,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 77% |  |
 | 44 | 2% | 76% |  |
 | 45 | 3% | 74% |  |
-| 46 | 2% | 71% |  |
+| 46 | 3% | 72% |  |
 | 47 | 4% | 69% |  |
-| 48 | 4% | 65% |  |
+| 48 | 5% | 65% |  |
 | 49 | 5% | 61% |  |
 | 50 | 7% | 56% | Median |
-| 51 | 7% | 49% |  |
+| 51 | 8% | 49% |  |
 | 52 | 5% | 42% |  |
 | 53 | 4% | 37% |  |
-| 54 | 8% | 33% |  |
-| 55 | 8% | 25% |  |
+| 54 | 8% | 32% |  |
+| 55 | 8% | 24% |  |
 | 56 | 3% | 17% |  |
-| 57 | 6% | 14% |  |
+| 57 | 5% | 14% |  |
 | 58 | 8% | 8% |  |
 | 59 | 0% | 0% |  |
 

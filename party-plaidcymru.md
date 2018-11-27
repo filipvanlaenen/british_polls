@@ -100,7 +100,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–9 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 5 | 4–6 | 4–8 | 4–8 | 4–8 |
-| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–5 |
+| [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 0–5 | 0–5 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -147,7 +147,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 1–7 |
-| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 1–5 |
+| [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 1–5 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 5 | 4–5 | 4–7 | 4–8 | 3–8 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 1–5 | 0–5 |
@@ -170,13 +170,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.8% | 94% |  |
 | 2 | 2% | 93% |  |
 | 3 | 6% | 92% |  |
-| 4 | 13% | 85% | Last Result |
-| 5 | 61% | 72% | Median |
+| 4 | 12% | 85% | Last Result |
+| 5 | 62% | 73% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.1% | 8% |  |
 | 8 | 6% | 7% |  |
 | 9 | 0.4% | 0.7% |  |
-| 10 | 0.2% | 0.3% |  |
+| 10 | 0.1% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
