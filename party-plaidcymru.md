@@ -142,7 +142,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
-| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 1–5 | 0–5 |
+| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 1–5 | 0–5 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–4 | 0–4 |

@@ -125,8 +125,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 33 | 28–39 | 27–41 | 27–43 | 24–44 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 22 | 16–26 | 15–28 | 14–28 | 13–29 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
-| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 21–31 | 21–31 | 20–33 |
-| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–26 | 16–26 | 16–27 | 15–28 |
+| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 22–31 | 21–31 | 19–32 |
+| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–26 | 16–26 | 16–27 | 14–28 |
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 27 | 22–28 | 18–29 | 16–30 | 14–36 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 22 | 16–26 | 14–27 | 14–27 | 12–28 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 28 | 25–30 | 24–31 | 24–32 | 21–33 |
@@ -150,7 +150,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–30 | 23–30 | 21–31 | 19–34 |
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 26 | 20–28 | 19–30 | 18–31 | 15–32 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 12 | 6–15 | 5–16 | 4–17 | 3–20 |
-| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 26 | 23–28 | 20–29 | 20–30 | 17–31 |
+| [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 27 | 23–28 | 21–29 | 20–30 | 17–32 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 26 | 20–29 | 18–30 | 16–31 | 12–35 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 26 | 24–29 | 21–29 | 20–30 | 19–32 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 17 | 15–20 | 14–21 | 12–23 | 8–26 |
@@ -163,7 +163,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 20 | 15–26 | 13–27 | 12–27 | 10–29 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 20 | 17–26 | 17–27 | 16–28 | 15–28 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 27 | 21–29 | 19–30 | 17–31 | 15–35 |
-| [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 22–28 | 21–28 | 21–28 | 17–30 |
+| [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 21–27 | 21–28 | 20–28 | 17–30 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 21 | 16–26 | 15–26 | 14–28 | 12–28 |
 
 ### Probability Mass Function
