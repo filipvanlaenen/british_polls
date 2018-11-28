@@ -134,7 +134,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 0–1 |
 | [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 1 | 1 | 1–2 | 1–2 | 1–2 |

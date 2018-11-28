@@ -131,7 +131,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 310 | 278–325 | 269–331 | 268–334 | 264–337 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 282 | 265–307 | 261–313 | 257–319 | 250–329 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 321 | 314–340 | 307–344 | 293–347 | 281–358 |
-| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 306 | 280–325 | 273–331 | 269–332 | 262–341 |
+| [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 301 | 279–325 | 272–330 | 269–333 | 261–340 |
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 274 | 257–310 | 251–317 | 246–320 | 236–329 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 261 | 247–288 | 245–291 | 243–294 | 238–309 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 307 | 293–318 | 287–322 | 278–325 | 272–332 |
@@ -140,14 +140,14 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [11–13 September 2018](2018-09-13-Opinium.html) | Opinium <br> The Observer | 297 | 273–320 | 268–324 | 265–328 | 260–335 |
 | [6–10 September 2018](2018-09-10-KantarPublic.html) | Kantar Public | 315 | 291–336 | 284–344 | 275–350 | 261–360 |
 | [7–9 September 2018](2018-09-09-ICMResearch.html) | ICM Research <br> The Guardian | 325 | 298–338 | 293–340 | 285–345 | 278–354 |
-| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 286 | 260–317 | 257–327 | 250–331 | 242–339 |
+| [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 294 | 263–324 | 258–329 | 253–334 | 244–343 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 275 | 263–300 | 260–313 | 256–320 | 245–332 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 308 | 287–320 | 279–324 | 274–327 | 262–336 |
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 271 | 253–295 | 245–306 | 240–312 | 232–328 |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 297 | 273–322 | 268–327 | 263–330 | 255–337 |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 308 | 285–322 | 275–327 | 270–331 | 258–338 |
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 297 | 277–314 | 272–322 | 268–328 | 259–335 |
-| [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 300 | 274–321 | 269–325 | 266–328 | 258–336 |
+| [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 300 | 274–320 | 269–325 | 266–328 | 259–335 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 268 | 256–283 | 248–289 | 246–296 | 235–313 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 316 | 288–336 | 281–339 | 279–343 | 269–347 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 270 | 249–299 | 244–308 | 240–317 | 231–326 |
