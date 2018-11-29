@@ -116,7 +116,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 54 | 42–58 | 38–58 | 30–58 | 21–58 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 51 | 48–56 | 45–57 | 41–57 | 40–57 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 39 | 21–49 | 14–51 | 8–52 | 4–55 |
-| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 51 | 46–54 | 44–55 | 40–56 | 29–57 |
+| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 51 | 46–54 | 44–55 | 41–56 | 29–57 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 43 | 35–50 | 32–52 | 26–53 | 20–55 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 52 | 48–54 | 44–54 | 36–54 | 26–56 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 52 | 45–56 | 42–57 | 41–57 | 39–57 |
@@ -134,9 +134,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 39 | 16–50 | 7–51 | 5–52 | 1–54 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 3 | 0–14 | 0–22 | 0–28 | 0–39 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 51 | 48–54 | 47–54 | 47–55 | 42–56 |
-| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 37 | 9–54 | 6–55 | 3–56 | 1–58 |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 41 | 10–54 | 6–56 | 3–57 | 1–58 |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 47 | 38–51 | 32–52 | 27–52 | 16–55 |
-| [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 52 | 49–57 | 47–57 | 44–57 | 40–57 |
+| [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 52 | 48–57 | 46–57 | 43–57 | 40–57 |
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 38 | 22–48 | 15–49 | 9–50 | 4–53 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 54 | 47–56 | 45–58 | 42–58 | 38–58 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 38 | 20–50 | 10–51 | 8–52 | 4–55 |
@@ -202,7 +202,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.9% | 91% |  |
 | 33 | 0.3% | 90% |  |
 | 34 | 0.2% | 90% |  |
-| 35 | 0.7% | 90% | Last Result |
+| 35 | 0.8% | 90% | Last Result |
 | 36 | 0.6% | 89% |  |
 | 37 | 0.3% | 88% |  |
 | 38 | 1.3% | 88% |  |
@@ -214,12 +214,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 2% | 76% |  |
 | 45 | 3% | 74% |  |
 | 46 | 3% | 71% |  |
-| 47 | 4% | 68% |  |
+| 47 | 4% | 69% |  |
 | 48 | 5% | 65% |  |
 | 49 | 5% | 60% |  |
 | 50 | 5% | 55% |  |
 | 51 | 9% | 50% | Median |
-| 52 | 5% | 42% |  |
+| 52 | 6% | 42% |  |
 | 53 | 4% | 36% |  |
 | 54 | 7% | 32% |  |
 | 55 | 8% | 24% |  |
