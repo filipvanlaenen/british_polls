@@ -104,7 +104,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 0–5 | 0–5 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 4–7 | 4–8 | 3–8 |
+| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–7 | 4–8 | 3–8 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–10 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–9 | 2–11 |

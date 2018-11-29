@@ -108,12 +108,12 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 48 | 35–54 | 25–54 | 22–55 | 9–56 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38 | 21–47 | 17–48 | 9–50 | 5–52 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 53 | 41–56 | 32–58 | 30–58 | 14–58 |
-| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 57 | 54–58 | 54–58 | 52–58 | 49–59 |
+| [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 57 | 55–58 | 54–58 | 53–58 | 49–59 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 50 | 41–55 | 40–56 | 35–57 | 24–57 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> The Times | 45 | 37–51 | 34–52 | 28–53 | 19–56 |
 | [11–15 October 2018](2018-10-15-KantarPublic.html) | Kantar Public | 50 | 41–54 | 40–56 | 39–56 | 26–57 |
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 52 | 46–55 | 42–57 | 41–57 | 38–58 |
-| [10 October 2018](2018-10-10-Survation.html) | Survation | 54 | 42–58 | 38–58 | 30–58 | 21–58 |
+| [10 October 2018](2018-10-10-Survation.html) | Survation | 54 | 42–58 | 39–58 | 31–58 | 21–58 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 51 | 48–56 | 45–57 | 41–57 | 40–57 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 39 | 21–49 | 14–51 | 8–52 | 4–55 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 51 | 46–54 | 44–55 | 41–56 | 29–57 |
@@ -134,7 +134,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [7 September 2018](2018-09-07-Survation.html) | Survation <br> Daily Mail | 39 | 16–50 | 7–51 | 5–52 | 1–54 |
 | [4–7 September 2018](2018-09-07-BMGResearch.html) | BMG Research <br> The Independent | 3 | 0–14 | 0–22 | 0–28 | 0–39 |
 | [3–4 September 2018](2018-09-04-YouGov.html) | YouGov <br> The Times | 51 | 48–54 | 47–54 | 47–55 | 42–56 |
-| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 41 | 10–54 | 6–56 | 3–57 | 1–58 |
+| [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 40 | 11–55 | 7–56 | 3–57 | 1–58 |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 47 | 38–51 | 32–52 | 27–52 | 16–55 |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 52 | 48–57 | 46–57 | 43–57 | 40–57 |
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 38 | 22–48 | 15–49 | 9–50 | 4–53 |
@@ -157,7 +157,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 47 | 32–51 | 28–52 | 24–54 | 12–54 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 45 | 29–51 | 26–52 | 22–54 | 9–56 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 50 | 42–53 | 39–55 | 33–57 | 26–57 |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 36 | 18–47 | 10–49 | 7–49 | 3–51 |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 36 | 15–46 | 13–48 | 7–49 | 4–51 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 39 | 11–50 | 7–52 | 3–52 | 1–54 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 39 | 19–47 | 14–49 | 12–50 | 5–52 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 41 | 26–51 | 21–51 | 19–53 | 8–55 |
@@ -172,7 +172,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% |  |
 | 4 | 0% | 99.9% |  |
-| 5 | 0% | 99.9% |  |
+| 5 | 0.1% | 99.9% |  |
 | 6 | 0.1% | 99.8% |  |
 | 7 | 0.1% | 99.8% |  |
 | 8 | 0.1% | 99.6% |  |
@@ -213,18 +213,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 77% |  |
 | 44 | 2% | 76% |  |
 | 45 | 3% | 74% |  |
-| 46 | 3% | 71% |  |
+| 46 | 3% | 72% |  |
 | 47 | 4% | 69% |  |
 | 48 | 5% | 65% |  |
 | 49 | 5% | 60% |  |
-| 50 | 5% | 55% |  |
-| 51 | 9% | 50% | Median |
+| 50 | 5% | 56% |  |
+| 51 | 9% | 51% | Median |
 | 52 | 6% | 42% |  |
-| 53 | 4% | 36% |  |
-| 54 | 7% | 32% |  |
-| 55 | 8% | 24% |  |
+| 53 | 5% | 36% |  |
+| 54 | 8% | 32% |  |
+| 55 | 7% | 24% |  |
 | 56 | 3% | 17% |  |
-| 57 | 5% | 14% |  |
+| 57 | 6% | 14% |  |
 | 58 | 8% | 8% |  |
 | 59 | 0% | 0% |  |
 
