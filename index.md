@@ -15,7 +15,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–354 | 37–43% <br> 227–294 | 5–8% <br> 0–12 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 252–330 | 34–40% <br> 224–296 | 8–12% <br> 16–31 | 3–5% <br> 35–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–9 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 37–43% <br> 263–335 | 36–42% <br> 236–301 | 6–9% <br> 2–20 | 3–5% <br> 30–58 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 35–40% <br> 244–315 | 36–41% <br> 238–303 | 9–12% <br> 18–30 | 3–5% <br> 40–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
+| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 35–40% <br> 243–313 | 36–41% <br> 240–303 | 9–12% <br> 18–30 | 3–5% <br> 41–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
