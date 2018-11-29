@@ -112,12 +112,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [10 October 2018](2018-10-10-Survation.html) | Survation |  |  |  |  |  |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–8 | 4–8 |
-| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 5 | 3–6 | 3–8 | 3–8 | 3–9 |
+| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–6 | 3–8 | 3–8 | 3–9 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 5 | 3–8 | 3–8 | 3–8 | 2–9 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–5 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–5 |
+| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–6 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 2 | 0–3 | 0–4 | 0–5 | 0–5 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
@@ -136,7 +136,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 4–8 | 4–8 | 4–8 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 5 | 5 | 4–6 | 4–8 | 3–8 |
-| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
+| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–7 | 4–8 | 3–8 | 2–9 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
@@ -170,8 +170,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.8% | 94% |  |
 | 2 | 2% | 93% |  |
 | 3 | 6% | 92% |  |
-| 4 | 12% | 85% | Last Result |
-| 5 | 62% | 73% | Median |
+| 4 | 13% | 85% | Last Result |
+| 5 | 61% | 73% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.1% | 8% |  |
 | 8 | 6% | 7% |  |

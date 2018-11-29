@@ -120,12 +120,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 11 | 4–17 | 3–19 | 2–20 | 1–24 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 20 | 15–24 | 13–25 | 13–26 | 11–27 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 14 | 9–16 | 8–16 | 5–17 | 3–20 |
-| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 26 | 22–28 | 19–29 | 17–29 | 16–31 |
+| [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 26 | 21–28 | 19–29 | 18–30 | 15–32 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 21 | 16–25 | 15–26 | 14–27 | 12–28 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 33 | 28–39 | 27–41 | 27–43 | 24–44 |
 | [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 22 | 16–26 | 15–28 | 14–28 | 13–29 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
-| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 22–31 | 21–31 | 19–32 |
+| [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 22–31 | 21–31 | 19–33 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–26 | 16–26 | 16–27 | 14–28 |
 | [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 27 | 22–28 | 18–29 | 16–30 | 14–36 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 22 | 16–26 | 14–27 | 14–27 | 12–28 |
@@ -144,7 +144,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 17 | 15–21 | 14–23 | 13–24 | 9–26 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 11 | 5–15 | 4–16 | 4–17 | 2–19 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–24 | 14–25 | 13–25 | 11–27 |
-| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 8–21 | 8–23 | 5–26 |
+| [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 12–20 | 9–22 | 7–23 | 5–26 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 16 | 11–23 | 10–25 | 8–26 | 4–28 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 20 | 13–26 | 12–27 | 12–27 | 9–28 |
 | [6–10 August 2018](2018-08-10-BMGResearch.html) | BMG Research <br> The Independent | 28 | 25–30 | 23–30 | 21–31 | 19–34 |
@@ -197,18 +197,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 4% | 40% |  |
 | 21 | 4% | 36% |  |
 | 22 | 3% | 32% |  |
-| 23 | 4% | 30% |  |
-| 24 | 4% | 26% |  |
-| 25 | 6% | 22% |  |
-| 26 | 5% | 16% |  |
+| 23 | 4% | 29% |  |
+| 24 | 4% | 25% |  |
+| 25 | 6% | 21% |  |
+| 26 | 4% | 15% |  |
 | 27 | 7% | 11% |  |
 | 28 | 2% | 4% |  |
-| 29 | 0.8% | 2% |  |
-| 30 | 0.4% | 0.8% |  |
+| 29 | 0.6% | 2% |  |
+| 30 | 0.5% | 0.9% |  |
 | 31 | 0.2% | 0.4% |  |
-| 32 | 0.1% | 0.2% |  |
+| 32 | 0.1% | 0.3% |  |
 | 33 | 0% | 0.1% |  |
 | 34 | 0% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 35 | 0% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 
