@@ -63,7 +63,7 @@ The table below lists all polls registered and analyzed so far.
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 35–39% <br> 242–303 | 37–41% <br> 255–316 | 9–11% <br> 21–30 | 3–4% <br> 24–54 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 37–41% <br> 256–324 | 37–41% <br> 238–307 | 8–10% <br> 15–28 | 3–4% <br> 22–54 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 37–43% <br> 262–333 | 35–41% <br> 227–295 | 7–11% <br> 12–27 | 3–5% <br> 33–57 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
-| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 39–43% <br> 274–337 | 37–41% <br> 238–308 | 8–10% <br> 16–28 | 2–4% <br> 7–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
+| [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 39–43% <br> 274–337 | 37–41% <br> 238–305 | 8–10% <br> 16–27 | 2–4% <br> 7–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 35–41% <br> 240–319 | 37–43% <br> 244–333 | 8–12% <br> 17–31 | 2–4% <br> 3–52 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 3–8 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 38–43% <br> 267–333 | 36–41% <br> 229–298 | 9–12% <br> 20–28 | 2–4% <br> 12–50 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 39–43% <br> 261–335 | 38–42% <br> 236–302 | 8–11% <br> 14–28 | 3–4% <br> 19–53 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
