@@ -107,7 +107,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 11 | 8–16 | 4–18 | 4–20 | 2–23 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 24 | 19–27 | 18–27 | 17–28 | 15–29 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 15 | 10–21 | 8–23 | 7–25 | 4–27 |
-| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–24 | 5–25 |
+| [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–22 | 5–25 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 9–22 | 7–23 | 5–26 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 21 | 17–25 | 16–26 | 16–27 | 14–27 |
@@ -179,26 +179,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 2% | 98% |  |
 | 3 | 2% | 97% |  |
 | 4 | 3% | 95% |  |
-| 5 | 1.4% | 92% |  |
+| 5 | 1.3% | 92% |  |
 | 6 | 2% | 91% |  |
-| 7 | 0.8% | 88% |  |
+| 7 | 0.9% | 88% |  |
 | 8 | 1.4% | 87% |  |
 | 9 | 2% | 86% |  |
 | 10 | 4% | 84% |  |
-| 11 | 4% | 80% |  |
+| 11 | 5% | 80% |  |
 | 12 | 5% | 75% | Last Result |
 | 13 | 4% | 70% |  |
 | 14 | 4% | 66% |  |
 | 15 | 4% | 62% |  |
 | 16 | 5% | 58% |  |
-| 17 | 4% | 53% | Median |
-| 18 | 4% | 49% |  |
+| 17 | 5% | 53% | Median |
+| 18 | 5% | 48% |  |
 | 19 | 4% | 44% |  |
 | 20 | 4% | 40% |  |
 | 21 | 4% | 36% |  |
 | 22 | 3% | 32% |  |
 | 23 | 4% | 29% |  |
-| 24 | 4% | 26% |  |
+| 24 | 4% | 25% |  |
 | 25 | 6% | 22% |  |
 | 26 | 4% | 15% |  |
 | 27 | 8% | 11% |  |
