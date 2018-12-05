@@ -128,7 +128,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 267 | 252–294 | 246–302 | 243–313 | 237–319 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 329 | 314–349 | 303–353 | 299–356 | 288–366 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 241 | 223–258 | 218–266 | 214–274 | 204–289 |
-| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 310 | 278–325 | 269–331 | 268–334 | 264–337 |
+| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 308 | 281–325 | 270–329 | 268–332 | 262–337 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 282 | 265–307 | 261–313 | 257–319 | 250–329 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 322 | 307–338 | 299–343 | 296–348 | 282–360 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 302 | 278–327 | 272–331 | 269–333 | 262–339 |
@@ -146,7 +146,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [31 August–1 September 2018](2018-09-01-Survation.html) | Survation | 271 | 252–296 | 246–306 | 242–314 | 232–329 |
 | [28–29 August 2018](2018-08-29-YouGov.html) | YouGov <br> The Times | 297 | 273–322 | 268–327 | 263–330 | 255–337 |
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 307 | 282–323 | 274–327 | 268–331 | 259–338 |
-| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 297 | 277–314 | 272–322 | 268–328 | 259–335 |
+| [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 296 | 274–317 | 270–326 | 267–330 | 260–338 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 300 | 274–320 | 269–325 | 266–328 | 259–335 |
 | [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 268 | 256–283 | 248–289 | 246–296 | 235–313 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 318 | 290–335 | 283–338 | 278–343 | 269–350 |
@@ -162,7 +162,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 272 | 252–296 | 249–305 | 247–309 | 241–318 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 251 | 239–268 | 234–274 | 231–278 | 224–292 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 263 | 247–286 | 242–288 | 237–293 | 232–307 |
-| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 258 | 243–270 | 239–276 | 237–280 | 229–295 |
+| [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 258 | 243–271 | 239–278 | 237–281 | 229–294 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 264 | 251–290 | 246–297 | 242–303 | 237–314 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 282 | 263–313 | 260–319 | 256–324 | 248–332 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 309 | 279–324 | 269–329 | 262–333 | 253–338 |
