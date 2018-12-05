@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2018-12-05T15:24:52.358872+01:00</updated>
+  <updated>2018-12-05T19:42:53.319315+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.5–42.2%, 275–341 seats</li><li>Labour Party: 34.5–39.1%, 226–286 seats</li><li>Liberal Democrats: 6.9–9.6%, 10–25 seats</li><li>Scottish National Party: 2.7–4.5%, 25–55 seats</li><li>Plaid Cymru: 0.3–1.1%, 1–5 seats</li><li>UK Independence Party: 5.0–7.4%, 1 seats</li><li>Green Party: 3.2–5.1%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-11-19-YouGov.html</id>
@@ -224,6 +224,14 @@
     <dc:date>2018-11-27T17:24:04.044321+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 34.6–39.5%, 239–293 seats</li><li>Labour Party: 39.5–44.5%, 283–344 seats</li><li>Liberal Democrats: 5.8–8.4%, 5–21 seats</li><li>Scottish National Party: 2.3–4.0%, 4–55 seats</li><li>Plaid Cymru: 0.6–1.7%, 4–8 seats</li><li>UK Independence Party: 4.9–7.3%, 1 seats</li><li>Green Party: 2.3–4.0%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-07-14-Deltapoll.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-07-14-Deltapoll.html"/>
+    <title>Opinion Poll by Deltapoll for The Sun on Sunday, 12–14 July 2018</title>
+    <updated>2018-12-05T17:47:34.318747+01:00</updated>
+    <dc:date>2018-12-05T17:47:34.318747+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 33.6–37.8%, 237–282 seats</li><li>Labour Party: 37.5–41.8%, 273–316 seats</li><li>Liberal Democrats: 6.8–9.2%, 11–25 seats</li><li>Scottish National Party: 3.2–4.9%, 44–57 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–8 seats</li><li>UK Independence Party: 6.8–9.2%, 1–2 seats</li><li>Green Party: 2.3–3.8%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-07-13-Opinium.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-07-13-Opinium.html"/>
@@ -240,6 +248,14 @@
     <dc:date>2018-11-26T18:36:39.386262+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.1–42.9%, 258–335 seats</li><li>Labour Party: 35.2–41.0%, 225–295 seats</li><li>Liberal Democrats: 7.5–10.9%, 12–27 seats</li><li>Scottish National Party: 2.9–5.3%, 36–57 seats</li><li>Plaid Cymru: 0.6–1.8%, 3–8 seats</li><li>UK Independence Party: 2.2–4.3%, 0–1 seats</li><li>Green Party: 2.2–4.3%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-07-09-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-07-09-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public, 5–9 July 2018</title>
+    <updated>2018-12-05T19:42:53.319315+01:00</updated>
+    <dc:date>2018-12-05T19:42:53.319315+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.7–43.1%, 274–337 seats</li><li>Labour Party: 36.8–41.1%, 238–305 seats</li><li>Liberal Democrats: 7.8–10.3%, 16–27 seats</li><li>Scottish National Party: 2.3–3.8%, 7–49 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–3 seats</li><li>UK Independence Party: 3.2–4.9%, 0–1 seats</li><li>Green Party: 2.3–3.8%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-07-09-ICMResearch.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-07-09-ICMResearch.html"/>
@@ -247,5 +263,5 @@
     <updated>2018-11-29T22:45:49.165689+01:00</updated>
     <dc:date>2018-11-29T22:45:49.165689+01:00</dc:date>
   </entry>
-  <dc:date>2018-12-05T15:24:52.358872+01:00</dc:date>
+  <dc:date>2018-12-05T19:42:53.319315+01:00</dc:date>
 </feed>
