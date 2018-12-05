@@ -161,11 +161,11 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 287 | 269–310 | 266–319 | 261–325 | 255–329 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 272 | 252–296 | 249–305 | 247–309 | 241–318 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 251 | 239–268 | 234–274 | 231–278 | 224–292 |
-| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 263 | 246–283 | 241–288 | 239–293 | 232–308 |
+| [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 263 | 248–282 | 243–287 | 239–293 | 232–307 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 256 | 243–271 | 240–278 | 237–282 | 229–295 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 264 | 251–290 | 246–297 | 242–303 | 237–314 |
 | [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 282 | 263–313 | 260–319 | 256–324 | 248–332 |
-| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 309 | 279–324 | 269–329 | 262–333 | 253–338 |
+| [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 303 | 268–325 | 262–330 | 258–335 | 250–344 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 310 | 286–332 | 279–335 | 274–337 | 266–344 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 269 | 250–303 | 245–312 | 240–319 | 231–329 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 317 | 277–330 | 274–333 | 267–333 | 259–340 |
