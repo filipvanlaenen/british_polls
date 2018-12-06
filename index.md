@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 35–44% <br> 245–340 | 34–42% <br> 232–317 | 6–11% <br> 2–28 | 3–6% <br> 20–58 | 3–9% <br> 0–2 | 2–6% <br> 1–2 | 0–2% <br> 0–8 |
-| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 38–43% <br> 280–339 | 33–38% <br> 220–276 | 9–12% <br> 20–28 | 3–4% <br> 44–51 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
+| N/A | [Poll Average](average.html) | 35–44% <br> 245–341 | 34–42% <br> 225–317 | 6–11% <br> 2–28 | 3–6% <br> 20–58 | 3–9% <br> 0–2 | 2–6% <br> 1–2 | 0–2% <br> 0–8 |
+| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 38–43% <br> 288–344 | 33–38% <br> 216–264 | 9–12% <br> 21–29 | 3–4% <br> 34–51 | 5–7% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 33–39% <br> 238–303 | 36–42% <br> 255–316 | 6–9% <br> 4–20 | 4–6% <br> 54–58 | 7–10% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–332 | 36–42% <br> 231–299 | 7–10% <br> 7–25 | 3–5% <br> 35–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
