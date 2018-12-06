@@ -109,7 +109,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 1 | 1 | 1 | 1 | 1 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 |  |  |  |  |  |
+| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 1 | 1 | 1 | 1 | 1 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 1 | 1 | 1 | 1 | 1 |
@@ -175,10 +175,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Last Result, Median |
-| 2 | 12% | 14% |  |
-| 3 | 1.3% | 1.3% |  |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 88% | 100% | Last Result, Median |
+| 2 | 11% | 12% |  |
+| 3 | 1.2% | 1.2% |  |
+| 4 | 0% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ Last result: **7.4%** (General Election of 8 June 2017)
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 8.0% | 7.1–9.1% | 6.8–9.5% | 6.6–9.7% | 6.2–10.3% |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 7.9% | 7.2–8.7% | 7.0–8.9% | 6.8–9.2% | 6.4–9.6% |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
-| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 8.2% | 7.9–8.5% | 7.8–8.5% | 7.8–8.6% | 7.6–8.7% |
+| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 8.2% | 7.9–8.4% | 7.8–8.5% | 7.8–8.6% | 7.7–8.7% |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 7.1% | 6.3–8.0% | 6.1–8.2% | 5.9–8.4% | 5.6–8.9% |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.4% | 7.6–10.8% |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
@@ -104,7 +104,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 6–27 | 3–28 | 2–28 | 0–31 |
+| N/A | [Poll Average](average.html) | 19 | 8–27 | 4–28 | 2–28 | 0–31 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 26 | 22–28 | 21–28 | 21–29 | 18–31 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 17 | 13–22 | 12–24 | 10–25 | 6–27 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 11 | 8–16 | 4–18 | 4–20 | 2–23 |
@@ -112,7 +112,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 15 | 10–21 | 8–23 | 7–25 | 4–27 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 15 | 11–19 | 10–21 | 9–22 | 5–25 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 9–22 | 7–23 | 5–26 |
-| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 |  |  |  |  |  |
+| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 17 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 21 | 17–25 | 16–26 | 16–27 | 14–27 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 1–10 | 0–10 | 0–12 | 0–16 |
@@ -178,40 +178,40 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 1.1% | 99.1% |  |
-| 2 | 1.3% | 98% |  |
+| 0 | 0.8% | 100% |  |
+| 1 | 0.9% | 99.2% |  |
+| 2 | 1.2% | 98% |  |
 | 3 | 2% | 97% |  |
 | 4 | 2% | 95% |  |
 | 5 | 0.5% | 93% |  |
-| 6 | 2% | 92% |  |
-| 7 | 0.4% | 90% |  |
-| 8 | 1.1% | 89% |  |
-| 9 | 1.4% | 88% |  |
-| 10 | 4% | 87% |  |
-| 11 | 4% | 83% |  |
-| 12 | 4% | 79% | Last Result |
-| 13 | 3% | 75% |  |
-| 14 | 2% | 71% |  |
-| 15 | 3% | 69% |  |
-| 16 | 3% | 66% |  |
-| 17 | 3% | 62% |  |
-| 18 | 4% | 59% |  |
-| 19 | 3% | 55% |  |
-| 20 | 3% | 52% | Median |
-| 21 | 4% | 48% |  |
-| 22 | 3% | 45% |  |
-| 23 | 4% | 41% |  |
-| 24 | 6% | 37% |  |
-| 25 | 8% | 31% |  |
-| 26 | 6% | 23% |  |
-| 27 | 11% | 17% |  |
-| 28 | 4% | 6% |  |
+| 6 | 2% | 93% |  |
+| 7 | 0.4% | 91% |  |
+| 8 | 1.0% | 90% |  |
+| 9 | 1.2% | 89% |  |
+| 10 | 3% | 88% |  |
+| 11 | 4% | 85% |  |
+| 12 | 4% | 81% | Last Result |
+| 13 | 3% | 77% |  |
+| 14 | 2% | 74% |  |
+| 15 | 3% | 72% |  |
+| 16 | 3% | 69% |  |
+| 17 | 9% | 66% |  |
+| 18 | 5% | 56% |  |
+| 19 | 4% | 51% | Median |
+| 20 | 4% | 47% |  |
+| 21 | 4% | 44% |  |
+| 22 | 3% | 40% |  |
+| 23 | 4% | 37% |  |
+| 24 | 5% | 33% |  |
+| 25 | 8% | 28% |  |
+| 26 | 6% | 20% |  |
+| 27 | 10% | 15% |  |
+| 28 | 3% | 5% |  |
 | 29 | 0.9% | 2% |  |
-| 30 | 0.7% | 1.3% |  |
-| 31 | 0.3% | 0.6% |  |
-| 32 | 0.2% | 0.3% |  |
-| 33 | 0.1% | 0.2% |  |
+| 30 | 0.6% | 1.1% |  |
+| 31 | 0.2% | 0.5% |  |
+| 32 | 0.1% | 0.3% |  |
+| 33 | 0% | 0.1% |  |
 | 34 | 0% | 0.1% |  |
 | 35 | 0% | 0.1% |  |
 | 36 | 0% | 0% |  |
