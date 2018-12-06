@@ -96,8 +96,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–8 | 0–8 | 0–9 |
-| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–8 | 0–8 | 0–9 |
+| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 0–5 | 0–5 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 4–8 | 4–8 | 4–8 | 2–9 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
@@ -170,12 +170,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 0.6% | 90% |  |
-| 2 | 1.2% | 89% |  |
-| 3 | 8% | 88% |  |
-| 4 | 10% | 80% | Last Result |
-| 5 | 59% | 70% | Median |
+| 0 | 6% | 100% |  |
+| 1 | 0.7% | 94% |  |
+| 2 | 2% | 93% |  |
+| 3 | 9% | 92% |  |
+| 4 | 10% | 82% | Last Result |
+| 5 | 61% | 72% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.2% | 8% |  |
 | 8 | 6% | 7% |  |
