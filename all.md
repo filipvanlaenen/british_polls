@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 38–43% <br> 288–344 | 33–38% <br> 216–265 | 9–12% <br> 19–30 | 3–4% <br> 32–52 | 5–7% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 0–5 |
+| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 38–43% <br> 289–345 | 33–38% <br> 215–264 | 9–12% <br> 19–30 | 3–4% <br> 29–52 | 5–7% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 37–42% <br> 275–341 | 34–39% <br> 226–286 | 7–10% <br> 10–25 | 3–4% <br> 25–55 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 1–5 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 33–39% <br> 238–303 | 36–42% <br> 255–316 | 6–9% <br> 4–20 | 4–6% <br> 54–58 | 7–10% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
