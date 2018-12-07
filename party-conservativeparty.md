@@ -117,7 +117,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 298 | 266–322 | 262–328 | 258–332 | 248–342 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 283 | 266–309 | 262–315 | 259–320 | 252–326 |
 | [4–5 November 2018](2018-11-05-YouGov.html) | YouGov <br> The Times | 323 | 299–338 | 292–343 | 284–347 | 273–356 |
-| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 285 | 280–294 | 278–296 | 276–297 | 274–302 |
+| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 285 | 280–293 | 278–296 | 276–297 | 274–302 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 316 | 288–335 | 282–338 | 276–342 | 268–349 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 309 | 284–330 | 277–332 | 273–335 | 263–342 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 313 | 294–343 | 287–349 | 277–354 | 267–363 |
@@ -234,15 +234,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 276 | 0.9% | 69% |  |
 | 277 | 2% | 68% |  |
 | 278 | 1.4% | 67% |  |
-| 279 | 1.0% | 65% |  |
+| 279 | 0.9% | 65% |  |
 | 280 | 0.7% | 64% |  |
 | 281 | 1.2% | 64% |  |
 | 282 | 2% | 62% |  |
-| 283 | 2% | 60% |  |
+| 283 | 2% | 61% |  |
 | 284 | 2% | 58% |  |
 | 285 | 2% | 57% |  |
 | 286 | 2% | 55% |  |
-| 287 | 1.1% | 53% |  |
+| 287 | 1.2% | 53% |  |
 | 288 | 2% | 52% | Median |
 | 289 | 2% | 50% |  |
 | 290 | 1.2% | 48% |  |
