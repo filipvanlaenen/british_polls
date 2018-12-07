@@ -101,7 +101,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 49 | 28–57 | 26–58 | 21–58 | 9–58 |
-| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 47 | 39–51 | 37–51 | 32–52 | 23–54 |
+| [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 45 | 38–51 | 35–52 | 29–52 | 21–54 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 46 | 38–53 | 31–54 | 25–55 | 19–57 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 58 | 56–58 | 54–58 | 54–58 | 52–58 |
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 39 | 17–50 | 10–51 | 8–52 | 4–54 |
@@ -203,16 +203,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 89% |  |
 | 30 | 0.6% | 87% |  |
 | 31 | 0.3% | 87% |  |
-| 32 | 1.1% | 86% |  |
+| 32 | 1.2% | 86% |  |
 | 33 | 0.6% | 85% |  |
-| 34 | 0.2% | 85% |  |
+| 34 | 0.3% | 85% |  |
 | 35 | 1.3% | 84% | Last Result |
 | 36 | 0.7% | 83% |  |
-| 37 | 0.4% | 82% |  |
+| 37 | 0.6% | 82% |  |
 | 38 | 3% | 82% |  |
 | 39 | 2% | 79% |  |
 | 40 | 3% | 77% |  |
-| 41 | 4% | 74% |  |
+| 41 | 4% | 73% |  |
 | 42 | 2% | 70% |  |
 | 43 | 1.3% | 68% |  |
 | 44 | 2% | 67% |  |
@@ -222,7 +222,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 5% | 56% |  |
 | 49 | 4% | 51% | Median |
 | 50 | 5% | 48% |  |
-| 51 | 8% | 42% |  |
+| 51 | 7% | 42% |  |
 | 52 | 5% | 35% |  |
 | 53 | 3% | 30% |  |
 | 54 | 6% | 26% |  |
