@@ -15,7 +15,7 @@ The table below lists all polls registered and analyzed so far.
 | [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 39–40% <br> 276–297 | 40–42% <br> 277–305 | 8–9% <br> 16–20 | 3% <br> 24–41 | 3% <br> 0 | 2% <br> 1 | N/A <br> N/A |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 39–44% <br> 276–342 | 37–42% <br> 234–300 | 6–8% <br> 3–18 | 3–4% <br> 22–55 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38–42% <br> 273–335 | 36–40% <br> 235–299 | 8–10% <br> 16–27 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
-| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–354 | 37–43% <br> 227–294 | 5–8% <br> 0–12 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–353 | 37–43% <br> 227–295 | 5–8% <br> 0–14 | 3–5% <br> 26–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 39–44% <br> 290–340 | 34–39% <br> 216–264 | 7–9% <br> 6–19 | 4–6% <br> 53–58 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1% <br> 4–8 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 252–330 | 34–40% <br> 224–296 | 8–12% <br> 16–31 | 3–5% <br> 35–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–9 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> The Times | 39–44% <br> 292–351 | 34–39% <br> 216–269 | 8–11% <br> 14–27 | 3–5% <br> 28–53 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
