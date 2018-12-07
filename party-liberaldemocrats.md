@@ -115,7 +115,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 17 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [29–30 October 2018](2018-10-30-YouGov.html) | YouGov <br> The Times | 10 | 5–16 | 4–17 | 3–18 | 2–20 |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 21 | 17–25 | 16–26 | 16–27 | 14–27 |
-| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 1–10 | 0–10 | 0–12 | 0–16 |
+| [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 4 | 0–10 | 0–12 | 0–14 | 0–16 |
 | [22–23 October 2018](2018-10-23-YouGov.html) | YouGov <br> The Times | 13 | 9–17 | 7–18 | 6–19 | 4–22 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 25 | 19–28 | 17–30 | 16–31 | 13–34 |
 | [14–15 October 2018](2018-10-15-YouGov.html) | YouGov <br> The Times | 20 | 16–26 | 15–26 | 14–27 | 12–28 |
@@ -178,16 +178,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 0.9% | 99.2% |  |
-| 2 | 1.2% | 98% |  |
-| 3 | 2% | 97% |  |
+| 0 | 1.2% | 100% |  |
+| 1 | 0.8% | 98.8% |  |
+| 2 | 1.5% | 98% |  |
+| 3 | 1.3% | 97% |  |
 | 4 | 2% | 95% |  |
-| 5 | 0.5% | 93% |  |
-| 6 | 2% | 93% |  |
-| 7 | 0.4% | 91% |  |
-| 8 | 1.0% | 90% |  |
-| 9 | 1.2% | 89% |  |
+| 5 | 0.9% | 93% |  |
+| 6 | 1.3% | 92% |  |
+| 7 | 1.0% | 91% |  |
+| 8 | 1.2% | 90% |  |
+| 9 | 1.1% | 89% |  |
 | 10 | 3% | 88% |  |
 | 11 | 4% | 85% |  |
 | 12 | 4% | 81% | Last Result |
