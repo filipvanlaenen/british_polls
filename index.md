@@ -11,7 +11,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [14–15 November 2018](2018-11-15-ComRes.html) | ComRes <br> Sunday Express | 34–38% <br> 239–288 | 38–42% <br> 277–335 | 8–10% <br> 17–28 | 2–4% <br> 8–52 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [8–12 November 2018](2018-11-12-KantarPublic.html) | Kantar Public | 37–43% <br> 258–332 | 36–42% <br> 231–299 | 7–10% <br> 7–25 | 3–5% <br> 35–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 37–42% <br> 259–320 | 37–42% <br> 242–298 | 7–9% <br> 9–22 | 3–5% <br> 39–57 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
-| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 39–40% <br> 276–297 | 40–42% <br> 277–305 | 8–9% <br> 16–20 | 3% <br> 24–42 | 3% <br> 0 | 2% <br> 1 | N/A <br> N/A |
+| [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 39–40% <br> 276–297 | 40–42% <br> 277–305 | 8–9% <br> 16–20 | 3% <br> 24–41 | 3% <br> 0 | 2% <br> 1 | N/A <br> N/A |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38–42% <br> 273–335 | 36–40% <br> 235–299 | 8–10% <br> 16–27 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–354 | 37–43% <br> 227–294 | 5–8% <br> 0–12 | 3–5% <br> 30–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [19–22 October 2018](2018-10-22-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 252–330 | 34–40% <br> 224–296 | 8–12% <br> 16–31 | 3–5% <br> 35–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–9 |
