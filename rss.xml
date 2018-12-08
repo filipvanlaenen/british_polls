@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 07 Dec 2018 19:41:52 +0100</pubDate>
+    <pubDate>Fri, 07 Dec 2018 20:54:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 26–27 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-11-27-YouGov.html#seats</link>
@@ -474,10 +474,10 @@
       <link>https://filipvanlaenen.github.io/british_polls/2018-10-01-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.0–44.9%&lt;/li&gt;&lt;li&gt;Labour Party: 34.0–38.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.7–4.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.3–1.1%&lt;/li&gt;&lt;li&gt;UK Independence Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-10-01-YouGov.png"
-        length="158009"
+        length="158153"
         type="image/png"/>
-      <pubDate>Sun, 18 Nov 2018 19:37:53 +0100</pubDate>
-      <dc:date>2018-11-18T19:37:53.790694+01:00</dc:date>
+      <pubDate>Fri, 07 Dec 2018 20:54:59 +0100</pubDate>
+      <dc:date>2018-12-07T20:54:59.047012+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for HuffPost UK, 28–29 September 2018 – Voting Intentions</title>
@@ -1349,6 +1349,6 @@
       <pubDate>Sun, 25 Nov 2018 15:17:16 +0100</pubDate>
       <dc:date>2018-11-25T15:17:16.657955+01:00</dc:date>
     </item>
-    <dc:date>2018-12-07T19:41:52.849331+01:00</dc:date>
+    <dc:date>2018-12-07T20:54:59.047012+01:00</dc:date>
   </channel>
 </rss>
