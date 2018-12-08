@@ -151,7 +151,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 52 | 48–56 | 47–56 | 45–57 | 41–57 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 54 | 47–57 | 42–57 | 40–58 | 31–58 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 46 | 32–51 | 26–52 | 23–54 | 12–55 |
-| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 51 | 47–56 | 40–57 | 38–57 | 26–57 |
+| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 51 | 45–56 | 41–57 | 39–57 | 26–57 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 46 | 38–51 | 27–52 | 27–52 | 15–55 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 28 | 9–49 | 9–49 | 7–51 | 2–54 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 53 | 49–57 | 47–57 | 46–57 | 39–58 |
