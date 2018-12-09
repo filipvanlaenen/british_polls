@@ -134,8 +134,8 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 292 | 266–312 | 260–318 | 254–322 | 245–330 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 235 | 221–248 | 216–255 | 210–261 | 203–273 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 274 | 249–299 | 244–308 | 241–312 | 237–322 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 280 | 245–298 | 240–303 | 235–306 | 230–315 |
-| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 288 | 265–302 | 260–304 | 257–306 | 245–311 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 277 | 243–297 | 238–303 | 235–306 | 227–315 |
+| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 287 | 266–300 | 259–304 | 254–306 | 244–312 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 240 | 231–254 | 227–260 | 223–269 | 218–272 |
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 260 | 236–295 | 230–302 | 226–310 | 218–322 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 240 | 225–262 | 221–273 | 218–279 | 212–289 |
@@ -158,8 +158,8 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 237 | 225–259 | 223–267 | 219–272 | 209–283 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 286 | 263–300 | 259–301 | 251–306 | 243–312 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 275 | 253–296 | 246–301 | 238–306 | 236–317 |
-| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 277 | 243–294 | 236–297 | 232–303 | 224–311 |
-| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 274 | 251–292 | 239–297 | 239–304 | 235–315 |
+| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 272 | 239–295 | 236–300 | 232–304 | 224–312 |
+| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 274 | 249–295 | 242–301 | 238–304 | 235–315 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 297 | 270–317 | 261–319 | 257–321 | 247–329 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 281 | 258–297 | 250–301 | 246–304 | 238–309 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 305 | 292–319 | 287–324 | 283–331 | 271–341 |

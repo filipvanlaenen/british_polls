@@ -123,7 +123,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–6 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 2 | 0–3 | 0–4 | 0–5 | 0–5 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 5 | 5–6 | 4–8 | 4–8 | 3–8 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
@@ -148,7 +148,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 1–5 | 0–5 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
-| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
+| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 1–5 | 0–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 1–7 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 0–5 |
