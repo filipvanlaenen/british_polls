@@ -131,7 +131,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 21 | 18–27 | 17–28 | 17–28 | 15–28 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 27 | 23–30 | 22–31 | 21–31 | 19–33 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–26 | 16–26 | 16–27 | 14–28 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 27 | 21–30 | 18–32 | 15–33 | 13–36 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 26 | 22–29 | 18–31 | 16–33 | 13–36 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 23 | 17–27 | 15–27 | 14–27 | 12–28 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 28 | 25–30 | 24–31 | 24–32 | 21–33 |
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 35 | 30–41 | 28–42 | 28–43 | 27–47 |
@@ -163,12 +163,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 15 | 9–18 | 7–19 | 5–21 | 3–24 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 17 | 12–23 | 12–24 | 11–25 | 10–27 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 27 | 24–29 | 22–30 | 21–30 | 18–33 |
-| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 21 | 16–27 | 15–27 | 15–28 | 12–29 |
+| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 21 | 16–27 | 15–28 | 14–28 | 12–28 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 20 | 14–26 | 13–27 | 12–27 | 9–29 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 21 | 17–26 | 17–26 | 16–27 | 15–28 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 27 | 21–29 | 19–30 | 17–31 | 15–35 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 21–27 | 21–28 | 20–28 | 17–30 |
-| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 21 | 16–26 | 15–26 | 14–28 | 12–28 |
+| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 20 | 16–26 | 15–26 | 14–27 | 11–28 |
 
 ### Probability Mass Function
 

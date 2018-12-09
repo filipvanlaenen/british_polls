@@ -134,7 +134,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 292 | 266–312 | 260–318 | 254–322 | 245–330 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 235 | 221–248 | 216–255 | 210–261 | 203–273 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 274 | 249–299 | 244–308 | 241–312 | 237–322 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 277 | 243–297 | 238–303 | 235–306 | 227–315 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 273 | 244–296 | 238–303 | 236–306 | 227–315 |
 | [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 287 | 266–300 | 259–304 | 254–306 | 244–312 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 240 | 231–254 | 227–260 | 223–269 | 218–272 |
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 260 | 236–295 | 230–302 | 226–310 | 218–322 |
@@ -166,12 +166,12 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 312 | 294–335 | 286–339 | 283–344 | 269–354 |
 | [10–13 July 2018](2018-07-13-Opinium.html) | Opinium <br> The Observer | 297 | 284–310 | 279–312 | 273–316 | 261–323 |
 | [10–11 July 2018](2018-07-11-YouGov.html) | YouGov <br> The Times | 290 | 266–305 | 260–310 | 255–316 | 242–325 |
-| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 278 | 251–298 | 243–304 | 238–307 | 235–318 |
+| [8–9 July 2018](2018-07-09-YouGov.html) | YouGov <br> The Times | 277 | 247–296 | 241–302 | 238–309 | 235–317 |
 | [5–9 July 2018](2018-07-09-KantarPublic.html) | Kantar Public | 254 | 235–286 | 229–292 | 225–295 | 218–305 |
 | [6–9 July 2018](2018-07-09-ICMResearch.html) | ICM Research <br> The Guardian | 265 | 242–290 | 240–298 | 238–305 | 231–316 |
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 294 | 262–320 | 253–327 | 244–333 | 235–344 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 254 | 237–283 | 230–295 | 229–298 | 224–311 |
-| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 265 | 241–293 | 238–295 | 236–302 | 231–313 |
+| [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 268 | 243–293 | 240–300 | 237–304 | 231–315 |
 
 ### Probability Mass Function
 
