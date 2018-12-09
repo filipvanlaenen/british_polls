@@ -31,8 +31,8 @@ The table below lists all polls registered and analyzed so far.
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 37–41% <br> 257–319 | 38–42% <br> 254–322 | 8–10% <br> 17–28 | 2–4% <br> 7–51 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–3 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 40–45% <br> 296–348 | 34–39% <br> 210–261 | 10–13% <br> 21–31 | 3–4% <br> 27–51 | 3–5% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 39–43% <br> 269–333 | 38–42% <br> 241–312 | 8–10% <br> 16–27 | 2–4% <br> 7–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
-| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 35–41% <br> 246–320 | 35–41% <br> 235–306 | 8–12% <br> 16–30 | 3–5% <br> 35–57 | 4–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
-| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 35–39% <br> 243–294 | 36–41% <br> 257–306 | 8–10% <br> 14–27 | 3–5% <br> 45–57 | 7–9% <br> 1–2 | 1–3% <br> 1 | 1–2% <br> 4–8 |
+| [21–22 September 2018](2018-09-22-BMGResearch.html) | BMG Research <br> HuffPost UK | 35–41% <br> 243–323 | 35–41% <br> 235–306 | 8–12% <br> 15–33 | 3–5% <br> 32–57 | 4–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
+| [18–20 September 2018](2018-09-20-Opinium.html) | Opinium | 35–39% <br> 243–299 | 36–41% <br> 254–306 | 8–10% <br> 14–27 | 3–5% <br> 43–57 | 7–9% <br> 1–2 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [18–19 September 2018](2018-09-19-YouGov.html) | YouGov <br> The Times | 38–42% <br> 278–325 | 34–38% <br> 223–269 | 10–12% <br> 24–32 | 4–5% <br> 45–54 | 4–6% <br> 1 | 2–3% <br> 1 | 0–1% <br> 3–5 |
 | [14–18 September 2018](2018-09-18-IpsosMORI.html) | Ipsos MORI | 36–42% <br> 251–333 | 34–40% <br> 226–310 | 11–15% <br> 28–43 | 2–4% <br> 6–51 | 1–3% <br> 0 | 4–6% <br> 1–4 | 0–1% <br> 0–4 |
 | [12–13 September 2018](2018-09-13-YouGov.html) | YouGov <br> The Times | 38–43% <br> 276–340 | 34–39% <br> 218–279 | 10–13% <br> 23–33 | 3–4% <br> 25–51 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
@@ -55,8 +55,8 @@ The table below lists all polls registered and analyzed so far.
 | [8–9 August 2018](2018-08-09-YouGov.html) | YouGov <br> The Times | 37–41% <br> 274–332 | 33–37% <br> 219–272 | 9–12% <br> 18–31 | 3–5% <br> 45–57 | 6–8% <br> 1–2 | 2–4% <br> 1 | 0–1% <br> 2–6 |
 | [3–5 August 2018](2018-08-05-ICMResearch.html) | ICM Research <br> The Guardian | 37–41% <br> 257–318 | 38–42% <br> 251–306 | 6–8% <br> 4–17 | 3–5% <br> 40–58 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 36–40% <br> 252–318 | 36–40% <br> 238–306 | 9–12% <br> 20–30 | 3–4% <br> 23–54 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
-| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 245–321 | 35–41% <br> 232–303 | 8–12% <br> 16–31 | 3–5% <br> 39–57 | 5–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 3–9 |
-| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 36–41% <br> 251–322 | 36–41% <br> 239–304 | 9–12% <br> 20–30 | 3–4% <br> 27–52 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
+| [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–320 | 35–41% <br> 232–304 | 8–12% <br> 16–31 | 3–5% <br> 39–57 | 5–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 3–9 |
+| [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 36–41% <br> 250–321 | 36–41% <br> 238–304 | 9–12% <br> 19–30 | 3–4% <br> 24–52 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 37–42% <br> 261–325 | 38–43% <br> 257–321 | 7–9% <br> 12–23 | 2–4% <br> 7–51 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 36–40% <br> 247–309 | 37–41% <br> 246–304 | 8–10% <br> 12–27 | 3–5% <br> 46–57 | 5–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 34–39% <br> 231–278 | 39–44% <br> 283–331 | 8–11% <br> 16–29 | 3–4% <br> 22–54 | 6–8% <br> 1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
