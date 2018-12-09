@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2018-12-07T19:41:52.849331+01:00</updated>
+  <updated>2018-12-09T11:02:08.791568+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.1–42.8%, 289–345 seats</li><li>Labour Party: 33.1–37.6%, 215–264 seats</li><li>Liberal Democrats: 8.7–11.6%, 19–30 seats</li><li>Scottish National Party: 2.7–4.4%, 29–52 seats</li><li>Plaid Cymru: 0.3–1.1%, 0–5 seats</li><li>UK Independence Party: 5.0–7.3%, 1–2 seats</li><li>Green Party: 2.3–4.0%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-11-27-YouGov.html</id>
@@ -136,6 +136,14 @@
     <dc:date>2018-11-28T12:40:36.287458+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 34.6–38.8%, 243–299 seats</li><li>Labour Party: 36.5–40.8%, 254–306 seats</li><li>Liberal Democrats: 7.7–10.2%, 14–27 seats</li><li>Scottish National Party: 3.2–4.9%, 43–57 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–8 seats</li><li>UK Independence Party: 6.8–9.2%, 1–2 seats</li><li>Green Party: 1.5–2.7%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-09-20-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-09-20-Opinium.html"/>
+    <title>Opinion Poll by Opinium, 18–20 September 2018</title>
+    <updated>2018-12-09T11:02:08.791568+01:00</updated>
+    <dc:date>2018-12-09T11:02:08.791568+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.0–41.8%, 251–333 seats</li><li>Labour Party: 34.1–39.9%, 226–310 seats</li><li>Liberal Democrats: 11.1–15.2%, 28–43 seats</li><li>Scottish National Party: 2.1–4.2%, 6–51 seats</li><li>Plaid Cymru: 0.1–0.8%, 0–4 seats</li><li>UK Independence Party: 1.3–3.0%, 0 seats</li><li>Green Party: 3.8–6.4%, 1–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-09-18-IpsosMORI.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-09-18-IpsosMORI.html"/>
@@ -240,6 +248,14 @@
     <dc:date>2018-11-28T14:27:18.292954+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 34.7–40.6%, 243–320 seats</li><li>Labour Party: 34.7–40.6%, 232–304 seats</li><li>Liberal Democrats: 8.2–11.9%, 16–31 seats</li><li>Scottish National Party: 3.0–5.4%, 39–57 seats</li><li>Plaid Cymru: 0.5–1.8%, 3–9 seats</li><li>UK Independence Party: 4.7–7.6%, 1 seats</li><li>Green Party: 2.1–4.2%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-07-24-IpsosMORI.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-07-24-IpsosMORI.html"/>
+    <title>Opinion Poll by Ipsos MORI, 20–24 July 2018</title>
+    <updated>2018-12-08T20:53:45.30853+01:00</updated>
+    <dc:date>2018-12-08T20:53:45.30853+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 34.0–38.6%, 231–278 seats</li><li>Labour Party: 39.0–43.7%, 283–331 seats</li><li>Liberal Democrats: 7.8–10.5%, 16–29 seats</li><li>Scottish National Party: 2.7–4.4%, 22–54 seats</li><li>Plaid Cymru: 0.3–1.1%, 1–5 seats</li><li>UK Independence Party: 5.9–8.4%, 1 seats</li><li>Green Party: 1.4–2.8%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-07-17-YouGov.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-07-17-YouGov.html"/>
@@ -287,5 +303,5 @@
     <updated>2018-11-29T22:45:49.165689+01:00</updated>
     <dc:date>2018-11-29T22:45:49.165689+01:00</dc:date>
   </entry>
-  <dc:date>2018-12-07T19:41:52.849331+01:00</dc:date>
+  <dc:date>2018-12-09T11:02:08.791568+01:00</dc:date>
 </feed>
