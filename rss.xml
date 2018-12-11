@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 11 Dec 2018 12:12:02 +0100</pubDate>
+    <pubDate>Tue, 11 Dec 2018 13:11:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public, 5–6 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-06-KantarPublic.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-04-YouGov.png"
         length="163204"
         type="image/png"/>
-      <pubDate>Mon, 10 Dec 2018 23:08:10 +0100</pubDate>
-      <dc:date>2018-12-10T23:08:10.906593+01:00</dc:date>
+      <pubDate>Tue, 11 Dec 2018 13:11:02 +0100</pubDate>
+      <dc:date>2018-12-11T13:11:02.944526+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 30 November–2 December 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes.png"
         length="160192"
         type="image/png"/>
-      <pubDate>Tue, 11 Dec 2018 11:00:19 +0100</pubDate>
-      <dc:date>2018-12-11T11:00:19.872285+01:00</dc:date>
+      <pubDate>Tue, 11 Dec 2018 12:48:40 +0100</pubDate>
+      <dc:date>2018-12-11T12:48:40.513744+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 26–27 November 2018 – Seat Projections for the Parties</title>
@@ -1489,6 +1489,6 @@
       <pubDate>Sun, 09 Dec 2018 14:49:04 +0100</pubDate>
       <dc:date>2018-12-09T14:49:04.311319+01:00</dc:date>
     </item>
-    <dc:date>2018-12-11T12:12:02.250584+01:00</dc:date>
+    <dc:date>2018-12-11T13:11:02.944526+01:00</dc:date>
   </channel>
 </rss>
