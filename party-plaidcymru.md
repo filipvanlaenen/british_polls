@@ -100,11 +100,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–8 | 0–8 | 0–9 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 5 | 5–8 | 4–8 | 3–8 | 2–10 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
-| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 2 | 2–5 | 2–5 | 2–5 | 2–8 |
-| [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
+| [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 4–8 | 4–8 | 4–8 | 2–9 |
@@ -178,14 +178,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 1.2% | 92% |  |
-| 2 | 9% | 91% |  |
-| 3 | 10% | 82% |  |
-| 4 | 8% | 71% | Last Result |
-| 5 | 53% | 63% | Median |
+| 0 | 12% | 100% |  |
+| 1 | 3% | 88% |  |
+| 2 | 3% | 85% |  |
+| 3 | 5% | 82% |  |
+| 4 | 11% | 77% | Last Result |
+| 5 | 55% | 66% | Median |
 | 6 | 3% | 11% |  |
-| 7 | 1.2% | 8% |  |
+| 7 | 1.3% | 8% |  |
 | 8 | 6% | 7% |  |
 | 9 | 0.3% | 0.7% |  |
 | 10 | 0.2% | 0.3% |  |

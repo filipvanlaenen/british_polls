@@ -109,7 +109,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1–2 | 1–2 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
