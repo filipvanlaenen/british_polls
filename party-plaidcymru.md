@@ -10,7 +10,11 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.4% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% |
+| [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.2–1.2% |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
@@ -82,8 +86,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% |  |
-| 0.5–1.5% | 83% | 86% | Last Result, Median |
+| 0.0–0.5% | 22% | 100% |  |
+| 0.5–1.5% | 75% | 78% | Last Result, Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -96,7 +100,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 2–6 | 0–8 | 0–8 | 0–9 |
+| [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 5 | 5–8 | 4–8 | 3–8 | 2–10 |
+| [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 2 | 2–5 | 2–5 | 2–5 | 2–8 |
+| [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 5 | 4–8 | 4–8 | 4–8 | 2–9 |
@@ -170,19 +178,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 1.4% | 95% |  |
-| 2 | 3% | 93% |  |
-| 3 | 9% | 91% |  |
-| 4 | 10% | 82% | Last Result |
-| 5 | 61% | 72% | Median |
+| 0 | 8% | 100% |  |
+| 1 | 1.2% | 92% |  |
+| 2 | 9% | 91% |  |
+| 3 | 10% | 82% |  |
+| 4 | 8% | 71% | Last Result |
+| 5 | 53% | 63% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.2% | 8% |  |
 | 8 | 6% | 7% |  |
-| 9 | 0.4% | 0.7% |  |
+| 9 | 0.3% | 0.7% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
