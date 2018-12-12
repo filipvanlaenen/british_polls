@@ -127,7 +127,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–6 | 3–8 | 3–8 | 3–9 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 5 | 3–8 | 3–8 | 3–8 | 2–9 |
-| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–5 |
+| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 0–5 | 0–6 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
@@ -182,8 +182,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 4% | 89% |  |
 | 2 | 4% | 85% |  |
 | 3 | 6% | 82% |  |
-| 4 | 10% | 76% | Last Result |
-| 5 | 55% | 65% | Median |
+| 4 | 11% | 76% | Last Result |
+| 5 | 54% | 65% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.2% | 8% |  |
 | 8 | 6% | 7% |  |

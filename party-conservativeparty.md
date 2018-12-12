@@ -116,7 +116,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 285 | 257–319 | 252–328 | 247–334 | 239–348 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 277 | 255–311 | 251–317 | 247–321 | 238–330 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 280 | 254–312 | 250–319 | 243–324 | 237–333 |
-| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 301 | 274–320 | 267–322 | 262–327 | 253–333 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 300 | 272–320 | 266–324 | 260–328 | 253–334 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 273 | 255–297 | 253–304 | 249–309 | 243–321 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 322 | 303–336 | 295–342 | 289–345 | 277–356 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 316 | 289–332 | 282–337 | 275–341 | 265–348 |
@@ -140,7 +140,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 267 | 252–294 | 246–302 | 243–313 | 237–319 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 330 | 314–347 | 307–353 | 301–357 | 288–366 |
 | [28–29 September 2018](2018-09-29-BMGResearch.html) | BMG Research <br> HuffPost UK | 241 | 223–258 | 218–266 | 214–274 | 204–289 |
-| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 308 | 281–325 | 270–329 | 268–332 | 262–337 |
+| [26–28 September 2018](2018-09-28-Opinium.html) | Opinium <br> The Observer | 310 | 285–324 | 278–329 | 270–331 | 261–339 |
 | [26–27 September 2018](2018-09-27-ComRes.html) | ComRes <br> Sunday Express | 282 | 265–307 | 261–313 | 257–319 | 250–329 |
 | [24–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> The Times | 322 | 307–338 | 299–343 | 296–348 | 282–360 |
 | [21–24 September 2018](2018-09-24-ICMResearch.html) | ICM Research <br> The Guardian | 302 | 278–327 | 272–331 | 269–333 | 262–339 |
@@ -160,7 +160,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 307 | 282–323 | 274–327 | 268–331 | 259–338 |
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 296 | 274–317 | 270–326 | 267–330 | 260–338 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 300 | 274–320 | 269–325 | 266–328 | 259–335 |
-| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 268 | 256–283 | 248–289 | 246–296 | 235–313 |
+| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 270 | 254–284 | 249–290 | 243–296 | 239–315 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 318 | 290–335 | 283–338 | 278–343 | 269–350 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 270 | 249–299 | 244–308 | 240–317 | 231–326 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 292 | 264–320 | 258–326 | 253–329 | 244–338 |
@@ -170,7 +170,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [30–31 July 2018](2018-07-31-YouGov.html) | YouGov <br> The Times | 282 | 259–306 | 255–312 | 252–318 | 245–326 |
 | [20–24 July 2018](2018-07-24-IpsosMORI.html) | Ipsos MORI | 278 | 254–310 | 248–315 | 243–320 | 235–331 |
 | [22–23 July 2018](2018-07-23-YouGov.html) | YouGov <br> The Times | 282 | 258–307 | 255–316 | 250–321 | 244–326 |
-| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 287 | 269–310 | 266–319 | 261–325 | 255–329 |
+| [20–22 July 2018](2018-07-22-ICMResearch.html) | ICM Research | 286 | 269–310 | 264–317 | 261–323 | 255–333 |
 | [19–20 July 2018](2018-07-20-YouGov.html) | YouGov <br> The Times | 272 | 252–296 | 249–305 | 247–309 | 241–318 |
 | [16–17 July 2018](2018-07-17-YouGov.html) | YouGov <br> The Times | 251 | 239–268 | 234–274 | 231–278 | 224–292 |
 | [12–14 July 2018](2018-07-14-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 263 | 248–282 | 243–287 | 239–293 | 232–307 |
@@ -236,16 +236,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 270 | 1.2% | 74% |  |
 | 271 | 0.9% | 73% |  |
 | 272 | 1.2% | 72% |  |
-| 273 | 2% | 71% |  |
+| 273 | 2% | 70% |  |
 | 274 | 1.4% | 69% |  |
 | 275 | 1.1% | 67% |  |
 | 276 | 1.4% | 66% |  |
 | 277 | 2% | 65% |  |
 | 278 | 2% | 63% |  |
-| 279 | 1.2% | 61% |  |
-| 280 | 0.9% | 60% |  |
+| 279 | 1.3% | 61% |  |
+| 280 | 1.0% | 60% |  |
 | 281 | 1.4% | 59% |  |
-| 282 | 2% | 58% |  |
+| 282 | 2% | 57% |  |
 | 283 | 2% | 55% |  |
 | 284 | 2% | 53% |  |
 | 285 | 2% | 51% | Median |
@@ -255,37 +255,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 289 | 2% | 44% |  |
 | 290 | 1.4% | 42% |  |
 | 291 | 2% | 41% |  |
-| 292 | 1.3% | 39% |  |
-| 293 | 1.2% | 38% |  |
+| 292 | 1.4% | 39% |  |
+| 293 | 1.3% | 37% |  |
 | 294 | 1.3% | 36% |  |
-| 295 | 1.5% | 35% |  |
-| 296 | 2% | 34% |  |
+| 295 | 2% | 35% |  |
+| 296 | 1.4% | 33% |  |
 | 297 | 2% | 32% |  |
-| 298 | 1.2% | 31% |  |
-| 299 | 0.8% | 29% |  |
-| 300 | 2% | 29% |  |
-| 301 | 1.3% | 27% |  |
+| 298 | 1.1% | 30% |  |
+| 299 | 1.0% | 29% |  |
+| 300 | 2% | 28% |  |
+| 301 | 1.1% | 27% |  |
 | 302 | 0.8% | 26% |  |
 | 303 | 1.0% | 25% |  |
-| 304 | 0.7% | 24% |  |
+| 304 | 0.8% | 24% |  |
 | 305 | 0.8% | 23% |  |
-| 306 | 1.0% | 22% |  |
-| 307 | 0.8% | 21% |  |
-| 308 | 1.1% | 20% |  |
+| 306 | 0.9% | 22% |  |
+| 307 | 0.7% | 21% |  |
+| 308 | 1.2% | 20% |  |
 | 309 | 1.4% | 19% |  |
-| 310 | 0.9% | 18% |  |
-| 311 | 0.9% | 17% |  |
+| 310 | 0.8% | 18% |  |
+| 311 | 0.8% | 17% |  |
 | 312 | 0.9% | 16% |  |
 | 313 | 0.8% | 15% |  |
-| 314 | 0.9% | 14% |  |
-| 315 | 0.9% | 14% |  |
+| 314 | 1.0% | 14% |  |
+| 315 | 0.8% | 14% |  |
 | 316 | 0.6% | 13% |  |
 | 317 | 0.9% | 12% | Last Result |
 | 318 | 0.6% | 11% |  |
 | 319 | 1.0% | 11% |  |
-| 320 | 0.6% | 10% |  |
-| 321 | 0.7% | 9% |  |
-| 322 | 0.6% | 8% |  |
+| 320 | 0.5% | 10% |  |
+| 321 | 0.8% | 9% |  |
+| 322 | 0.5% | 8% |  |
 | 323 | 0.7% | 8% |  |
 | 324 | 0.4% | 7% |  |
 | 325 | 0.4% | 7% |  |
