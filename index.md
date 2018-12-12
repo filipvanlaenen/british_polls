@@ -8,7 +8,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | N/A | [Poll Average](average.html) | 35–44% <br> 247–334 | 36–42% <br> 234–310 | 6–11% <br> 2–28 | 3–6% <br> 22–58 | 3–9% <br> 0–2 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
-| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 37–42% <br> 262–327 | 35–40% <br> 231–290 | 8–10% <br> 12–27 | 3–5% <br> 43–57 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 37–42% <br> 260–328 | 35–40% <br> 231–290 | 8–10% <br> 12–27 | 3–5% <br> 42–57 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 249–309 | 38–42% <br> 260–326 | 8–10% <br> 18–28 | 2–4% <br> 9–51 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [14–15 November 2018](2018-11-15-Opinium.html) | Opinium | 33–39% <br> 238–303 | 36–42% <br> 255–316 | 6–9% <br> 4–20 | 4–6% <br> 54–58 | 7–10% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 |
 | [2–7 November 2018](2018-11-07-Panelbase.html) | Panelbase <br> Constitutional Commission | 37–42% <br> 259–320 | 37–42% <br> 242–298 | 7–9% <br> 9–22 | 3–5% <br> 39–57 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
