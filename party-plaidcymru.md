@@ -101,9 +101,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–6 | 0–8 | 0–8 | 0–9 |
-| [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 5 | 5–8 | 4–8 | 3–9 | 2–10 |
+| [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 5 | 5–8 | 4–8 | 3–8 | 2–10 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
-| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
+| [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 1–8 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [26–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [18–19 November 2018](2018-11-19-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–6 |
@@ -180,18 +180,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% |  |
 | 1 | 4% | 89% |  |
-| 2 | 3% | 85% |  |
-| 3 | 5% | 82% |  |
-| 4 | 11% | 77% | Last Result |
-| 5 | 55% | 66% | Median |
+| 2 | 4% | 85% |  |
+| 3 | 6% | 82% |  |
+| 4 | 10% | 76% | Last Result |
+| 5 | 55% | 65% | Median |
 | 6 | 3% | 11% |  |
-| 7 | 1.3% | 8% |  |
+| 7 | 1.2% | 8% |  |
 | 8 | 6% | 7% |  |
 | 9 | 0.4% | 0.7% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
 
 
