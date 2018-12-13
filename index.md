@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 | N/A | [Poll Average](average.html) | 35–44% <br> 247–334 | 36–42% <br> 235–310 | 6–11% <br> 2–28 | 3–6% <br> 22–58 | 3–9% <br> 0–2 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 36–41% <br> 270–319 | 35–40% <br> 244–278 | 9–12% <br> 18–24 | 3–5% <br> 40–56 | 2–4% <br> 0 | 3–5% <br> 1 | 0–1% <br> 4–5 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 36–41% <br> 253–317 | 35–40% <br> 235–293 | 9–12% <br> 17–30 | 3–5% <br> 47–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 249–309 | 38–42% <br> 260–326 | 8–10% <br> 18–28 | 2–4% <br> 9–51 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
