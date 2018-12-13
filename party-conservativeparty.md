@@ -121,26 +121,26 @@ Last result: **42.4%** (General Election of 8 June 2017)
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 37.9% | 36.5–39.4% | 36.0–39.8% | 35.7–40.2% | 35.0–40.9% |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 42.0% | 40.6–43.4% | 40.2–43.8% | 39.8–44.2% | 39.2–44.9% |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 41.9% | 40.5–43.3% | 40.1–43.7% | 39.7–44.1% | 39.1–44.7% |
-| [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 36.5% | N/A | N/A | N/A | N/A |
-| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 42.9% | N/A | N/A | N/A | N/A |
-| [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 41.0% | N/A | N/A | N/A | N/A |
-| [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 42.8% | N/A | N/A | N/A | N/A |
-| [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 41.0% | N/A | N/A | N/A | N/A |
-| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 39.9% | N/A | N/A | N/A | N/A |
-| [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 41.8% | N/A | N/A | N/A | N/A |
-| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 40.4% | N/A | N/A | N/A | N/A |
-| [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 39.4% | N/A | N/A | N/A | N/A |
-| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 39.9% | N/A | N/A | N/A | N/A |
-| [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 41.6% | N/A | N/A | N/A | N/A |
-| [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 43.0% | N/A | N/A | N/A | N/A |
-| [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 40.9% | N/A | N/A | N/A | N/A |
-| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 42.0% | N/A | N/A | N/A | N/A |
-| [26–29 January 2018](2018-01-29-Survation.html) | Survation | 39.9% | N/A | N/A | N/A | N/A |
-| [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 39.0% | N/A | N/A | N/A | N/A |
-| [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 40.9% | N/A | N/A | N/A | N/A |
-| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 41.3% | N/A | N/A | N/A | N/A |
-| [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 40.3% | N/A | N/A | N/A | N/A |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 40.3% | N/A | N/A | N/A | N/A |
+| [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 36.5% | 34.6–38.5% | 34.1–39.0% | 33.6–39.5% | 32.7–40.4% |
+| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 42.9% | 40.9–44.9% | 40.3–45.5% | 39.9–46.0% | 38.9–46.9% |
+| [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 41.0% | 39.5–42.6% | 39.0–43.0% | 38.7–43.4% | 37.9–44.2% |
+| [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 42.8% | 41.4–44.2% | 41.0–44.6% | 40.7–45.0% | 40.0–45.7% |
+| [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 41.0% | 39.4–42.5% | 39.0–43.0% | 38.6–43.4% | 37.9–44.1% |
+| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 39.9% | 38.3–41.4% | 37.9–41.9% | 37.5–42.3% | 36.8–43.0% |
+| [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 41.8% | 40.3–43.4% | 39.8–43.8% | 39.5–44.2% | 38.7–45.0% |
+| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 40.4% | 38.9–42.0% | 38.4–42.4% | 38.0–42.8% | 37.3–43.5% |
+| [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 39.4% | 38.1–40.7% | 37.8–41.0% | 37.4–41.3% | 36.9–42.0% |
+| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 39.9% | 38.3–41.5% | 37.8–42.0% | 37.4–42.4% | 36.7–43.2% |
+| [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 41.6% | 40.2–43.0% | 39.8–43.4% | 39.5–43.8% | 38.8–44.5% |
+| [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 43.0% | 41.6–44.4% | 41.2–44.8% | 40.8–45.2% | 40.2–45.9% |
+| [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 40.9% | 39.5–42.3% | 39.1–42.7% | 38.8–43.1% | 38.1–43.8% |
+| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 42.0% | 40.5–43.6% | 40.0–44.0% | 39.6–44.4% | 38.9–45.1% |
+| [26–29 January 2018](2018-01-29-Survation.html) | Survation | 39.9% | 38.0–41.9% | 37.5–42.4% | 37.0–42.9% | 36.1–43.9% |
+| [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 39.0% | 37.1–41.0% | 36.5–41.5% | 36.0–42.0% | 35.1–43.0% |
+| [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 40.9% | 39.9–41.9% | 39.6–42.2% | 39.4–42.4% | 38.9–42.9% |
+| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 41.3% | 39.8–42.9% | 39.4–43.3% | 39.0–43.7% | 38.3–44.5% |
+| [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 40.3% | 38.9–41.7% | 38.5–42.1% | 38.2–42.5% | 37.5–43.1% |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 40.3% | 38.9–41.7% | 38.5–42.1% | 38.1–42.5% | 37.5–43.1% |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 40.0% | N/A | N/A | N/A | N/A |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 40.3% | N/A | N/A | N/A | N/A |
 
@@ -288,26 +288,26 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 260 | 256–260 | 256–268 | 256–279 | 243–279 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 323 | 299–323 | 299–323 | 299–323 | 299–334 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 290 | 290–322 | 276–340 | 272–345 | 264–352 |
-| [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
-| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
-| [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [26–29 January 2018](2018-01-29-Survation.html) | Survation |  |  |  |  |  |
-| [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
-| [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 239 | 239–241 | 239–243 | 202–272 | 196–296 |
+| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 320 | 320–335 | 320–335 | 316–335 | 282–335 |
+| [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 310 | 283–310 | 283–310 | 267–310 | 260–310 |
+| [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 306 | 284–306 | 284–306 | 273–326 | 261–341 |
+| [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 285 | 259–313 | 259–313 | 259–313 | 247–313 |
+| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 297 | 260–297 | 250–297 | 250–297 | 248–297 |
+| [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 275 | 275–276 | 275–298 | 275–298 | 275–344 |
+| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 283 | 283 | 283 | 283–309 | 263–309 |
+| [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 309 | 259–309 | 258–310 | 258–312 | 258–313 |
+| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 288 | 280–339 | 280–339 | 280–339 | 280–339 |
+| [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 290 | 290–329 | 290–353 | 277–353 | 277–353 |
+| [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 326 | 325–335 | 325–338 | 290–347 | 276–357 |
+| [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 314 | 269–314 | 269–314 | 269–314 | 269–314 |
+| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 334 | 273–334 | 273–334 | 273–334 | 273–348 |
+| [26–29 January 2018](2018-01-29-Survation.html) | Survation | 269 | 266–300 | 242–300 | 242–300 | 242–300 |
+| [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 241 | 241 | 241–249 | 241–262 | 241–279 |
+| [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 292 | 286–292 | 286–292 | 286–292 | 286–315 |
+| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 268 | 259–342 | 259–342 | 259–342 | 252–342 |
+| [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 266 | 266–288 | 266–340 | 266–340 | 265–340 |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 302 |  |  |  |  |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 
