@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 13 Dec 2018 11:20:23 +0100</pubDate>
+    <pubDate>Thu, 13 Dec 2018 16:17:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov, 6–7 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 253–318 seats&lt;/li&gt;&lt;li&gt;Labour Party: 235–294 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 18–30 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 46–57 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 2–5 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov-seats.png"
+        length="161174"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 14:21:41 +0100</pubDate>
+      <dc:date>2018-12-13T14:21:41.696875+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 6–7 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov-coalitions-seats.png"
+        length="473791"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 14:21:41 +0100</pubDate>
+      <dc:date>2018-12-13T14:21:41.696875+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 6–7 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.png"
         length="162887"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 09:32:38 +0100</pubDate>
-      <dc:date>2018-12-13T09:32:38.890884+01:00</dc:date>
+      <pubDate>Thu, 13 Dec 2018 14:21:41 +0100</pubDate>
+      <dc:date>2018-12-13T14:21:41.696875+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 5–6 December 2018 – Seat Projections for the Parties</title>
@@ -1650,14 +1670,34 @@
       <dc:date>2018-12-13T10:34:44.923483+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 19–20 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 270–350 seats&lt;/li&gt;&lt;li&gt;Labour Party: 222–293 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 2–19 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 38–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation-seats.png"
+        length="164834"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 12:27:46 +0100</pubDate>
+      <dc:date>2018-12-13T12:27:46.818286+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 19–20 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation-coalitions-seats.png"
+        length="499870"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 12:27:46 +0100</pubDate>
+      <dc:date>2018-12-13T12:27:46.818286+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Survation for Good Morning Britain, 19–20 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.9–44.9%&lt;/li&gt;&lt;li&gt;Labour Party: 35.8–41.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Green Party: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-06-20-Survation.png"
         length="168135"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 11:20:23 +0100</pubDate>
-      <dc:date>2018-12-13T11:20:23.653838+01:00</dc:date>
+      <pubDate>Thu, 13 Dec 2018 12:27:46 +0100</pubDate>
+      <dc:date>2018-12-13T12:27:46.818286+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 18–19 June 2018 – Voting Intentions</title>
@@ -1716,8 +1756,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-06-05-YouGov.png"
         length="155489"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 08:46:25 +0100</pubDate>
-      <dc:date>2018-12-13T08:46:25.496227+01:00</dc:date>
+      <pubDate>Thu, 13 Dec 2018 15:16:35 +0100</pubDate>
+      <dc:date>2018-12-13T15:16:35.156188+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 31 May–4 June 2018 – Voting Intentions</title>
@@ -1729,6 +1769,76 @@
       <pubDate>Thu, 13 Dec 2018 07:59:57 +0100</pubDate>
       <dc:date>2018-12-13T07:59:57.548443+01:00</dc:date>
     </item>
-    <dc:date>2018-12-13T11:20:23.653838+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 28–29 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-29-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.2–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 36.3–41.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.6–10.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.4–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.4–1.3%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-29-YouGov.png"
+        length="158965"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 15:20:59 +0100</pubDate>
+      <dc:date>2018-12-13T15:20:59.535612+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research for The Guardian, 25–29 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.4–44.7%&lt;/li&gt;&lt;li&gt;Labour Party: 37.5–41.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.8–9.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 1.5–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.png"
+        length="154723"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 15:30:39 +0100</pubDate>
+      <dc:date>2018-12-13T15:30:39.611811+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 18–22 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-22-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.2–43.3%&lt;/li&gt;&lt;li&gt;Labour Party: 37.2–43.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.6–8.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-22-IpsosMORI.png"
+        length="162716"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 15:36:18 +0100</pubDate>
+      <dc:date>2018-12-13T15:36:18.737254+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.0–44.8%&lt;/li&gt;&lt;li&gt;Labour Party: 36.1–40.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.7–4.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.3–1.1%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.5–2.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.png"
+        length="155658"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 15:46:18 +0100</pubDate>
+      <dc:date>2018-12-13T15:46:18.369934+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.9–43.1%&lt;/li&gt;&lt;li&gt;Labour Party: 38.9–43.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.png"
+        length="153918"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 15:55:56 +0100</pubDate>
+      <dc:date>2018-12-13T15:55:56.375479+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 15–16 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-16-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.4–44.7%&lt;/li&gt;&lt;li&gt;Labour Party: 36.5–40.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-16-Opinium.png"
+        length="153727"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 16:06:57 +0100</pubDate>
+      <dc:date>2018-12-13T16:06:57.898751+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 13–14 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-14-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.6–45.5%&lt;/li&gt;&lt;li&gt;Labour Party: 35.7–40.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.7–10.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 1.9–3.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.2–0.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-14-YouGov.png"
+        length="155361"
+        type="image/png"/>
+      <pubDate>Thu, 13 Dec 2018 16:17:34 +0100</pubDate>
+      <dc:date>2018-12-13T16:17:34.2169+01:00</dc:date>
+    </item>
+    <dc:date>2018-12-13T16:17:34.2169+01:00</dc:date>
   </channel>
 </rss>
