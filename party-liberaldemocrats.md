@@ -10,7 +10,8 @@ Last result: **7.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 6.6–10.0% | 6.0–10.4% | 5.5–10.8% | 4.9–11.4% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.6–10.3% | 6.0–10.8% | 5.5–11.1% | 4.9–11.7% |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 10.2% | 9.3–11.2% | 9.1–11.5% | 8.9–11.8% | 8.4–12.3% |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.3% |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 9.0% | 7.9–10.2% | 7.6–10.5% | 7.4–10.9% | 6.9–11.5% |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 8.9% | 8.1–9.9% | 7.8–10.2% | 7.6–10.4% | 7.2–10.9% |
@@ -79,6 +80,17 @@ Last result: **7.4%** (General Election of 8 June 2017)
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.2% | 7.9–12.8% |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 10.3% | 9.3–11.3% | 9.1–11.6% | 8.8–11.9% | 8.4–12.4% |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [22–27 June 2018](2018-06-27-IpsosMORI.html) | Ipsos MORI | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
+| [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
+| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
+| [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times | 8.9% | 8.0–9.9% | 7.8–10.2% | 7.6–10.4% | 7.2–10.9% |
+| [11–12 June 2018](2018-06-12-YouGov.html) | YouGov <br> The Times | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
+| [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 11.1% | 10.1–12.2% | 9.8–12.5% | 9.6–12.8% | 9.1–13.3% |
+| [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.9–8.1% | 5.5–8.5% |
+| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
+| [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.4% | 7.5–10.9% |
 
 ### Probability Mass Function
 
@@ -91,11 +103,11 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 2% | 99.9% |  |
 | 5.5–6.5% | 7% | 97% |  |
 | 6.5–7.5% | 11% | 90% | Last Result |
-| 7.5–8.5% | 30% | 79% |  |
-| 8.5–9.5% | 30% | 49% | Median |
-| 9.5–10.5% | 16% | 20% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 27% | 79% |  |
+| 8.5–9.5% | 26% | 52% | Median |
+| 9.5–10.5% | 19% | 26% |  |
+| 10.5–11.5% | 6% | 7% |  |
+| 11.5–12.5% | 0.8% | 0.8% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -107,7 +119,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 8–27 | 4–27 | 2–28 | 0–29 |
+| N/A | [Poll Average](average.html) | 18 | 8–26 | 4–27 | 2–28 | 0–29 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 18 | 18 | 18–23 | 18–24 | 18–24 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 22 | 15–27 | 13–27 | 12–28 | 11–29 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 22 | 14–27 | 13–27 | 12–28 | 10–30 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 19 | 14–26 | 13–27 | 12–27 | 11–28 |
@@ -154,7 +167,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [20–21 August 2018](2018-08-21-YouGov.html) | YouGov <br> The Times | 20 | 14–25 | 13–26 | 12–27 | 11–28 |
 | [17–19 August 2018](2018-08-19-ICMResearch.html) | ICM Research <br> The Guardian | 17 | 15–21 | 13–22 | 12–24 | 9–26 |
 | [14–17 August 2018](2018-08-17-Opinium.html) | Opinium <br> The Observer | 11 | 5–15 | 4–16 | 4–17 | 2–19 |
-| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–24 | 14–25 | 13–25 | 11–27 |
+| [14–16 August 2018](2018-08-16-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 18 | 15–24 | 14–25 | 13–25 | 10–27 |
 | [13–14 August 2018](2018-08-14-YouGov.html) | YouGov <br> The Times | 16 | 12–20 | 9–22 | 7–23 | 5–26 |
 | [9–13 August 2018](2018-08-13-NumberCruncherPolitics.html) | Number Cruncher Politics | 16 | 11–23 | 10–25 | 8–26 | 4–28 |
 | [9–13 August 2018](2018-08-13-KantarPublic.html) | Kantar Public | 20 | 13–26 | 12–27 | 12–27 | 9–28 |
@@ -176,6 +189,17 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [7 July 2018](2018-07-07-Survation.html) | Survation | 27 | 21–29 | 19–30 | 17–31 | 15–35 |
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 25 | 21–27 | 21–28 | 20–28 | 17–30 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 20 | 16–26 | 15–26 | 14–27 | 11–28 |
+| [22–27 June 2018](2018-06-27-IpsosMORI.html) | Ipsos MORI | 11 | 4–16 | 3–17 | 2–20 | 1–22 |
+| [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 12 | 12 | 12 | 12–17 | 7–21 |
+| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 20 | 13–28 | 13–28 | 13–28 | 11–28 |
+| [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 10 | 3–14 | 2–17 | 2–17 | 1–20 |
+| [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times |  | 14–27 | 14–27 | 14–27 | 11–27 |
+| [11–12 June 2018](2018-06-12-YouGov.html) | YouGov <br> The Times | 14 | 14 | 14 | 14 | 12–14 |
+| [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 16 | 16 | 9–16 | 9–16 | 8–22 |
+| [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 28 | 26–30 | 26–30 | 26–30 | 26–36 |
+| [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 10 | 10 | 10 | 10–12 | 4–12 |
+| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 20 | 14–20 | 6–21 | 6–21 | 6–21 |
+| [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 19 | 16–24 | 15–25 | 15–26 | 14–27 |
 
 ### Probability Mass Function
 
@@ -197,21 +221,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.7% | 89% |  |
 | 10 | 3% | 89% |  |
 | 11 | 3% | 86% |  |
-| 12 | 4% | 83% | Last Result |
-| 13 | 3% | 79% |  |
-| 14 | 3% | 76% |  |
-| 15 | 3% | 74% |  |
-| 16 | 4% | 70% |  |
-| 17 | 11% | 66% |  |
-| 18 | 6% | 56% | Median |
-| 19 | 5% | 50% |  |
-| 20 | 5% | 45% |  |
-| 21 | 4% | 40% |  |
-| 22 | 3% | 35% |  |
-| 23 | 5% | 32% |  |
-| 24 | 4% | 27% |  |
-| 25 | 7% | 23% |  |
-| 26 | 6% | 16% |  |
+| 12 | 3% | 83% | Last Result |
+| 13 | 3% | 80% |  |
+| 14 | 2% | 77% |  |
+| 15 | 3% | 75% |  |
+| 16 | 3% | 72% |  |
+| 17 | 10% | 69% |  |
+| 18 | 14% | 59% | Median |
+| 19 | 4% | 45% |  |
+| 20 | 4% | 41% |  |
+| 21 | 4% | 36% |  |
+| 22 | 3% | 33% |  |
+| 23 | 5% | 30% |  |
+| 24 | 4% | 25% |  |
+| 25 | 6% | 21% |  |
+| 26 | 5% | 15% |  |
 | 27 | 6% | 10% |  |
 | 28 | 3% | 4% |  |
 | 29 | 0.7% | 1.1% |  |
