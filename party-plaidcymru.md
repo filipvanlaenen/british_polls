@@ -91,6 +91,18 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.2–1.1% |
+| [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian | 0.2% | N/A | N/A | N/A | N/A |
+| [8–10 May 2018](2018-05-10-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
+| [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times | 0.6% | N/A | N/A | N/A | N/A |
+| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 0.3% | N/A | N/A | N/A | N/A |
+| [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times | 0.6% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -191,8 +203,20 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–2 | 0–2 | 0–4 | 0–4 |
 | [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–3 | 0–5 |
 | [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–8 | 4–8 |
-| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
+| [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 2–5 | 1–8 |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 5 | 5–6 | 5–6 | 4–9 |
+| [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 5 | 1–5 | 0–5 | 0–5 | 0–5 |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 1–5 | 1–5 |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 5 | 5 | 5 | 4–5 | 4–8 |
+| [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
+| [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
+| [8–10 May 2018](2018-05-10-Survation.html) | Survation |  |  |  |  |  |
+| [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -204,9 +228,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% |  |
 | 1 | 4% | 89% |  |
-| 2 | 3% | 85% |  |
-| 3 | 6% | 82% |  |
-| 4 | 10% | 76% | Last Result |
+| 2 | 4% | 85% |  |
+| 3 | 7% | 82% |  |
+| 4 | 10% | 75% | Last Result |
 | 5 | 54% | 65% | Median |
 | 6 | 3% | 11% |  |
 | 7 | 1.2% | 8% |  |

@@ -91,6 +91,18 @@ Last result: **40.0%** (General Election of 8 June 2017)
 | [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 39.2% | 37.8–40.6% | 37.4–41.0% | 37.1–41.4% | 36.4–42.1% |
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 37.3% | 35.8–38.9% | 35.3–39.3% | 35.0–39.7% | 34.2–40.5% |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 40.4% | 39.0–41.8% | 38.6–42.2% | 38.3–42.6% | 37.6–43.3% |
+| [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 38.6% | 37.1–40.2% | 36.7–40.6% | 36.3–41.0% | 35.6–41.7% |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 39.6% | 38.2–41.0% | 37.8–41.4% | 37.5–41.8% | 36.8–42.5% |
+| [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 40.2% | 38.2–42.2% | 37.7–42.8% | 37.2–43.3% | 36.3–44.2% |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 38.4% | 36.9–39.9% | 36.4–40.4% | 36.1–40.7% | 35.3–41.5% |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 41.0% | 39.6–42.4% | 39.2–42.8% | 38.9–43.1% | 38.2–43.8% |
+| [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 38.6% | 37.2–40.0% | 36.9–40.4% | 36.5–40.8% | 35.9–41.5% |
+| [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 38.0% | 36.5–39.6% | 36.0–40.0% | 35.7–40.4% | 34.9–41.1% |
+| [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian | 39.5% | N/A | N/A | N/A | N/A |
+| [8–10 May 2018](2018-05-10-Survation.html) | Survation | 40.0% | N/A | N/A | N/A | N/A |
+| [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times | 38.4% | N/A | N/A | N/A | N/A |
+| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 38.9% | N/A | N/A | N/A | N/A |
+| [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times | 38.7% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -121,8 +133,8 @@ Last result: **262** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 278 | 244–300 | 238–306 | 235–310 | 227–322 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 265 | 238–286 | 237–290 | 235–293 | 229–300 |
+| N/A | [Poll Average](average.html) | 278 | 245–300 | 238–306 | 235–310 | 227–322 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 263 | 238–286 | 237–291 | 235–294 | 228–300 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 273 | 243–294 | 237–299 | 234–303 | 226–311 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 273 | 243–296 | 237–302 | 233–305 | 225–314 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 254 | 237–280 | 235–285 | 231–290 | 224–296 |
@@ -194,14 +206,26 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [22–27 June 2018](2018-06-27-IpsosMORI.html) | Ipsos MORI | 244 | 227–278 | 226–287 | 222–291 | 208–302 |
 | [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 236 | 225–261 | 224–264 | 218–266 | 209–283 |
 | [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 280 | 250–308 | 249–315 | 243–315 | 238–324 |
-| [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 242 | 228–273 | 226–283 | 223–290 | 214–299 |
+| [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 245 | 228–279 | 225–287 | 222–293 | 210–301 |
 | [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times | 260 | 238–285 | 237–293 | 235–298 | 226–313 |
 | [11–12 June 2018](2018-06-12-YouGov.html) | YouGov <br> The Times | 246 | 230–279 | 228–291 | 225–295 | 225–303 |
 | [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 256 | 244–288 | 241–295 | 240–305 | 232–317 |
 | [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 323 | 299–342 | 295–343 | 284–344 | 270–357 |
 | [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 259 | 239–277 | 236–284 | 233–288 | 228–295 |
-| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 231 | 219–243 | 212–251 | 207–259 | 197–267 |
+| [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 232 | 215–244 | 210–251 | 207–259 | 198–270 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 273 | 247–294 | 242–301 | 238–307 | 234–317 |
+| [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 277 | 224–278 | 224–278 | 224–278 | 224–278 |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 261 | 230–291 | 230–291 | 230–307 | 228–318 |
+| [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 294 | 294 | 286–306 | 272–306 | 236–324 |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 267 | 267 | 259–267 | 237–267 | 235–267 |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 279 | 279 | 272–279 | 258–299 | 258–299 |
+| [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 244 | 228–244 | 225–271 | 210–271 | 210–275 |
+| [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 303 | 241–303 | 227–303 | 227–303 | 227–303 |
+| [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian |  |  |  |  |  |
+| [8–10 May 2018](2018-05-10-Survation.html) | Survation |  |  |  |  |  |
+| [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -233,49 +257,49 @@ The following table shows the probability mass function per seat for the [poll a
 | 235 | 0.6% | 98% |  |
 | 236 | 0.6% | 97% |  |
 | 237 | 0.7% | 96% |  |
-| 238 | 2% | 96% |  |
-| 239 | 0.7% | 94% |  |
-| 240 | 0.7% | 93% |  |
-| 241 | 1.2% | 93% |  |
+| 238 | 1.4% | 96% |  |
+| 239 | 0.8% | 94% |  |
+| 240 | 0.6% | 94% |  |
+| 241 | 0.6% | 93% |  |
 | 242 | 0.7% | 92% |  |
-| 243 | 0.6% | 91% |  |
-| 244 | 0.5% | 90% |  |
+| 243 | 0.8% | 92% |  |
+| 244 | 0.5% | 91% |  |
 | 245 | 0.5% | 90% |  |
-| 246 | 1.3% | 89% |  |
+| 246 | 2% | 90% |  |
 | 247 | 0.8% | 88% |  |
 | 248 | 0.8% | 87% |  |
-| 249 | 0.8% | 86% |  |
-| 250 | 1.2% | 86% |  |
-| 251 | 1.0% | 84% |  |
-| 252 | 0.3% | 83% |  |
-| 253 | 0.3% | 83% |  |
+| 249 | 1.0% | 87% |  |
+| 250 | 0.8% | 86% |  |
+| 251 | 1.0% | 85% |  |
+| 252 | 0.3% | 84% |  |
+| 253 | 0.4% | 83% |  |
 | 254 | 2% | 83% |  |
 | 255 | 2% | 81% |  |
 | 256 | 1.1% | 79% |  |
-| 257 | 0.9% | 78% |  |
-| 258 | 1.4% | 77% |  |
-| 259 | 1.2% | 76% |  |
-| 260 | 2% | 75% |  |
-| 261 | 1.2% | 73% |  |
-| 262 | 0.8% | 72% | Last Result |
-| 263 | 1.0% | 71% |  |
+| 257 | 0.8% | 78% |  |
+| 258 | 1.5% | 77% |  |
+| 259 | 1.3% | 76% |  |
+| 260 | 1.5% | 75% |  |
+| 261 | 2% | 73% |  |
+| 262 | 0.9% | 72% | Last Result |
+| 263 | 1.1% | 71% |  |
 | 264 | 1.3% | 70% |  |
-| 265 | 1.1% | 69% |  |
-| 266 | 2% | 68% |  |
-| 267 | 1.0% | 66% |  |
-| 268 | 0.8% | 65% |  |
+| 265 | 1.4% | 68% |  |
+| 266 | 2% | 67% |  |
+| 267 | 0.6% | 65% |  |
+| 268 | 0.9% | 65% |  |
 | 269 | 2% | 64% |  |
-| 270 | 3% | 63% |  |
-| 271 | 1.1% | 60% |  |
-| 272 | 2% | 58% |  |
-| 273 | 1.0% | 57% |  |
-| 274 | 1.4% | 56% |  |
-| 275 | 1.5% | 55% |  |
-| 276 | 1.5% | 53% |  |
+| 270 | 2% | 62% |  |
+| 271 | 1.4% | 60% |  |
+| 272 | 2% | 59% |  |
+| 273 | 1.2% | 57% |  |
+| 274 | 1.3% | 56% |  |
+| 275 | 2% | 55% |  |
+| 276 | 2% | 53% |  |
 | 277 | 1.3% | 52% |  |
-| 278 | 2% | 50% | Median |
-| 279 | 1.0% | 48% |  |
-| 280 | 1.3% | 47% |  |
+| 278 | 2% | 51% | Median |
+| 279 | 1.1% | 48% |  |
+| 280 | 1.4% | 47% |  |
 | 281 | 2% | 46% |  |
 | 282 | 2% | 44% |  |
 | 283 | 2% | 42% |  |
