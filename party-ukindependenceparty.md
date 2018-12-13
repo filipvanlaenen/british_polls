@@ -120,7 +120,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -190,14 +190,14 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [3–5 July 2018](2018-07-05-BMGResearch.html) | BMG Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–27 June 2018](2018-06-27-IpsosMORI.html) | Ipsos MORI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
-| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times |  | 0 | 0 | 0 | 0–1 |
+| [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–12 June 2018](2018-06-12-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0–1 |
-| [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
+| [8–10 June 2018](2018-06-10-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–8 June 2018](2018-06-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–7 June 2018](2018-06-07-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 
@@ -209,8 +209,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 73% | 78% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 76% | 80% | Median |
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 

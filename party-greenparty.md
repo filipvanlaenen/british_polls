@@ -118,7 +118,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -189,7 +189,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [3–4 July 2018](2018-07-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [22–27 June 2018](2018-06-27-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1–2 | 1–2 |
+| [22–24 June 2018](2018-06-24-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [19–20 June 2018](2018-06-20-Survation.html) | Survation <br> Good Morning Britain | 1 | 1 | 1 | 1 | 1 |
 | [18–19 June 2018](2018-06-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [11–12 June 2018](2018-06-12-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
@@ -207,8 +207,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 80% | 100% | Last Result, Median |
-| 2 | 18% | 20% |  |
+| 1 | 77% | 100% | Last Result, Median |
+| 2 | 20% | 23% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
