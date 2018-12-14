@@ -141,8 +141,8 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.2–1.3% |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 1.0% | N/A | N/A | N/A | N/A |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 0.6% | N/A | N/A | N/A | N/A |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
 
 ### Probability Mass Function
 
@@ -271,7 +271,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5 | 5–8 | 3–8 | 2–8 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 5 | 5 | 5 | 4–5 |
+| [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–6 | 4–6 | 4–8 | 4–8 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5 | 5 | 4–5 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 7 | 5–7 | 4–7 | 4–8 | 4–10 |
@@ -280,23 +280,23 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 2 | 1–5 | 1–5 | 1–5 | 1–5 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 4 | 1–4 | 1–4 | 0–5 | 0–5 |
 | [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 4 | 4–5 | 4–5 | 4–5 | 0–5 |
-| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 1–5 | 1–5 | 1–5 |
+| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 5 | 4–6 | 4–8 | 4–8 | 4–9 |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 4–8 | 2–8 | 2–8 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0 | 0–1 | 0–1 | 0–5 |
-| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 1–5 | 1–5 | 0–5 |
 | [26–29 January 2018](2018-01-29-Survation.html) | Survation | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 5 | 5 | 4–5 | 4–5 | 2–5 |
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0 | 0 | 0 | 0 |
-| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 0–5 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 5 | 5 | 5 | 4–5 | 4–5 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 
 ### Probability Mass Function
 

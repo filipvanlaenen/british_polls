@@ -141,8 +141,8 @@ Last result: **42.4%** (General Election of 8 June 2017)
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 41.3% | 39.8–42.9% | 39.4–43.3% | 39.0–43.7% | 38.3–44.5% |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 40.3% | 38.9–41.7% | 38.5–42.1% | 38.2–42.5% | 37.5–43.1% |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 40.3% | 38.9–41.7% | 38.5–42.1% | 38.1–42.5% | 37.5–43.1% |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 40.0% | N/A | N/A | N/A | N/A |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 40.3% | N/A | N/A | N/A | N/A |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 40.0% | 38.4–41.6% | 37.9–42.1% | 37.5–42.5% | 36.8–43.3% |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 40.3% | 38.8–41.9% | 38.3–42.3% | 38.0–42.7% | 37.2–43.4% |
 
 ### Probability Mass Function
 
@@ -284,7 +284,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 314 | 298–314 | 298–314 | 278–314 | 278–314 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 323 | 323 | 323–328 | 318–331 | 297–334 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 311 | 311–338 | 311–338 | 311–338 | 301–340 |
-| [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 309 | 309–310 | 309–310 | 309–320 | 283–360 |
+| [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 327 | 298–340 | 290–344 | 284–348 | 273–355 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 260 | 256–260 | 256–268 | 256–279 | 243–279 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 323 | 299–323 | 299–323 | 299–323 | 299–334 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 290 | 290–322 | 276–340 | 272–345 | 264–352 |
@@ -293,23 +293,23 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 310 | 283–310 | 283–310 | 267–310 | 260–310 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 306 | 284–306 | 284–306 | 273–326 | 261–341 |
 | [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 285 | 259–313 | 259–313 | 259–313 | 247–313 |
-| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 297 | 260–297 | 250–297 | 250–297 | 248–297 |
+| [19–20 February 2018](2018-02-20-YouGov.html) | YouGov <br> The Times | 280 | 263–312 | 254–312 | 254–315 | 248–329 |
 | [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 275 | 275–276 | 275–298 | 275–298 | 275–344 |
-| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 283 | 283 | 283 | 283–309 | 263–309 |
+| [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 292 | 270–314 | 267–326 | 261–328 | 256–338 |
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 309 | 259–309 | 258–310 | 258–312 | 258–313 |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 288 | 280–339 | 280–339 | 280–339 | 280–339 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 290 | 290–329 | 290–353 | 277–353 | 277–353 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 326 | 325–335 | 325–338 | 290–347 | 276–357 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 314 | 269–314 | 269–314 | 269–314 | 269–314 |
-| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 334 | 273–334 | 273–334 | 273–334 | 273–348 |
+| [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 302 | 282–326 | 274–333 | 272–339 | 265–345 |
 | [26–29 January 2018](2018-01-29-Survation.html) | Survation | 269 | 266–300 | 242–300 | 242–300 | 242–300 |
 | [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 241 | 241 | 241–249 | 241–262 | 241–279 |
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 292 | 286–292 | 286–292 | 286–292 | 286–315 |
-| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 268 | 259–342 | 259–342 | 259–342 | 252–342 |
+| [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 289 | 272–310 | 269–318 | 265–320 | 253–332 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 266 | 266–288 | 266–340 | 266–340 | 265–340 |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 302 |  |  |  |  |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 270 | 270–302 | 270–302 | 270–321 | 262–329 |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 266 | 266–280 | 266–280 | 266–281 | 265–292 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 281 | 278–321 | 278–321 | 278–321 | 275–321 |
 
 ### Probability Mass Function
 

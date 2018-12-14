@@ -141,8 +141,8 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.8% | 1.3–3.1% |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 2.0% | N/A | N/A | N/A | N/A |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 2.0% | N/A | N/A | N/A | N/A |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 2.0% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.3–3.1% |
 
 ### Probability Mass Function
 
@@ -299,9 +299,9 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer |  | 1 | 1 | 1 | 1 |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
