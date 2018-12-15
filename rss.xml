@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 15 Dec 2018 11:00:13 +0100</pubDate>
+    <pubDate>Sat, 15 Dec 2018 12:16:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 6–7 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html#seats</link>
@@ -1896,8 +1896,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-04-BMGResearch.png"
         length="161226"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 16:54:53 +0100</pubDate>
-      <dc:date>2018-12-13T16:54:53.920312+01:00</dc:date>
+      <pubDate>Sat, 15 Dec 2018 11:56:01 +0100</pubDate>
+      <dc:date>2018-12-15T11:56:01.963564+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 30 April–1 May 2018 – Voting Intentions</title>
@@ -1946,8 +1946,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-24-IpsosMORI.png"
         length="162900"
         type="image/png"/>
-      <pubDate>Sat, 15 Dec 2018 11:00:13 +0100</pubDate>
-      <dc:date>2018-12-15T11:00:13.218624+01:00</dc:date>
+      <pubDate>Sat, 15 Dec 2018 11:07:30 +0100</pubDate>
+      <dc:date>2018-12-15T11:07:30.262127+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 16–17 April 2018 – Voting Intentions</title>
@@ -1956,8 +1956,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-17-YouGov.png"
         length="156941"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 18:47:13 +0100</pubDate>
-      <dc:date>2018-12-13T18:47:13.029551+01:00</dc:date>
+      <pubDate>Sat, 15 Dec 2018 11:23:34 +0100</pubDate>
+      <dc:date>2018-12-15T11:23:34.937535+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for The Mail on Sunday, 14 April 2018 – Voting Intentions</title>
@@ -2006,8 +2006,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-10-YouGov.png"
         length="160032"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 19:23:24 +0100</pubDate>
-      <dc:date>2018-12-13T19:23:24.921499+01:00</dc:date>
+      <pubDate>Sat, 15 Dec 2018 12:16:11 +0100</pubDate>
+      <dc:date>2018-12-15T12:16:11.409322+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICM Research for The Guardian, 6–8 April 2018 – Voting Intentions</title>
@@ -2086,8 +2086,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-03-15-Opinium.png"
         length="154463"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 20:21:54 +0100</pubDate>
-      <dc:date>2018-12-13T20:21:54.99413+01:00</dc:date>
+      <pubDate>Sat, 15 Dec 2018 11:38:04 +0100</pubDate>
+      <dc:date>2018-12-15T11:38:04.031012+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Good Morning Britain, 7–8 March 2018 – Voting Intentions</title>
@@ -2309,6 +2309,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2018-12-15T11:00:13.218624+01:00</dc:date>
+    <dc:date>2018-12-15T12:16:11.409322+01:00</dc:date>
   </channel>
 </rss>
