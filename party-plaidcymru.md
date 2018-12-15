@@ -255,18 +255,18 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0 | 0 | 0 | 0–2 |
 | [8–10 May 2018](2018-05-10-Survation.html) | Survation | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times | 5 | 1–5 | 1–5 | 1–5 | 0–5 |
-| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–3 | 0–3 | 0–3 | 0–5 |
+| [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 0–5 | 0–5 | 0–5 |
 | [27–29 April 2018](2018-04-29-ICMResearch.html) | ICM Research <br> The Guardian | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–29 April 2018](2018-04-29-ComRes.html) | ComRes <br> Daily Express | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [24–25 April 2018](2018-04-25-YouGov.html) | YouGov <br> The Times | 4 | 4–5 | 2–5 | 2–5 | 0–5 |
-| [20–24 April 2018](2018-04-24-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–10 |
-| [16–17 April 2018](2018-04-17-YouGov.html) | YouGov <br> The Times | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [20–24 April 2018](2018-04-24-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
+| [16–17 April 2018](2018-04-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 0–5 | 0–5 | 0–5 |
 | [14 April 2018](2018-04-14-Survation.html) | Survation <br> The Mail on Sunday | 5 | 5–8 | 5–8 | 3–8 | 3–8 |
 | [10–13 April 2018](2018-04-13-BMGResearch.html) | BMG Research | 2 | 2 | 2 | 2 | 2 |
 | [10–12 April 2018](2018-04-12-Opinium.html) | Opinium <br> The Observer | 7 | 3–8 | 3–8 | 3–8 | 3–8 |
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 5 | 5–8 | 5–8 | 5–8 | 4–8 |
-| [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 0–1 | 0–2 |
+| [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5 | 5–8 | 3–8 | 2–8 |
@@ -274,7 +274,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–6 | 4–6 | 4–8 | 4–8 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5 | 5 | 4–5 |
-| [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 7 | 5–7 | 4–7 | 4–8 | 4–10 |
+| [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 5 | 4–6 | 4–6 | 4–8 | 4–8 |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 7 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 2 | 1–5 | 1–5 | 1–5 | 1–5 |
