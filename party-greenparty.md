@@ -289,7 +289,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [16–19 February 2018](2018-02-19-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [12–13 February 2018](2018-02-13-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
-| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
