@@ -294,7 +294,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [26–29 January 2018](2018-01-29-Survation.html) | Survation | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [26–29 January 2018](2018-01-29-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–23 January 2018](2018-01-23-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1 |
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
