@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2018-12-13T16:43:58.733778+01:00</updated>
+  <updated>2018-12-17T14:26:29.80649+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.5–41.2%, 253–318 seats</li><li>Labour Party: 35.5–40.1%, 235–294 seats</li><li>Liberal Democrats: 8.9–11.8%, 18–30 seats</li><li>Scottish National Party: 3.5–5.5%, 46–57 seats</li><li>Plaid Cymru: 0.4–1.3%, 2–5 seats</li><li>UK Independence Party: 2.3–4.0%, 0–1 seats</li><li>Green Party: 3.2–5.1%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html</id>
@@ -399,5 +399,13 @@
     <updated>2018-12-13T16:43:58.733778+01:00</updated>
     <dc:date>2018-12-13T16:43:58.733778+01:00</dc:date>
   </entry>
-  <dc:date>2018-12-13T16:43:58.733778+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.1–45.9%, 296–356 seats</li><li>Labour Party: 37.1–41.8%, 232–303 seats</li><li>Liberal Democrats: 6.9–9.5%, 9–22 seats</li><li>Scottish National Party: 1.9–3.5%, 0–42 seats</li><li>Plaid Cymru: 0.2–0.9%, 0–5 seats</li><li>UK Independence Party: 2.3–4.0%, 0–1 seats</li><li>Green Party: 1.5–2.9%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-03-27-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-03-27-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 26–27 March 2018</title>
+    <updated>2018-12-17T14:26:29.80649+01:00</updated>
+    <dc:date>2018-12-17T14:26:29.80649+01:00</dc:date>
+  </entry>
+  <dc:date>2018-12-17T14:26:29.80649+01:00</dc:date>
 </feed>
