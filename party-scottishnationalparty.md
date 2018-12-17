@@ -272,9 +272,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 28 | 15–47 | 7–50 | 6–52 | 2–54 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 44 | 32–51 | 28–52 | 21–53 | 8–55 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 39 | 9–48 | 9–50 | 6–52 | 2–54 |
-| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 42 | 25–54 | 20–54 | 13–55 | 8–56 |
+| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 42 | 25–54 | 20–54 | 14–55 | 8–56 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 49 | 40–55 | 36–57 | 32–57 | 21–58 |
-| [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 18 | 4–38 | 2–40 | 1–42 | 0–48 |
+| [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 19 | 3–39 | 2–41 | 0–42 | 0–48 |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 27 | 8–42 | 6–48 | 4–50 | 2–53 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 51 | 46–54 | 45–54 | 40–56 | 29–57 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 54 | 48–57 | 46–58 | 42–58 | 40–58 |

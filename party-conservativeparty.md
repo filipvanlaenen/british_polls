@@ -281,9 +281,9 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 294 | 271–316 | 269–318 | 267–325 | 261–336 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 288 | 266–312 | 261–318 | 255–328 | 251–331 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 315 | 285–333 | 277–339 | 274–344 | 268–349 |
-| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 309 | 280–332 | 276–336 | 271–340 | 264–345 |
+| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 305 | 279–330 | 275–336 | 271–340 | 264–345 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 323 | 295–342 | 288–353 | 287–359 | 266–368 |
-| [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 332 | 308–350 | 300–354 | 294–357 | 286–362 |
+| [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 333 | 308–348 | 302–352 | 296–356 | 284–365 |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 327 | 298–340 | 290–344 | 284–348 | 273–355 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 262 | 249–286 | 246–296 | 242–297 | 237–310 |
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 318 | 295–332 | 288–336 | 283–339 | 271–343 |

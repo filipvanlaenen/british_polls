@@ -268,7 +268,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–7 | 4–8 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 1–5 | 0–5 | 0–5 |
+| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–8 | 4–8 | 3–9 | 2–10 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–6 | 4–6 | 4–8 | 4–8 |
