@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 17 Dec 2018 19:45:59 +0100</pubDate>
+    <pubDate>Tue, 18 Dec 2018 07:41:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 6–7 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html#seats</link>
@@ -1820,14 +1820,34 @@
       <dc:date>2018-12-16T09:24:17.22038+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 284–346 seats&lt;/li&gt;&lt;li&gt;Labour Party: 224–282 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14–26 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 21–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 1–5 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov-seats.png"
+        length="157729"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 22:26:52 +0100</pubDate>
+      <dc:date>2018-12-17T22:26:52.232082+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov-coalitions-seats.png"
+        length="448065"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 22:26:52 +0100</pubDate>
+      <dc:date>2018-12-17T22:26:52.232082+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.0–44.8%&lt;/li&gt;&lt;li&gt;Labour Party: 36.1–40.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.7–4.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.3–1.1%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.5–2.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-21-YouGov.png"
         length="155658"
         type="image/png"/>
-      <pubDate>Thu, 13 Dec 2018 17:16:25 +0100</pubDate>
-      <dc:date>2018-12-13T17:16:25.156738+01:00</dc:date>
+      <pubDate>Mon, 17 Dec 2018 22:26:52 +0100</pubDate>
+      <dc:date>2018-12-17T22:26:52.232082+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018 – Voting Intentions</title>
@@ -2020,14 +2040,34 @@
       <dc:date>2018-12-16T11:04:21.473145+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 4–5 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 271–340 seats&lt;/li&gt;&lt;li&gt;Labour Party: 239–308 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 3–17 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 13–55 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–5 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov-seats.png"
+        length="168962"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 20:44:45 +0100</pubDate>
+      <dc:date>2018-12-17T20:44:45.253811+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 4–5 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov-coalitions-seats.png"
+        length="494811"
+        type="image/png"/>
+      <pubDate>Mon, 17 Dec 2018 20:44:45 +0100</pubDate>
+      <dc:date>2018-12-17T20:44:45.253811+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 4–5 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.2–44.0%&lt;/li&gt;&lt;li&gt;Labour Party: 38.3–43.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.8–8.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.6–4.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.3–1.0%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-05-YouGov.png"
         length="157802"
         type="image/png"/>
-      <pubDate>Mon, 17 Dec 2018 19:45:59 +0100</pubDate>
-      <dc:date>2018-12-17T19:45:59.882575+01:00</dc:date>
+      <pubDate>Mon, 17 Dec 2018 20:44:45 +0100</pubDate>
+      <dc:date>2018-12-17T20:44:45.253811+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Number Cruncher Politics, 27 March–5 April 2018 – Voting Intentions</title>
@@ -2036,8 +2076,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-05-NumberCruncherPolitics.png"
         length="165810"
         type="image/png"/>
-      <pubDate>Sun, 16 Dec 2018 10:24:51 +0100</pubDate>
-      <dc:date>2018-12-16T10:24:51.019918+01:00</dc:date>
+      <pubDate>Mon, 17 Dec 2018 23:15:40 +0100</pubDate>
+      <dc:date>2018-12-17T23:15:40.11185+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 26–27 March 2018 – Seat Projections for the Parties</title>
@@ -2306,8 +2346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-01-12-Opinium.png"
         length="154304"
         type="image/png"/>
-      <pubDate>Sat, 15 Dec 2018 10:33:21 +0100</pubDate>
-      <dc:date>2018-12-15T10:33:21.97562+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 07:41:59 +0100</pubDate>
+      <dc:date>2018-12-18T07:41:59.652092+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research, 9–12 January 2018 – Voting Intentions</title>
@@ -2329,6 +2369,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2018-12-17T19:45:59.882575+01:00</dc:date>
+    <dc:date>2018-12-18T07:41:59.652092+01:00</dc:date>
   </channel>
 </rss>
