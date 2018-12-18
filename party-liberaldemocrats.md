@@ -271,7 +271,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [16–17 April 2018](2018-04-17-YouGov.html) | YouGov <br> The Times | 15 | 8–19 | 6–20 | 6–21 | 4–24 |
 | [14 April 2018](2018-04-14-Survation.html) | Survation <br> The Mail on Sunday | 20 | 15–24 | 13–25 | 13–26 | 12–28 |
 | [10–13 April 2018](2018-04-13-BMGResearch.html) | BMG Research | 28 | 26–32 | 25–33 | 24–33 | 21–36 |
-| [10–12 April 2018](2018-04-12-Opinium.html) | Opinium <br> The Observer | 10 | 5–14 | 4–15 | 3–16 | 2–19 |
+| [10–12 April 2018](2018-04-12-Opinium.html) | Opinium <br> The Observer | 11 | 5–14 | 4–15 | 3–16 | 2–19 |
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 13 | 8–16 | 6–16 | 5–18 | 3–20 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 21 | 16–26 | 15–27 | 15–28 | 12–28 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 11 | 7–16 | 5–17 | 4–17 | 3–20 |
@@ -302,7 +302,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 9 | 5–16 | 4–16 | 3–17 | 2–20 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 13 | 6–16 | 5–16 | 4–17 | 3–19 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 5 | 2–8 | 1–11 | 0–12 | 0–14 |
-| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 16 | 14–20 | 11–22 | 9–24 | 7–26 |
+| [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 16 | 13–20 | 12–22 | 9–24 | 6–26 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 20 | 15–26 | 15–27 | 14–27 | 12–28 |
 
 ### Probability Mass Function
