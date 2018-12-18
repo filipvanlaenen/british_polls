@@ -255,7 +255,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 18 | 14–23 | 12–24 | 12–26 | 10–27 |
 | [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 15 | 11–18 | 10–19 | 9–20 | 6–21 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 10 | 4–15 | 3–17 | 2–18 | 1–20 |
-| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 19 | 15–24 | 14–26 | 14–26 | 11–27 |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 20 | 15–24 | 15–26 | 14–26 | 11–28 |
 | [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 12 | 6–15 | 5–16 | 4–16 | 3–18 |
 | [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 3 | 0–5 | 0–7 | 0–8 | 0–12 |
 | [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 20 | 16–24 | 15–25 | 15–26 | 13–28 |
@@ -276,7 +276,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 21 | 16–26 | 15–27 | 15–28 | 12–28 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 11 | 7–16 | 5–17 | 4–17 | 3–20 |
 | [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 10 | 5–15 | 3–16 | 3–17 | 2–19 |
-| [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 14 | 8–20 | 6–20 | 5–21 | 3–25 |
+| [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 14 | 7–19 | 5–21 | 4–22 | 2–25 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 16 | 11–19 | 9–21 | 9–22 | 7–24 |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 15 | 8–17 | 8–19 | 7–20 | 4–21 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 27 | 23–29 | 21–29 | 19–30 | 17–31 |
@@ -301,7 +301,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 13 | 9–15 | 8–16 | 7–17 | 6–17 |
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 9 | 5–16 | 4–16 | 3–17 | 2–20 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 13 | 6–16 | 5–16 | 4–17 | 3–19 |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 5 | 3–8 | 2–10 | 1–12 | 0–13 |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 5 | 2–8 | 1–11 | 0–12 | 0–14 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 16 | 14–20 | 12–22 | 9–24 | 7–26 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 20 | 15–26 | 15–27 | 14–27 | 12–28 |
 

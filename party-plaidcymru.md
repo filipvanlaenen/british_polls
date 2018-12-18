@@ -248,7 +248,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 2–5 | 2–5 | 0–7 |
 | [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 5 | 4–6 | 4–8 | 2–8 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 0–5 | 0–5 |
+| [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 1–5 | 0–5 |
 | [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 5 | 4–5 | 4–6 | 4–8 | 4–8 |
 | [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 5 | 4–6 | 4–8 | 4–8 | 4–8 |
 | [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -268,8 +268,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 5 | 4–5 | 4–6 | 4–7 | 4–8 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 0–5 | 0–5 | 0–5 |
-| [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–8 | 4–8 | 3–9 | 2–10 |
+| [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 1–5 | 0–5 | 0–5 |
+| [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–8 | 4–8 | 3–8 | 2–10 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–6 | 4–6 | 4–8 | 4–8 |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 1 | 0–3 | 0–3 | 0–3 | 0–5 |
@@ -294,7 +294,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [10–19 January 2018](2018-01-19-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [16–17 January 2018](2018-01-17-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 0–5 |
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–5 | 4–5 | 4–8 | 4–8 |
-| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 5 | 4–6 | 4–8 | 4–8 | 3–8 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 1–5 | 1–5 | 0–5 |
 
