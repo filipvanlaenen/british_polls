@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 18 Dec 2018 20:09:12 +0100</pubDate>
+    <pubDate>Tue, 18 Dec 2018 21:02:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 6–7 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-07-YouGov.html#seats</link>
@@ -1976,8 +1976,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-17-YouGov.png"
         length="156941"
         type="image/png"/>
-      <pubDate>Sat, 15 Dec 2018 11:23:34 +0100</pubDate>
-      <dc:date>2018-12-15T11:23:34.937535+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 21:02:10 +0100</pubDate>
+      <dc:date>2018-12-18T21:02:10.394853+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for The Mail on Sunday, 14 April 2018 – Voting Intentions</title>
@@ -2409,6 +2409,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2018-12-18T20:09:12.506403+01:00</dc:date>
+    <dc:date>2018-12-18T21:02:10.394853+01:00</dc:date>
   </channel>
 </rss>
