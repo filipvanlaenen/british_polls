@@ -5,7 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 36–41% <br> 253–318 | 35–40% <br> 235–294 | 9–12% <br> 18–30 | 3–5% <br> 46–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 271–339 | 37–41% <br> 240–298 | 5–7% <br> 1–9 | 3–5% <br> 31–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
+| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 39–42% <br> 289–316 | 35–38% <br> 237–260 | 9–11% <br> 20–28 | 4–5% <br> 47–54 | 4–5% <br> 1 | 3–4% <br> 1 | 1% <br> 2–5 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 261–290 | 37–41% <br> 273–294 | 7–9% <br> 11–26 | 3–5% <br> 36–57 | 5–7% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 36–41% <br> 253–318 | 35–40% <br> 235–294 | 9–12% <br> 18–30 | 3–5% <br> 46–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 37–42% <br> 260–328 | 35–40% <br> 231–290 | 8–10% <br> 12–27 | 3–5% <br> 42–57 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
@@ -28,6 +31,7 @@ The table below lists all polls registered and analyzed so far.
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 38–43% <br> 286–339 | 35–39% <br> 223–271 | 7–9% <br> 7–21 | 3–5% <br> 41–57 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 37–43% <br> 259–337 | 36–42% <br> 232–304 | 6–9% <br> 2–20 | 3–5% <br> 31–58 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 39–43% <br> 280–338 | 35–39% <br> 221–272 | 8–10% <br> 13–26 | 3–5% <br> 41–57 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 35–39% <br> 258–315 | 36–40% <br> 242–314 | 10–14% <br> 27–29 | 2–4% <br> 26–42 | 3–5% <br> 0–1 | 3–5% <br> 1 | 1–2% <br> 3–8 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 266–331 | 37–42% <br> 246–315 | 6–8% <br> 5–17 | 2–4% <br> 8–52 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 35–40% <br> 243–313 | 36–41% <br> 240–303 | 9–12% <br> 18–30 | 3–5% <br> 41–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 40–45% <br> 301–357 | 34–39% <br> 208–261 | 8–11% <br> 14–27 | 3–5% <br> 24–53 | 4–6% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
