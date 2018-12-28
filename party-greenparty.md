@@ -10,8 +10,11 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.0–5.1% | 1.9–5.5% | 1.7–5.8% | 1.4–6.4% |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 3.0–5.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.0–5.0% | 1.9–5.4% | 1.7–5.8% | 1.4–6.4% |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 3.0% | 2.7–3.4% | 2.7–3.5% | 2.6–3.6% | 2.5–3.7% |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 3.0–5.5% |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.3% | 3.5–6.8% |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–7.0% |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.4% |
@@ -34,6 +37,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.0–4.2% |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
@@ -152,10 +156,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 21% | 98.8% | Last Result |
-| 2.5–3.5% | 36% | 77% | Median |
-| 3.5–4.5% | 23% | 42% |  |
-| 4.5–5.5% | 14% | 19% |  |
+| 1.5–2.5% | 20% | 98.8% | Last Result |
+| 2.5–3.5% | 38% | 79% | Median |
+| 3.5–4.5% | 22% | 40% |  |
+| 4.5–5.5% | 14% | 18% |  |
 | 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -170,7 +174,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 1 | 1 | 1 | 1 | 1 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 December 2018](2018-12-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -193,6 +200,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation |  |  |  |  |  |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1–2 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
@@ -311,8 +319,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 77% | 100% | Last Result, Median |
-| 2 | 20% | 23% |  |
+| 1 | 82% | 100% | Last Result, Median |
+| 2 | 15% | 18% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
