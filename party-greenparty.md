@@ -174,7 +174,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 1 | 1 | 1 | 1 | 1 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -319,8 +319,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 82% | 100% | Last Result, Median |
-| 2 | 15% | 18% |  |
+| 1 | 81% | 100% | Last Result, Median |
+| 2 | 16% | 19% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |

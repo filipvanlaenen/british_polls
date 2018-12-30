@@ -171,8 +171,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 28–55 | 26–56 | 22–57 | 9–58 |
-| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 44 | 44–53 | 44–56 | 31–58 | 23–58 |
+| N/A | [Poll Average](average.html) | 48 | 28–55 | 26–57 | 22–58 | 9–58 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 55 | 49–58 | 45–58 | 43–58 | 36–58 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 52 | 48–53 | 47–54 | 47–54 | 47–56 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 57 | 46–57 | 36–57 | 36–57 | 29–57 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 52 | 50–56 | 47–56 | 46–57 | 40–57 |
@@ -337,7 +337,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 98% |  |
 | 21 | 0.3% | 98% |  |
 | 22 | 0.6% | 98% |  |
-| 23 | 0.6% | 97% |  |
+| 23 | 0.5% | 97% |  |
 | 24 | 0.6% | 97% |  |
 | 25 | 0.4% | 96% |  |
 | 26 | 3% | 96% |  |
@@ -345,7 +345,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 3% | 92% |  |
 | 29 | 2% | 89% |  |
 | 30 | 0.6% | 86% |  |
-| 31 | 0.7% | 86% |  |
+| 31 | 0.5% | 86% |  |
 | 32 | 0.9% | 85% |  |
 | 33 | 0.6% | 84% |  |
 | 34 | 0.3% | 84% |  |
@@ -358,21 +358,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 6% | 74% |  |
 | 42 | 5% | 68% |  |
 | 43 | 0.7% | 63% |  |
-| 44 | 7% | 62% |  |
-| 45 | 2% | 55% |  |
-| 46 | 1.4% | 54% |  |
-| 47 | 3% | 52% | Median |
-| 48 | 6% | 49% |  |
-| 49 | 2% | 43% |  |
-| 50 | 4% | 41% |  |
-| 51 | 5% | 37% |  |
-| 52 | 9% | 31% |  |
-| 53 | 6% | 23% |  |
-| 54 | 5% | 16% |  |
-| 55 | 4% | 11% |  |
-| 56 | 3% | 7% |  |
-| 57 | 3% | 4% |  |
-| 58 | 1.4% | 1.4% |  |
+| 44 | 2% | 62% |  |
+| 45 | 2% | 61% |  |
+| 46 | 2% | 58% |  |
+| 47 | 3% | 57% |  |
+| 48 | 6% | 54% | Median |
+| 49 | 2% | 48% |  |
+| 50 | 4% | 46% |  |
+| 51 | 6% | 42% |  |
+| 52 | 10% | 36% |  |
+| 53 | 3% | 26% |  |
+| 54 | 7% | 22% |  |
+| 55 | 6% | 16% |  |
+| 56 | 4% | 10% |  |
+| 57 | 3% | 5% |  |
+| 58 | 3% | 3% |  |
 | 59 | 0% | 0% |  |
 
 
