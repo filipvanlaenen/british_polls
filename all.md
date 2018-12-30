@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 271–339 | 37–41% <br> 240–298 | 5–7% <br> 1–9 | 3–5% <br> 31–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 265–330 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 39–42% <br> 289–316 | 35–38% <br> 237–260 | 9–11% <br> 20–28 | 4–5% <br> 47–54 | 4–5% <br> 1 | 3–4% <br> 1 | 1% <br> 2–5 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 261–290 | 37–41% <br> 273–294 | 7–9% <br> 11–26 | 3–5% <br> 36–57 | 5–7% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 36–41% <br> 253–318 | 35–40% <br> 235–294 | 9–12% <br> 18–30 | 3–5% <br> 46–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
