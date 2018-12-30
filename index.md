@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 36–44% <br> 253–338 | 36–42% <br> 235–314 | 5–13% <br> 1–28 | 2–5% <br> 22–57 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
-| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 271–339 | 37–41% <br> 240–298 | 5–7% <br> 1–9 | 3–5% <br> 31–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 253–334 | 36–42% <br> 235–314 | 5–13% <br> 2–28 | 2–5% <br> 22–58 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 265–330 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 39–42% <br> 289–316 | 35–38% <br> 237–260 | 9–11% <br> 20–28 | 4–5% <br> 47–54 | 4–5% <br> 1 | 3–4% <br> 1 | 1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
