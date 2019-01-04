@@ -10,8 +10,9 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.8% | 2.5–5.0% | 2.3–5.5% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.5–5.1% | 2.3–5.5% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.7% |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 4.3% | 4.0–4.7% | 3.9–4.8% | 3.8–4.9% | 3.6–5.1% |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 4.4% | 3.8–5.1% | 3.6–5.3% | 3.5–5.5% | 3.2–5.8% |
@@ -156,10 +157,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 42% | 97% | Last Result |
-| 3.5–4.5% | 44% | 55% | Median |
-| 4.5–5.5% | 10% | 11% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 43% | 97% | Last Result |
+| 3.5–4.5% | 43% | 54% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -171,8 +172,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 28–55 | 26–57 | 22–58 | 9–58 |
-| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 55 | 49–58 | 45–58 | 43–58 | 36–58 |
+| N/A | [Poll Average](average.html) | 49 | 28–56 | 26–57 | 22–58 | 9–58 |
+| [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 55 | 49–58 | 47–58 | 43–58 | 35–58 |
+| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 54 | 48–58 | 46–58 | 43–58 | 39–58 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 52 | 48–53 | 47–54 | 47–54 | 47–56 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 57 | 46–57 | 36–57 | 36–57 | 29–57 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 52 | 50–56 | 47–56 | 46–57 | 40–57 |
@@ -359,20 +361,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 5% | 68% |  |
 | 43 | 0.7% | 63% |  |
 | 44 | 2% | 62% |  |
-| 45 | 2% | 61% |  |
-| 46 | 1.5% | 58% |  |
+| 45 | 2% | 60% |  |
+| 46 | 2% | 58% |  |
 | 47 | 3% | 57% |  |
-| 48 | 6% | 54% | Median |
-| 49 | 2% | 48% |  |
-| 50 | 4% | 45% |  |
-| 51 | 6% | 41% |  |
-| 52 | 10% | 36% |  |
-| 53 | 3% | 26% |  |
-| 54 | 7% | 23% |  |
-| 55 | 6% | 16% |  |
-| 56 | 4% | 10% |  |
-| 57 | 3% | 5% |  |
-| 58 | 3% | 3% |  |
+| 48 | 3% | 54% |  |
+| 49 | 2% | 51% | Median |
+| 50 | 3% | 48% |  |
+| 51 | 6% | 45% |  |
+| 52 | 6% | 38% |  |
+| 53 | 3% | 32% |  |
+| 54 | 9% | 29% |  |
+| 55 | 9% | 21% |  |
+| 56 | 5% | 12% |  |
+| 57 | 3% | 7% |  |
+| 58 | 4% | 4% |  |
 | 59 | 0% | 0% |  |
 
 

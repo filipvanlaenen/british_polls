@@ -12,6 +12,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.2–1.3% | 0.2–1.4% | 0.1–1.6% | 0.1–1.8% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 0.7% | 0.6–0.9% | 0.6–1.0% | 0.5–1.0% | 0.5–1.1% |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% |
@@ -154,8 +155,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% |  |
-| 0.5–1.5% | 66% | 69% | Last Result, Median |
+| 0.0–0.5% | 33% | 100% |  |
+| 0.5–1.5% | 65% | 67% | Last Result, Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -170,6 +171,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 1–7 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 5 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
@@ -317,9 +319,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 17% | 100% |  |
 | 1 | 6% | 83% |  |
 | 2 | 5% | 77% |  |
-| 3 | 8% | 73% |  |
-| 4 | 7% | 65% | Last Result |
-| 5 | 46% | 58% | Median |
+| 3 | 6% | 73% |  |
+| 4 | 11% | 66% | Last Result |
+| 5 | 43% | 56% | Median |
 | 6 | 2% | 12% |  |
 | 7 | 0.9% | 10% |  |
 | 8 | 9% | 9% |  |
