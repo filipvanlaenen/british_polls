@@ -201,7 +201,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1–2 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
@@ -320,8 +320,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 
 
