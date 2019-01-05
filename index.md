@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 36–44% <br> 251–335 | 36–42% <br> 234–312 | 5–13% <br> 2–33 | 2–5% <br> 20–58 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 250–335 | 36–42% <br> 234–312 | 5–13% <br> 2–34 | 2–5% <br> 18–58 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 39–43% <br> 270–335 | 37–41% <br> 232–291 | 6–8% <br> 2–16 | 3–5% <br> 43–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
@@ -15,7 +15,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [20 October–2 November 2018](2018-11-02-Survation.html) | Survation <br> Channel 4 | 39–40% <br> 276–297 | 40–42% <br> 277–305 | 8–9% <br> 16–20 | 3% <br> 24–41 | 3% <br> 0 | 2% <br> 1 | N/A <br> N/A |
 | [26–28 October 2018](2018-10-28-ICMResearch.html) | ICM Research | 38–42% <br> 273–335 | 36–40% <br> 235–299 | 8–10% <br> 16–27 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [24–26 October 2018](2018-10-26-Deltapoll.html) | Deltapoll <br> Mirror | 40–46% <br> 277–353 | 37–43% <br> 227–295 | 5–8% <br> 0–14 | 3–5% <br> 26–58 | 4–7% <br> 1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
-| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 35–39% <br> 244–309 | 36–40% <br> 244–315 | 10–14% <br> 27–38 | 2–4% <br> 7–51 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 35–39% <br> 241–312 | 36–40% <br> 244–319 | 10–14% <br> 27–40 | 2–4% <br> 6–51 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
