@@ -171,7 +171,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 2–5 | 2–5 | 1–7 |
+| [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 2–5 | 2–5 | 1–8 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 5 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
@@ -318,10 +318,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 17% | 100% |  |
 | 1 | 6% | 83% |  |
-| 2 | 5% | 77% |  |
+| 2 | 4% | 77% |  |
 | 3 | 6% | 73% |  |
-| 4 | 11% | 66% | Last Result |
-| 5 | 43% | 56% | Median |
+| 4 | 11% | 67% | Last Result |
+| 5 | 43% | 55% | Median |
 | 6 | 2% | 12% |  |
 | 7 | 0.9% | 10% |  |
 | 8 | 9% | 9% |  |
