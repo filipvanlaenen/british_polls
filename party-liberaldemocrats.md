@@ -178,7 +178,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 4–28 | 3–31 | 2–33 | 0–36 |
+| N/A | [Poll Average](average.html) | 17 | 4–28 | 3–31 | 2–34 | 0–39 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 5 | 2–11 | 2–12 | 1–13 | 0–15 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 10 | 4–14 | 3–15 | 2–16 | 1–18 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 26 | 24–27 | 23–28 | 20–28 | 18–28 |
@@ -206,7 +206,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [11–12 October 2018](2018-10-12-Opinium.html) | Opinium <br> The Observer | 14 | 11–19 | 10–20 | 7–21 | 5–24 |
 | [10 October 2018](2018-10-10-Survation.html) | Survation | 11 | 4–17 | 2–18 | 2–20 | 1–24 |
 | [8–9 October 2018](2018-10-09-YouGov.html) | YouGov <br> The Times | 20 | 15–24 | 13–25 | 13–26 | 11–27 |
-| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 31 | 28–35 | 27–36 | 27–38 | 27–42 |
+| [4–7 October 2018](2018-10-07-BMGResearch.html) | BMG Research | 31 | 28–37 | 27–39 | 27–40 | 26–43 |
 | [3–5 October 2018](2018-10-05-Opinium.html) | Opinium <br> The Observer | 14 | 9–16 | 8–16 | 5–17 | 3–20 |
 | [3–5 October 2018](2018-10-05-BMGResearch.html) | BMG Research <br> The Independent | 26 | 21–28 | 19–29 | 18–30 | 15–32 |
 | [30 September–1 October 2018](2018-10-01-YouGov.html) | YouGov <br> The Times | 20 | 16–25 | 15–26 | 14–27 | 11–28 |
@@ -355,19 +355,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 4% | 16% |  |
 | 28 | 3% | 12% |  |
 | 29 | 2% | 9% |  |
-| 30 | 1.3% | 8% |  |
-| 31 | 1.3% | 6% |  |
+| 30 | 1.0% | 7% |  |
+| 31 | 0.7% | 6% |  |
 | 32 | 1.0% | 5% |  |
-| 33 | 2% | 4% |  |
-| 34 | 0.3% | 1.5% |  |
-| 35 | 0.3% | 1.2% |  |
-| 36 | 0.4% | 0.9% |  |
-| 37 | 0.2% | 0.5% |  |
-| 38 | 0.1% | 0.3% |  |
-| 39 | 0% | 0.2% |  |
-| 40 | 0% | 0.1% |  |
-| 41 | 0% | 0.1% |  |
+| 33 | 0.9% | 4% |  |
+| 34 | 0.7% | 3% |  |
+| 35 | 0.7% | 2% |  |
+| 36 | 0.6% | 2% |  |
+| 37 | 0.5% | 1.2% |  |
+| 38 | 0.1% | 0.7% |  |
+| 39 | 0.2% | 0.6% |  |
+| 40 | 0.1% | 0.3% |  |
+| 41 | 0.1% | 0.2% |  |
 | 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
