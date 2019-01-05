@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 05 Jan 2019 09:52:38 +0100</pubDate>
+    <pubDate>Sat, 05 Jan 2019 12:46:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinium, 18–20 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-20-Opinium.html#seats</link>
@@ -210,14 +210,34 @@
       <dc:date>2018-12-12T16:21:12.220783+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ComRes for Sunday Express, 30 November–2 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 249–307 seats&lt;/li&gt;&lt;li&gt;Labour Party: 262–325 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 18–28 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 9–51 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–3 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes-seats.png"
+        length="167572"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jan 2019 12:10:29 +0100</pubDate>
+      <dc:date>2019-01-05T12:10:29.515707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Sunday Express, 30 November–2 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes-coalitions-seats.png"
+        length="466838"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jan 2019 12:10:29 +0100</pubDate>
+      <dc:date>2019-01-05T12:10:29.515707+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ComRes for Sunday Express, 30 November–2 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.6–39.8%&lt;/li&gt;&lt;li&gt;Labour Party: 37.6–41.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.0–10.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 5.1–7.2%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-02-ComRes.png"
-        length="160192"
+        length="160177"
         type="image/png"/>
-      <pubDate>Wed, 12 Dec 2018 06:51:16 +0100</pubDate>
-      <dc:date>2018-12-12T06:51:16.60399+01:00</dc:date>
+      <pubDate>Sat, 05 Jan 2019 12:10:29 +0100</pubDate>
+      <dc:date>2019-01-05T12:10:29.515707+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 26–27 November 2018 – Seat Projections for the Parties</title>
@@ -644,10 +664,10 @@
       <link>https://filipvanlaenen.github.io/british_polls/2018-10-07-BMGResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.6–39.5%&lt;/li&gt;&lt;li&gt;Labour Party: 35.6–40.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 10.5–13.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Green Party: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-10-07-BMGResearch.png"
-        length="162445"
+        length="162428"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 12:31:03 +0100</pubDate>
-      <dc:date>2018-12-28T12:31:03.910796+01:00</dc:date>
+      <pubDate>Sat, 05 Jan 2019 12:46:42 +0100</pubDate>
+      <dc:date>2019-01-05T12:46:42.065026+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 3–5 October 2018 – Voting Intentions</title>
@@ -2499,6 +2519,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2019-01-05T09:52:38.411075+01:00</dc:date>
+    <dc:date>2019-01-05T12:46:42.065026+01:00</dc:date>
   </channel>
 </rss>
