@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 05 Jan 2019 15:19:48 +0100</pubDate>
+    <pubDate>Thu, 10 Jan 2019 11:06:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinium, 18–20 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-20-Opinium.html#seats</link>
@@ -74,20 +74,20 @@
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-14-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.1–41.8%&lt;/li&gt;&lt;li&gt;Labour Party: 35.0–37.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.3–11.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.8–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.0%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.5–4.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.6–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-14-YouGov.png"
-        length="147515"
+        length="147495"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 12:09:49 +0100</pubDate>
-      <dc:date>2018-12-28T12:09:49.133131+01:00</dc:date>
+      <pubDate>Thu, 10 Jan 2019 11:06:01 +0100</pubDate>
+      <dc:date>2019-01-10T11:06:01.120537+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 13–14 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-12-14-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.8–40.0%&lt;/li&gt;&lt;li&gt;Labour Party: 36.8–41.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-14-Opinium.png"
-        length="158112"
+        length="158093"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 12:21:01 +0100</pubDate>
-      <dc:date>2018-12-28T12:21:01.158473+01:00</dc:date>
+      <pubDate>Thu, 10 Jan 2019 10:32:16 +0100</pubDate>
+      <dc:date>2019-01-10T10:32:16.372736+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 6–7 December 2018 – Seat Projections for the Parties</title>
@@ -2539,6 +2539,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2019-01-05T15:19:48.841864+01:00</dc:date>
+    <dc:date>2019-01-10T11:06:01.120537+01:00</dc:date>
   </channel>
 </rss>
