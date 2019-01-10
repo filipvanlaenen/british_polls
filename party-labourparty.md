@@ -181,8 +181,8 @@ Last result: **262** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 275 | 244–300 | 238–306 | 234–312 | 227–323 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 275 | 253–295 | 247–298 | 243–301 | 240–309 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 257 | 238–281 | 237–286 | 232–291 | 226–298 |
-| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 243 | 238–247 | 238–260 | 237–260 | 228–260 |
-| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 294 | 284–294 | 273–294 | 273–294 | 266–297 |
+| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 239 | 235–250 | 230–254 | 229–255 | 224–263 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 281 | 261–294 | 255–297 | 246–302 | 239–308 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 263 | 238–286 | 237–291 | 235–294 | 228–300 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 273 | 243–294 | 237–299 | 234–303 | 226–311 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 273 | 243–296 | 237–302 | 233–305 | 225–314 |

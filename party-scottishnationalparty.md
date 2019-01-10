@@ -175,8 +175,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 49 | 28–56 | 24–57 | 18–58 | 7–58 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 55 | 49–58 | 47–58 | 43–58 | 35–58 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 54 | 49–58 | 46–58 | 43–58 | 39–58 |
-| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 52 | 48–53 | 47–54 | 47–54 | 47–56 |
-| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 57 | 46–57 | 36–57 | 36–57 | 29–57 |
+| [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 52 | 50–54 | 48–54 | 48–54 | 47–56 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 51 | 48–57 | 46–57 | 44–57 | 32–58 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 52 | 50–56 | 47–56 | 46–57 | 40–57 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 52 | 45–56 | 41–57 | 38–57 | 26–58 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 52 | 44–57 | 39–57 | 36–57 | 26–58 |
