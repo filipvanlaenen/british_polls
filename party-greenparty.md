@@ -10,11 +10,14 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.0–5.0% | 1.9–5.4% | 1.7–5.8% | 1.4–6.4% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.0–5.1% | 1.7–5.5% | 1.5–5.8% | 1.3–6.4% |
+| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 4.1% | 3.9–4.3% | 3.8–4.3% | 3.8–4.3% | 3.7–4.4% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 3.0% | 2.7–3.4% | 2.7–3.5% | 2.6–3.6% | 2.5–3.7% |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
+| [10–11 December 2018](2018-12-11-Populus.html) | Populus | 3.0% | N/A | N/A | N/A | N/A |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 3.0–5.5% |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.3% | 3.5–6.8% |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–7.0% |
@@ -156,12 +159,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 21% | 98.8% | Last Result |
-| 2.5–3.5% | 37% | 78% | Median |
-| 3.5–4.5% | 23% | 41% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 19% | 97% | Last Result |
+| 2.5–3.5% | 32% | 78% | Median |
+| 3.5–4.5% | 28% | 46% |  |
 | 4.5–5.5% | 14% | 18% |  |
-| 5.5–6.5% | 4% | 4% |  |
+| 5.5–6.5% | 4% | 5% |  |
 | 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -175,10 +178,13 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
+| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote |  |  |  |  |  |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 1 | 1 | 1 | 1 | 1 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–11 December 2018](2018-12-11-Populus.html) | Populus |  |  |  |  |  |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -321,8 +327,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 77% | 100% | Last Result, Median |
-| 2 | 20% | 23% |  |
+| 1 | 76% | 100% | Last Result, Median |
+| 2 | 20% | 24% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
