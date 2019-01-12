@@ -6,12 +6,12 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 229–317 | 38–44% <br> 270–331 | 8–12% <br> 18–34 | 2–4% <br> 1–51 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
-| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> N/A | 34–35% <br> N/A | 10–11% <br> N/A | 3–4% <br> N/A | 4% <br> N/A | 4% <br> N/A | 1% <br> N/A |
+| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> 321–334 | 34–35% <br> 224–237 | 10–11% <br> 25–26 | 3–4% <br> 40–48 | 4% <br> 1 | 4% <br> 1 | 0–1% <br> 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 39–43% <br> 270–335 | 37–41% <br> 232–291 | 6–8% <br> 2–16 | 3–5% <br> 43–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 39–42% <br> 291–322 | 35–38% <br> 229–255 | 9–11% <br> 20–28 | 4–5% <br> 48–54 | 4–5% <br> 1 | 3–4% <br> 1 | 1% <br> 3–5 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 257–314 | 37–41% <br> 246–302 | 7–9% <br> 11–22 | 3–5% <br> 44–57 | 5–7% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 4–8 |
-| [10–11 December 2018](2018-12-11-Populus.html) | Populus | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–11 December 2018](2018-12-11-Populus.html) | Populus | 36–40% <br> 264–312 | 39–43% <br> 285–306 | 6–8% <br> 13–16 | 2–4% <br> 13–51 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–5 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 36–41% <br> 253–318 | 35–40% <br> 235–294 | 9–12% <br> 18–30 | 3–5% <br> 46–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
