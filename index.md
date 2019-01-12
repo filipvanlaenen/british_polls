@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 36–44% <br> 246–336 | 34–42% <br> 234–316 | 5–11% <br> 1–29 | 2–5% <br> 17–58 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 246–334 | 34–42% <br> 229–314 | 5–11% <br> 2–29 | 2–5% <br> 18–57 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 229–317 | 38–44% <br> 270–331 | 8–12% <br> 18–34 | 2–4% <br> 1–51 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
-| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> N/A | 34–35% <br> N/A | 10–11% <br> N/A | 3–4% <br> N/A | 4% <br> N/A | 4% <br> N/A | 1% <br> N/A |
+| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> 321–334 | 34–35% <br> 224–237 | 10–11% <br> 25–26 | 3–4% <br> 40–48 | 4% <br> 1 | 4% <br> 1 | 0–1% <br> 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
-| [10–11 December 2018](2018-12-11-Populus.html) | Populus | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–11 December 2018](2018-12-11-Populus.html) | Populus | 36–40% <br> 264–312 | 39–43% <br> 285–306 | 6–8% <br> 13–16 | 2–4% <br> 13–51 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 243–324 | 35–41% <br> 233–305 | 7–11% <br> 12–28 | 3–5% <br> 36–57 | 3–5% <br> 0–1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
 | [30 November–2 December 2018](2018-12-02-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 249–307 | 38–42% <br> 262–325 | 8–10% <br> 18–28 | 2–4% <br> 9–51 | 5–7% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
