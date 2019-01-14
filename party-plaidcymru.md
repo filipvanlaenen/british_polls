@@ -174,12 +174,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–7 | 0–8 | 0–8 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 3 | 3 | 3–4 | 3–5 | 3–5 |
+| [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 3 | 3 | 3 | 3–5 | 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 2–5 | 2–5 | 1–8 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–8 | 4–8 |
-| [10–11 December 2018](2018-12-11-Populus.html) | Populus | 4 | 4 | 4–5 | 4–5 | 4–8 |
+| [10–11 December 2018](2018-12-11-Populus.html) | Populus | 5 | 4–5 | 4–6 | 4–8 | 3–8 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 5 | 3–5 | 3–5 | 2–5 | 1–8 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 5 | 5–8 | 4–8 | 3–8 | 2–10 |
 | [30 November–5 December 2018](2018-12-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–8 | 2–10 |
@@ -326,9 +326,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 6% | 83% |  |
 | 2 | 4% | 77% |  |
 | 3 | 15% | 73% |  |
-| 4 | 18% | 59% | Last Result, Median |
-| 5 | 34% | 41% |  |
-| 6 | 2% | 7% |  |
+| 4 | 9% | 59% | Last Result, Median |
+| 5 | 41% | 49% |  |
+| 6 | 2% | 8% |  |
 | 7 | 0.9% | 6% |  |
 | 8 | 4% | 5% |  |
 | 9 | 0.3% | 0.5% |  |
