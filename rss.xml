@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 14 Jan 2019 13:36:03 +0100</pubDate>
+    <pubDate>Sun, 20 Jan 2019 11:37:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 10–11 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-01-11-Survation.html</link>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-12-14-Opinium.png"
         length="158093"
         type="image/png"/>
-      <pubDate>Thu, 10 Jan 2019 10:32:16 +0100</pubDate>
-      <dc:date>2019-01-10T10:32:16.372736+01:00</dc:date>
+      <pubDate>Sun, 20 Jan 2019 11:37:59 +0100</pubDate>
+      <dc:date>2019-01-20T11:37:59.67084+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Populus, 10–11 December 2018 – Voting Intentions</title>
@@ -2569,6 +2569,6 @@
       <pubDate>Fri, 14 Dec 2018 14:02:57 +0100</pubDate>
       <dc:date>2018-12-14T14:02:57.769805+01:00</dc:date>
     </item>
-    <dc:date>2019-01-14T13:36:03.883269+01:00</dc:date>
+    <dc:date>2019-01-20T11:37:59.67084+01:00</dc:date>
   </channel>
 </rss>
