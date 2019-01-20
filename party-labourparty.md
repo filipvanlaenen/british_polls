@@ -188,7 +188,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 275 | 253–295 | 247–298 | 243–301 | 240–309 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 257 | 238–281 | 237–286 | 232–291 | 226–298 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 239 | 235–250 | 230–254 | 229–255 | 224–263 |
-| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 282 | 260–296 | 255–301 | 247–302 | 239–309 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 282 | 259–297 | 254–300 | 247–303 | 239–308 |
 | [10–11 December 2018](2018-12-11-Populus.html) | Populus | 304 | 279–319 | 275–327 | 271–333 | 259–342 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 263 | 238–286 | 237–291 | 235–294 | 228–300 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 273 | 243–294 | 237–299 | 234–303 | 226–311 |
