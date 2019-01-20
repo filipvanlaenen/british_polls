@@ -10,7 +10,7 @@ The table below lists all polls registered and analyzed so far.
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 39–43% <br> 270–335 | 37–41% <br> 232–291 | 6–8% <br> 2–16 | 3–5% <br> 43–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [12–14 December 2018](2018-12-14-YouGov.html) | YouGov <br> People’s Vote | 39–42% <br> 291–322 | 35–38% <br> 229–255 | 9–11% <br> 20–28 | 4–5% <br> 48–54 | 4–5% <br> 1 | 3–4% <br> 1 | 1% <br> 3–5 |
-| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 257–314 | 37–41% <br> 246–302 | 7–9% <br> 11–22 | 3–5% <br> 44–57 | 5–7% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 4–8 |
+| [13–14 December 2018](2018-12-14-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 252–312 | 37–41% <br> 247–302 | 7–9% <br> 11–24 | 3–5% <br> 41–57 | 5–7% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 4–8 |
 | [10–11 December 2018](2018-12-11-Populus.html) | Populus | 36–40% <br> 253–305 | 39–43% <br> 271–333 | 6–8% <br> 7–19 | 2–4% <br> 7–54 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [6–7 December 2018](2018-12-07-YouGov.html) | YouGov <br> The Sunday Times | 36–41% <br> 253–318 | 35–40% <br> 235–294 | 9–12% <br> 18–30 | 3–5% <br> 46–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–5 |
 | [5–6 December 2018](2018-12-06-KantarPublic.html) | Kantar Public | 35–40% <br> 247–321 | 35–40% <br> 234–303 | 7–11% <br> 12–28 | 3–5% <br> 38–57 | 4–6% <br> 1 | 4–6% <br> 1–3 | 1–2% <br> 3–8 |
