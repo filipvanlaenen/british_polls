@@ -322,7 +322,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 292 | 258–311 | 258–318 | 257–323 | 242–336 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 275 | 253–295 | 249–297 | 244–300 | 240–308 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 292 | 262–316 | 256–321 | 249–326 | 239–335 |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 285 | 259–305 | 255–309 | 249–316 | 237–329 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 287 | 259–307 | 255–311 | 248–317 | 239–326 |
 
 ### Probability Mass Function
 
