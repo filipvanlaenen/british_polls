@@ -265,7 +265,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 42 | 33–51 | 24–53 | 23–54 | 15–55 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 29 | 20–45 | 13–48 | 8–49 | 3–51 |
 | [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 51 | 45–55 | 44–56 | 41–57 | 39–57 |
-| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 28 | 15–43 | 7–47 | 5–48 | 3–53 |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 30 | 12–43 | 7–47 | 5–48 | 3–52 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 58 | 54–58 | 54–58 | 51–58 | 46–58 |
 | [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 42 | 32–51 | 25–52 | 21–53 | 13–55 |
 | [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 36 | 9–47 | 7–51 | 5–52 | 3–54 |
@@ -295,7 +295,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 54 | 48–57 | 46–58 | 42–58 | 40–58 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 52 | 44–56 | 43–57 | 41–58 | 34–58 |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 29 | 7–49 | 3–51 | 3–54 | 0–57 |
-| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 53 | 42–56 | 35–58 | 28–58 | 12–58 |
+| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 52 | 40–56 | 31–58 | 25–58 | 10–58 |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 41 | 26–53 | 17–54 | 12–55 | 6–56 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 27 | 9–43 | 7–46 | 5–50 | 3–53 |
 | [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 43 | 28–54 | 22–54 | 16–55 | 7–57 |
@@ -315,7 +315,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 30 | 16–49 | 9–51 | 6–52 | 4–54 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 54 | 48–56 | 44–58 | 42–58 | 32–58 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 29 | 9–48 | 7–51 | 4–52 | 2–54 |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 43 | 26–52 | 23–52 | 16–53 | 7–56 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 44 | 26–51 | 21–52 | 15–54 | 7–55 |
 
 ### Probability Mass Function
 
