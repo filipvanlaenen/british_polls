@@ -94,7 +94,7 @@ The table below lists all polls registered and analyzed so far.
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 42–47% <br> 313–368 | 35–40% <br> 208–258 | 7–9% <br> 6–21 | 3–4% <br> 23–54 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 39–44% <br> 270–335 | 38–43% <br> 238–307 | 8–10% <br> 15–26 | 2–4% <br> 8–49 | 1–3% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 39–44% <br> 272–335 | 36–41% <br> 227–285 | 8–10% <br> 12–26 | 3–5% <br> 41–57 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
-| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–45% <br> 285–345 | 37–42% <br> 235–299 | 7–9% <br> 9–20 | 2–4% <br> 5–48 | 2–4% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–45% <br> 285–346 | 37–42% <br> 232–299 | 7–9% <br> 8–20 | 2–4% <br> 5–48 | 2–4% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 37–43% <br> 249–327 | 37–43% <br> 238–311 | 6–9% <br> 2–18 | 4–7% <br> 51–58 | 1–3% <br> 0 | 4–7% <br> 1–3 | 0–1% <br> 0–5 |
 | [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 40–45% <br> 284–346 | 36–41% <br> 224–282 | 8–11% <br> 14–26 | 3–4% <br> 21–53 | 1–3% <br> 0 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 39–43% <br> 272–336 | 39–43% <br> 245–320 | 6–8% <br> 4–16 | 2–4% <br> 5–52 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
@@ -124,7 +124,7 @@ The table below lists all polls registered and analyzed so far.
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 40–44% <br> 283–339 | 37–41% <br> 231–282 | 6–8% <br> 2–15 | 3–5% <br> 42–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 40–44% <br> 281–339 | 38–42% <br> 236–287 | 5–7% <br> 0–10 | 3–5% <br> 41–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 34–39% <br> 222–283 | 40–46% <br> 292–362 | 7–11% <br> 15–28 | 2–4% <br> 3–54 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 |
-| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 40–46% <br> 266–344 | 39–45% <br> 232–303 | 5–8% <br> 0–12 | 3–5% <br> 28–58 | 1–3% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 |
+| [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 40–46% <br> 266–343 | 39–45% <br> 233–307 | 5–8% <br> 0–13 | 3–5% <br> 25–58 | 1–3% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 39–43% <br> 260–320 | 41–45% <br> 261–322 | 6–8% <br> 3–16 | 3–4% <br> 12–55 | 1–3% <br> 0 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 41–45% <br> 281–345 | 40–44% <br> 250–311 | 6–8% <br> 4–16 | 2–4% <br> 5–50 | 1–3% <br> 0 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [26–27 February 2018](2018-02-27-YouGov.html) | YouGov <br> The Times | 39–43% <br> 259–329 | 40–44% <br> 250–317 | 6–8% <br> 3–16 | 3–4% <br> 16–55 | 2–4% <br> 0 | 1–3% <br> 1 | 0–1% <br> 1–5 |
@@ -144,7 +144,7 @@ The table below lists all polls registered and analyzed so far.
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 38–42% <br> 266–332 | 39–43% <br> 257–323 | 6–8% <br> 4–17 | 2–4% <br> 6–52 | 3–5% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 38–42% <br> 268–329 | 38–42% <br> 244–300 | 5–7% <br> 0–12 | 3–5% <br> 42–58 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 38–42% <br> 258–328 | 39–43% <br> 249–326 | 7–9% <br> 9–24 | 2–4% <br> 4–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
-| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 38–43% <br> 251–319 | 39–44% <br> 248–317 | 8–11% <br> 13–28 | 3–4% <br> 16–53 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
+| [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 38–43% <br> 252–320 | 39–44% <br> 248–317 | 8–11% <br> 14–28 | 3–4% <br> 15–54 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
