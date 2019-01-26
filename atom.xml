@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-01-23T21:32:39.511682+01:00</updated>
+  <updated>2019-01-26T15:23:50.624867+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.8–41.1%, 264–329 seats</li><li>Labour Party: 36.8–41.1%, 243–301 seats</li><li>Liberal Democrats: 5.0–7.1%, 1–13 seats</li><li>Scottish National Party: 3.2–5.0%, 43–58 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>UK Independence Party: 5.0–7.1%, 1 seats</li><li>Green Party: 3.2–5.0%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-12-20-Opinium.html</id>
@@ -456,6 +456,22 @@
     <dc:date>2018-12-17T22:26:52.232082+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.9–43.1%, 271–335 seats</li><li>Labour Party: 38.9–43.1%, 246–320 seats</li><li>Liberal Democrats: 6.0–8.2%, 4–16 seats</li><li>Scottish National Party: 2.3–3.8%, 6–52 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–7 seats</li><li>UK Independence Party: 2.3–3.8%, 0–1 seats</li><li>Green Party: 2.3–3.8%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html"/>
+    <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018</title>
+    <updated>2019-01-26T15:23:50.624867+01:00</updated>
+    <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.8–44.1%, 287–345 seats</li><li>Labour Party: 36.8–41.0%, 233–298 seats</li><li>Liberal Democrats: 6.9–9.3%, 9–22 seats</li><li>Scottish National Party: 2.3–3.9%, 8–49 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>UK Independence Party: 3.2–5.0%, 0–1 seats</li><li>Green Party: 2.3–3.9%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html"/>
+    <title>Opinion Poll by ICM Research for The Guardian, 27–29 April 2018</title>
+    <updated>2019-01-26T13:34:29.399437+01:00</updated>
+    <dc:date>2019-01-26T13:34:29.399437+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.9–42.2%, 263–325 seats</li><li>Labour Party: 37.9–42.2%, 241–297 seats</li><li>Liberal Democrats: 6.0–8.2%, 3–16 seats</li><li>Scottish National Party: 3.2–4.9%, 40–58 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–8 seats</li><li>UK Independence Party: 4.1–6.0%, 1 seats</li><li>Green Party: 1.5–2.7%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-04-12-Opinium.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-04-12-Opinium.html"/>
@@ -503,5 +519,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-01-23T21:32:39.511682+01:00</dc:date>
+  <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
 </feed>
