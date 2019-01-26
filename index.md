@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 36–44% <br> 249–335 | 34–42% <br> 227–324 | 5–11% <br> 2–29 | 2–5% <br> 12–57 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
-| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 236–312 | 38–44% <br> 258–340 | 8–12% <br> 18–31 | 2–4% <br> 2–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 36–44% <br> 249–335 | 34–42% <br> 227–324 | 5–11% <br> 2–29 | 2–5% <br> 11–57 | 3–7% <br> 0–1 | 2–6% <br> 1–3 | 0–2% <br> 0–8 |
+| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 237–311 | 38–44% <br> 257–340 | 8–12% <br> 18–31 | 2–4% <br> 3–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> 317–333 | 34–35% <br> 225–236 | 10–11% <br> 24–27 | 3–4% <br> 41–47 | 4% <br> 1 | 4% <br> 1 | 0–1% <br> 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [10–11 December 2018](2018-12-11-Populus.html) | Populus | 36–40% <br> 253–305 | 39–43% <br> 271–333 | 6–8% <br> 7–19 | 2–4% <br> 7–54 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
