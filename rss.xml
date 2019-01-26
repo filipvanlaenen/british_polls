@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 26 Jan 2019 12:27:42 +0100</pubDate>
+    <pubDate>Sat, 26 Jan 2019 15:23:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 10–11 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-01-11-Survation.html</link>
@@ -2050,14 +2050,34 @@
       <dc:date>2018-12-17T22:26:52.232082+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 271–335 seats&lt;/li&gt;&lt;li&gt;Labour Party: 246–320 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4–16 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 6–52 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–7 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes-seats.png"
+        length="167425"
+        type="image/png"/>
+      <pubDate>Sat, 26 Jan 2019 15:23:50 +0100</pubDate>
+      <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes-coalitions-seats.png"
+        length="502322"
+        type="image/png"/>
+      <pubDate>Sat, 26 Jan 2019 15:23:50 +0100</pubDate>
+      <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ComRes for Daily Mail, 16–17 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.9–43.1%&lt;/li&gt;&lt;li&gt;Labour Party: 38.9–43.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-17-ComRes.png"
-        length="153918"
+        length="153898"
         type="image/png"/>
-      <pubDate>Sat, 15 Dec 2018 12:32:27 +0100</pubDate>
-      <dc:date>2018-12-15T12:32:27.44885+01:00</dc:date>
+      <pubDate>Sat, 26 Jan 2019 15:23:50 +0100</pubDate>
+      <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 15–16 May 2018 – Voting Intentions</title>
@@ -2130,14 +2150,34 @@
       <dc:date>2018-12-13T18:12:52.335176+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ICM Research for The Guardian, 27–29 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 287–345 seats&lt;/li&gt;&lt;li&gt;Labour Party: 233–298 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9–22 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 8–49 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch-seats.png"
+        length="165972"
+        type="image/png"/>
+      <pubDate>Sat, 26 Jan 2019 13:34:29 +0100</pubDate>
+      <dc:date>2019-01-26T13:34:29.399437+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research for The Guardian, 27–29 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch-coalitions-seats.png"
+        length="460533"
+        type="image/png"/>
+      <pubDate>Sat, 26 Jan 2019 13:34:29 +0100</pubDate>
+      <dc:date>2019-01-26T13:34:29.399437+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ICM Research for The Guardian, 27–29 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.8–44.1%&lt;/li&gt;&lt;li&gt;Labour Party: 36.8–41.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.png"
         length="152800"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 12:27:42 +0100</pubDate>
-      <dc:date>2019-01-26T12:27:42.960318+01:00</dc:date>
+      <pubDate>Sat, 26 Jan 2019 13:34:29 +0100</pubDate>
+      <dc:date>2019-01-26T13:34:29.399437+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 27–29 April 2018 – Voting Intentions</title>
@@ -2649,6 +2689,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-01-26T12:27:42.960318+01:00</dc:date>
+    <dc:date>2019-01-26T15:23:50.624867+01:00</dc:date>
   </channel>
 </rss>
