@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 23 Jan 2019 20:09:02 +0100</pubDate>
+    <pubDate>Sat, 26 Jan 2019 12:27:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 10–11 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-01-11-Survation.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-11-Survation.png"
         length="153344"
         type="image/png"/>
-      <pubDate>Sun, 13 Jan 2019 22:12:34 +0100</pubDate>
-      <dc:date>2019-01-13T22:12:34.516975+01:00</dc:date>
+      <pubDate>Fri, 25 Jan 2019 22:55:36 +0100</pubDate>
+      <dc:date>2019-01-25T22:55:36.748418+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for People’s Vote, 21 December 2018–4 January 2019 – Voting Intentions</title>
@@ -1980,14 +1980,34 @@
       <dc:date>2018-12-16T09:38:41.412648+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ICM Research for The Guardian, 25–29 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 287–346 seats&lt;/li&gt;&lt;li&gt;Labour Party: 233–299 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8–20 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 6–49 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch-seats.png"
+        length="164262"
+        type="image/png"/>
+      <pubDate>Wed, 23 Jan 2019 21:32:39 +0100</pubDate>
+      <dc:date>2019-01-23T21:32:39.511682+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research for The Guardian, 25–29 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch-coalitions-seats.png"
+        length="461991"
+        type="image/png"/>
+      <pubDate>Wed, 23 Jan 2019 21:32:39 +0100</pubDate>
+      <dc:date>2019-01-23T21:32:39.511682+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ICM Research for The Guardian, 25–29 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.4–44.7%&lt;/li&gt;&lt;li&gt;Labour Party: 37.5–41.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.8–9.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 1.5–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-05-29-ICMResearch.png"
         length="154708"
         type="image/png"/>
-      <pubDate>Wed, 23 Jan 2019 20:09:02 +0100</pubDate>
-      <dc:date>2019-01-23T20:09:02.07242+01:00</dc:date>
+      <pubDate>Wed, 23 Jan 2019 21:32:39 +0100</pubDate>
+      <dc:date>2019-01-23T21:32:39.511682+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 18–22 May 2018 – Voting Intentions</title>
@@ -2114,10 +2134,10 @@
       <link>https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.8–44.1%&lt;/li&gt;&lt;li&gt;Labour Party: 36.8–41.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-04-29-ICMResearch.png"
-        length="152820"
+        length="152800"
         type="image/png"/>
-      <pubDate>Sat, 15 Dec 2018 19:11:52 +0100</pubDate>
-      <dc:date>2018-12-15T19:11:52.451019+01:00</dc:date>
+      <pubDate>Sat, 26 Jan 2019 12:27:42 +0100</pubDate>
+      <dc:date>2019-01-26T12:27:42.960318+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 27–29 April 2018 – Voting Intentions</title>
@@ -2629,6 +2649,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-01-23T20:09:02.07242+01:00</dc:date>
+    <dc:date>2019-01-26T12:27:42.960318+01:00</dc:date>
   </channel>
 </rss>
