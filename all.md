@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 236–312 | 38–44% <br> 258–340 | 8–12% <br> 18–31 | 2–4% <br> 2–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
+| [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 237–311 | 38–44% <br> 257–340 | 8–12% <br> 18–31 | 2–4% <br> 3–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> 317–333 | 34–35% <br> 225–236 | 10–11% <br> 24–27 | 3–4% <br> 41–47 | 4% <br> 1 | 4% <br> 1 | 0–1% <br> 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 39–43% <br> 270–335 | 37–41% <br> 232–291 | 6–8% <br> 2–16 | 3–5% <br> 43–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
@@ -94,7 +94,7 @@ The table below lists all polls registered and analyzed so far.
 | [4–5 June 2018](2018-06-05-YouGov.html) | YouGov <br> The Times | 42–47% <br> 313–368 | 35–40% <br> 208–258 | 7–9% <br> 6–21 | 3–4% <br> 23–54 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [31 May–4 June 2018](2018-06-04-Survation.html) | Survation | 39–44% <br> 270–335 | 38–43% <br> 238–307 | 8–10% <br> 15–26 | 2–4% <br> 8–49 | 1–3% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [28–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> The Times | 39–44% <br> 272–335 | 36–41% <br> 227–285 | 8–10% <br> 12–26 | 3–5% <br> 41–57 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 2–5 |
-| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–45% <br> 285–346 | 37–42% <br> 232–299 | 7–9% <br> 8–20 | 2–4% <br> 5–48 | 2–4% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
+| [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–45% <br> 287–346 | 37–42% <br> 233–299 | 7–9% <br> 8–20 | 2–4% <br> 6–49 | 2–4% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 37–43% <br> 249–327 | 37–43% <br> 238–311 | 6–9% <br> 2–18 | 4–7% <br> 51–58 | 1–3% <br> 0 | 4–7% <br> 1–3 | 0–1% <br> 0–5 |
 | [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 40–45% <br> 284–346 | 36–41% <br> 224–282 | 8–11% <br> 14–26 | 3–4% <br> 21–53 | 1–3% <br> 0 | 2–4% <br> 1 | 0–1% <br> 1–5 |
 | [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 39–43% <br> 272–336 | 39–43% <br> 245–320 | 6–8% <br> 4–16 | 2–4% <br> 5–52 | 2–4% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
@@ -105,7 +105,7 @@ The table below lists all polls registered and analyzed so far.
 | [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times | 41–46% <br> 294–350 | 36–41% <br> 220–274 | 8–11% <br> 14–26 | 3–4% <br> 21–52 | 1–3% <br> 0 | 1–3% <br> 1 | 0–1% <br> 0–5 |
 | [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 36–41% <br> 249–318 | 36–41% <br> 239–303 | 9–12% <br> 18–30 | 3–5% <br> 39–56 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times | 40–45% <br> 291–352 | 36–41% <br> 225–279 | 6–9% <br> 3–17 | 3–5% <br> 21–55 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
-| [27–29 April 2018](2018-04-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–44% <br> 282–344 | 37–41% <br> 232–295 | 7–9% <br> 9–22 | 2–4% <br> 11–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
+| [27–29 April 2018](2018-04-29-ICMResearch.html) | ICM Research <br> The Guardian | 40–44% <br> 287–345 | 37–41% <br> 233–297 | 7–9% <br> 9–22 | 2–4% <br> 8–49 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [27–29 April 2018](2018-04-29-ComRes.html) | ComRes <br> Daily Express | 37–42% <br> 262–330 | 37–42% <br> 245–321 | 8–10% <br> 16–28 | 2–4% <br> 6–51 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [24–25 April 2018](2018-04-25-YouGov.html) | YouGov <br> The Times | 41–45% <br> 295–355 | 36–40% <br> 220–275 | 7–9% <br> 5–21 | 3–4% <br> 23–54 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [20–24 April 2018](2018-04-24-IpsosMORI.html) | Ipsos MORI | 38–44% <br> 256–335 | 37–43% <br> 235–320 | 8–12% <br> 16–29 | 2–4% <br> 1–51 | 1–3% <br> 0 | 1–3% <br> 1 | 1–2% <br> 3–8 |
