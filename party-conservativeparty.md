@@ -277,7 +277,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 322 | 298–339 | 291–342 | 287–346 | 277–352 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 285 | 260–317 | 256–321 | 249–327 | 245–338 |
 | [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 323 | 299–337 | 290–343 | 284–346 | 272–354 |
-| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 297 | 279–321 | 275–332 | 272–336 | 264–342 |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 299 | 279–322 | 275–330 | 271–335 | 264–342 |
 | [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 329 | 312–340 | 304–343 | 300–346 | 287–354 |
 | [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 334 | 317–350 | 303–356 | 296–360 | 291–369 |
 | [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian | 318 | 298–339 | 294–340 | 287–345 | 278–355 |
@@ -285,7 +285,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [8–9 May 2018](2018-05-09-YouGov.html) | YouGov <br> The Times | 325 | 306–343 | 299–348 | 294–350 | 278–359 |
 | [1–4 May 2018](2018-05-04-BMGResearch.html) | BMG Research <br> The Independent | 280 | 257–305 | 255–313 | 249–318 | 243–329 |
 | [30 April–1 May 2018](2018-05-01-YouGov.html) | YouGov <br> The Times | 328 | 305–346 | 295–348 | 291–352 | 277–363 |
-| [27–29 April 2018](2018-04-29-ICMResearch.html) | ICM Research <br> The Guardian | 323 | 298–338 | 291–342 | 287–345 | 277–352 |
+| [27–29 April 2018](2018-04-29-ICMResearch.html) | ICM Research <br> The Guardian | 323 | 299–339 | 291–342 | 287–345 | 276–352 |
 | [27–29 April 2018](2018-04-29-ComRes.html) | ComRes <br> Daily Express | 293 | 271–319 | 263–327 | 262–330 | 256–333 |
 | [24–25 April 2018](2018-04-25-YouGov.html) | YouGov <br> The Times | 330 | 307–345 | 304–350 | 295–355 | 285–365 |
 | [20–24 April 2018](2018-04-24-IpsosMORI.html) | Ipsos MORI | 290 | 266–333 | 257–334 | 256–335 | 249–342 |

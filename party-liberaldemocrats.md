@@ -273,7 +273,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [25–29 May 2018](2018-05-29-ICMResearch.html) | ICM Research <br> The Guardian | 15 | 11–17 | 9–19 | 8–20 | 6–23 |
 | [18–22 May 2018](2018-05-22-IpsosMORI.html) | Ipsos MORI | 10 | 4–15 | 3–17 | 2–18 | 1–20 |
 | [20–21 May 2018](2018-05-21-YouGov.html) | YouGov <br> The Times | 20 | 15–24 | 15–26 | 14–26 | 11–28 |
-| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 12 | 6–15 | 5–16 | 4–16 | 3–18 |
+| [16–17 May 2018](2018-05-17-ComRes.html) | ComRes <br> Daily Mail | 12 | 6–15 | 5–16 | 4–16 | 3–19 |
 | [15–16 May 2018](2018-05-16-Opinium.html) | Opinium <br> The Observer | 3 | 0–5 | 0–7 | 0–8 | 0–12 |
 | [13–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> The Times | 20 | 16–24 | 15–25 | 15–26 | 13–28 |
 | [11–13 May 2018](2018-05-13-ICMResearch.html) | ICM Research <br> The Guardian | 15 | 11–20 | 11–20 | 10–21 | 7–23 |
