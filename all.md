@@ -5,7 +5,15 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
+| [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 242–299 | 37–41% <br> 257–310 | 6–8% <br> 2–17 | 4–6% <br> 54–58 | 6–8% <br> 1–2 | 3–5% <br> 1–2 | 1–2% <br> 2–8 |
+| [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 270–313 | 38–42% <br> 250–303 | 8–10% <br> 15–29 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 38–45% <br> 253–332 | 36–42% <br> 239–309 | 7–10% <br> 11–26 | 2–4% <br> 7–54 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 1–14 |
+| [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 259–300 | 35–39% <br> 250–288 | 9–11% <br> 25–28 | 2–4% <br> 47–50 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 5–8 |
+| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 35–40% <br> 256–272 | 37–42% <br> 295–316 | 7–9% <br> 13–21 | 2–4% <br> 24–54 | 6–8% <br> 1 | 2–4% <br> 1 | 1–2% <br> 2–8 |
+| [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 37–41% <br> 287–343 | 32–36% <br> 205–255 | 10–13% <br> 20–31 | 3–5% <br> 48–56 | 5–7% <br> 1–2 | 3–5% <br> 1 | 0–1% <br> 2–8 |
+| [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 32–38% <br> 235–305 | 35–41% <br> 250–322 | 7–11% <br> 13–29 | 3–5% <br> 42–58 | 5–8% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 2–10 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 237–311 | 38–44% <br> 257–340 | 8–12% <br> 18–31 | 2–4% <br> 3–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
+| [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 39–44% <br> 320 | 33–38% <br> 234–237 | 10–13% <br> 28–29 | 3–4% <br> 42–50 | 3–5% <br> 1 | 2–4% <br> 1 | 0–1% <br> 3 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 40–41% <br> 317–333 | 34–35% <br> 225–236 | 10–11% <br> 24–27 | 3–4% <br> 41–47 | 4% <br> 1 | 4% <br> 1 | 0–1% <br> 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 37–41% <br> 264–329 | 37–41% <br> 243–301 | 5–7% <br> 1–13 | 3–5% <br> 43–58 | 5–7% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 39–43% <br> 270–335 | 37–41% <br> 232–291 | 6–8% <br> 2–16 | 3–5% <br> 43–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 |
@@ -144,6 +152,7 @@ The table below lists all polls registered and analyzed so far.
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 38–42% <br> 266–332 | 39–43% <br> 257–323 | 6–8% <br> 4–17 | 2–4% <br> 6–52 | 3–5% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 38–42% <br> 268–329 | 38–42% <br> 244–300 | 5–7% <br> 0–12 | 3–5% <br> 42–58 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 38–42% <br> 258–328 | 39–43% <br> 249–326 | 7–9% <br> 9–24 | 2–4% <br> 4–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 4–8 |
+| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 34–38% <br> 249–317 | 34–38% <br> 235–297 | 10–14% <br> 29–41 | 2–4% <br> 18–47 | 5–7% <br> 1–2 | 4–6% <br> 2–3 | 1–2% <br> 3–8 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 38–43% <br> 252–320 | 39–44% <br> 248–317 | 8–11% <br> 14–28 | 3–4% <br> 15–54 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 1–5 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 
