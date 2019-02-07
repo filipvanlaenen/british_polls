@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 34–42% <br> 248–343 | 33–42% <br> 205–321 | 6–12% <br> 9–30 | 2–5% <br> 11–58 | 3–7% <br> 0–2 | 2–6% <br> 1–2 | 0–2% <br> 0–8 |
+| N/A | [Poll Average](average.html) | 34–43% <br> 248–343 | 33–42% <br> 205–321 | 6–12% <br> 11–30 | 2–5% <br> 11–57 | 3–8% <br> 0–2 | 2–6% <br> 1–2 | 0–2% <br> 0–8 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 250–308 | 36–42% <br> 247–332 | 8–11% <br> 20–27 | 2–4% <br> 13–54 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
-| [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 242–299 | 37–41% <br> 257–310 | 6–8% <br> 2–17 | 4–6% <br> 54–58 | 6–8% <br> 1–2 | 3–5% <br> 1–2 | 1–2% <br> 2–8 |
+| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 38–42% <br> 313–320 | 34–38% <br> 239–262 | 6–8% <br> 11–15 | 3–5% <br> 35–55 | 6–8% <br> 1 | 3–5% <br> 1–2 | 1–2% <br> 4–5 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 270–313 | 38–42% <br> 250–303 | 8–10% <br> 15–29 | 2–4% <br> 9–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 38–45% <br> 253–332 | 36–42% <br> 239–309 | 7–10% <br> 11–26 | 2–4% <br> 7–54 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 1–14 |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 259–300 | 35–39% <br> 250–288 | 9–11% <br> 25–28 | 2–4% <br> 47–50 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 5–8 |
