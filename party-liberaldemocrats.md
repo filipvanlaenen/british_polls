@@ -10,8 +10,9 @@ Last result: **7.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 6.9–10.7% | 6.6–11.2% | 6.4–11.6% | 5.9–12.3% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.0–10.7% | 6.7–11.2% | 6.4–11.6% | 6.0–12.3% |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 9.1% | 8.1–10.4% | 7.8–10.7% | 7.5–11.1% | 7.0–11.7% |
+| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.9–8.1% | 5.5–8.5% |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
@@ -168,10 +169,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 4% | 100% |  |
 | 6.5–7.5% | 18% | 96% | Last Result |
-| 7.5–8.5% | 23% | 78% |  |
+| 7.5–8.5% | 24% | 78% |  |
 | 8.5–9.5% | 25% | 54% | Median |
 | 9.5–10.5% | 18% | 29% |  |
 | 10.5–11.5% | 9% | 11% |  |
@@ -188,8 +189,9 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 12–29 | 11–30 | 9–30 | 2–31 |
+| N/A | [Poll Average](average.html) | 18 | 12–29 | 12–30 | 11–30 | 6–31 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 21 | 21–26 | 20–26 | 20–27 | 18–31 |
+| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 12 | 12 | 12 | 11–15 | 6–16 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 12 | 9–15 | 2–15 | 2–17 | 2–17 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 15 | 15–29 | 15–29 | 15–29 | 15–29 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 16 | 11–26 | 11–26 | 11–26 | 5–27 |
@@ -348,27 +350,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.8% | 100% |  |
-| 3 | 0% | 99.2% |  |
-| 4 | 0.2% | 99.2% |  |
-| 5 | 0.2% | 98.9% |  |
-| 6 | 0.1% | 98.8% |  |
-| 7 | 0.1% | 98.6% |  |
-| 8 | 0.5% | 98% |  |
-| 9 | 0.5% | 98% |  |
-| 10 | 0.8% | 97% |  |
-| 11 | 5% | 97% |  |
-| 12 | 9% | 91% | Last Result |
-| 13 | 3% | 83% |  |
-| 14 | 4% | 80% |  |
-| 15 | 11% | 76% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0.2% | 99.9% |  |
+| 6 | 0.2% | 99.7% |  |
+| 7 | 0.1% | 99.5% |  |
+| 8 | 0.5% | 99.3% |  |
+| 9 | 0.4% | 98.8% |  |
+| 10 | 0.4% | 98% |  |
+| 11 | 2% | 98% |  |
+| 12 | 14% | 96% | Last Result |
+| 13 | 3% | 82% |  |
+| 14 | 4% | 79% |  |
+| 15 | 10% | 75% |  |
 | 16 | 12% | 65% |  |
 | 17 | 2% | 53% |  |
 | 18 | 2% | 51% | Median |
 | 19 | 2% | 49% |  |
 | 20 | 2% | 48% |  |
 | 21 | 8% | 45% |  |
-| 22 | 1.0% | 37% |  |
+| 22 | 0.9% | 37% |  |
 | 23 | 0.7% | 36% |  |
 | 24 | 4% | 36% |  |
 | 25 | 3% | 32% |  |
