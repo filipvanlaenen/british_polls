@@ -186,17 +186,17 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–7 | 0–8 | 0–8 | 0–12 |
-| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 7 | 5–7 | 2–12 | 2–12 | 2–12 |
-| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
-| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–10 |
+| N/A | [Poll Average](average.html) | 5 | 1–7 | 0–8 | 0–8 | 0–10 |
+| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 3–6 | 1–8 |
+| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 5 | 5–8 | 4–8 | 4–8 | 4–8 |
+| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 5 | 5–8 | 4–8 | 4–8 | 4–9 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–7 | 4–8 | 4–8 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–8 | 4–8 | 4–9 | 2–10 |
-| [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 5 | 5–8 | 5–8 | 5–8 | 4–8 |
-| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 4 | 2–8 | 2–8 | 2–8 | 2–8 |
+| [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 5 | 5–6 | 4–8 | 3–8 | 3–8 |
+| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 5 | 5–6 | 4–7 | 4–8 | 3–8 |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 2–6 | 2–8 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–9 | 2–10 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
@@ -353,16 +353,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 7% | 100% |  |
 | 1 | 3% | 93% |  |
 | 2 | 3% | 90% |  |
-| 3 | 6% | 87% |  |
-| 4 | 7% | 81% | Last Result |
-| 5 | 56% | 74% | Median |
-| 6 | 3% | 18% |  |
-| 7 | 7% | 15% |  |
-| 8 | 7% | 9% |  |
-| 9 | 0.6% | 2% |  |
-| 10 | 0.2% | 1.1% |  |
-| 11 | 0.1% | 0.8% |  |
-| 12 | 0.7% | 0.8% |  |
-| 13 | 0% | 0% |  |
+| 3 | 7% | 87% |  |
+| 4 | 6% | 81% | Last Result |
+| 5 | 61% | 74% | Median |
+| 6 | 3% | 13% |  |
+| 7 | 1.0% | 10% |  |
+| 8 | 8% | 9% |  |
+| 9 | 0.6% | 1.2% |  |
+| 10 | 0.3% | 0.6% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
