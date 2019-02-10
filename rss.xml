@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 10 Feb 2019 16:37:25 +0100</pubDate>
+    <pubDate>Sun, 10 Feb 2019 18:32:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.png"
         length="169313"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 16:04:37 +0100</pubDate>
-      <dc:date>2019-02-10T16:04:37.063436+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 17:18:12 +0100</pubDate>
+      <dc:date>2019-02-10T17:18:12.205058+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 3–4 February 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.png"
         length="157996"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 16:37:25 +0100</pubDate>
-      <dc:date>2019-02-10T16:37:25.129063+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 16:47:18 +0100</pubDate>
+      <dc:date>2019-02-10T16:47:18.321245+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.png"
         length="157602"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 16:27:25 +0100</pubDate>
-      <dc:date>2019-02-10T16:27:25.080721+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 18:32:51 +0100</pubDate>
+      <dc:date>2019-02-10T18:32:51.937681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 30 January 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-25-Opinium.png"
         length="159972"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 10:28:13 +0100</pubDate>
-      <dc:date>2019-02-10T10:28:13.013793+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 18:24:57 +0100</pubDate>
+      <dc:date>2019-02-10T18:24:57.29035+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 16–18 January 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-17-ComRes.png"
         length="157656"
         type="image/png"/>
-      <pubDate>Fri, 01 Feb 2019 18:21:17 +0100</pubDate>
-      <dc:date>2019-02-01T18:21:17.93836+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 18:09:26 +0100</pubDate>
+      <dc:date>2019-02-10T18:09:26.366805+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 14–15 January 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.png"
         length="158776"
         type="image/png"/>
-      <pubDate>Fri, 01 Feb 2019 06:51:53 +0100</pubDate>
-      <dc:date>2019-02-01T06:51:53.371141+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 17:34:18 +0100</pubDate>
+      <dc:date>2019-02-10T17:34:18.291607+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 13–14 January 2019 – Voting Intentions</title>
@@ -2829,6 +2829,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-10T16:37:25.129063+01:00</dc:date>
+    <dc:date>2019-02-10T18:32:51.937681+01:00</dc:date>
   </channel>
 </rss>
