@@ -190,7 +190,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
-| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1 | 0–1 |
@@ -350,8 +350,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 74% | 99.9% | Last Result, Median |
-| 2 | 24% | 26% |  |
+| 1 | 79% | 99.9% | Last Result, Median |
+| 2 | 20% | 21% |  |
 | 3 | 1.5% | 2% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
