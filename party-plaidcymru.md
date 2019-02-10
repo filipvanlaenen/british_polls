@@ -10,7 +10,10 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.3% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.4% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
+| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -169,9 +172,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% |  |
-| 0.5–1.5% | 83% | 86% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 15% | 100% |  |
+| 0.5–1.5% | 81% | 85% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -183,18 +186,21 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–8 | 2–8 | 0–8 | 0–14 |
+| N/A | [Poll Average](average.html) | 5 | 1–7 | 0–8 | 0–8 | 0–12 |
+| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 7 | 5–7 | 2–12 | 2–12 | 2–12 |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
+| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–10 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 5 | 5–8 | 4–8 | 4–8 | 4–8 |
-| [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 5 | 4–8 | 2–8 | 2–8 | 2–10 |
-| [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 3–8 | 3–14 | 1–14 | 1–14 |
+| [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–7 | 4–8 | 4–8 |
+| [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 4–8 | 4–8 | 4–9 | 2–10 |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 5 | 5–8 | 5–8 | 5–8 | 4–8 |
 | [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 4 | 2–8 | 2–8 | 2–8 | 2–8 |
-| [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 3 | 2–6 | 2–8 | 2–8 | 2–8 |
-| [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 5 | 2–8 | 2–8 | 2–10 | 2–11 |
+| [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 2–6 | 2–8 |
+| [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–9 | 2–10 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 3 | 0–4 |
+| [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 3 | 3 | 3 | 3–5 | 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [16–17 December 2018](2018-12-17-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 2–5 | 2–5 | 1–8 |
@@ -333,7 +339,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–5 | 4–5 | 4–8 | 4–8 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 5 | 4–5 | 4–7 | 4–8 | 3–8 |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5 | 3–5 | 3–5 | 3–8 | 2–9 |
+| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–7 | 3–8 | 3–8 | 3–10 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 0–5 |
 
 ### Probability Mass Function
@@ -344,21 +350,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 0.5% | 97% |  |
-| 2 | 6% | 97% |  |
-| 3 | 8% | 91% |  |
-| 4 | 12% | 83% | Last Result |
-| 5 | 52% | 70% | Median |
+| 0 | 7% | 100% |  |
+| 1 | 3% | 93% |  |
+| 2 | 3% | 90% |  |
+| 3 | 6% | 87% |  |
+| 4 | 7% | 81% | Last Result |
+| 5 | 56% | 74% | Median |
 | 6 | 3% | 18% |  |
-| 7 | 0.5% | 15% |  |
-| 8 | 13% | 14% |  |
-| 9 | 0.2% | 2% |  |
-| 10 | 0.3% | 1.3% |  |
-| 11 | 0% | 1.0% |  |
-| 12 | 0.1% | 1.0% |  |
-| 13 | 0% | 0.9% |  |
-| 14 | 0.8% | 0.8% |  |
-| 15 | 0% | 0% |  |
+| 7 | 7% | 15% |  |
+| 8 | 7% | 9% |  |
+| 9 | 0.6% | 2% |  |
+| 10 | 0.2% | 1.1% |  |
+| 11 | 0.1% | 0.8% |  |
+| 12 | 0.7% | 0.8% |  |
+| 13 | 0% | 0% |  |
 
 
