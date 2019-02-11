@@ -189,10 +189,10 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 25–54 | 16–55 | 9–57 | 3–57 |
-| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 51 | 45–55 | 40–56 | 37–57 | 24–57 |
+| N/A | [Poll Average](average.html) | 47 | 25–54 | 16–55 | 9–56 | 3–57 |
+| [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 51 | 44–55 | 39–56 | 37–57 | 24–57 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 51 | 47–54 | 45–56 | 42–56 | 41–57 |
-| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 51 | 42–55 | 42–57 | 41–57 | 38–58 |
+| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 51 | 45–55 | 42–56 | 41–57 | 39–58 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 45 | 32–51 | 26–52 | 18–52 | 2–55 |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 54 | 45–56 | 43–57 | 42–58 | 38–58 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 55–58 | 53–58 |
@@ -201,7 +201,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 39 | 23–48 | 17–50 | 13–50 | 6–52 |
 | [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 35 | 20–50 | 13–51 | 9–53 | 5–55 |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 51 | 47–54 | 47–54 | 47–56 | 42–56 |
-| [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 53 | 47–56 | 45–57 | 38–57 | 28–58 |
+| [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 52 | 47–57 | 44–57 | 39–57 | 26–58 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 30 | 9–50 | 5–51 | 3–52 | 0–54 |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 43 | 36–50 | 32–51 | 28–51 | 20–54 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 45 | 42–47 | 41–47 | 41–47 | 41–48 |
@@ -378,7 +378,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.5% | 92% |  |
 | 23 | 0.5% | 92% |  |
 | 24 | 0.5% | 91% |  |
-| 25 | 0.9% | 91% |  |
+| 25 | 1.0% | 91% |  |
 | 26 | 2% | 90% |  |
 | 27 | 2% | 88% |  |
 | 28 | 2% | 86% |  |
@@ -390,27 +390,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0.6% | 77% |  |
 | 35 | 0.9% | 77% | Last Result |
 | 36 | 1.2% | 76% |  |
-| 37 | 0.4% | 75% |  |
+| 37 | 0.3% | 75% |  |
 | 38 | 3% | 74% |  |
 | 39 | 2% | 71% |  |
 | 40 | 3% | 69% |  |
 | 41 | 3% | 66% |  |
-| 42 | 2% | 63% |  |
-| 43 | 1.4% | 61% |  |
+| 42 | 1.3% | 63% |  |
+| 43 | 1.3% | 62% |  |
 | 44 | 3% | 60% |  |
-| 45 | 3% | 57% |  |
+| 45 | 3% | 58% |  |
 | 46 | 2% | 55% |  |
-| 47 | 4% | 52% | Median |
+| 47 | 5% | 53% | Median |
 | 48 | 6% | 48% |  |
 | 49 | 3% | 42% |  |
-| 50 | 8% | 39% |  |
-| 51 | 8% | 31% |  |
-| 52 | 5% | 23% |  |
-| 53 | 3% | 17% |  |
-| 54 | 7% | 15% |  |
-| 55 | 3% | 7% |  |
+| 50 | 7% | 39% |  |
+| 51 | 8% | 32% |  |
+| 52 | 6% | 24% |  |
+| 53 | 4% | 18% |  |
+| 54 | 7% | 14% |  |
+| 55 | 2% | 7% |  |
 | 56 | 2% | 5% |  |
-| 57 | 2% | 3% |  |
+| 57 | 2% | 2% |  |
 | 58 | 0.2% | 0.2% |  |
 | 59 | 0% | 0% |  |
 
