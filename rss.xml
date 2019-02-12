@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 11 Feb 2019 19:40:33 +0100</pubDate>
+    <pubDate>Mon, 11 Feb 2019 21:10:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -30,14 +30,34 @@
       <dc:date>2019-02-10T16:47:18.321245+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 312–358 seats&lt;/li&gt;&lt;li&gt;Labour Party: 203–244 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7–21 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 41–57 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium-seats.png"
+        length="146667"
+        type="image/png"/>
+      <pubDate>Mon, 11 Feb 2019 21:10:01 +0100</pubDate>
+      <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium-coalitions-seats.png"
+        length="384462"
+        type="image/png"/>
+      <pubDate>Mon, 11 Feb 2019 21:10:01 +0100</pubDate>
+      <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.8–43.2%&lt;/li&gt;&lt;li&gt;Labour Party: 31.9–36.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.png"
         length="157602"
         type="image/png"/>
-      <pubDate>Mon, 11 Feb 2019 19:40:33 +0100</pubDate>
-      <dc:date>2019-02-11T19:40:33.21324+01:00</dc:date>
+      <pubDate>Mon, 11 Feb 2019 21:10:01 +0100</pubDate>
+      <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 30 January 2019 – Voting Intentions</title>
@@ -2849,6 +2869,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-11T19:40:33.21324+01:00</dc:date>
+    <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
   </channel>
 </rss>
