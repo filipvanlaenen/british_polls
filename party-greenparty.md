@@ -193,7 +193,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1–2 | 1–2 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
