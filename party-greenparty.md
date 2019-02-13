@@ -200,7 +200,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1 | 1 |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1 |
-| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 1 | 1 | 1 | 1 | 1–2 |
+| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 1 | 1 | 1 | 1 | 1 |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
