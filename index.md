@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 | N/A | [Poll Average](average.html) | 34–43% <br> 242–347 | 33–42% <br> 210–319 | 7–11% <br> 10–29 | 2–5% <br> 9–56 | 3–8% <br> 0–2 | 2–5% <br> 1–2 | 0–2% <br> 0–8 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 241–321 | 35–41% <br> 232–305 | 8–12% <br> 16–32 | 3–5% <br> 37–57 | 3–5% <br> 0–1 | 2–4% <br> 1–2 | 1–2% <br> 3–9 |
-| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 39–43% <br> 303–351 | 32–36% <br> 204–245 | 9–11% <br> 17–30 | 3–5% <br> 42–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 3–6 |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 39–43% <br> 303–351 | 32–36% <br> 203–245 | 9–11% <br> 17–30 | 3–5% <br> 42–57 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–6 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 39–43% <br> 312–358 | 32–36% <br> 203–244 | 7–9% <br> 7–21 | 3–5% <br> 41–57 | 6–8% <br> 1–2 | 3–5% <br> 1–2 | 1–2% <br> 5–8 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 246–329 | 36–42% <br> 239–313 | 8–11% <br> 15–29 | 2–4% <br> 18–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 262–317 | 38–42% <br> 256–321 | 8–10% <br> 16–27 | 2–4% <br> 8–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
