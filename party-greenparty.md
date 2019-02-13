@@ -343,7 +343,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1 |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function

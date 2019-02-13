@@ -191,7 +191,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 47 | 25–54 | 16–55 | 9–56 | 3–57 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 51 | 44–55 | 39–56 | 37–57 | 24–57 |
-| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 51 | 47–54 | 45–56 | 42–56 | 41–57 |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 51 | 47–54 | 45–56 | 42–57 | 41–57 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 51 | 45–55 | 42–56 | 41–57 | 39–58 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail | 45 | 32–51 | 26–52 | 18–52 | 2–55 |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 54 | 45–56 | 43–57 | 42–58 | 38–58 |
@@ -342,7 +342,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 30 | 16–49 | 9–51 | 6–52 | 4–54 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 54 | 48–56 | 44–58 | 42–58 | 32–58 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 29 | 9–48 | 7–51 | 4–52 | 2–54 |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 42 | 24–50 | 19–51 | 10–51 | 4–53 |
+| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 41 | 23–50 | 16–51 | 8–51 | 4–53 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 44 | 26–51 | 21–52 | 15–54 | 7–55 |
 
 ### Probability Mass Function
@@ -403,10 +403,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 5% | 53% | Median |
 | 48 | 6% | 48% |  |
 | 49 | 4% | 42% |  |
-| 50 | 7% | 39% |  |
+| 50 | 6% | 39% |  |
 | 51 | 8% | 32% |  |
 | 52 | 6% | 24% |  |
-| 53 | 4% | 18% |  |
+| 53 | 3% | 18% |  |
 | 54 | 7% | 14% |  |
 | 55 | 2% | 7% |  |
 | 56 | 2% | 5% |  |

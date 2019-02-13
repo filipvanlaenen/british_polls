@@ -188,7 +188,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 1–7 | 0–8 | 0–8 | 0–10 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
-| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 3–6 | 1–8 |
+| [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 0–8 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–10 |
 | [30 January 2019](2019-01-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 5 | 5–8 | 4–8 | 4–8 | 4–9 |
@@ -339,7 +339,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 5 | 4–5 | 4–5 | 4–8 | 4–8 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 5 | 4–5 | 4–7 | 4–8 | 3–8 |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–7 | 3–8 | 3–8 | 3–10 |
+| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–8 | 3–8 | 3–8 | 3–10 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 1–5 | 1–5 | 0–5 |
 
 ### Probability Mass Function
@@ -352,10 +352,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
 | 1 | 3% | 93% |  |
-| 2 | 2% | 90% |  |
+| 2 | 3% | 90% |  |
 | 3 | 6% | 87% |  |
 | 4 | 7% | 81% | Last Result |
-| 5 | 59% | 74% | Median |
+| 5 | 60% | 74% | Median |
 | 6 | 3% | 14% |  |
 | 7 | 1.3% | 11% |  |
 | 8 | 9% | 10% |  |
