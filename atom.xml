@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-02-11T21:10:01.494854+01:00</updated>
+  <updated>2019-02-13T14:17:43.530584+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.8–43.2%, 312–358 seats</li><li>Labour Party: 31.9–36.2%, 203–244 seats</li><li>Liberal Democrats: 6.9–9.3%, 7–21 seats</li><li>Scottish National Party: 3.2–5.0%, 41–57 seats</li><li>Plaid Cymru: 0.7–1.6%, 5–8 seats</li><li>UK Independence Party: 6.0–8.2%, 1–2 seats</li><li>Green Party: 3.2–5.0%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-02-01-Opinium.html</id>
@@ -528,6 +528,14 @@
     <dc:date>2018-12-18T18:10:31.270292+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 33.6–38.5%, 244–318 seats</li><li>Labour Party: 33.6–38.5%, 235–311 seats</li><li>Liberal Democrats: 10.5–13.8%, 27–41 seats</li><li>Scottish National Party: 2.2–4.0%, 8–51 seats</li><li>Plaid Cymru: 0.6–1.6%, 3–8 seats</li><li>UK Independence Party: 4.9–7.3%, 1 seats</li><li>Green Party: 4.0–6.2%, 1–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.html"/>
+    <title>Opinion Poll by BMG Research for The Independent, 8 January 2019–11 January 2018</title>
+    <updated>2019-02-13T14:17:43.530584+01:00</updated>
+    <dc:date>2019-02-13T14:17:43.530584+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.0–42.7%, 252–320 seats</li><li>Labour Party: 39.0–43.7%, 248–317 seats</li><li>Liberal Democrats: 7.8–10.6%, 14–28 seats</li><li>Scottish National Party: 2.7–4.4%, 15–54 seats</li><li>Plaid Cymru: 0.3–1.1%, 1–5 seats</li><li>UK Independence Party: 2.3–3.9%, 0–1 seats</li><li>Green Party: 1.5–2.9%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2018-01-08-YouGov.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2018-01-08-YouGov.html"/>
@@ -535,5 +543,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
+  <dc:date>2019-02-13T14:17:43.530584+01:00</dc:date>
 </feed>
