@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 13 Feb 2019 15:47:36 +0100</pubDate>
+    <pubDate>Wed, 13 Feb 2019 19:58:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-02-10T22:18:13.071401+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 3–4 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 304–351 seats&lt;/li&gt;&lt;li&gt;Labour Party: 203–245 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16–30 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 42–56 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 2–6 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov-seats.png"
+        length="150502"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 16:51:56 +0100</pubDate>
+      <dc:date>2019-02-13T16:51:56.225251+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 3–4 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov-coalitions-seats.png"
+        length="392629"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 16:51:56 +0100</pubDate>
+      <dc:date>2019-02-13T16:51:56.225251+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 3–4 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.8–43.3%&lt;/li&gt;&lt;li&gt;Labour Party: 31.9–36.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.4–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.4–1.2%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.png"
         length="157996"
         type="image/png"/>
-      <pubDate>Wed, 13 Feb 2019 15:47:36 +0100</pubDate>
-      <dc:date>2019-02-13T15:47:36.657425+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 16:51:56 +0100</pubDate>
+      <dc:date>2019-02-13T16:51:56.225251+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Seat Projections for the Parties</title>
@@ -100,14 +120,34 @@
       <dc:date>2019-02-10T13:55:37.155473+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Number Cruncher Politics, 10–17 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 269–347 seats&lt;/li&gt;&lt;li&gt;Labour Party: 229–314 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6–25 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 3–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 3–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics-seats.png"
+        length="178098"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 18:48:23 +0100</pubDate>
+      <dc:date>2019-02-13T18:48:23.638929+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Number Cruncher Politics, 10–17 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics-coalitions-seats.png"
+        length="533569"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 18:48:23 +0100</pubDate>
+      <dc:date>2019-02-13T18:48:23.638929+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Number Cruncher Politics, 10–17 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.5–44.5%&lt;/li&gt;&lt;li&gt;Labour Party: 36.5–42.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Green Party: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-17-NumberCruncherPolitics.png"
         length="165864"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 15:07:17 +0100</pubDate>
-      <dc:date>2019-02-10T15:07:17.817231+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 18:48:23 +0100</pubDate>
+      <dc:date>2019-02-13T18:48:23.638929+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 16–17 January 2019 – Voting Intentions</title>
@@ -126,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.png"
         length="158776"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 17:34:18 +0100</pubDate>
-      <dc:date>2019-02-10T17:34:18.291607+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 19:58:52 +0100</pubDate>
+      <dc:date>2019-02-13T19:58:52.146137+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 13–14 January 2019 – Voting Intentions</title>
@@ -2889,6 +2929,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-13T15:47:36.657425+01:00</dc:date>
+    <dc:date>2019-02-13T19:58:52.146137+01:00</dc:date>
   </channel>
 </rss>
