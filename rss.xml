@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 11 Feb 2019 21:10:01 +0100</pubDate>
+    <pubDate>Wed, 13 Feb 2019 15:47:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-04-YouGov.png"
         length="157996"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 16:47:18 +0100</pubDate>
-      <dc:date>2019-02-10T16:47:18.321245+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 15:47:36 +0100</pubDate>
+      <dc:date>2019-02-13T15:47:36.657425+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 30 January–1 February 2019 – Seat Projections for the Parties</title>
@@ -2830,14 +2830,34 @@
       <dc:date>2018-12-18T18:10:31.270292+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BMG Research for The Independent, 8 January 2019–11 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 244–318 seats&lt;/li&gt;&lt;li&gt;Labour Party: 235–311 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 27–41 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 8–51 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 3–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 1 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch-seats.png"
+        length="177519"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 14:17:43 +0100</pubDate>
+      <dc:date>2019-02-13T14:17:43.530584+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 8 January 2019–11 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch-coalitions-seats.png"
+        length="518551"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 14:17:43 +0100</pubDate>
+      <dc:date>2019-02-13T14:17:43.530584+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BMG Research for The Independent, 8 January 2019–11 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 33.6–38.5%&lt;/li&gt;&lt;li&gt;Labour Party: 33.6–38.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 10.5–13.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Green Party: 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-01-11-BMGResearch.png"
         length="163986"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 15:50:57 +0100</pubDate>
-      <dc:date>2019-02-10T15:50:57.300917+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 14:17:43 +0100</pubDate>
+      <dc:date>2019-02-13T14:17:43.530584+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 7–8 January 2018 – Seat Projections for the Parties</title>
@@ -2869,6 +2889,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-11T21:10:01.494854+01:00</dc:date>
+    <dc:date>2019-02-13T15:47:36.657425+01:00</dc:date>
   </channel>
 </rss>
