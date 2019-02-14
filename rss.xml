@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 13 Feb 2019 19:58:52 +0100</pubDate>
+    <pubDate>Wed, 13 Feb 2019 21:07:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -160,14 +160,34 @@
       <dc:date>2019-02-10T18:09:26.366805+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ComRes for Daily Express, 14–15 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 251–309 seats&lt;/li&gt;&lt;li&gt;Labour Party: 260–324 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13–25 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 9–52 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–8 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes-seats.png"
+        length="167646"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 21:07:29 +0100</pubDate>
+      <dc:date>2019-02-13T21:07:29.114116+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Express, 14–15 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes-coalitions-seats.png"
+        length="470353"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 21:07:29 +0100</pubDate>
+      <dc:date>2019-02-13T21:07:29.114116+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ComRes for Daily Express, 14–15 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.3–39.5%&lt;/li&gt;&lt;li&gt;Labour Party: 37.3–41.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 6.0–8.3%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-01-15-ComRes.png"
         length="158776"
         type="image/png"/>
-      <pubDate>Wed, 13 Feb 2019 19:58:52 +0100</pubDate>
-      <dc:date>2019-02-13T19:58:52.146137+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 21:07:29 +0100</pubDate>
+      <dc:date>2019-02-13T21:07:29.114116+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 13–14 January 2019 – Voting Intentions</title>
@@ -2929,6 +2949,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-13T19:58:52.146137+01:00</dc:date>
+    <dc:date>2019-02-13T21:07:29.114116+01:00</dc:date>
   </channel>
 </rss>
