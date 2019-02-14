@@ -14,7 +14,7 @@ The table below lists all polls registered and analyzed so far.
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 262–317 | 38–42% <br> 256–321 | 8–10% <br> 16–27 | 2–4% <br> 8–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 38–45% <br> 269–347 | 36–42% <br> 229–314 | 7–10% <br> 6–25 | 2–4% <br> 3–54 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 3–8 |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 36–40% <br> 260–326 | 35–39% <br> 236–303 | 9–11% <br> 21–29 | 2–4% <br> 13–50 | 5–7% <br> 1 | 2–4% <br> 1 | 1–2% <br> 3–8 |
-| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 35–40% <br> 252–311 | 37–42% <br> 260–323 | 7–9% <br> 13–25 | 2–4% <br> 9–52 | 6–8% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
+| [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 35–40% <br> 251–309 | 37–42% <br> 260–324 | 7–9% <br> 13–25 | 2–4% <br> 9–52 | 6–8% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 4–8 |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 37–41% <br> 285–339 | 32–36% <br> 208–258 | 10–13% <br> 24–33 | 3–5% <br> 47–56 | 5–7% <br> 1–2 | 3–5% <br> 1–2 | 0–1% <br> 2–6 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 32–38% <br> 229–299 | 35–41% <br> 254–319 | 7–11% <br> 14–30 | 3–5% <br> 39–57 | 5–8% <br> 1 | 3–5% <br> 1–3 | 1–2% <br> 3–8 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 35–41% <br> 237–311 | 38–44% <br> 257–340 | 8–12% <br> 18–31 | 2–4% <br> 3–52 | 3–5% <br> 0–1 | 1–3% <br> 1 | N/A <br> N/A |
