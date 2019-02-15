@@ -322,7 +322,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [10–12 April 2018](2018-04-12-Opinium.html) | Opinium <br> The Observer | 272 | 252–291 | 245–296 | 241–297 | 237–306 |
 | [11–12 April 2018](2018-04-12-ComRes.html) | ComRes <br> Sunday Express | 292 | 269–310 | 259–315 | 251–321 | 242–331 |
 | [9–10 April 2018](2018-04-10-YouGov.html) | YouGov <br> The Times | 276 | 254–296 | 244–303 | 240–305 | 236–321 |
-| [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 275 | 254–305 | 244–315 | 243–317 | 236–323 |
+| [6–8 April 2018](2018-04-08-ICMResearch.html) | ICM Research <br> The Guardian | 275 | 253–304 | 247–309 | 243–319 | 236–328 |
 | [4–5 April 2018](2018-04-05-YouGov.html) | YouGov <br> The Times | 270 | 246–296 | 241–302 | 239–308 | 233–318 |
 | [27 March–5 April 2018](2018-04-05-NumberCruncherPolitics.html) | Number Cruncher Politics | 238 | 221–261 | 218–272 | 209–279 | 201–291 |
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 263 | 241–289 | 237–295 | 232–303 | 224–315 |
