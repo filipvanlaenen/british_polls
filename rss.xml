@@ -8,7 +8,47 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 14 Feb 2019 21:02:32 +0100</pubDate>
+    <pubDate>Fri, 22 Feb 2019 19:22:17 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 18–19 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-19-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.2–43.7%&lt;/li&gt;&lt;li&gt;Labour Party: 31.2–35.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.8–11.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.5–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.4–1.3%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-19-YouGov.png"
+        length="158484"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 18:56:46 +0100</pubDate>
+      <dc:date>2019-02-22T18:56:46.468477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Daily Mail, 18 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-18-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.6–42.6%&lt;/li&gt;&lt;li&gt;Labour Party: 32.8–38.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.2–11.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Green Party: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-18-Survation.png"
+        length="154943"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 19:01:27 +0100</pubDate>
+      <dc:date>2019-02-22T19:01:27.003301+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 13–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-15-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Labour Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-15-Opinium.png"
+        length="157167"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 19:08:36 +0100</pubDate>
+      <dc:date>2019-02-22T19:08:36.629168+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 7–11 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-11-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.2–42.9%&lt;/li&gt;&lt;li&gt;Labour Party: 32.3–37.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.4–11.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Green Party: 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-11-KantarPublic.png"
+        length="164607"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 19:13:18 +0100</pubDate>
+      <dc:date>2019-02-22T19:13:18.15332+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-05-IpsosMORI.html</link>
@@ -2770,6 +2810,16 @@
       <dc:date>2018-12-14T12:39:04.837024+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BMG Research, 4 February 2019–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2018-02-08-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.2–40.1%&lt;/li&gt;&lt;li&gt;Labour Party: 32.3–37.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.2–14.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2018-02-08-BMGResearch.png"
+        length="163494"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 19:22:17 +0100</pubDate>
+      <dc:date>2019-02-22T19:22:17.903641+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 5–6 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2018-02-06-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.8–45.2%&lt;/li&gt;&lt;li&gt;Labour Party: 36.9–41.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 1.9–3.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.2–0.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2949,6 +2999,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-02-14T21:02:32.529089+01:00</dc:date>
+    <dc:date>2019-02-22T19:22:17.903641+01:00</dc:date>
   </channel>
 </rss>
