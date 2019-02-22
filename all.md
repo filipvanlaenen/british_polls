@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
+| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 39–44% <br> 315–347 | 31–35% <br> 209–233 | 9–12% <br> 20–31 | 3–5% <br> 45–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
+| [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 37–43% <br> 261–350 | 33–39% <br> 210–301 | 8–12% <br> 16–33 | 2–4% <br> 2–53 | 4–7% <br> 1 | 1–3% <br> 1 | N/A <br> N/A |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 35–39% <br> 252–321 | 35–39% <br> 242–304 | 7–9% <br> 13–27 | 3–5% <br> 40–57 | 6–8% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–3 |
+| [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 37–43% <br> 284–343 | 32–38% <br> 205–261 | 8–12% <br> 18–31 | 3–5% <br> 37–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–11 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 241–321 | 35–41% <br> 232–305 | 8–12% <br> 16–32 | 3–5% <br> 37–57 | 3–5% <br> 0–1 | 2–4% <br> 1–2 | 1–2% <br> 3–9 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 39–43% <br> 304–351 | 32–36% <br> 203–245 | 9–11% <br> 16–30 | 3–5% <br> 42–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 2–6 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 39–43% <br> 312–358 | 32–36% <br> 203–244 | 7–9% <br> 7–21 | 3–5% <br> 41–57 | 6–8% <br> 1–2 | 3–5% <br> 1–2 | 1–2% <br> 5–8 |
@@ -147,6 +151,7 @@ The table below lists all polls registered and analyzed so far.
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 37–41% <br> 261–318 | 37–41% <br> 242–295 | 7–9% <br> 11–22 | 3–5% <br> 41–57 | 3–5% <br> 0–1 | 2–3% <br> 1 | 1–2% <br> 4–8 |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 37–42% <br> 271–340 | 37–42% <br> 263–334 | 7–9% <br> 11–25 | 1–3% <br> 0–29 | 4–6% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–4 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 39–44% <br> 279–341 | 36–41% <br> 230–285 | 6–8% <br> 3–15 | 3–5% <br> 42–56 | 4–6% <br> 1 | 1–3% <br> 1 | 1–2% <br> 4–7 |
+| [4 February 2019–8 February 2018](2018-02-08-BMGResearch.html) | BMG Research | 35–40% <br> 272–309 | 32–37% <br> 230–299 | 11–15% <br> 34–45 | 2–4% <br> 12–48 | 4–6% <br> 1 | 4–6% <br> 2–3 | 1–2% <br> 3–8 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 41–45% <br> 302–353 | 37–41% <br> 233–303 | 7–9% <br> 9–21 | 2–3% <br> 0–40 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–5 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 39–43% <br> 264–321 | 38–42% <br> 258–325 | 7–9% <br> 12–25 | 2–4% <br> 7–51 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–2 |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 40–44% <br> 272–339 | 40–44% <br> 246–311 | 5–7% <br> 0–13 | 3–4% <br> 14–55 | 1–3% <br> 0 | 2–4% <br> 1 | 0–1% <br> 1–5 |
