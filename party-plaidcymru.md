@@ -10,7 +10,11 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.4% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% |
+| [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -153,6 +157,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [4 February 2019–8 February 2018](2018-02-08-BMGResearch.html) | BMG Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 0.4% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
@@ -172,9 +177,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% |  |
-| 0.5–1.5% | 81% | 85% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 26% | 100% |  |
+| 0.5–1.5% | 70% | 74% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -186,7 +191,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–7 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–9 | 0–11 |
+| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 3 | 0–3 | 0–5 | 0–5 | 0–7 |
+| [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 5 | 5–11 | 5–11 | 3–11 | 2–11 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–10 |
@@ -329,6 +338,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 5 | 5 | 4–7 | 4–8 | 4–8 |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–7 | 4–8 |
+| [4 February 2019–8 February 2018](2018-02-08-BMGResearch.html) | BMG Research | 6 | 6–8 | 5–8 | 3–8 | 3–8 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 0 | 0–1 | 0–1 | 0–2 | 0–5 |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 4 | 1–5 | 1–5 | 1–5 | 0–5 |
@@ -350,21 +360,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 3% | 93% |  |
-| 2 | 3% | 90% |  |
-| 3 | 7% | 87% |  |
-| 4 | 8% | 80% | Last Result |
-| 5 | 58% | 72% | Median |
-| 6 | 4% | 14% |  |
-| 7 | 1.4% | 11% |  |
-| 8 | 8% | 9% |  |
-| 9 | 0.5% | 1.0% |  |
-| 10 | 0.3% | 0.5% |  |
-| 11 | 0.1% | 0.2% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 0 | 18% | 100% |  |
+| 1 | 3% | 82% |  |
+| 2 | 4% | 78% |  |
+| 3 | 13% | 74% |  |
+| 4 | 6% | 61% | Last Result |
+| 5 | 43% | 55% | Median |
+| 6 | 2% | 13% |  |
+| 7 | 0.8% | 11% |  |
+| 8 | 5% | 10% |  |
+| 9 | 3% | 5% |  |
+| 10 | 0.2% | 2% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
