@@ -11,6 +11,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -177,8 +180,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 26% | 100% |  |
-| 0.5–1.5% | 70% | 74% | Last Result, Median |
+| 0.0–0.5% | 22% | 100% |  |
+| 0.5–1.5% | 74% | 78% | Last Result, Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -191,7 +194,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–9 | 0–11 |
+| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–10 | 0–11 |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 8 | 5–9 | 5–10 | 5–10 | 3–10 |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5 | 3–5 | 0–8 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–2 | 0–4 | 0–4 | 0–4 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 3 | 0–3 | 0–5 | 0–5 | 0–7 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -360,17 +366,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 3% | 82% |  |
-| 2 | 4% | 78% |  |
-| 3 | 13% | 74% |  |
-| 4 | 6% | 61% | Last Result |
-| 5 | 43% | 55% | Median |
-| 6 | 2% | 13% |  |
-| 7 | 0.8% | 11% |  |
-| 8 | 5% | 10% |  |
-| 9 | 3% | 5% |  |
-| 10 | 0.2% | 2% |  |
+| 0 | 16% | 100% |  |
+| 1 | 2% | 84% |  |
+| 2 | 3% | 82% |  |
+| 3 | 3% | 79% |  |
+| 4 | 6% | 76% | Last Result |
+| 5 | 50% | 70% | Median |
+| 6 | 2% | 20% |  |
+| 7 | 0.6% | 18% |  |
+| 8 | 7% | 17% |  |
+| 9 | 7% | 10% |  |
+| 10 | 0.8% | 3% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
