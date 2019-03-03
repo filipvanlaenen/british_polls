@@ -5,10 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| N/A | [Poll Average](average.html) | 36–43% <br> 252–347 | 32–42% <br> 209–318 | 7–12% <br> 11–31 | 2–5% <br> 5–57 | 3–8% <br> 0–1 | 2–5% <br> 1–2 | 0–2% <br> 0–9 |
-| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 39–44% <br> 315–347 | 31–35% <br> 209–233 | 9–12% <br> 20–31 | 3–5% <br> 45–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 0–5 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 256–353 | 29–42% <br> 202–317 | 6–11% <br> 3–31 | 2–5% <br> 5–57 | 3–7% <br> 0–2 | 2–5% <br> 1 | 0–2% <br> 0–10 |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 307–353 | 32–36% <br> 202–246 | 8–10% <br> 12–25 | 3–5% <br> 47–57 | 6–8% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 5–10 |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 39–43% <br> 337–351 | 28–32% <br> 203–206 | 9–11% <br> 21–29 | 3–5% <br> 47–54 | 4–6% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 3–5 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 40–46% <br> 338–399 | 33–39% <br> 185–233 | 5–8% <br> 0–12 | 3–5% <br> 46–56 | 4–7% <br> 0–2 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 37–43% <br> 261–350 | 33–39% <br> 210–301 | 8–12% <br> 16–33 | 2–4% <br> 2–53 | 4–7% <br> 1 | 1–3% <br> 1 | N/A <br> N/A |
-| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 35–39% <br> 252–321 | 35–39% <br> 242–304 | 7–9% <br> 13–27 | 3–5% <br> 40–57 | 6–8% <br> 1 | 3–5% <br> 1–2 | 0–1% <br> 0–3 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 37–43% <br> 284–343 | 32–38% <br> 205–261 | 8–12% <br> 18–31 | 3–5% <br> 37–57 | 2–4% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–11 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 241–321 | 35–41% <br> 232–305 | 8–12% <br> 16–32 | 3–5% <br> 37–57 | 3–5% <br> 0–1 | 2–4% <br> 1–2 | 1–2% <br> 3–9 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 262–317 | 38–42% <br> 256–321 | 8–10% <br> 16–27 | 2–4% <br> 8–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
