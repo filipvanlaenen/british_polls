@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
+| [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 0–1 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
