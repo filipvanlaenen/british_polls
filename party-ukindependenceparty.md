@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -373,8 +373,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
-| 1 | 82% | 88% | Median |
-| 2 | 6% | 6% |  |
+| 1 | 83% | 88% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 

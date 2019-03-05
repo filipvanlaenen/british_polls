@@ -197,8 +197,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 23–54 | 15–56 | 9–57 | 3–57 |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 52 | 48–57 | 48–57 | 47–57 | 40–57 |
+| N/A | [Poll Average](average.html) | 47 | 23–54 | 15–56 | 9–56 | 3–57 |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 51 | 47–54 | 42–56 | 41–57 | 39–57 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 50 | 47–52 | 47–53 | 47–54 | 39–54 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 54 | 46–56 | 46–56 | 46–56 | 44–58 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 51 | 51–54 | 45–54 | 45–54 | 45–57 |
@@ -411,22 +411,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 2% | 72% |  |
 | 40 | 3% | 70% |  |
 | 41 | 3% | 66% |  |
-| 42 | 1.1% | 64% |  |
-| 43 | 0.8% | 63% |  |
-| 44 | 2% | 62% |  |
-| 45 | 2% | 60% |  |
-| 46 | 2% | 58% |  |
-| 47 | 5% | 56% |  |
-| 48 | 7% | 51% | Median |
-| 49 | 1.4% | 44% |  |
-| 50 | 11% | 43% |  |
-| 51 | 7% | 32% |  |
-| 52 | 4% | 25% |  |
-| 53 | 2% | 21% |  |
-| 54 | 11% | 19% |  |
-| 55 | 1.0% | 8% |  |
-| 56 | 3% | 7% |  |
-| 57 | 4% | 4% |  |
+| 42 | 1.3% | 63% |  |
+| 43 | 0.9% | 62% |  |
+| 44 | 2% | 61% |  |
+| 45 | 2% | 59% |  |
+| 46 | 2% | 57% |  |
+| 47 | 5% | 55% | Median |
+| 48 | 4% | 50% |  |
+| 49 | 4% | 46% |  |
+| 50 | 11% | 42% |  |
+| 51 | 8% | 31% |  |
+| 52 | 5% | 24% |  |
+| 53 | 2% | 19% |  |
+| 54 | 11% | 17% |  |
+| 55 | 1.1% | 6% |  |
+| 56 | 3% | 5% |  |
+| 57 | 2% | 2% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
