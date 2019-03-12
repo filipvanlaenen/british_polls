@@ -214,7 +214,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 229 | 218–238 | 213–243 | 209–254 | 203–260 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 206 | 203–206 | 203–206 | 203–206 | 197–206 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 226 | 211–226 | 211–233 | 185–233 | 185–287 |
-| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 209 | 209–217 | 209–223 | 209–233 | 209–246 |
+| [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 218 | 204–232 | 195–236 | 193–237 | 187–244 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 246 | 226–276 | 220–288 | 217–297 | 207–312 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 296 | 252–304 | 242–304 | 242–304 | 242–308 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 238 | 214–249 | 209–264 | 206–268 | 201–284 |
