@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 05 Mar 2019 07:00:59 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 07:51:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 26 February–1 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-03-01-Opinium.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-19-YouGov.png"
         length="158484"
         type="image/png"/>
-      <pubDate>Fri, 22 Feb 2019 18:56:46 +0100</pubDate>
-      <dc:date>2019-02-22T18:56:46.468477+01:00</dc:date>
+      <pubDate>Tue, 12 Mar 2019 07:51:24 +0100</pubDate>
+      <dc:date>2019-03-12T07:51:24.043535+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 18 February 2019 – Voting Intentions</title>
@@ -3029,6 +3029,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-03-05T07:00:59.221683+01:00</dc:date>
+    <dc:date>2019-03-12T07:51:24.043535+01:00</dc:date>
   </channel>
 </rss>
