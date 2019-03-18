@@ -10,9 +10,13 @@ Last result: **7.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 6.7–10.7% | 6.0–11.1% | 5.6–11.4% | 4.9–12.1% |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 8.9% | 8.1–9.8% | 7.9–10.0% | 7.7–10.2% | 7.4–10.7% |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.9% |
+| N/A | [Poll Average](average.html) | 9.0% | 6.8–11.6% | 6.0–12.4% | 5.5–12.9% | 4.9–13.6% |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 12.2% | 11.3–13.3% | 11.0–13.6% | 10.8–13.9% | 10.3–14.4% |
+| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 8.1% | 7.1–9.2% | 6.9–9.5% | 6.6–9.8% | 6.2–10.4% |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 11.0% | N/A | N/A | N/A | N/A |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 8.9% | N/A | N/A | N/A | N/A |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 10.0% | N/A | N/A | N/A | N/A |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.4–8.2% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 10.1% | 9.3–11.1% | 9.0–11.3% | 8.8–11.6% | 8.4–12.0% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 9.9% | 8.8–11.2% | 8.5–11.5% | 8.2–11.9% | 7.7–12.5% |
@@ -150,6 +154,7 @@ Last result: **7.4%** (General Election of 8 June 2017)
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
+| [4 March 2019–8 March 2018](2018-03-08-BMGResearch.html) | BMG Research | 12.0% | N/A | N/A | N/A | N/A |
 | [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 7.0% | 6.2–7.9% | 6.1–8.1% | 5.9–8.4% | 5.5–8.8% |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 6.9% | 6.3–7.7% | 6.1–8.0% | 5.9–8.1% | 5.6–8.5% |
@@ -183,15 +188,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 7% | 98% |  |
-| 6.5–7.5% | 11% | 91% | Last Result |
-| 7.5–8.5% | 14% | 80% |  |
-| 8.5–9.5% | 26% | 66% | Median |
-| 9.5–10.5% | 27% | 40% |  |
-| 10.5–11.5% | 11% | 13% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 6% | 97% |  |
+| 6.5–7.5% | 10% | 91% | Last Result |
+| 7.5–8.5% | 21% | 81% |  |
+| 8.5–9.5% | 23% | 61% | Median |
+| 9.5–10.5% | 18% | 38% |  |
+| 10.5–11.5% | 9% | 20% |  |
+| 11.5–12.5% | 6% | 11% |  |
+| 12.5–13.5% | 4% | 4% |  |
+| 13.5–14.5% | 0.6% | 0.6% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -202,9 +208,13 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 12–28 | 9–29 | 3–30 | 3–32 |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 20 | 15–24 | 14–25 | 14–26 | 12–27 |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 23 | 21–27 | 21–27 | 21–29 | 21–29 |
+| N/A | [Poll Average](average.html) | 21 | 12–36 | 9–36 | 3–36 | 1–41 |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 36 | 36–41 | 36–41 | 36–41 | 27–41 |
+| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 13 | 12–21 | 11–21 | 11–22 | 10–26 |
+| [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 13 | 13–17 | 13–20 | 10–23 | 4–29 |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 12 | 3–12 | 3–12 | 0–12 | 0–12 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 24 | 20–29 | 18–29 | 17–30 | 14–31 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 26 | 21–29 | 19–31 | 18–32 | 16–35 |
@@ -342,6 +352,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 8 | 3–14 | 2–14 | 2–15 | 2–16 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 3 | 1–7 | 1–8 | 0–10 | 0–12 |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 24 | 17–26 | 16–27 | 15–28 | 13–31 |
+| [4 March 2019–8 March 2018](2018-03-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 3 | 0–9 | 0–11 | 0–13 | 0–15 |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 8 | 5–15 | 4–16 | 3–16 | 2–18 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 11 | 7–16 | 6–16 | 4–16 | 4–17 |
@@ -374,43 +385,48 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 0% | 99.6% |  |
-| 2 | 0% | 99.6% |  |
-| 3 | 2% | 99.5% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 3% | 99.5% |  |
 | 4 | 0.1% | 97% |  |
 | 5 | 0.9% | 97% |  |
 | 6 | 0.3% | 96% |  |
 | 7 | 0.1% | 96% |  |
-| 8 | 0.7% | 96% |  |
+| 8 | 0.3% | 95% |  |
 | 9 | 0.4% | 95% |  |
-| 10 | 0.2% | 95% |  |
-| 11 | 0.5% | 94% |  |
-| 12 | 8% | 94% | Last Result |
-| 13 | 2% | 86% |  |
-| 14 | 3% | 85% |  |
-| 15 | 4% | 81% |  |
-| 16 | 4% | 77% |  |
-| 17 | 3% | 73% |  |
-| 18 | 4% | 69% |  |
-| 19 | 4% | 66% |  |
-| 20 | 7% | 62% |  |
-| 21 | 8% | 55% | Median |
-| 22 | 2% | 47% |  |
-| 23 | 9% | 45% |  |
-| 24 | 3% | 35% |  |
-| 25 | 4% | 32% |  |
-| 26 | 5% | 28% |  |
-| 27 | 9% | 23% |  |
-| 28 | 7% | 14% |  |
-| 29 | 2% | 6% |  |
-| 30 | 2% | 4% |  |
-| 31 | 1.2% | 2% |  |
-| 32 | 0.4% | 0.8% |  |
-| 33 | 0.1% | 0.4% |  |
-| 34 | 0.1% | 0.2% |  |
-| 35 | 0.1% | 0.2% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 10 | 0.3% | 95% |  |
+| 11 | 1.2% | 95% |  |
+| 12 | 8% | 93% | Last Result |
+| 13 | 18% | 85% |  |
+| 14 | 1.1% | 68% |  |
+| 15 | 2% | 67% |  |
+| 16 | 2% | 65% |  |
+| 17 | 3% | 62% |  |
+| 18 | 2% | 60% |  |
+| 19 | 2% | 58% |  |
+| 20 | 5% | 56% |  |
+| 21 | 7% | 51% | Median |
+| 22 | 2% | 44% |  |
+| 23 | 2% | 42% |  |
+| 24 | 3% | 40% |  |
+| 25 | 4% | 37% |  |
+| 26 | 6% | 34% |  |
+| 27 | 8% | 28% |  |
+| 28 | 5% | 20% |  |
+| 29 | 2% | 15% |  |
+| 30 | 1.0% | 13% |  |
+| 31 | 0.4% | 12% |  |
+| 32 | 0.3% | 12% |  |
+| 33 | 0.1% | 11% |  |
+| 34 | 0.1% | 11% |  |
+| 35 | 0.1% | 11% |  |
+| 36 | 10% | 11% |  |
+| 37 | 0.1% | 2% |  |
+| 38 | 0% | 2% |  |
+| 39 | 0% | 1.5% |  |
+| 40 | 0.1% | 1.5% |  |
+| 41 | 1.4% | 1.4% |  |
+| 42 | 0% | 0% |  |
 
 
