@@ -8,9 +8,9 @@ The table below lists all polls registered and analyzed so far.
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 33–38% <br> 308–312 | 29–34% <br> 222–234 | 11–14% <br> 36–41 | 3–4% <br> 48–51 | 5–7% <br> 1–2 | 3–5% <br> 1–2 | 0–1% <br> 2–4 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 36–40% <br> 300–336 | 32–36% <br> 216–254 | 7–9% <br> 11–22 | 4–6% <br> 55–59 | 7–9% <br> 1–2 | 2–4% <br> 1 | 1–2% <br> 5–9 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 39–44% <br> 313–370 | 29–34% <br> 186–236 | 7–10% <br> 10–23 | 4–6% <br> 51–58 | 5–8% <br> 1–2 | 5–8% <br> 2–4 | N/A <br> N/A |
-| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 38–42% <br> 310–365 | 29–33% <br> 185–233 | 10–12% <br> 24–30 | 4–5% <br> 41–54 | 2–4% <br> 0–1 | 3–5% <br> 1 | 0–1% <br> 3–6 |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 37–42% <br> 303–311 | 32–36% <br> 243–248 | 8–10% <br> 22 | 3–5% <br> 51 | 6–8% <br> 2 | 2–4% <br> 1 | 1–2% <br> 5 |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 39–43% <br> 320–373 | 28–32% <br> 176–232 | 9–12% <br> 17–29 | 3–5% <br> 41–52 | 4–6% <br> 1–2 | 3–5% <br> 1–2 | 0–1% <br> 3–8 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 40–46% <br> 338–399 | 33–39% <br> 185–233 | 5–8% <br> 0–12 | 3–5% <br> 46–56 | 4–7% <br> 0–2 | 2–4% <br> 1 | 0–1% <br> 0–4 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 39–44% <br> 311–362 | 31–35% <br> 193–237 | 9–12% <br> 17–30 | 3–5% <br> 42–56 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 0–1% <br> 3–7 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 37–43% <br> 270–350 | 33–39% <br> 217–297 | 8–12% <br> 18–32 | 2–4% <br> 4–51 | 4–7% <br> 1 | 1–3% <br> 1 | N/A <br> N/A |
