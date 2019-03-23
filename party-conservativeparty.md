@@ -14,9 +14,9 @@ Last result: **42.4%** (General Election of 8 June 2017)
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 35.7% | 34.2–37.2% | 33.9–37.6% | 33.5–38.0% | 32.8–38.7% |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.9% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 41.4% | 39.6–43.3% | 39.0–43.8% | 38.6–44.3% | 37.7–45.2% |
-| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 40.0% | N/A | N/A | N/A | N/A |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 39.6% | N/A | N/A | N/A | N/A |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 41.0% | N/A | N/A | N/A | N/A |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 40.0% | 38.7–41.4% | 38.3–41.8% | 38.0–42.1% | 37.3–42.8% |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 39.6% | 38.2–41.0% | 37.8–41.4% | 37.4–41.8% | 36.7–42.5% |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 41.0% | 39.5–42.6% | 39.1–43.0% | 38.7–43.4% | 38.0–44.2% |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 43.3% | 41.4–45.3% | 40.8–45.9% | 40.3–46.4% | 39.4–47.4% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 41.4% | 40.0–42.9% | 39.6–43.3% | 39.2–43.7% | 38.5–44.4% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 39.6% | 37.6–41.6% | 37.1–42.1% | 36.6–42.6% | 35.7–43.6% |
@@ -216,9 +216,9 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 308 | 308–312 | 308–312 | 308–312 | 255–315 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 300 | 300–325 | 300–336 | 300–336 | 288–339 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 355 | 336–355 | 320–366 | 313–370 | 292–376 |
-| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 341 | 337–341 | 310–342 | 310–365 | 308–365 |
+| [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 303 | 303 | 303 | 303–311 | 303–346 |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 367 | 320–373 | 320–373 | 320–373 | 317–373 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 338 | 338–355 | 338–355 | 338–399 | 283–399 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 333 | 317–350 | 313–355 | 311–362 | 305–369 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 318 | 291–342 | 280–346 | 270–350 | 260–364 |
