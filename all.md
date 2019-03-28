@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 296–306 | 33–37% <br> 246–259 | 6–8% <br> 13–15 | 4–6% <br> 57–58 | 8–10% <br> 2 | 3–5% <br> 1 | 1–2% <br> 3–5 |
+| [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 283–313 | 33–37% <br> 238–269 | 6–8% <br> 10–18 | 4–6% <br> 53–58 | 8–10% <br> 2 | 3–5% <br> 1–2 | 1–2% <br> 4–8 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 33–38% <br> 308–312 | 29–34% <br> 222–234 | 11–14% <br> 36–41 | 3–4% <br> 48–51 | 5–7% <br> 1–2 | 3–5% <br> 1–2 | 0–1% <br> 2–4 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
