@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 23 Mar 2019 17:33:09 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 13:05:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 20–22 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-03-22-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 33.9–38.1%&lt;/li&gt;&lt;li&gt;Labour Party: 33.0–37.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.9–8.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 7.8–10.3%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-03-22-Opinium.png"
+        length="158838"
+        type="image/png"/>
+      <pubDate>Thu, 28 Mar 2019 13:05:55 +0100</pubDate>
+      <dc:date>2019-03-28T13:05:55.119791+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-03-15-YouGov.html</link>
@@ -3069,6 +3079,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-03-23T17:33:09.908829+01:00</dc:date>
+    <dc:date>2019-03-28T13:05:55.119791+01:00</dc:date>
   </channel>
 </rss>
