@@ -10,11 +10,11 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.2–8.7% | 3.9–9.3% | 3.6–9.6% | 3.1–10.2% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.3–8.4% | 3.9–9.1% | 3.7–9.5% | 3.2–10.1% |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 7.0% | N/A | N/A | N/A | N/A |
+| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.1–7.4% | 4.8–7.8% |
-| [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 5.1% | N/A | N/A | N/A | N/A |
+| [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.6% | 4.5–8.1% |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.3–3.8% | 2.2–4.1% |
@@ -190,14 +190,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 14% | 98% |  |
-| 4.5–5.5% | 28% | 84% |  |
-| 5.5–6.5% | 31% | 56% | Median |
-| 6.5–7.5% | 10% | 25% |  |
-| 7.5–8.5% | 4% | 15% |  |
-| 8.5–9.5% | 8% | 11% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 13% | 98% |  |
+| 4.5–5.5% | 28% | 85% |  |
+| 5.5–6.5% | 30% | 58% | Median |
+| 6.5–7.5% | 13% | 28% |  |
+| 7.5–8.5% | 6% | 15% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -211,9 +211,9 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2 |
-| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–4 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -389,9 +389,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 56% | 96% | Median |
-| 2 | 40% | 40% |  |
-| 3 | 0% | 0% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 62% | 97% | Median |
+| 2 | 35% | 36% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 
