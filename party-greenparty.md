@@ -17,6 +17,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.6% | 4.5–8.1% |
+| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 4.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
@@ -25,6 +26,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 4.9% | N/A | N/A | N/A | N/A |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -32,12 +34,13 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.0% | 2.9–5.4% |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5.0% | N/A | N/A | N/A | N/A |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 4.1% | 3.9–4.3% | 3.9–4.3% | 3.8–4.3% | 3.8–4.4% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -157,7 +160,6 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [4 March 2019–8 March 2018](2018-03-08-BMGResearch.html) | BMG Research | 4.0% | N/A | N/A | N/A | N/A |
 | [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.1% |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -168,7 +170,6 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.9% |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [4 February 2019–8 February 2018](2018-02-08-BMGResearch.html) | BMG Research | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.6–6.6% |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
@@ -179,7 +180,6 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5.0% | 4.4–5.8% | 4.2–6.1% | 4.0–6.2% | 3.7–6.6% |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 2.0% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.3–3.1% |
 
 ### Probability Mass Function
@@ -208,13 +208,14 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–4 | 1–4 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 4 | 3–4 | 2–4 | 2–4 | 1–4 |
+| [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -223,6 +224,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1–2 | 1–2 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -230,12 +232,13 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [23–25 January 2019](2019-01-25-Opinium.html) | Opinium <br> People’s Vote | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2019](2019-01-18-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1 | 1 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 1 | 1 | 1 | 1 | 1 |
 | [16–17 January 2019](2019-01-17-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1 |
 | [14–15 January 2019](2019-01-15-ComRes.html) | ComRes <br> Daily Express | 1 | 1 | 1 | 1 | 1 |
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 1 | 1 | 1 | 1 | 1 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -355,7 +358,6 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 1 | 1 | 1 | 1 | 1 |
-| [4 March 2019–8 March 2018](2018-03-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [2–7 March 2018](2018-03-07-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1 |
 | [5–6 March 2018](2018-03-06-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [2–4 March 2018](2018-03-04-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
@@ -366,7 +368,6 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [6–12 February 2018](2018-02-12-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
 | [6–9 February 2018](2018-02-09-BMGResearch.html) | BMG Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 February 2018](2018-02-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [4 February 2019–8 February 2018](2018-02-08-BMGResearch.html) | BMG Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [5–6 February 2018](2018-02-06-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [2–4 February 2018](2018-02-04-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [28–29 January 2018](2018-01-29-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
@@ -377,7 +378,6 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [12–14 January 2018](2018-01-14-ICMResearch.html) | ICM Research <br> The Guardian | 1 | 1 | 1 | 1 | 1 |
 | [11–12 January 2018](2018-01-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [9–12 January 2018](2018-01-12-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1 |
-| [8 January 2019–11 January 2018](2018-01-11-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [7–8 January 2018](2018-01-08-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
@@ -389,9 +389,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 63% | 100% | Last Result, Median |
-| 2 | 26% | 37% |  |
-| 3 | 0.7% | 12% |  |
-| 4 | 11% | 11% |  |
+| 2 | 32% | 37% |  |
+| 3 | 2% | 5% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
