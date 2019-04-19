@@ -10,13 +10,13 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
 | N/A | Poll Average | 36–43% <br> 263–337 | 32–42% <br> 229–314 | 7–11% <br> 10–28 | 2–6% <br> 8–58 | 3–8% <br> 0–2 | 2–5% <br> 1–2 | 0–2% <br> 0–11 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 35–41% <br> 283–315 | 31–37% <br> 229–269 | 7–10% <br> 11–22 | 4–7% <br> 57–58 | 6–9% <br> 1–2 | 3–5% <br> 1–2 | 1–2% <br> 3–11 |
 | [16–18 January 2019](2019-01-18-ICMResearch.html) | ICM Research | 37–41% <br> 262–317 | 38–42% <br> 256–321 | 8–10% <br> 16–27 | 2–4% <br> 8–50 | 4–6% <br> 1 | 2–4% <br> 1 | 0–1% <br> 0–3 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 38–45% <br> 269–347 | 36–42% <br> 229–314 | 7–10% <br> 6–25 | 2–4% <br> 3–54 | 3–5% <br> 0–1 | 1–3% <br> 1 | 1–2% <br> 3–8 |
