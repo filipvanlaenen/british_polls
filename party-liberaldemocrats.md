@@ -10,8 +10,8 @@ Last result: **7.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.4–10.3% | 7.0–10.6% | 6.8–10.9% | 6.3–11.5% |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 8.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.6% | 7.4–10.1% | 7.0–10.5% | 6.8–10.8% | 6.3–11.4% |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 10.9% | N/A | N/A | N/A | N/A |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 7.9% | N/A | N/A | N/A | N/A |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 9.9% | N/A | N/A | N/A | N/A |
@@ -198,13 +198,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.3% | 100% |  |
-| 6.5–7.5% | 12% | 98.7% | Last Result |
-| 7.5–8.5% | 28% | 87% |  |
-| 8.5–9.5% | 32% | 59% | Median |
-| 9.5–10.5% | 21% | 27% |  |
-| 10.5–11.5% | 6% | 6% |  |
-| 11.5–12.5% | 0.3% | 0.4% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 13% | 98.8% | Last Result |
+| 7.5–8.5% | 34% | 86% |  |
+| 8.5–9.5% | 30% | 51% | Median |
+| 9.5–10.5% | 17% | 21% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -216,8 +216,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 11–27 | 11–27 | 10–28 | 6–30 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 21 | 13–29 | 11–29 | 11–29 | 6–29 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 29 | 23–29 | 21–29 | 21–29 | 16–29 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe |  |  |  |  |  |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
@@ -408,33 +408,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 0.1% | 99.9% |  |
 | 5 | 0.2% | 99.8% |  |
-| 6 | 0.4% | 99.6% |  |
-| 7 | 0.2% | 99.1% |  |
-| 8 | 0.6% | 99.0% |  |
-| 9 | 0.7% | 98% |  |
-| 10 | 0.4% | 98% |  |
-| 11 | 8% | 97% |  |
-| 12 | 1.3% | 89% | Last Result |
-| 13 | 1.4% | 88% |  |
-| 14 | 2% | 86% |  |
-| 15 | 3% | 84% |  |
-| 16 | 4% | 81% |  |
-| 17 | 5% | 77% |  |
-| 18 | 2% | 72% |  |
-| 19 | 7% | 70% |  |
-| 20 | 9% | 63% |  |
-| 21 | 15% | 54% | Median |
-| 22 | 11% | 39% |  |
-| 23 | 2% | 28% |  |
-| 24 | 1.3% | 26% |  |
-| 25 | 5% | 25% |  |
-| 26 | 4% | 19% |  |
-| 27 | 11% | 15% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.7% | 1.3% |  |
-| 30 | 0.4% | 0.6% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0.1% | 0.1% |  |
+| 6 | 0.3% | 99.6% |  |
+| 7 | 0.1% | 99.3% |  |
+| 8 | 0.5% | 99.2% |  |
+| 9 | 0.6% | 98.7% |  |
+| 10 | 0.3% | 98% |  |
+| 11 | 7% | 98% |  |
+| 12 | 1.0% | 91% | Last Result |
+| 13 | 1.1% | 90% |  |
+| 14 | 1.5% | 89% |  |
+| 15 | 3% | 88% |  |
+| 16 | 4% | 85% |  |
+| 17 | 4% | 81% |  |
+| 18 | 2% | 77% |  |
+| 19 | 6% | 76% |  |
+| 20 | 7% | 70% |  |
+| 21 | 13% | 63% | Median |
+| 22 | 9% | 49% |  |
+| 23 | 2% | 41% |  |
+| 24 | 2% | 39% |  |
+| 25 | 4% | 37% |  |
+| 26 | 4% | 33% |  |
+| 27 | 9% | 29% |  |
+| 28 | 2% | 20% |  |
+| 29 | 17% | 18% |  |
+| 30 | 0.3% | 0.5% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
 
