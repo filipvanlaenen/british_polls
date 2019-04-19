@@ -11,8 +11,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.3–1.4% | 0.2–1.6% | 0.2–1.7% | 0.1–2.0% |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 1.0% | N/A | N/A | N/A | N/A |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 1.0% | N/A | N/A | N/A | N/A |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 1.0% | N/A | N/A | N/A | N/A |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 1.0% | N/A | N/A | N/A | N/A |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 1.0% | N/A | N/A | N/A | N/A |
@@ -211,8 +212,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–8 | 0–11 | 0–11 | 0–11 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe |  |  |  |  |  |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov |  |  |  |  |  |
