@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 27–31% <br> 199–218 | 34–38% <br> 314–339 | 7–9% <br> 21–29 | 4–6% <br> 54–58 | 10–12% <br> 7–15 | 3–5% <br> 2 | 1–2% <br> 5 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 27–31% <br> 201–248 | 34–38% <br> 291–331 | 7–9% <br> 16–28 | 4–6% <br> 54–58 | 10–12% <br> 2–17 | 3–5% <br> 1–3 | 1–2% <br> 4–8 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
