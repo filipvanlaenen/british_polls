@@ -215,8 +215,8 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe |  |  |  |  |  |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
@@ -404,9 +404,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 68% | 100% | Last Result, Median |
-| 2 | 32% | 32% |  |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 70% | 100% | Last Result, Median |
+| 2 | 29% | 30% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 

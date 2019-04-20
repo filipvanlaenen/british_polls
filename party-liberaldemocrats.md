@@ -216,8 +216,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 13–29 | 11–29 | 11–29 | 6–29 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 29 | 23–29 | 21–29 | 21–29 | 16–29 |
+| N/A | [Poll Average](average.html) | 21 | 13–27 | 11–27 | 11–28 | 6–30 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 21 | 19–25 | 18–26 | 16–28 | 14–31 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe |  |  |  |  |  |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
@@ -416,25 +416,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 7% | 98% |  |
 | 12 | 1.0% | 91% | Last Result |
 | 13 | 1.1% | 90% |  |
-| 14 | 1.5% | 89% |  |
-| 15 | 3% | 88% |  |
+| 14 | 2% | 89% |  |
+| 15 | 3% | 87% |  |
 | 16 | 4% | 85% |  |
 | 17 | 4% | 81% |  |
-| 18 | 2% | 77% |  |
-| 19 | 6% | 76% |  |
-| 20 | 7% | 70% |  |
-| 21 | 13% | 63% | Median |
-| 22 | 9% | 49% |  |
-| 23 | 2% | 41% |  |
-| 24 | 2% | 39% |  |
-| 25 | 4% | 37% |  |
-| 26 | 4% | 33% |  |
-| 27 | 9% | 29% |  |
-| 28 | 2% | 20% |  |
-| 29 | 17% | 18% |  |
-| 30 | 0.3% | 0.5% |  |
-| 31 | 0% | 0.1% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 18 | 2% | 76% |  |
+| 19 | 7% | 74% |  |
+| 20 | 12% | 67% |  |
+| 21 | 16% | 55% | Median |
+| 22 | 9% | 40% |  |
+| 23 | 5% | 30% |  |
+| 24 | 2% | 26% |  |
+| 25 | 6% | 23% |  |
+| 26 | 4% | 17% |  |
+| 27 | 9% | 13% |  |
+| 28 | 2% | 4% |  |
+| 29 | 0.8% | 1.4% |  |
+| 30 | 0.4% | 0.7% |  |
+| 31 | 0.1% | 0.3% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 
