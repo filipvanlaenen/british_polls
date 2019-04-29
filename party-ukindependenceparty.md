@@ -10,18 +10,18 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 3.9–11.2% | 3.6–11.6% | 3.4–12.0% | 3.1–12.5% |
+| N/A | [Poll Average](average.html) | 6.7% | 4.4–9.5% | 4.0–11.0% | 3.7–11.5% | 3.3–12.2% |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
-| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 5.0% | N/A | N/A | N/A | N/A |
+| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
-| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 6.9% | N/A | N/A | N/A | N/A |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 7.9% | N/A | N/A | N/A | N/A |
-| [3–6 April 2019](2019-04-06-Survation.html) | Survation | 6.9% | N/A | N/A | N/A | N/A |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 6.1% | N/A | N/A | N/A | N/A |
+| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.5% | 5.2–9.0% |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
+| [3–6 April 2019](2019-04-06-Survation.html) | Survation | 6.9% | 6.5–7.4% | 6.4–7.5% | 6.3–7.6% | 6.1–7.8% |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 6.1% | 5.3–6.9% | 5.1–7.2% | 5.0–7.4% | 4.6–7.8% |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 7.0% | N/A | N/A | N/A | N/A |
-| [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.9% | N/A | N/A | N/A | N/A |
+| [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 9.0% | N/A | N/A | N/A | N/A |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -202,17 +202,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 22% | 96% |  |
-| 4.5–5.5% | 21% | 74% |  |
-| 5.5–6.5% | 9% | 53% | Median |
-| 6.5–7.5% | 12% | 44% |  |
-| 7.5–8.5% | 6% | 32% |  |
-| 8.5–9.5% | 1.3% | 26% |  |
-| 9.5–10.5% | 6% | 25% |  |
-| 10.5–11.5% | 13% | 19% |  |
-| 11.5–12.5% | 5% | 6% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 11% | 98% |  |
+| 4.5–5.5% | 17% | 88% |  |
+| 5.5–6.5% | 18% | 71% |  |
+| 6.5–7.5% | 28% | 53% | Median |
+| 7.5–8.5% | 13% | 26% |  |
+| 8.5–9.5% | 3% | 13% |  |
+| 9.5–10.5% | 2% | 10% |  |
+| 10.5–11.5% | 5% | 8% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -224,18 +224,18 @@ Last result: **0** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–13 | 0–17 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–10 | 0–11 | 0–15 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 0 | 0 | 0 | 0 | 0 |
-| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph |  |  |  |  |  |
+| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 10 | 2–13 | 2–15 | 2–17 | 2–18 |
-| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe |  |  |  |  |  |
-| [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–6 April 2019](2019-04-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1 | 1 | 1–2 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov |  |  |  |  |  |
-| [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2 |
@@ -417,27 +417,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result, Median |
-| 1 | 15% | 50% |  |
-| 2 | 14% | 35% |  |
-| 3 | 2% | 21% |  |
-| 4 | 0.7% | 20% |  |
-| 5 | 2% | 19% |  |
-| 6 | 1.4% | 17% |  |
-| 7 | 0.8% | 16% |  |
-| 8 | 1.1% | 15% |  |
-| 9 | 1.0% | 14% |  |
-| 10 | 3% | 13% |  |
-| 11 | 5% | 10% |  |
-| 12 | 0.6% | 5% |  |
-| 13 | 2% | 4% |  |
-| 14 | 0.2% | 2% |  |
-| 15 | 0.7% | 2% |  |
-| 16 | 0.2% | 1.2% |  |
-| 17 | 0.7% | 0.9% |  |
-| 18 | 0.2% | 0.3% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 51% | 70% | Median |
+| 2 | 11% | 19% |  |
+| 3 | 0.7% | 9% |  |
+| 4 | 0.3% | 8% |  |
+| 5 | 0.6% | 8% |  |
+| 6 | 0.6% | 7% |  |
+| 7 | 0.3% | 6% |  |
+| 8 | 0.5% | 6% |  |
+| 9 | 0.4% | 6% |  |
+| 10 | 1.0% | 5% |  |
+| 11 | 2% | 4% |  |
+| 12 | 0.2% | 2% |  |
+| 13 | 1.0% | 2% |  |
+| 14 | 0.1% | 0.8% |  |
+| 15 | 0.3% | 0.8% |  |
+| 16 | 0.1% | 0.5% |  |
+| 17 | 0.3% | 0.4% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
