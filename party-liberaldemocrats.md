@@ -223,10 +223,10 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 17–37 | 11–41 | 5–44 | 3–46 |
+| N/A | [Poll Average](average.html) | 26 | 17–39 | 11–42 | 5–44 | 3–46 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 41 | 36–45 | 34–46 | 34–50 | 29–54 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 32 | 27–39 | 27–40 | 27–41 | 24–44 |
-| [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 33 | 30–40 | 28–40 | 28–43 | 27–45 |
+| [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 35 | 31–42 | 28–42 | 28–43 | 25–45 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 24 | 24–28 | 24–34 | 24–34 | 24–40 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 21 | 19–25 | 18–26 | 16–28 | 14–31 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 26 | 26–36 | 26–37 | 26–37 | 26–44 |
@@ -444,19 +444,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 12% | 36% |  |
 | 29 | 0.2% | 24% |  |
 | 30 | 0.7% | 24% |  |
-| 31 | 0.5% | 23% |  |
-| 32 | 0.4% | 23% |  |
-| 33 | 5% | 22% |  |
-| 34 | 2% | 17% |  |
-| 35 | 1.1% | 15% |  |
-| 36 | 3% | 14% |  |
-| 37 | 2% | 12% |  |
-| 38 | 0.7% | 10% |  |
-| 39 | 2% | 9% |  |
-| 40 | 2% | 8% |  |
-| 41 | 1.4% | 6% |  |
-| 42 | 0.6% | 5% |  |
-| 43 | 0.7% | 4% |  |
+| 31 | 0.4% | 24% |  |
+| 32 | 0.8% | 23% |  |
+| 33 | 2% | 22% |  |
+| 34 | 2% | 20% |  |
+| 35 | 1.0% | 18% |  |
+| 36 | 3% | 17% |  |
+| 37 | 3% | 14% |  |
+| 38 | 1.0% | 11% |  |
+| 39 | 2% | 10% |  |
+| 40 | 1.3% | 9% |  |
+| 41 | 2% | 7% |  |
+| 42 | 1.5% | 6% |  |
+| 43 | 0.8% | 4% |  |
 | 44 | 2% | 3% |  |
 | 45 | 1.1% | 2% |  |
 | 46 | 0.1% | 0.6% |  |
