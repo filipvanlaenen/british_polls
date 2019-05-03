@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 29 Apr 2019 16:09:26 +0200</pubDate>
+    <pubDate>Fri, 03 May 2019 15:50:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 23–24 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-04-24-YouGov.html#seats</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-04-17-OnePoll.png"
         length="175594"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2019 22:58:52 +0200</pubDate>
-      <dc:date>2019-04-24T22:58:52.823104+02:00</dc:date>
+      <pubDate>Fri, 03 May 2019 15:50:43 +0200</pubDate>
+      <dc:date>2019-05-03T15:50:43.658866+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ORB for The Telegraph, 16–17 April 2019 – Voting Intentions</title>
@@ -3149,6 +3149,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-04-29T16:09:26.424104+02:00</dc:date>
+    <dc:date>2019-05-03T15:50:43.658866+02:00</dc:date>
   </channel>
 </rss>
