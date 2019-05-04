@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.8–5.6% | 2.7–5.8% | 2.5–6.0% | 2.2–6.4% |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.9–5.5% | 2.7–5.7% | 2.6–5.9% | 2.3–6.3% |
+| [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 3.9% | 2.6–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
+| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.8–5.7% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
@@ -203,12 +204,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 26% | 97% |  |
-| 3.5–4.5% | 16% | 71% |  |
-| 4.5–5.5% | 44% | 55% | Median |
-| 5.5–6.5% | 11% | 11% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 24% | 98% |  |
+| 3.5–4.5% | 28% | 74% | Median |
+| 4.5–5.5% | 38% | 46% |  |
+| 5.5–6.5% | 8% | 8% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -221,7 +222,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 0 | 0 | 0 | 0 | 0 |
