@@ -225,9 +225,9 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 15–39 | 12–42 | 10–44 | 6–47 |
+| N/A | [Poll Average](average.html) | 27 | 14–39 | 11–42 | 10–44 | 6–47 |
 | [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 41 | 36–45 | 34–46 | 34–50 | 29–54 |
-| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 20 | 20 | 20 | 20 | 11–27 |
+| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 19 | 10–20 | 10–23 | 10–24 | 10–25 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 32 | 27–39 | 27–40 | 27–41 | 24–44 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 34 | 31–42 | 29–43 | 28–44 | 25–45 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 29 | 23–32 | 23–33 | 21–37 | 17–39 |
@@ -427,20 +427,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 99.2% |  |
 | 8 | 0.4% | 99.0% |  |
 | 9 | 0.4% | 98.6% |  |
-| 10 | 1.0% | 98% |  |
-| 11 | 0.9% | 97% |  |
-| 12 | 1.5% | 96% | Last Result |
-| 13 | 2% | 95% |  |
-| 14 | 2% | 93% |  |
-| 15 | 3% | 91% |  |
-| 16 | 3% | 89% |  |
-| 17 | 2% | 86% |  |
-| 18 | 2% | 84% |  |
-| 19 | 2% | 82% |  |
-| 20 | 12% | 80% |  |
-| 21 | 1.3% | 68% |  |
-| 22 | 2% | 67% |  |
-| 23 | 3% | 64% |  |
+| 10 | 2% | 98% |  |
+| 11 | 1.0% | 96% |  |
+| 12 | 3% | 95% | Last Result |
+| 13 | 2% | 92% |  |
+| 14 | 3% | 90% |  |
+| 15 | 3% | 87% |  |
+| 16 | 3% | 85% |  |
+| 17 | 3% | 82% |  |
+| 18 | 2% | 79% |  |
+| 19 | 3% | 78% |  |
+| 20 | 5% | 74% |  |
+| 21 | 1.3% | 69% |  |
+| 22 | 2% | 68% |  |
+| 23 | 3% | 65% |  |
 | 24 | 3% | 62% |  |
 | 25 | 3% | 59% |  |
 | 26 | 3% | 56% |  |
