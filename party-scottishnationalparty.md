@@ -222,7 +222,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 54 | 48–58 | 33–58 | 23–59 | 4–59 |
 | [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 53 | 53–54 | 53–54 | 53–55 | 51–57 |
-| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–59 | 57–59 | 57–59 | 56–59 |
+| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–59 | 57–59 | 57–59 | 55–59 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 54 | 53–55 | 53–56 | 51–56 | 51–58 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 54 | 53–56 | 53–56 | 53–57 | 53–57 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 54 | 53–57 | 51–57 | 51–57 | 51–58 |
