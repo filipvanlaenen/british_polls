@@ -225,7 +225,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–59 | 57–59 | 57–59 | 55–59 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 54 | 53–55 | 53–56 | 51–56 | 51–58 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 54 | 53–56 | 53–56 | 53–57 | 53–57 |
-| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 54 | 53–57 | 51–57 | 51–57 | 51–58 |
+| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 54 | 54–57 | 53–57 | 51–57 | 51–58 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 57 | 56–58 | 55–58 | 54–58 | 54–58 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 54 | 53–57 | 53–57 | 51–58 | 51–58 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 54 | 50–57 | 49–57 | 48–57 | 38–58 |
@@ -465,12 +465,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.7% | 90% |  |
 | 50 | 3% | 89% |  |
 | 51 | 6% | 87% |  |
-| 52 | 2% | 80% |  |
+| 52 | 1.5% | 81% |  |
 | 53 | 16% | 79% |  |
-| 54 | 26% | 63% | Median |
-| 55 | 4% | 37% |  |
-| 56 | 7% | 32% |  |
-| 57 | 12% | 26% |  |
+| 54 | 25% | 63% | Median |
+| 55 | 4% | 38% |  |
+| 56 | 7% | 34% |  |
+| 57 | 13% | 27% |  |
 | 58 | 11% | 14% |  |
 | 59 | 3% | 3% |  |
 | 60 | 0% | 0% |  |
