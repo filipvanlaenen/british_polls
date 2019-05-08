@@ -225,7 +225,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 1–2 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 2 | 2 | 2 | 1–2 | 1–2 |
+| [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 2 | 2 | 2 | 2 | 1–2 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
