@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 25–29% <br> 190–257 | 28–32% <br> 233–296 | 10–13% <br> 34–50 | 3–5% <br> 53–55 | 3–5% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 3–8 | 12–16% <br> 24–65 | 2–4% <br> 0 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 27–31% <br> 223–294 | 27–31% <br> 206–258 | 11–15% <br> 36–46 | 3–4% <br> 35–53 | 1–3% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 0–8 | 13–17% <br> 40–54 | 2–4% <br> 0 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 25–29% <br> N/A | 28–32% <br> N/A | 10–13% <br> N/A | 3–5% <br> N/A | 3–5% <br> N/A | 4–6% <br> N/A | 0–1% <br> N/A | 12–16% <br> N/A | 2–4% <br> N/A |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 24–29% <br> 150–242 | 30–36% <br> 249–313 | 5–7% <br> 10–24 | 4–6% <br> 57–59 | 3–5% <br> 0 | 3–5% <br> 2 | 1–2% <br> 4–9 | 15–19% <br> 32–115 | 3–5% <br> 0 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 27–31% <br> 223–296 | 28–32% <br> 224–293 | 9–12% <br> 27–41 | 3–5% <br> 51–56 | 3–5% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 3–8 | 11–14% <br> 11–32 | 2–4% <br> 0 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 22–26% <br> 155–217 | 30–34% <br> 283–333 | 8–10% <br> 28–44 | 3–5% <br> 53–57 | 4–6% <br> 0 | 4–6% <br> 2–3 | N/A <br> N/A | 13–16% <br> 24–66 | 4–6% <br> 0 |
