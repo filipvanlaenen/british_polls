@@ -10,8 +10,10 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–2.0% |
-| [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.3–1.4% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 0.6% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.3–1.4% |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 0.0% | N/A | N/A | N/A | N/A |
@@ -202,8 +204,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 93% | 97% | Last Result, Median |
+| 0.0–0.5% | 6% | 100% |  |
+| 0.5–1.5% | 89% | 94% | Last Result, Median |
 | 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -216,8 +218,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–8 | 4–8 | 3–9 | 3–13 |
-| [18–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Sunday Times | 5 | 3–6 | 3–8 | 3–8 | 2–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–8 | 3–8 | 0–9 | 0–13 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 0–6 | 0–6 | 0–8 | 0–8 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 6 | 4–9 | 4–9 | 4–9 | 4–14 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–9 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday |  |  |  |  |  |
@@ -410,17 +414,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 0.3% | 99.9% |  |
-| 3 | 4% | 99.7% |  |
-| 4 | 12% | 95% | Last Result |
-| 5 | 56% | 84% | Median |
-| 6 | 5% | 28% |  |
+| 0 | 3% | 100% |  |
+| 1 | 0.1% | 97% |  |
+| 2 | 0.2% | 97% |  |
+| 3 | 2% | 97% |  |
+| 4 | 13% | 95% | Last Result |
+| 5 | 52% | 82% | Median |
+| 6 | 7% | 30% |  |
 | 7 | 2% | 23% |  |
 | 8 | 16% | 21% |  |
 | 9 | 3% | 5% |  |
 | 10 | 0.8% | 2% |  |
-| 11 | 0.4% | 1.2% |  |
+| 11 | 0.3% | 1.2% |  |
 | 12 | 0.2% | 0.9% |  |
 | 13 | 0.1% | 0.6% |  |
 | 14 | 0.4% | 0.5% |  |
