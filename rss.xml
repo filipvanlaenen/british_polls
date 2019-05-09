@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 09 May 2019 17:05:27 +0200</pubDate>
+    <pubDate>Thu, 09 May 2019 21:29:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 29–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-04-30-YouGov.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-04-30-YouGov.png"
         length="189402"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 17:05:27 +0200</pubDate>
-      <dc:date>2019-05-09T17:05:27.203792+02:00</dc:date>
+      <pubDate>Thu, 09 May 2019 21:29:57 +0200</pubDate>
+      <dc:date>2019-05-09T21:29:57.682232+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 23–24 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-04-24-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 25.0–29.1%&lt;/li&gt;&lt;li&gt;Labour Party: 27.9–32.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.6–12.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.4–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.4–1.2%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 12.5–15.7%&lt;/li&gt;&lt;li&gt;Change UK: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-04-24-YouGov.png"
+        length="190437"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 17:16:27 +0200</pubDate>
+      <dc:date>2019-05-09T17:16:27.041367+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 18–24 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-04-24-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 24.9–28.7%&lt;/li&gt;&lt;li&gt;Labour Party: 33.6–37.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.8–9.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 4.1–6.0%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 11.5–14.4%&lt;/li&gt;&lt;li&gt;Change UK: 3.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-04-24-Panelbase.png"
+        length="174014"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 17:24:38 +0200</pubDate>
+      <dc:date>2019-05-09T17:24:38.922412+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 21–23 April 2019 – Voting Intentions</title>
@@ -3159,6 +3179,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-05-09T17:05:27.203792+02:00</dc:date>
+    <dc:date>2019-05-09T21:29:57.682232+02:00</dc:date>
   </channel>
 </rss>
