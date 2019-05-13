@@ -222,10 +222,10 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 54 | 49–58 | 36–58 | 24–59 | 6–59 |
-| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 53 | 49–53 | 48–53 | 45–53 | 36–53 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 53 | 53 | 53 | 53 | 53 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 54 | 52–56 | 52–56 | 52–57 | 47–57 |
+| N/A | [Poll Average](average.html) | 54 | 48–58 | 36–58 | 24–59 | 6–59 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 53 | 48–53 | 46–53 | 45–53 | 36–53 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 53–54 | 51–55 | 51–57 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 54 | 53–57 | 53–57 | 52–57 | 49–58 |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–59 | 57–59 | 57–59 | 55–59 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 54 | 53–55 | 53–56 | 51–56 | 51–58 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 54 | 53–56 | 53–56 | 53–57 | 53–57 |
@@ -463,18 +463,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0.1% | 94% |  |
 | 44 | 0.6% | 94% |  |
 | 45 | 0.9% | 93% |  |
-| 46 | 0.1% | 92% |  |
+| 46 | 0.3% | 92% |  |
 | 47 | 0.7% | 92% |  |
 | 48 | 1.4% | 91% |  |
-| 49 | 1.2% | 90% |  |
-| 50 | 3% | 89% |  |
-| 51 | 7% | 86% |  |
-| 52 | 4% | 79% |  |
-| 53 | 14% | 75% |  |
-| 54 | 23% | 61% | Median |
-| 55 | 4% | 38% |  |
-| 56 | 9% | 34% |  |
-| 57 | 12% | 25% |  |
+| 49 | 0.8% | 90% |  |
+| 50 | 4% | 89% |  |
+| 51 | 7% | 85% |  |
+| 52 | 2% | 79% |  |
+| 53 | 15% | 77% |  |
+| 54 | 24% | 62% | Median |
+| 55 | 4% | 39% |  |
+| 56 | 8% | 34% |  |
+| 57 | 14% | 27% |  |
 | 58 | 10% | 13% |  |
 | 59 | 3% | 3% |  |
 | 60 | 0% | 0% |  |

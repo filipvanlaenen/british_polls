@@ -219,8 +219,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–8 | 3–8 | 3–9 | 2–13 |
-| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 3–5 | 2–7 | 2–8 | 0–8 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 4 | 1–9 | 1–9 | 1–9 | 1–9 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 3–4 | 2–5 | 2–6 | 1–8 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–11 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 6 | 4–9 | 4–9 | 4–9 | 4–14 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–9 |
@@ -415,14 +415,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 0.2% | 99.9% |  |
-| 2 | 0.7% | 99.7% |  |
-| 3 | 5% | 99.0% |  |
-| 4 | 14% | 94% | Last Result |
-| 5 | 53% | 80% | Median |
+| 1 | 0.3% | 99.9% |  |
+| 2 | 0.6% | 99.7% |  |
+| 3 | 5% | 99.1% |  |
+| 4 | 15% | 94% | Last Result |
+| 5 | 53% | 79% | Median |
 | 6 | 4% | 27% |  |
-| 7 | 2% | 23% |  |
-| 8 | 16% | 21% |  |
+| 7 | 2% | 22% |  |
+| 8 | 16% | 20% |  |
 | 9 | 3% | 5% |  |
 | 10 | 0.8% | 2% |  |
 | 11 | 0.3% | 1.2% |  |
