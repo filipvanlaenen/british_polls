@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–39% <br> 173–325 | 28–42% <br> 208–336 | 6–13% <br> 10–53 | 3–6% <br> 24–59 | 2–8% <br> 0–2 | 2–6% <br> 1–3 | 0–2% <br> 3–9 | 12–18% <br> 14–106 | 2–6% <br> 0 |
-| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 27–31% <br> 193–280 | 27–31% <br> 191–278 | 11–15% <br> 38–60 | 3–4% <br> 45–53 | 1–3% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 2–8 | 13–17% <br> 28–83 | 2–4% <br> 0 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 25–29% <br> 195–221 | 34–38% <br> 311–333 | 7–9% <br> 16–28 | 3–5% <br> 52–57 | 4–6% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 11–14% <br> 12–21 | 3–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 23–39% <br> 173–325 | 28–42% <br> 214–339 | 6–13% <br> 10–55 | 3–6% <br> 24–59 | 2–8% <br> 0–2 | 2–6% <br> 1–3 | 0–2% <br> 3–9 | 12–18% <br> 15–106 | 2–6% <br> 0 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 27–31% <br> 195–282 | 27–31% <br> 198–275 | 11–15% <br> 38–58 | 3–4% <br> 45–53 | 1–3% <br> 0 | 4–6% <br> 2–4 | 0–1% <br> 2–6 | 13–17% <br> 29–83 | 2–4% <br> 0 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 25–29% <br> 180–228 | 34–38% <br> 298–344 | 7–9% <br> 19–34 | 3–5% <br> 52–57 | 4–6% <br> 0 | 2–4% <br> 1–2 | N/A <br> N/A | 11–14% <br> 12–33 | 3–5% <br> 0 |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 24–29% <br> 150–242 | 30–36% <br> 249–313 | 5–7% <br> 10–24 | 4–6% <br> 57–59 | 3–5% <br> 0 | 3–5% <br> 2 | 1–2% <br> 4–9 | 15–19% <br> 32–115 | 3–5% <br> 0 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 22–26% <br> 155–217 | 30–34% <br> 283–333 | 8–10% <br> 28–44 | 3–5% <br> 53–57 | 4–6% <br> 0 | 4–6% <br> 2–3 | N/A <br> N/A | 13–16% <br> 24–66 | 4–6% <br> 0 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 24–28% <br> 194–276 | 27–31% <br> 220–297 | 7–9% <br> 21–37 | 3–5% <br> 51–58 | 4–6% <br> 0 | 3–5% <br> 2 | 1–2% <br> 5–12 | 12–16% <br> 25–72 | 4–6% <br> 0 |
