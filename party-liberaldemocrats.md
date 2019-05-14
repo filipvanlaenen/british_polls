@@ -227,11 +227,11 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 13–41 | 11–49 | 10–55 | 6–57 |
+| N/A | [Poll Average](average.html) | 27 | 13–41 | 11–49 | 10–55 | 6–57 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 51 | 40–56 | 39–57 | 38–58 | 36–60 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 41 | 35–45 | 33–46 | 32–51 | 30–54 |
-| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 22–31 | 20–32 | 19–34 | 17–37 |
-| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 14 | 10–21 | 10–23 | 10–24 | 10–27 |
+| [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 22–32 | 20–32 | 19–34 | 17–37 |
+| [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 14 | 11–21 | 10–22 | 10–23 | 8–26 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 32 | 27–39 | 27–40 | 27–41 | 24–44 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 34 | 31–42 | 29–43 | 28–44 | 25–45 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 27 | 23–33 | 22–34 | 21–37 | 19–39 |
@@ -430,30 +430,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.3% | 99.6% |  |
 | 7 | 0.2% | 99.3% |  |
 | 8 | 0.4% | 99.1% |  |
-| 9 | 0.4% | 98.7% |  |
-| 10 | 2% | 98% |  |
-| 11 | 2% | 96% |  |
-| 12 | 3% | 95% | Last Result |
+| 9 | 0.4% | 98.6% |  |
+| 10 | 1.3% | 98% |  |
+| 11 | 3% | 97% |  |
+| 12 | 2% | 94% | Last Result |
 | 13 | 2% | 92% |  |
-| 14 | 2% | 90% |  |
+| 14 | 3% | 90% |  |
 | 15 | 2% | 87% |  |
 | 16 | 3% | 85% |  |
 | 17 | 2% | 82% |  |
 | 18 | 2% | 80% |  |
-| 19 | 3% | 78% |  |
-| 20 | 4% | 75% |  |
+| 19 | 3% | 77% |  |
+| 20 | 3% | 75% |  |
 | 21 | 2% | 71% |  |
-| 22 | 3% | 69% |  |
+| 22 | 4% | 70% |  |
 | 23 | 3% | 66% |  |
 | 24 | 4% | 63% |  |
 | 25 | 4% | 59% |  |
-| 26 | 5% | 55% | Median |
-| 27 | 10% | 50% |  |
+| 26 | 5% | 55% |  |
+| 27 | 10% | 50% | Median |
 | 28 | 5% | 40% |  |
-| 29 | 3% | 35% |  |
+| 29 | 3% | 36% |  |
 | 30 | 2% | 32% |  |
 | 31 | 2% | 30% |  |
-| 32 | 2% | 28% |  |
+| 32 | 3% | 28% |  |
 | 33 | 2% | 25% |  |
 | 34 | 3% | 23% |  |
 | 35 | 2% | 20% |  |
