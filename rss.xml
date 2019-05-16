@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 13 May 2019 23:18:06 +0200</pubDate>
+    <pubDate>Wed, 15 May 2019 18:18:46 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium, 8–10 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-10-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 20.2–23.8%&lt;/li&gt;&lt;li&gt;Labour Party: 26.0–30.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.7–12.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.7–4.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.3–1.1%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 19.2–22.8%&lt;/li&gt;&lt;li&gt;Change UK: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-10-Opinium.png"
+        length="188737"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 18:10:46 +0200</pubDate>
+      <dc:date>2019-05-15T18:10:46.068696+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Brexit Express, 9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 17.2–20.6%&lt;/li&gt;&lt;li&gt;Labour Party: 24.9–28.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.4–16.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 4.1–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 18.1–21.6%&lt;/li&gt;&lt;li&gt;Change UK: 5.9–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes.png"
+        length="189494"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 18:18:46 +0200</pubDate>
+      <dc:date>2019-05-15T18:18:46.448937+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 29–30 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-04-30-YouGov.html#seats</link>
@@ -3239,6 +3259,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-05-13T23:18:06.322686+02:00</dc:date>
+    <dc:date>2019-05-15T18:18:46.448937+02:00</dc:date>
   </channel>
 </rss>
