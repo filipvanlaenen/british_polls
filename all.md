@@ -5,8 +5,16 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–14 May 2019](2019-05-14-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 20–24% <br> 102–126 | 26–30% <br> 159–236 | 10–12% <br> 45–60 | 3–4% <br> 52–54 | 3–5% <br> 0 | 5–7% <br> 2–4 | 0–1% <br> 3–8 | 19–23% <br> 169–262 | 3–5% <br> 0 |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 17–21% <br> 49–57 | 25–29% <br> 257–262 | 13–16% <br> 81 | 2–4% <br> 53 | 2–4% <br> 0 | 4–6% <br> 2 | 1–2% <br> 3–4 | 18–22% <br> 178–180 | 6–8% <br> 0 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 27–31% <br> 195–282 | 27–31% <br> 198–275 | 11–15% <br> 38–58 | 3–4% <br> 45–53 | 1–3% <br> 0 | 4–6% <br> 2–4 | 0–1% <br> 2–6 | 13–17% <br> 29–83 | 2–4% <br> 0 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 25–29% <br> 188–252 | 28–32% <br> 232–300 | 10–13% <br> 32–51 | 3–5% <br> 51–55 | 3–5% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 3–8 | 12–16% <br> 23–68 | 2–4% <br> 0 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 25–29% <br> 179–229 | 34–38% <br> 297–345 | 7–9% <br> 19–34 | 3–5% <br> 52–57 | 4–6% <br> 0 | 2–4% <br> 1–2 | N/A <br> N/A | 11–14% <br> 12–33 | 3–5% <br> 0 |
