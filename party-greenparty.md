@@ -10,7 +10,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 2.2–7.0% | 2.0–7.4% | 1.9–7.8% | 1.7–8.4% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.3–6.9% | 2.0–7.4% | 1.9–7.7% | 1.7–8.3% |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov | 6.9% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.6% |
@@ -215,13 +215,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 14% | 100% | Last Result |
-| 2.5–3.5% | 23% | 86% |  |
-| 3.5–4.5% | 15% | 63% | Median |
-| 4.5–5.5% | 18% | 48% |  |
-| 5.5–6.5% | 15% | 31% |  |
-| 6.5–7.5% | 12% | 16% |  |
-| 7.5–8.5% | 4% | 4% |  |
+| 1.5–2.5% | 13% | 100% | Last Result |
+| 2.5–3.5% | 22% | 87% |  |
+| 3.5–4.5% | 20% | 66% | Median |
+| 4.5–5.5% | 18% | 45% |  |
+| 5.5–6.5% | 13% | 28% |  |
+| 6.5–7.5% | 11% | 14% |  |
+| 7.5–8.5% | 3% | 4% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -239,7 +239,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 3 | 3 | 2–5 | 2–5 | 2–5 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 2 | 2 | 2 | 2 | 2 |
-| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 3 | 3 | 3 | 3 | 3 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 2 | 2 | 2 | 2 | 2 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -440,11 +440,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 34% | 100% | Last Result |
-| 2 | 37% | 66% | Median |
-| 3 | 15% | 29% |  |
-| 4 | 13% | 14% |  |
-| 5 | 0.8% | 0.8% |  |
+| 1 | 31% | 100% | Last Result |
+| 2 | 43% | 69% | Median |
+| 3 | 13% | 26% |  |
+| 4 | 12% | 13% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
