@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 24–30% <br> 208–227 | 29–35% <br> 280–293 | 11–15% <br> 44–49 | 4–6% <br> 54 | 1–3% <br> 0 | 2–4% <br> 2 | 0–1% <br> 0 | 11–15% <br> 24–25 | 1–3% <br> 0 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov | 23–27% <br> 118–252 | 23–27% <br> 155–236 | 14–18% <br> 55–73 | 3–5% <br> 52–54 | 1–3% <br> 0 | 6–8% <br> 3–4 | 0–1% <br> 3–8 | 16–20% <br> 90–216 | 1–3% <br> 0 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 22–27% <br> 160–183 | 24–29% <br> 227–265 | 13–17% <br> 60–69 | 3–5% <br> 52–54 | 2–4% <br> 0 | 5–8% <br> 2–5 | 1–2% <br> 2–9 | 14–18% <br> 72–112 | 1–3% <br> 0 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 23–28% <br> 149–214 | 31–37% <br> 279–332 | 13–17% <br> 44–69 | 4–6% <br> 53–55 | 3–5% <br> 0 | 2–4% <br> 1–2 | 1–3% <br> 8–15 | 8–12% <br> 2–17 | 1–2% <br> 0 |
