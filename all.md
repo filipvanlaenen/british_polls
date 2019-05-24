@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 19–23% <br> 73 | 29–33% <br> 290 | 12–15% <br> 64 | 3–5% <br> 53 | 2–4% <br> 0 | 4–6% <br> 2 | N/A <br> N/A | 17–21% <br> 146 | 3–5% <br> 0 |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 23–25% <br> N/A | 23–25% <br> N/A | 17–19% <br> N/A | 4–5% <br> N/A | 2% <br> N/A | 6–7% <br> N/A | 1% <br> N/A | 17–19% <br> N/A | 2% <br> N/A |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 24–30% <br> 208–227 | 29–35% <br> 280–293 | 11–15% <br> 44–49 | 4–6% <br> 54 | 1–3% <br> 0 | 2–4% <br> 2 | 0–1% <br> 0 | 11–15% <br> 24–25 | 1–3% <br> 0 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 23–27% <br> 118–252 | 23–27% <br> 155–236 | 14–18% <br> 55–73 | 3–5% <br> 52–54 | 1–3% <br> 0 | 6–8% <br> 3–4 | 0–1% <br> 3–8 | 16–20% <br> 90–216 | 1–3% <br> 0 |
