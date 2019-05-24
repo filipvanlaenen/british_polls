@@ -10,9 +10,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–2.1% | 0.2–2.4% | 0.1–2.6% | 0.1–3.0% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–2.0% | 0.2–2.3% | 0.1–2.5% | 0.1–2.9% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0.7% | N/A | N/A | N/A | N/A |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0.7% | 0.6–0.9% | 0.6–0.9% | 0.5–1.0% | 0.5–1.0% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% |
@@ -218,10 +218,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 59% | 80% | Last Result, Median |
-| 1.5–2.5% | 19% | 22% |  |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.0–0.5% | 17% | 100% |  |
+| 0.5–1.5% | 65% | 83% | Last Result, Median |
+| 1.5–2.5% | 16% | 18% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
