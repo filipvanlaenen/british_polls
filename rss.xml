@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 24 May 2019 21:24:27 +0200</pubDate>
+    <pubDate>Fri, 24 May 2019 22:12:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 14–21 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-21-Panelbase.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Fri, 24 May 2019 21:24:27 +0200</pubDate>
       <dc:date>2019-05-24T21:24:27.097414+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Best For Britain, 8–17 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-17-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.1–24.9%&lt;/li&gt;&lt;li&gt;Labour Party: 23.1–24.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 17.2–18.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.9–4.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–0.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.7–2.3%&lt;/li&gt;&lt;li&gt;Green Party: 5.5–6.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.2–18.8%&lt;/li&gt;&lt;li&gt;Change UK: 1.7–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-17-YouGov.png"
+        length="166394"
+        type="image/png"/>
+      <pubDate>Fri, 24 May 2019 22:12:41 +0200</pubDate>
+      <dc:date>2019-05-24T22:12:41.949181+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 17 May 2019 – Voting Intentions</title>
@@ -3329,6 +3339,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-05-24T21:24:27.097414+02:00</dc:date>
+    <dc:date>2019-05-24T22:12:41.949181+02:00</dc:date>
   </channel>
 </rss>
