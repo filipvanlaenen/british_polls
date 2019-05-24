@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–37% <br> 67–276 | 24–42% <br> 194–332 | 6–18% <br> 12–69 | 3–6% <br> 23–57 | 2–8% <br> 0–1 | 2–7% <br> 1–3 | 0–2% <br> 0–14 | 9–21% <br> 5–235 | 1–7% <br> 0 |
+| N/A | [Poll Average](average.html) | 20–37% <br> 67–276 | 24–42% <br> 189–331 | 6–18% <br> 12–87 | 3–6% <br> 24–57 | 2–8% <br> 0–1 | 2–7% <br> 1–3 | 0–2% <br> 0–14 | 9–21% <br> 5–235 | 1–7% <br> 0 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 19–23% <br> 73 | 29–33% <br> 290 | 12–15% <br> 64 | 3–5% <br> 53 | 2–4% <br> 0 | 4–6% <br> 2 | N/A <br> N/A | 17–21% <br> 146 | 3–5% <br> 0 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 23–25% <br> N/A | 23–25% <br> N/A | 17–19% <br> N/A | 4–5% <br> N/A | 2% <br> N/A | 6–7% <br> N/A | 1% <br> N/A | 17–19% <br> N/A | 2% <br> N/A |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 23–25% <br> 124–181 | 23–25% <br> 158–199 | 17–19% <br> 78–88 | 4–5% <br> 51–53 | 2% <br> 0 | 6–7% <br> 3 | 1% <br> 3–6 | 17–19% <br> 142–170 | 2% <br> 0 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 24–30% <br> 208–227 | 29–35% <br> 280–293 | 11–15% <br> 44–49 | 4–6% <br> 54 | 1–3% <br> 0 | 2–4% <br> 2 | 0–1% <br> 0 | 11–15% <br> 24–25 | 1–3% <br> 0 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 22–27% <br> 160–183 | 24–29% <br> 227–265 | 13–17% <br> 60–69 | 3–5% <br> 52–54 | 2–4% <br> 0 | 5–8% <br> 2–5 | 1–2% <br> 2–9 | 14–18% <br> 72–112 | 1–3% <br> 0 |
