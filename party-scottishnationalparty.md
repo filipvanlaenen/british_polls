@@ -236,9 +236,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 51–54 | 36–56 | 24–57 | 6–57 |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 53 | 51–53 | 51–53 | 51–53 | 51–54 |
+| N/A | [Poll Average](average.html) | 53 | 52–54 | 36–56 | 24–57 | 6–57 |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 53 |  |  |  |  |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 54 | 54 | 54 | 54 | 54 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 52–55 |
@@ -496,10 +496,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 93% |  |
 | 49 | 0.3% | 93% |  |
 | 50 | 0.2% | 92% |  |
-| 51 | 3% | 92% |  |
-| 52 | 1.1% | 89% |  |
-| 53 | 51% | 88% | Median |
-| 54 | 29% | 37% |  |
+| 51 | 1.0% | 92% |  |
+| 52 | 2% | 91% |  |
+| 53 | 51% | 89% | Median |
+| 54 | 30% | 39% |  |
 | 55 | 2% | 8% |  |
 | 56 | 3% | 6% |  |
 | 57 | 3% | 4% |  |
