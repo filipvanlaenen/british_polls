@@ -10,11 +10,11 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 1.9–6.0% | 1.8–7.0% | 1.6–7.5% | 1.4–8.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.9–5.8% | 1.7–6.9% | 1.6–7.5% | 1.4–8.3% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.4% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 2.0% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
@@ -220,12 +220,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 29% | 98% | Last Result |
-| 2.5–3.5% | 20% | 69% |  |
-| 3.5–4.5% | 19% | 50% | Median |
-| 4.5–5.5% | 17% | 30% |  |
-| 5.5–6.5% | 6% | 13% |  |
-| 6.5–7.5% | 5% | 7% |  |
+| 1.5–2.5% | 35% | 98% | Last Result |
+| 2.5–3.5% | 18% | 64% | Median |
+| 3.5–4.5% | 18% | 45% |  |
+| 4.5–5.5% | 15% | 27% |  |
+| 5.5–6.5% | 5% | 12% |  |
+| 6.5–7.5% | 4% | 7% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -241,9 +241,9 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0 |  |  |  |  |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0 | 0 | 0 | 0 | 0 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
-| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
@@ -449,9 +449,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 9% | 10% |  |
-| 2 | 1.1% | 1.1% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 8% | 9% |  |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 
