@@ -10,7 +10,7 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.9–5.8% | 1.7–6.9% | 1.6–7.5% | 1.4–8.3% |
+| N/A | [Poll Average](average.html) | 3.2% | 1.9–5.7% | 1.7–6.8% | 1.6–7.4% | 1.4–8.3% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.4% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -21,10 +21,10 @@ Last result: **1.8%** (General Election of 8 June 2017)
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
-| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3.0% | N/A | N/A | N/A | N/A |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 2.0% | N/A | N/A | N/A | N/A |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.8% | 2.1–4.1% |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 4.0% | N/A | N/A | N/A | N/A |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 4.0% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.2–3.0% |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
@@ -220,12 +220,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 35% | 98% | Last Result |
-| 2.5–3.5% | 18% | 64% | Median |
-| 3.5–4.5% | 18% | 45% |  |
-| 4.5–5.5% | 15% | 27% |  |
-| 5.5–6.5% | 5% | 12% |  |
-| 6.5–7.5% | 4% | 7% |  |
+| 1.5–2.5% | 33% | 98% | Last Result |
+| 2.5–3.5% | 23% | 66% | Median |
+| 3.5–4.5% | 17% | 42% |  |
+| 4.5–5.5% | 14% | 25% |  |
+| 5.5–6.5% | 5% | 11% |  |
+| 6.5–7.5% | 4% | 6% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -250,8 +250,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 0 | 0 | 0 | 0 | 0 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
-| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 0 | 0 | 0 | 0 | 0 |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 0 | 0 | 0 | 0 | 0 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium |  |  |  |  |  |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
@@ -449,9 +449,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 8% | 9% |  |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 7% | 8% |  |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 
