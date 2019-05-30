@@ -238,13 +238,13 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–5 | 1–5 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 3 | 3 | 3 | 3 | 3 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 3 | 3 | 2–5 | 2–5 | 2–5 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 2 | 2 | 2 | 2 | 2 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 2 |
@@ -449,9 +449,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 20% | 100% | Last Result |
-| 2 | 48% | 80% | Median |
-| 3 | 25% | 32% |  |
-| 4 | 4% | 7% |  |
+| 2 | 46% | 80% | Median |
+| 3 | 22% | 33% |  |
+| 4 | 8% | 11% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
