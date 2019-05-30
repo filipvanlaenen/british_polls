@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 26 May 2019 23:21:40 +0200</pubDate>
+    <pubDate>Thu, 30 May 2019 20:35:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 14–21 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-21-Panelbase.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-05-26T14:51:21.250918+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 14–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 62–116 seats&lt;/li&gt;&lt;li&gt;Labour Party: 182–239 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 42–60 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 195–259 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium-seats.png"
+        length="188192"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2019 20:09:26 +0200</pubDate>
+      <dc:date>2019-05-30T20:09:26.576663+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 14–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium-coalitions-seats.png"
+        length="580564"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2019 20:09:26 +0200</pubDate>
+      <dc:date>2019-05-30T20:09:26.576663+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 20.4–24.0%&lt;/li&gt;&lt;li&gt;Labour Party: 27.3–31.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.8–12.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 22.4–26.1%&lt;/li&gt;&lt;li&gt;Change UK: 2.4–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-16-Opinium.png"
         length="186547"
         type="image/png"/>
-      <pubDate>Sun, 26 May 2019 16:01:21 +0200</pubDate>
-      <dc:date>2019-05-26T16:01:21.281268+02:00</dc:date>
+      <pubDate>Thu, 30 May 2019 20:09:26 +0200</pubDate>
+      <dc:date>2019-05-30T20:09:26.576663+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 13–14 May 2019 – Voting Intentions</title>
@@ -126,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI.png"
         length="198672"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 17:38:16 +0200</pubDate>
-      <dc:date>2019-05-18T17:38:16.288883+02:00</dc:date>
+      <pubDate>Thu, 30 May 2019 20:35:22 +0200</pubDate>
+      <dc:date>2019-05-30T20:35:22.121419+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–13 May 2019 – Voting Intentions</title>
@@ -3429,6 +3449,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-05-26T23:21:40.935124+02:00</dc:date>
+    <dc:date>2019-05-30T20:35:22.121419+02:00</dc:date>
   </channel>
 </rss>
