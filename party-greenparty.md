@@ -10,7 +10,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.8–6.3% | 2.6–6.9% | 2.4–7.3% | 2.1–8.1% |
+| N/A | [Poll Average](average.html) | 4.7% | 2.8–6.5% | 2.6–7.1% | 2.4–7.5% | 2.1–8.3% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 6.0% | 5.7–6.3% | 5.6–6.4% | 5.5–6.5% | 5.4–6.7% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -221,10 +221,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% | Last Result |
 | 2.5–3.5% | 25% | 96% |  |
-| 3.5–4.5% | 22% | 70% |  |
-| 4.5–5.5% | 22% | 49% | Median |
-| 5.5–6.5% | 19% | 26% |  |
-| 6.5–7.5% | 6% | 7% |  |
+| 3.5–4.5% | 17% | 71% |  |
+| 4.5–5.5% | 20% | 54% | Median |
+| 5.5–6.5% | 24% | 33% |  |
+| 6.5–7.5% | 7% | 10% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -238,7 +238,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–5 | 1–5 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 3 | 3 | 3 | 3 | 3 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -448,11 +448,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% | Last Result |
-| 2 | 52% | 77% | Median |
-| 3 | 19% | 25% |  |
-| 4 | 3% | 5% |  |
-| 5 | 2% | 2% |  |
+| 1 | 20% | 100% | Last Result |
+| 2 | 48% | 80% | Median |
+| 3 | 25% | 32% |  |
+| 4 | 4% | 7% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 

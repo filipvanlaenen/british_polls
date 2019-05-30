@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.5–6.0% | 1.1–6.4% | 0.9–6.7% | 0.7–7.1% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.4–6.1% | 1.1–6.5% | 0.9–6.7% | 0.7–7.2% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.4% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -219,13 +219,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 10% | 99.9% |  |
-| 1.5–2.5% | 25% | 90% |  |
-| 2.5–3.5% | 18% | 64% | Median |
-| 3.5–4.5% | 12% | 46% |  |
-| 4.5–5.5% | 16% | 34% |  |
-| 5.5–6.5% | 15% | 18% |  |
-| 6.5–7.5% | 3% | 3% |  |
+| 0.5–1.5% | 12% | 99.9% |  |
+| 1.5–2.5% | 31% | 87% |  |
+| 2.5–3.5% | 22% | 57% | Median |
+| 3.5–4.5% | 11% | 35% |  |
+| 4.5–5.5% | 5% | 23% |  |
+| 5.5–6.5% | 14% | 19% |  |
+| 6.5–7.5% | 4% | 4% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
