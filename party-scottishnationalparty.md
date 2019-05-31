@@ -10,9 +10,12 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.2% | 2.9–5.6% | 2.8–5.9% | 2.5–6.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.4% | 2.9–5.8% | 2.7–6.0% | 2.4–6.5% |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.2–6.2% | 3.9–6.6% |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 3.0% | N/A | N/A | N/A | N/A |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 4.3% | 4.0–4.6% | 3.9–4.6% | 3.9–4.7% | 3.7–4.8% |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 4.3% | 4.0–4.6% | 3.9–4.6% | 3.9–4.7% | 3.7–4.8% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.3% | 3.1–5.7% |
@@ -219,11 +222,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 18% | 99.1% | Last Result |
-| 3.5–4.5% | 54% | 81% | Median |
-| 4.5–5.5% | 21% | 27% |  |
-| 5.5–6.5% | 5% | 6% |  |
+| 1.5–2.5% | 1.2% | 100% |  |
+| 2.5–3.5% | 22% | 98.8% | Last Result |
+| 3.5–4.5% | 42% | 77% | Median |
+| 4.5–5.5% | 27% | 35% |  |
+| 5.5–6.5% | 8% | 8% |  |
 | 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -236,13 +239,16 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 53–54 | 53–54 | 53–55 | 51–57 |
+| N/A | [Poll Average](average.html) | 53 | 53–54 | 52–54 | 52–54 | 48–55 |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 51–54 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times |  |  |  |  |  |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 53 | 53–55 | 53–56 | 53–57 | 53–58 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 53–54 | 53–54 | 53–54 | 53–56 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 52–55 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 52–54 | 52–54 | 48–54 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 51–54 | 48–54 | 48–55 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 54 | 53–54 | 53–54 | 53–55 | 53–57 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 53 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 53 | 53 | 53 | 49–53 |
@@ -458,18 +464,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.2% | 99.9% |  |
-| 50 | 0.1% | 99.8% |  |
-| 51 | 0.3% | 99.7% |  |
-| 52 | 0.8% | 99.4% |  |
-| 53 | 78% | 98.6% | Median |
-| 54 | 18% | 21% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.4% | 1.0% |  |
-| 57 | 0.4% | 0.6% |  |
-| 58 | 0.2% | 0.2% |  |
-| 59 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.5% | 99.9% |  |
+| 49 | 0.2% | 99.4% |  |
+| 50 | 0.3% | 99.2% |  |
+| 51 | 0.6% | 98.9% |  |
+| 52 | 8% | 98% |  |
+| 53 | 65% | 90% | Median |
+| 54 | 25% | 26% |  |
+| 55 | 0.8% | 0.9% |  |
+| 56 | 0% | 0.1% |  |
+| 57 | 0.1% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 

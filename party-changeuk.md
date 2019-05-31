@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.4–6.1% | 1.1–6.5% | 0.9–6.7% | 0.7–7.2% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.0–6.3% | 0.8–6.6% | 0.8–6.8% | 0.6–7.3% |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 2.0% | N/A | N/A | N/A | N/A |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.4% |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2.0% | N/A | N/A | N/A | N/A |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.4% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
@@ -218,14 +221,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 12% | 99.9% |  |
-| 1.5–2.5% | 31% | 87% |  |
-| 2.5–3.5% | 22% | 57% | Median |
-| 3.5–4.5% | 11% | 35% |  |
-| 4.5–5.5% | 5% | 23% |  |
-| 5.5–6.5% | 14% | 19% |  |
-| 6.5–7.5% | 4% | 4% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 28% | 99.7% |  |
+| 1.5–2.5% | 14% | 72% |  |
+| 2.5–3.5% | 14% | 57% | Median |
+| 3.5–4.5% | 13% | 43% |  |
+| 4.5–5.5% | 6% | 30% |  |
+| 5.5–6.5% | 19% | 24% |  |
+| 6.5–7.5% | 5% | 5% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -239,8 +242,11 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0 | 0 | 0 | 0 | 0 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times |  |  |  |  |  |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 0 | 0 | 0 | 0 | 0 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
