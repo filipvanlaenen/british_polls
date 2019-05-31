@@ -10,11 +10,11 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–2.3% | 0.6–2.5% | 0.5–2.7% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–2.2% | 0.2–2.4% | 0.2–2.6% | 0.1–3.0% |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 0.9% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% |
-| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 0.2% | N/A | N/A | N/A | N/A |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.5–1.6% | 0.5–1.8% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 0.7% | 0.6–0.9% | 0.6–0.9% | 0.6–0.9% | 0.5–1.0% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -221,12 +221,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 65% | 97% | Last Result, Median |
-| 1.5–2.5% | 28% | 32% |  |
-| 2.5–3.5% | 4% | 5% |  |
+| 0.0–0.5% | 26% | 100% |  |
+| 0.5–1.5% | 50% | 74% | Last Result, Median |
+| 1.5–2.5% | 21% | 24% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -238,8 +237,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 4–14 | 4–14 | 4–15 | 3–16 |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–10 | 4–11 | 4–12 | 2–14 |
-| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–10 | 4–11 | 4–12 | 4–14 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 1–3 | 1–3 | 1–3 | 0–4 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times |  |  |  |  |  |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 4 | 4–5 | 4–5 | 4–7 | 4–7 |
@@ -450,17 +449,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 2% | 99.6% |  |
-| 4 | 20% | 98% | Last Result |
-| 5 | 6% | 78% |  |
-| 6 | 11% | 73% |  |
-| 7 | 3% | 62% |  |
-| 8 | 9% | 59% | Median |
-| 9 | 12% | 49% |  |
-| 10 | 1.4% | 38% |  |
-| 11 | 0.5% | 36% |  |
-| 12 | 0.5% | 36% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 2% | 99.8% |  |
+| 4 | 18% | 98% | Last Result |
+| 5 | 7% | 81% |  |
+| 6 | 11% | 74% |  |
+| 7 | 4% | 62% |  |
+| 8 | 10% | 58% | Median |
+| 9 | 9% | 48% |  |
+| 10 | 2% | 39% |  |
+| 11 | 2% | 37% |  |
+| 12 | 0.9% | 35% |  |
 | 13 | 2% | 35% |  |
 | 14 | 29% | 33% |  |
 | 15 | 3% | 4% |  |
