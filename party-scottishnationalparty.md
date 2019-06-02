@@ -239,24 +239,24 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 52–54 | 51–55 | 51–55 | 48–55 |
+| N/A | [Poll Average](average.html) | 53 | 52–54 | 51–54 | 49–54 | 38–55 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 51–54 |
-| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 53 | 51–53 | 51–53 | 51–53 | 51–53 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 53 | 44–53 | 39–53 | 26–53 | 17–53 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 55 | 53–55 | 53–55 | 48–55 | 48–55 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 53 | 53 | 53–54 | 53–54 | 53–55 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 53 | 53–55 | 53–56 | 53–57 | 53–58 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 53–54 | 53–54 | 53–54 | 53–56 |
-| [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 52–55 |
+| [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 53 | 52–54 | 52–54 | 51–54 | 50–54 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 51–54 | 48–54 | 48–55 |
-| [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 54 | 53–54 | 53–54 | 53–55 | 53–57 |
-| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 53 |
-| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 53 | 53 | 53 | 49–53 |
+| [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 53 | 53–54 | 53–54 | 53–55 | 53–55 |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 52–54 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 52–53 | 51–53 | 51–53 | 47–53 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 53 | 52–53 | 52–53 | 49–53 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 53 | 53 | 53 | 53 | 53 |
-| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 53 | 51–53 | 51–53 | 50–53 | 47–53 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 53 | 53 | 53 | 53 | 50–53 |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 52–54 | 51–54 | 50–54 |
+| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 51 | 50–53 | 50–53 | 44–53 | 37–53 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 53 | 35–53 | 35–53 | 35–53 | 20–54 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 53 | 48–53 | 46–53 | 45–53 | 36–53 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 53–54 | 51–55 | 51–57 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 54 | 54–57 | 53–57 | 52–57 | 49–58 |
@@ -452,29 +452,46 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0% | 100% | Last Result |
-| 36 | 0% | 100% |  |
-| 37 | 0% | 100% |  |
-| 38 | 0% | 100% |  |
-| 39 | 0% | 100% |  |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0% | 100% |  |
-| 43 | 0% | 100% |  |
-| 44 | 0% | 100% |  |
-| 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0.7% | 99.9% |  |
-| 49 | 0.2% | 99.2% |  |
-| 50 | 0.2% | 99.1% |  |
-| 51 | 5% | 98.9% |  |
-| 52 | 5% | 94% |  |
-| 53 | 63% | 89% | Median |
-| 54 | 18% | 26% |  |
-| 55 | 7% | 7% |  |
-| 56 | 0% | 0.1% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0.1% | 99.9% |  |
+| 18 | 0% | 99.8% |  |
+| 19 | 0% | 99.8% |  |
+| 20 | 0% | 99.8% |  |
+| 21 | 0.1% | 99.8% |  |
+| 22 | 0% | 99.8% |  |
+| 23 | 0% | 99.8% |  |
+| 24 | 0% | 99.8% |  |
+| 25 | 0% | 99.7% |  |
+| 26 | 0% | 99.7% |  |
+| 27 | 0% | 99.7% |  |
+| 28 | 0% | 99.7% |  |
+| 29 | 0% | 99.6% |  |
+| 30 | 0% | 99.6% |  |
+| 31 | 0% | 99.6% |  |
+| 32 | 0% | 99.6% |  |
+| 33 | 0% | 99.6% |  |
+| 34 | 0% | 99.6% |  |
+| 35 | 0% | 99.6% | Last Result |
+| 36 | 0% | 99.6% |  |
+| 37 | 0% | 99.5% |  |
+| 38 | 0.1% | 99.5% |  |
+| 39 | 0.1% | 99.4% |  |
+| 40 | 0.1% | 99.4% |  |
+| 41 | 0.4% | 99.2% |  |
+| 42 | 0% | 98.8% |  |
+| 43 | 0% | 98.8% |  |
+| 44 | 0.1% | 98.8% |  |
+| 45 | 0.1% | 98.7% |  |
+| 46 | 0.1% | 98.6% |  |
+| 47 | 0.2% | 98.5% |  |
+| 48 | 0.5% | 98% |  |
+| 49 | 0.7% | 98% |  |
+| 50 | 0.7% | 97% |  |
+| 51 | 4% | 96% |  |
+| 52 | 7% | 92% |  |
+| 53 | 74% | 86% | Median |
+| 54 | 11% | 12% |  |
+| 55 | 0.8% | 0.9% |  |
+| 56 | 0% | 0% |  |
 
 
