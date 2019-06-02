@@ -247,9 +247,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 53 | 53–55 | 53–56 | 53–57 | 53–58 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 53–54 | 53–54 | 53–54 | 53–56 |
-| [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 53 | 52–54 | 52–54 | 51–54 | 50–54 |
+| [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 52–54 | 51–54 | 50–54 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 51–54 | 48–54 | 48–55 |
-| [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 53 | 53–54 | 53–54 | 53–55 | 53–55 |
+| [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 53 | 53 | 53–54 | 53–55 | 53–55 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 52–54 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 52–53 | 51–53 | 51–53 | 47–53 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 53 | 52–53 | 52–53 | 49–53 |
@@ -485,13 +485,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0.1% | 98.6% |  |
 | 47 | 0.2% | 98.5% |  |
 | 48 | 0.5% | 98% |  |
-| 49 | 0.7% | 98% |  |
+| 49 | 0.8% | 98% |  |
 | 50 | 0.7% | 97% |  |
 | 51 | 4% | 96% |  |
-| 52 | 7% | 92% |  |
-| 53 | 74% | 86% | Median |
-| 54 | 11% | 12% |  |
-| 55 | 0.8% | 0.9% |  |
+| 52 | 6% | 92% |  |
+| 53 | 75% | 86% | Median |
+| 54 | 10% | 11% |  |
+| 55 | 0.6% | 0.6% |  |
 | 56 | 0% | 0% |  |
 
 
