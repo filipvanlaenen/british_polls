@@ -259,7 +259,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 2 | 2 | 2–3 | 2–3 | 2–4 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

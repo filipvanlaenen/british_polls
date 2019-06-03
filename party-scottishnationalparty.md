@@ -250,13 +250,13 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 52–54 | 51–54 | 50–54 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 51–54 | 48–54 | 48–55 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 53 | 53 | 53–54 | 53–55 | 53–55 |
-| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 52–54 |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 53–54 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 52–53 | 51–53 | 51–53 | 47–53 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 53 | 52–53 | 52–53 | 49–53 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 52–54 | 51–54 | 50–54 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 51 | 50–53 | 50–53 | 44–53 | 37–53 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 53 | 35–53 | 35–53 | 35–53 | 20–54 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 53 | 47–53 | 37–53 | 35–53 | 24–54 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 53 | 48–53 | 46–53 | 45–53 | 36–53 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 53–54 | 51–55 | 51–57 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 54 | 54–57 | 53–57 | 52–57 | 49–58 |
