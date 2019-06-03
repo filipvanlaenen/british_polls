@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 03 Jun 2019 16:22:18 +0200</pubDate>
+    <pubDate>Mon, 03 Jun 2019 19:42:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 28–29 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-29-YouGov.html#seats</link>
@@ -250,14 +250,54 @@
       <dc:date>2019-06-02T18:15:11.007158+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Hanbury Strategy, 9–13 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 64–130 seats&lt;/li&gt;&lt;li&gt;Labour Party: 227–298 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 54–69 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 110–191 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy-seats.png"
+        length="186102"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 17:31:32 +0200</pubDate>
+      <dc:date>2019-06-03T17:31:32.575554+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Hanbury Strategy, 9–13 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy-coalitions-seats.png"
+        length="603408"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 17:31:32 +0200</pubDate>
+      <dc:date>2019-06-03T17:31:32.575554+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Hanbury Strategy, 9–13 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 19.1–22.6%&lt;/li&gt;&lt;li&gt;Labour Party: 27.7–31.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.4–14.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Green Party: 4.1–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.1–20.6%&lt;/li&gt;&lt;li&gt;Change UK: 5.0–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-13-HanburyStrategy.png"
         length="176607"
         type="image/png"/>
-      <pubDate>Mon, 03 Jun 2019 16:22:18 +0200</pubDate>
-      <dc:date>2019-06-03T16:22:18.337525+02:00</dc:date>
+      <pubDate>Mon, 03 Jun 2019 17:31:32 +0200</pubDate>
+      <dc:date>2019-06-03T17:31:32.575554+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 10–12 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-12-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 59–119 seats&lt;/li&gt;&lt;li&gt;Labour Party: 192–261 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 57–73 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 49–53 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 154–235 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-12-ComRes-seats.png"
+        length="188249"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 19:42:33 +0200</pubDate>
+      <dc:date>2019-06-03T19:42:33.120121+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 10–12 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-12-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-12-ComRes-coalitions-seats.png"
+        length="604071"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 19:42:33 +0200</pubDate>
+      <dc:date>2019-06-03T19:42:33.120121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 10–12 May 2019 – Voting Intentions</title>
@@ -266,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-12-ComRes.png"
         length="179656"
         type="image/png"/>
-      <pubDate>Sun, 02 Jun 2019 16:34:26 +0200</pubDate>
-      <dc:date>2019-06-02T16:34:26.100809+02:00</dc:date>
+      <pubDate>Mon, 03 Jun 2019 19:42:33 +0200</pubDate>
+      <dc:date>2019-06-03T19:42:33.120121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 8–10 May 2019 – Voting Intentions</title>
@@ -3549,6 +3589,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-03T16:22:18.337525+02:00</dc:date>
+    <dc:date>2019-06-03T19:42:33.120121+02:00</dc:date>
   </channel>
 </rss>
