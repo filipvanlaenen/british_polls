@@ -239,7 +239,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 52–54 | 51–54 | 49–54 | 38–55 |
+| N/A | [Poll Average](average.html) | 53 | 51–54 | 51–54 | 49–54 | 38–55 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 51–54 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 53 | 44–53 | 39–53 | 26–53 | 17–53 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
@@ -251,7 +251,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 53 | 52–54 | 51–54 | 48–54 | 48–55 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 53 | 53 | 53–54 | 53–55 | 53–55 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 53 | 53 | 53 | 53 | 53–54 |
-| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 52–53 | 51–53 | 51–53 | 47–53 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 51–53 | 50–53 | 49–53 | 46–53 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 53 | 52–53 | 52–53 | 49–53 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 52–54 | 51–54 | 50–54 |
@@ -476,20 +476,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0% | 99.5% |  |
 | 38 | 0.1% | 99.5% |  |
 | 39 | 0.1% | 99.4% |  |
-| 40 | 0.1% | 99.4% |  |
+| 40 | 0.1% | 99.3% |  |
 | 41 | 0.4% | 99.2% |  |
 | 42 | 0% | 98.8% |  |
 | 43 | 0% | 98.8% |  |
 | 44 | 0.1% | 98.8% |  |
-| 45 | 0.1% | 98.7% |  |
+| 45 | 0% | 98.7% |  |
 | 46 | 0.1% | 98.6% |  |
-| 47 | 0.2% | 98.5% |  |
-| 48 | 0.5% | 98% |  |
+| 47 | 0.2% | 98% |  |
+| 48 | 0.6% | 98% |  |
 | 49 | 0.8% | 98% |  |
-| 50 | 0.7% | 97% |  |
-| 51 | 4% | 96% |  |
-| 52 | 6% | 92% |  |
-| 53 | 75% | 86% | Median |
+| 50 | 1.0% | 97% |  |
+| 51 | 6% | 96% |  |
+| 52 | 6% | 90% |  |
+| 53 | 73% | 84% | Median |
 | 54 | 10% | 11% |  |
 | 55 | 0.6% | 0.6% |  |
 | 56 | 0% | 0% |  |
