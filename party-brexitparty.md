@@ -261,7 +261,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 136 | 7–255 | 6–265 | 4–268 | 2–272 |
+| N/A | [Poll Average](average.html) | 136 | 8–255 | 6–265 | 4–268 | 2–272 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 250 | 239–259 | 235–262 | 230–266 | 220–270 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 17 | 11–25 | 9–25 | 6–27 | 5–29 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 146 | 119–169 | 118–175 | 108–182 | 95–194 |
@@ -275,7 +275,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 152 | 125–176 | 119–186 | 110–191 | 98–202 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 195 | 168–222 | 161–228 | 154–235 | 147–240 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 172 | 163–223 | 157–223 | 142–232 | 142–236 |
-| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 10 | 4–17 | 2–19 | 2–20 | 2–25 |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 10 | 4–16 | 2–19 | 2–21 | 2–25 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 145 | 128–175 | 117–196 | 104–196 | 96–197 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 202 | 182–223 | 176–228 | 164–228 | 149–240 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 83 | 65–123 | 62–127 | 56–132 | 44–146 |
@@ -478,26 +478,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
 | 3 | 0.3% | 98% |  |
-| 4 | 0.3% | 98% |  |
+| 4 | 0.4% | 98% |  |
 | 5 | 2% | 97% |  |
-| 6 | 2% | 95% |  |
+| 6 | 2% | 96% |  |
 | 7 | 4% | 94% |  |
-| 8 | 0.7% | 89% |  |
-| 9 | 0.5% | 89% |  |
-| 10 | 1.0% | 88% |  |
+| 8 | 0.9% | 90% |  |
+| 9 | 1.0% | 89% |  |
+| 10 | 0.9% | 88% |  |
 | 11 | 4% | 87% |  |
-| 12 | 1.1% | 83% |  |
+| 12 | 2% | 83% |  |
 | 13 | 1.1% | 82% |  |
-| 14 | 1.5% | 81% |  |
-| 15 | 1.4% | 79% |  |
+| 14 | 1.4% | 81% |  |
+| 15 | 1.2% | 79% |  |
 | 16 | 2% | 78% |  |
-| 17 | 5% | 76% |  |
+| 17 | 4% | 76% |  |
 | 18 | 0.7% | 71% |  |
-| 19 | 0.7% | 71% |  |
+| 19 | 0.6% | 71% |  |
 | 20 | 0.2% | 70% |  |
 | 21 | 0.4% | 70% |  |
 | 22 | 0.2% | 69% |  |
-| 23 | 0.3% | 69% |  |
+| 23 | 0.2% | 69% |  |
 | 24 | 1.1% | 69% |  |
 | 25 | 0.7% | 68% |  |
 | 26 | 0.2% | 67% |  |

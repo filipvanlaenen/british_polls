@@ -42,7 +42,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
-| [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
+| [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
@@ -50,7 +50,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.6% | 4.5–8.1% |
-| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 4.0% | N/A | N/A | N/A | N/A |
+| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
@@ -274,7 +274,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov |  |  |  |  |  |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -282,7 +282,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
-| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -457,9 +457,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% | Last Result |
 | 2 | 58% | 91% | Median |
-| 3 | 12% | 34% |  |
-| 4 | 8% | 22% |  |
-| 5 | 7% | 13% |  |
+| 3 | 13% | 34% |  |
+| 4 | 7% | 21% |  |
+| 5 | 8% | 14% |  |
 | 6 | 5% | 6% |  |
 | 7 | 1.1% | 1.4% |  |
 | 8 | 0.2% | 0.3% |  |
