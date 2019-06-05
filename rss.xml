@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 05 Jun 2019 11:19:27 +0200</pubDate>
+    <pubDate>Wed, 05 Jun 2019 15:58:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 28–29 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-29-YouGov.html#seats</link>
@@ -80,14 +80,34 @@
       <dc:date>2019-05-26T08:41:06.385357+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Times, 17–20 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 70–110 seats&lt;/li&gt;&lt;li&gt;Labour Party: 158–191 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 47–62 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–10 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 230–273 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium-seats.png"
+        length="171020"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2019 12:40:18 +0200</pubDate>
+      <dc:date>2019-06-05T12:40:18.613598+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Times, 17–20 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium-coalitions-seats.png"
+        length="467061"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2019 12:40:18 +0200</pubDate>
+      <dc:date>2019-06-05T12:40:18.613598+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Times, 17–20 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 20.6–24.3%&lt;/li&gt;&lt;li&gt;Labour Party: 24.6–28.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 10.9–13.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.5–2.8%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 23.6–27.4%&lt;/li&gt;&lt;li&gt;Change UK: 1.5–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium.png"
         length="187081"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2019 11:19:27 +0200</pubDate>
-      <dc:date>2019-06-05T11:19:27.046607+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 12:40:18 +0200</pubDate>
+      <dc:date>2019-06-05T12:40:18.613598+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Best for Britain and Hope Not Hate, 8–17 May 2019 – Seat Projections for the Parties</title>
@@ -356,8 +376,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-09-YouGov.png"
         length="188977"
         type="image/png"/>
-      <pubDate>Sun, 02 Jun 2019 16:00:57 +0200</pubDate>
-      <dc:date>2019-06-02T16:00:57.627482+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 15:58:01 +0200</pubDate>
+      <dc:date>2019-06-05T15:58:01.334221+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Brexit Express, 9 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42–97 seats&lt;/li&gt;&lt;li&gt;Labour Party: 194–262 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 67–87 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 49–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–13 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 160–236 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes-seats.png"
+        length="198691"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2019 15:03:07 +0200</pubDate>
+      <dc:date>2019-06-05T15:03:07.43691+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Brexit Express, 9 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes-coalitions-seats.png"
+        length="587108"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2019 15:03:07 +0200</pubDate>
+      <dc:date>2019-06-05T15:03:07.43691+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Brexit Express, 9 May 2019 – Voting Intentions</title>
@@ -366,8 +406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-09-ComRes.png"
         length="189494"
         type="image/png"/>
-      <pubDate>Fri, 31 May 2019 16:52:25 +0200</pubDate>
-      <dc:date>2019-05-31T16:52:25.203265+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 15:03:07 +0200</pubDate>
+      <dc:date>2019-06-05T15:03:07.43691+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium, 3–7 May 2019 – Voting Intentions</title>
@@ -3629,6 +3669,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-05T11:19:27.046607+02:00</dc:date>
+    <dc:date>2019-06-05T15:58:01.334221+02:00</dc:date>
   </channel>
 </rss>
