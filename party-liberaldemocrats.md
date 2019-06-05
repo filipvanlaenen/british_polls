@@ -253,9 +253,9 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 63 | 51–114 | 50–125 | 45–129 | 42–136 |
+| N/A | [Poll Average](average.html) | 63 | 51–114 | 45–125 | 45–129 | 44–136 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 124 | 114–133 | 111–136 | 108–139 | 105–142 |
-| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 50 | 44–54 | 42–56 | 42–57 | 40–60 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 45 | 44–54 | 44–55 | 42–56 | 40–58 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 60 | 57–66 | 55–68 | 54–69 | 53–73 |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 54 | 51–61 | 49–62 | 47–62 | 44–65 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 78 | 74–83 | 73–83 | 72–83 | 72–85 |
@@ -268,9 +268,9 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 67 | 60–70 | 58–72 | 57–73 | 54–76 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 44–58 | 44–60 | 43–61 | 40–62 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 72 | 67–78 | 65–81 | 64–84 | 60–86 |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 70 | 65–76 | 64–77 | 62–79 | 61–84 |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 70 | 65–76 | 64–77 | 62–78 | 60–82 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 74 | 69–84 | 68–86 | 67–87 | 64–91 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 44 | 39–53 | 38–53 | 36–55 | 33–57 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 44 | 39–53 | 38–53 | 37–54 | 33–58 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 51 | 40–56 | 39–57 | 38–58 | 36–60 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 41 | 35–45 | 33–46 | 32–51 | 30–54 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 22–32 | 20–32 | 19–34 | 17–37 |
@@ -496,19 +496,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.1% | 99.9% |  |
-| 42 | 0.5% | 99.8% |  |
-| 43 | 0.1% | 99.4% |  |
-| 44 | 0.9% | 99.3% |  |
-| 45 | 2% | 98% |  |
-| 46 | 0.3% | 97% |  |
-| 47 | 0.4% | 96% |  |
-| 48 | 0.2% | 96% |  |
-| 49 | 0.5% | 96% |  |
-| 50 | 2% | 95% |  |
-| 51 | 4% | 93% |  |
-| 52 | 1.1% | 89% |  |
+| 42 | 0.2% | 99.8% |  |
+| 43 | 0% | 99.6% |  |
+| 44 | 1.4% | 99.5% |  |
+| 45 | 5% | 98% |  |
+| 46 | 0.4% | 93% |  |
+| 47 | 0.2% | 93% |  |
+| 48 | 0.2% | 93% |  |
+| 49 | 0.5% | 92% |  |
+| 50 | 1.1% | 92% |  |
+| 51 | 1.2% | 91% |  |
+| 52 | 1.2% | 90% |  |
 | 53 | 4% | 88% |  |
-| 54 | 3% | 83% |  |
+| 54 | 4% | 84% |  |
 | 55 | 4% | 80% |  |
 | 56 | 2% | 76% |  |
 | 57 | 4% | 74% |  |

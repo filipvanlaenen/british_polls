@@ -236,9 +236,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–14 | 1–14 | 1–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 6 | 1–14 | 0–14 | 0–15 | 0–17 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–10 | 4–11 | 4–12 | 4–14 |
-| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 7 | 4–8 | 4–8 | 4–10 | 4–12 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 4 | 4–5 | 4–5 | 4–7 | 4–7 |
@@ -251,7 +251,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 4 | 3–5 | 3–8 | 2–8 | 1–8 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 4 | 4–7 | 4–8 | 3–9 | 3–10 |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 4 | 4–7 | 4–7 | 3–9 | 3–10 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 7 | 4–9 | 4–10 | 4–13 | 4–14 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 5 | 4–8 | 4–9 | 4–11 | 3–14 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 3–4 | 2–5 | 2–6 | 1–8 |
@@ -449,10 +449,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 4% | 98% |  |
-| 2 | 10% | 94% |  |
-| 3 | 4% | 84% |  |
+| 0 | 5% | 100% |  |
+| 1 | 7% | 95% |  |
+| 2 | 4% | 87% |  |
+| 3 | 4% | 83% |  |
 | 4 | 15% | 79% | Last Result |
 | 5 | 9% | 65% |  |
 | 6 | 8% | 56% | Median |
