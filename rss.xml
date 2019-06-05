@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 04 Jun 2019 20:05:15 +0200</pubDate>
+    <pubDate>Wed, 05 Jun 2019 11:19:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 28–29 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-29-YouGov.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-20-Opinium.png"
         length="187081"
         type="image/png"/>
-      <pubDate>Sun, 02 Jun 2019 15:47:21 +0200</pubDate>
-      <dc:date>2019-06-02T15:47:21.446959+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 11:19:27 +0200</pubDate>
+      <dc:date>2019-06-05T11:19:27.046607+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Best for Britain and Hope Not Hate, 8–17 May 2019 – Seat Projections for the Parties</title>
@@ -316,8 +316,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-10-Opinium.png"
         length="189830"
         type="image/png"/>
-      <pubDate>Fri, 31 May 2019 16:33:13 +0200</pubDate>
-      <dc:date>2019-05-31T16:33:13.179049+02:00</dc:date>
+      <pubDate>Tue, 04 Jun 2019 22:52:42 +0200</pubDate>
+      <dc:date>2019-06-04T22:52:42.99372+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 7–10 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-10-BMGResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 182–248 seats&lt;/li&gt;&lt;li&gt;Labour Party: 248–307 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 64–84 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 3–5 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 2–22 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-10-BMGResearch-seats.png"
+        length="157926"
+        type="image/png"/>
+      <pubDate>Tue, 04 Jun 2019 21:54:11 +0200</pubDate>
+      <dc:date>2019-06-04T21:54:11.9417+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 7–10 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-10-BMGResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-10-BMGResearch-coalitions-seats.png"
+        length="613607"
+        type="image/png"/>
+      <pubDate>Tue, 04 Jun 2019 21:54:11 +0200</pubDate>
+      <dc:date>2019-06-04T21:54:11.9417+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research, 7–10 May 2019 – Voting Intentions</title>
@@ -326,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-10-BMGResearch.png"
         length="163159"
         type="image/png"/>
-      <pubDate>Tue, 04 Jun 2019 20:05:15 +0200</pubDate>
-      <dc:date>2019-06-04T20:05:15.226423+02:00</dc:date>
+      <pubDate>Tue, 04 Jun 2019 21:54:11 +0200</pubDate>
+      <dc:date>2019-06-04T21:54:11.9417+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 8–9 May 2019 – Voting Intentions</title>
@@ -586,8 +606,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-03-22-Opinium.png"
         length="158838"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 20:48:44 +0100</pubDate>
-      <dc:date>2019-03-28T20:48:44.829888+01:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 07:01:40 +0200</pubDate>
+      <dc:date>2019-06-05T07:01:40.004485+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 15–19 March 2019 – Voting Intentions</title>
@@ -3609,6 +3629,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-04T20:05:15.226423+02:00</dc:date>
+    <dc:date>2019-06-05T11:19:27.046607+02:00</dc:date>
   </channel>
 </rss>
