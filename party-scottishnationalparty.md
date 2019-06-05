@@ -243,7 +243,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 51–54 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 53 | 44–53 | 39–53 | 26–53 | 17–53 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 53 | 53 | 53 | 53–54 | 53–55 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 53 | 53 | 53–54 | 53–54 | 53–55 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 53 | 53–55 | 53–56 | 53–57 | 53–58 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 53–54 | 53–54 | 53–54 | 53–56 |
@@ -254,8 +254,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 51–53 | 50–53 | 49–53 | 46–53 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 53 | 52–53 | 52–53 | 50–53 | 49–54 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
-| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 52–54 | 51–54 | 50–54 |
-| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 51 | 50–53 | 50–53 | 44–53 | 37–53 |
+| [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 52–54 | 52–54 | 50–54 |
+| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 51 | 50–53 | 50–53 | 49–53 | 42–53 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 53 | 47–53 | 37–53 | 35–53 | 24–54 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 53 | 48–53 | 46–53 | 45–53 | 36–53 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 53–54 | 51–55 | 51–57 |
@@ -490,8 +490,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 6% | 96% |  |
 | 52 | 6% | 90% |  |
 | 53 | 73% | 84% | Median |
-| 54 | 10% | 10% |  |
-| 55 | 0.5% | 0.6% |  |
+| 54 | 10% | 11% |  |
+| 55 | 0.7% | 0.7% |  |
 | 56 | 0% | 0% |  |
 
 
