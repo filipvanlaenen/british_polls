@@ -246,7 +246,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–8 | 3–9 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 3 | 3 | 3 | 3 | 3 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -255,7 +255,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 2 | 2 | 2 | 2 | 2–3 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 2–3 |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -276,7 +276,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
@@ -455,8 +455,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 58% | 91% | Median |
+| 1 | 8% | 100% | Last Result |
+| 2 | 58% | 92% | Median |
 | 3 | 13% | 34% |  |
 | 4 | 7% | 21% |  |
 | 5 | 8% | 14% |  |
