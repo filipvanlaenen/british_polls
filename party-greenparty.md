@@ -10,7 +10,9 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.0–7.6% | 2.7–8.2% | 2.6–8.6% | 2.2–9.2% |
+| N/A | [Poll Average](average.html) | 5.0% | 2.9–7.8% | 2.7–8.3% | 2.5–8.6% | 2.2–9.2% |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 11.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4.9% | N/A | N/A | N/A | N/A |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.5–9.8% |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
@@ -222,15 +224,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% | Last Result |
-| 2.5–3.5% | 19% | 98% |  |
-| 3.5–4.5% | 23% | 79% |  |
-| 4.5–5.5% | 22% | 56% | Median |
-| 5.5–6.5% | 13% | 34% |  |
-| 6.5–7.5% | 10% | 20% |  |
-| 7.5–8.5% | 8% | 11% |  |
-| 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 3% | 100% | Last Result |
+| 2.5–3.5% | 20% | 97% |  |
+| 3.5–4.5% | 17% | 78% |  |
+| 4.5–5.5% | 22% | 60% | Median |
+| 5.5–6.5% | 15% | 38% |  |
+| 6.5–7.5% | 11% | 23% |  |
+| 7.5–8.5% | 9% | 12% |  |
+| 8.5–9.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -243,6 +245,8 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–5 | 1–6 | 1–6 | 1–7 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–8 | 3–9 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
@@ -456,14 +460,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 12% | 100% | Last Result |
-| 2 | 55% | 88% | Median |
-| 3 | 13% | 34% |  |
-| 4 | 7% | 21% |  |
-| 5 | 8% | 14% |  |
-| 6 | 5% | 6% |  |
-| 7 | 1.1% | 1.4% |  |
+| 2 | 50% | 88% | Median |
+| 3 | 14% | 38% |  |
+| 4 | 7% | 24% |  |
+| 5 | 10% | 17% |  |
+| 6 | 5% | 7% |  |
+| 7 | 1.3% | 2% |  |
 | 8 | 0.2% | 0.3% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 9 | 0.1% | 0.2% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

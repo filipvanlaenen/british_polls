@@ -10,7 +10,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–2.0% | 0.2–2.3% | 0.2–2.6% | 0.1–3.0% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–2.2% | 0.2–2.4% | 0.2–2.6% | 0.1–3.0% |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | N/A | N/A | N/A | N/A |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 0.9% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -221,9 +223,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 21% | 100% |  |
-| 0.5–1.5% | 59% | 79% | Last Result, Median |
-| 1.5–2.5% | 17% | 20% |  |
+| 0.0–0.5% | 26% | 100% |  |
+| 0.5–1.5% | 50% | 74% | Last Result, Median |
+| 1.5–2.5% | 21% | 24% |  |
 | 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -236,7 +238,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 1–14 | 0–14 | 0–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 6 | 1–14 | 0–15 | 0–15 | 0–17 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–10 | 4–11 | 4–12 | 4–14 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
@@ -245,11 +249,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 4 | 4–7 | 3–8 | 3–9 | 3–12 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 6 | 4–13 | 4–14 | 3–15 | 3–16 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 7 | 4–12 | 4–14 | 3–14 | 3–16 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 14 | 8–15 | 8–16 | 8–17 | 5–17 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 4 | 3–5 | 3–8 | 2–8 | 1–8 |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 4 | 3–5 | 3–6 | 2–8 | 0–8 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 4 | 4–7 | 4–7 | 3–9 | 3–10 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 7 | 4–9 | 4–10 | 4–13 | 4–14 |
@@ -449,24 +453,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 7% | 95% |  |
-| 2 | 4% | 87% |  |
-| 3 | 4% | 83% |  |
-| 4 | 15% | 79% | Last Result |
-| 5 | 9% | 65% |  |
-| 6 | 8% | 56% | Median |
-| 7 | 11% | 48% |  |
-| 8 | 9% | 37% |  |
-| 9 | 6% | 28% |  |
-| 10 | 2% | 22% |  |
-| 11 | 2% | 20% |  |
-| 12 | 1.0% | 19% |  |
-| 13 | 2% | 18% |  |
-| 14 | 11% | 15% |  |
-| 15 | 3% | 5% |  |
-| 16 | 1.1% | 2% |  |
-| 17 | 0.6% | 0.7% |  |
+| 0 | 7% | 100% |  |
+| 1 | 9% | 93% |  |
+| 2 | 6% | 84% |  |
+| 3 | 4% | 79% |  |
+| 4 | 12% | 75% | Last Result |
+| 5 | 5% | 62% |  |
+| 6 | 8% | 58% | Median |
+| 7 | 4% | 50% |  |
+| 8 | 10% | 46% |  |
+| 9 | 9% | 36% |  |
+| 10 | 2% | 27% |  |
+| 11 | 2% | 25% |  |
+| 12 | 1.3% | 23% |  |
+| 13 | 3% | 21% |  |
+| 14 | 13% | 19% |  |
+| 15 | 3% | 6% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.8% | 0.9% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
