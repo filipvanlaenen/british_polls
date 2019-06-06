@@ -5,12 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–29% <br> 48–232 | 18–35% <br> 121–332 | 12–25% <br> 45–129 | 3–6% <br> 50–54 | 1–5% <br> 0 | 3–9% <br> 1–6 | 0–3% <br> 0–15 | 9–26% <br> 4–265 | 1–7% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–29% <br> 47–233 | 18–35% <br> 119–334 | 12–25% <br> 45–130 | 3–6% <br> 49–54 | 1–5% <br> 0 | 2–9% <br> 1–6 | 0–3% <br> 0–15 | 9–23% <br> 3–255 | 1–7% <br> 0 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 17–21% <br> 40–90 | 17–21% <br> 107–152 | 22–26% <br> 108–139 | 4–6% <br> 52–54 | 1–2% <br> 0 | 7–9% <br> 3–8 | 1% <br> 4–12 | 20–24% <br> 230–266 | 1–2% <br> 0 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 26–30% <br> 192–241 | 31–35% <br> 276–323 | 12–14% <br> 42–56 | 2–4% <br> 35–53 | 2–4% <br> 0 | 2–4% <br> 1–2 | 0–1% <br> 0–3 | 11–13% <br> 10–27 | 1–3% <br> 0 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 19–23% <br> 65–125 | 29–33% <br> 238–305 | 12–15% <br> 54–69 | 3–5% <br> 53 | 2–4% <br> 0 | 4–6% <br> 2 | N/A <br> N/A | 17–21% <br> 108–182 | 3–5% <br> 0 |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 21–24% <br> 70–110 | 25–28% <br> 158–191 | 11–14% <br> 47–62 | 3–5% <br> 53–54 | 2–3% <br> 0 | 3–5% <br> 1–2 | 1–2% <br> 4–10 | 24–27% <br> 230–273 | 2–3% <br> 0 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 22–27% <br> 138–241 | 24–29% <br> 182–271 | 13–17% <br> 50–74 | 3–5% <br> 48–54 | 2–4% <br> 0 | 5–8% <br> 3–5 | 1–2% <br> 3–15 | 14–18% <br> 45–143 | 1–3% <br> 0 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 22–27% <br> 140–247 | 24–29% <br> 180–274 | 13–17% <br> 53–75 | 3–5% <br> 49–54 | 2–4% <br> 0 | 5–8% <br> 3–5 | 1–2% <br> 3–14 | 14–18% <br> 42–140 | 1–3% <br> 0 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 23–28% <br> 139–211 | 31–37% <br> 287–355 | 13–17% <br> 50–71 | 4–6% <br> 53–55 | 3–5% <br> 0 | 2–4% <br> 1–3 | 1–3% <br> 8–17 | 8–12% <br> 2–18 | 1–2% <br> 0 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 19–23% <br> 64–130 | 28–32% <br> 227–298 | 11–14% <br> 54–69 | 3–5% <br> 53 | 1–3% <br> 0 | 4–6% <br> 2 | N/A <br> N/A | 17–21% <br> 110–191 | 5–7% <br> 0 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 19–22% <br> 59–119 | 26–30% <br> 192–261 | 12–15% <br> 57–73 | 2–4% <br> 49–53 | 3–5% <br> 0 | 3–5% <br> 2 | N/A <br> N/A | 19–22% <br> 154–235 | 5–7% <br> 0 |
