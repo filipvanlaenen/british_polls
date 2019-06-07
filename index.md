@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–29% <br> 47–233 | 18–35% <br> 119–334 | 12–25% <br> 45–130 | 3–6% <br> 49–54 | 1–5% <br> 0 | 2–9% <br> 1–6 | 0–3% <br> 0–15 | 9–23% <br> 3–255 | 1–7% <br> 0 |
+| N/A | [Poll Average](average.html) | 19–29% <br> 67–235 | 25–35% <br> 201–337 | 12–19% <br> 45–77 | 2–6% <br> 49–54 | 2–5% <br> 0 | 2–8% <br> 1–5 | 0–3% <br> 0–16 | 9–21% <br> 3–215 | 1–7% <br> 0 |
+| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 17–21% <br> 40–90 | 17–21% <br> 107–152 | 22–26% <br> 108–139 | 4–6% <br> 52–54 | 1–2% <br> 0 | 7–9% <br> 3–8 | 1% <br> 4–12 | 20–24% <br> 230–266 | 1–2% <br> 0 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 26–30% <br> 192–241 | 31–35% <br> 276–323 | 12–14% <br> 42–56 | 2–4% <br> 35–53 | 2–4% <br> 0 | 2–4% <br> 1–2 | 0–1% <br> 0–3 | 11–13% <br> 10–27 | 1–3% <br> 0 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 19–23% <br> 65–125 | 29–33% <br> 238–305 | 12–15% <br> 54–69 | 3–5% <br> 53 | 2–4% <br> 0 | 4–6% <br> 2 | N/A <br> N/A | 17–21% <br> 108–182 | 3–5% <br> 0 |
 | [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 22–27% <br> 140–247 | 24–29% <br> 180–274 | 13–17% <br> 53–75 | 3–5% <br> 49–54 | 2–4% <br> 0 | 5–8% <br> 3–5 | 1–2% <br> 3–14 | 14–18% <br> 42–140 | 1–3% <br> 0 |
