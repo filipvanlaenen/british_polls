@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 16–20% <br> 37–75 | 18–22% <br> 110–153 | 18–22% <br> 86–114 | 4–6% <br> 51–54 | N/A <br> N/A | 8–10% <br> 5–12 | 0–1% <br> 0–4 | 24–28% <br> 267–295 | 0–1% <br> 0 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 15–19% <br> 35–62 | 20–24% <br> 144–160 | 14–18% <br> 74–91 | 3–5% <br> 50–53 | 1–2% <br> 0 | 10–12% <br> 10–20 | 1–2% <br> 4–11 | 24–28% <br> 270–285 | 1–2% <br> 0 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 17–21% <br> 40–90 | 17–21% <br> 107–152 | 22–26% <br> 108–139 | 4–6% <br> 52–54 | 1–2% <br> 0 | 7–9% <br> 3–8 | 1% <br> 4–12 | 20–24% <br> 230–266 | 1–2% <br> 0 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 26–30% <br> 192–241 | 31–35% <br> 276–323 | 12–14% <br> 42–56 | 2–4% <br> 35–53 | 2–4% <br> 0 | 2–4% <br> 1–2 | 0–1% <br> 0–3 | 11–13% <br> 10–27 | 1–3% <br> 0 |
