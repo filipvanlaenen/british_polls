@@ -248,10 +248,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–11 | 1–14 | 1–17 | 1–19 |
+| N/A | [Poll Average](average.html) | 2 | 2–11 | 1–14 | 1–17 | 1–19 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 7 | 6–10 | 5–11 | 5–12 | 4–13 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 14 | 12–18 | 11–19 | 11–21 | 10–21 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 3 | 3 | 3 | 2–3 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–8 | 3–9 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
@@ -465,8 +465,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% | Last Result |
-| 2 | 41% | 91% |  |
-| 3 | 20% | 50% | Median |
+| 2 | 47% | 91% | Median |
+| 3 | 13% | 43% |  |
 | 4 | 5% | 30% |  |
 | 5 | 6% | 25% |  |
 | 6 | 3% | 20% |  |

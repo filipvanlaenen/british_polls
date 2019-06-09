@@ -245,7 +245,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 53 | 51–54 | 50–54 | 50–54 | 37–54 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 51–54 | 51–54 | 50–54 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 52 | 52–53 | 51–53 | 50–53 | 50–54 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 51 | 51–54 | 51–54 | 51–54 | 51–54 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 53 | 53 | 53 | 52–53 | 51–54 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 54 | 52–54 | 52–54 | 52–54 | 51–54 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 51 | 49–53 | 39–53 | 35–53 | 21–53 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
@@ -489,10 +489,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.3% | 98.8% |  |
 | 49 | 0.5% | 98% |  |
 | 50 | 3% | 98% |  |
-| 51 | 13% | 94% |  |
-| 52 | 9% | 81% |  |
-| 53 | 57% | 72% | Median |
-| 54 | 15% | 16% |  |
+| 51 | 6% | 94% |  |
+| 52 | 9% | 88% |  |
+| 53 | 67% | 79% | Median |
+| 54 | 11% | 12% |  |
 | 55 | 0.4% | 0.4% |  |
 | 56 | 0% | 0% |  |
 
