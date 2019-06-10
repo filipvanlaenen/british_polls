@@ -10,7 +10,8 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.0–4.2% | 0.9–4.5% | 0.8–4.7% | 0.6–5.2% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.0–4.2% | 0.8–4.5% | 0.8–4.8% | 0.6–5.2% |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
@@ -225,11 +226,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 22% | 99.9% |  |
-| 1.5–2.5% | 16% | 78% | Last Result |
-| 2.5–3.5% | 38% | 62% | Median |
-| 3.5–4.5% | 20% | 24% |  |
-| 4.5–5.5% | 4% | 4% |  |
+| 0.5–1.5% | 25% | 99.9% |  |
+| 1.5–2.5% | 16% | 75% | Last Result |
+| 2.5–3.5% | 33% | 59% | Median |
+| 3.5–4.5% | 21% | 26% |  |
+| 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -243,6 +244,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
