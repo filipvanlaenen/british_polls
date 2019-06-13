@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 12 Jun 2019 10:56:23 +0200</pubDate>
+    <pubDate>Wed, 12 Jun 2019 23:02:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 4–7 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-06-08T15:50:31.896777+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 28–30 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 31–59 seats&lt;/li&gt;&lt;li&gt;Labour Party: 141–171 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 72–85 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 50–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–11 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 11–20 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 268–292 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium-seats.png"
+        length="168524"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 23:02:01 +0200</pubDate>
+      <dc:date>2019-06-12T23:02:01.960281+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 28–30 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium-coalitions-seats.png"
+        length="430263"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 23:02:01 +0200</pubDate>
+      <dc:date>2019-06-12T23:02:01.960281+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 28–30 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 15.4–18.7%&lt;/li&gt;&lt;li&gt;Labour Party: 20.2–23.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.5–17.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 9.7–12.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 24.1–28.0%&lt;/li&gt;&lt;li&gt;Change UK: 0.6–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-30-Opinium.png"
         length="188104"
         type="image/png"/>
-      <pubDate>Sat, 08 Jun 2019 17:37:26 +0200</pubDate>
-      <dc:date>2019-06-08T17:37:26.930871+02:00</dc:date>
+      <pubDate>Wed, 12 Jun 2019 23:02:01 +0200</pubDate>
+      <dc:date>2019-06-12T23:02:01.960281+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 29–30 May 2019 – Seat Projections for the Parties</title>
@@ -350,14 +370,34 @@
       <dc:date>2019-06-02T20:29:26.734875+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MORI, 10–14 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 137–247 seats&lt;/li&gt;&lt;li&gt;Labour Party: 175–273 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 53–75 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 50–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–14 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2–5 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 42–140 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI-seats.png"
+        length="215754"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 20:56:03 +0200</pubDate>
+      <dc:date>2019-06-12T20:56:03.857381+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 10–14 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI-coalitions-seats.png"
+        length="763585"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 20:56:03 +0200</pubDate>
+      <dc:date>2019-06-12T20:56:03.857381+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI, 10–14 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 21.8–26.9%&lt;/li&gt;&lt;li&gt;Labour Party: 23.7–28.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 12.6–16.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Green Party: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 13.5–17.9%&lt;/li&gt;&lt;li&gt;Change UK: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-05-14-IpsosMORI.png"
         length="198672"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2019 22:09:13 +0200</pubDate>
-      <dc:date>2019-06-05T22:09:13.226643+02:00</dc:date>
+      <pubDate>Wed, 12 Jun 2019 20:56:03 +0200</pubDate>
+      <dc:date>2019-06-12T20:56:03.857381+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–13 May 2019 – Seat Projections for the Parties</title>
@@ -3849,6 +3889,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-12T10:56:23.570134+02:00</dc:date>
+    <dc:date>2019-06-12T23:02:01.960281+02:00</dc:date>
   </channel>
 </rss>
