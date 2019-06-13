@@ -44,13 +44,13 @@ Last result: **1.8%** (General Election of 8 June 2017)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 6.9% | 6.5–7.4% | 6.4–7.5% | 6.3–7.6% | 6.1–7.8% |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 6.1% | 5.3–6.9% | 5.1–7.2% | 5.0–7.4% | 4.6–7.8% |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 7.0% | N/A | N/A | N/A | N/A |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.4–10.7% |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.1–7.4% | 4.8–7.8% |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.6% | 4.5–8.1% |
@@ -277,13 +277,13 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov |  |  |  |  |  |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 1–2 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2–5 | 1–6 |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2–4 | 1–5 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 0–1 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

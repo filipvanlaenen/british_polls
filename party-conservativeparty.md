@@ -44,13 +44,13 @@ Last result: **42.4%** (General Election of 8 June 2017)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 30.7% | 29.4–32.1% | 29.0–32.4% | 28.7–32.8% | 28.1–33.4% |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 36.6% | 35.8–37.4% | 35.6–37.7% | 35.4–37.9% | 35.1–38.3% |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 35.3% | 33.8–36.9% | 33.3–37.4% | 33.0–37.8% | 32.2–38.6% |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 32.0% | N/A | N/A | N/A | N/A |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 32.0% | 30.6–33.5% | 30.2–33.9% | 29.9–34.2% | 29.2–34.9% |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 35.6% | 33.7–37.6% | 33.2–38.2% | 32.7–38.7% | 31.8–39.6% |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 34.9% | 33.6–36.3% | 33.2–36.7% | 32.8–37.0% | 32.2–37.7% |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 36.0% | N/A | N/A | N/A | N/A |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 36.0% | 34.7–37.4% | 34.3–37.8% | 34.0–38.1% | 33.4–38.8% |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 36.0% | 34.6–37.4% | 34.3–37.8% | 33.9–38.1% | 33.3–38.8% |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.1–41.0% | 34.2–41.9% |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 35.7% | N/A | N/A | N/A | N/A |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 35.7% | 34.2–37.2% | 33.9–37.6% | 33.5–38.0% | 32.8–38.7% |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 35.3% | 33.3–37.2% | 32.8–37.8% | 32.4–38.3% | 31.5–39.2% |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 38.0% | 36.6–39.4% | 36.2–39.8% | 35.9–40.2% | 35.2–40.9% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 41.4% | 39.6–43.3% | 39.0–43.8% | 38.6–44.3% | 37.7–45.2% |
@@ -298,13 +298,13 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 223 | 207–236 | 202–239 | 197–243 | 191–250 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 261 | 250–268 | 249–270 | 248–273 | 245–277 |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 283 | 253–308 | 248–311 | 245–314 | 237–321 |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov |  |  |  |  |  |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 277 | 277 | 254–277 | 239–292 | 232–299 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 262 | 241–284 | 234–293 | 231–305 | 218–317 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 271 | 251–305 | 248–312 | 247–315 | 240–321 |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 267 | 243–312 | 243–312 | 243–312 | 243–312 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 299 | 272–317 | 264–319 | 259–320 | 254–327 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 316 | 281–333 | 271–343 | 264–347 | 254–356 |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 324 | 305–337 | 286–337 | 286–337 | 286–337 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 255 | 238–281 | 234–291 | 228–299 | 217–314 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 317 | 291–326 | 285–330 | 284–333 | 271–340 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 349 | 326–369 | 323–373 | 317–375 | 310–384 |
