@@ -249,10 +249,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–12 | 1–14 | 1–17 | 1–20 |
+| N/A | [Poll Average](average.html) | 2 | 1–12 | 1–14 | 1–17 | 1–19 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 7 | 6–10 | 5–11 | 5–12 | 4–13 |
-| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 14 | 12–18 | 11–19 | 11–21 | 10–21 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 14 | 12–18 | 11–19 | 11–20 | 9–22 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–8 | 3–9 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -262,7 +262,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 2 | 2 | 2 | 2 | 2–3 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 2–3 |
@@ -470,23 +470,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 54% | 90% | Median |
 | 3 | 8% | 36% |  |
 | 4 | 4% | 28% |  |
-| 5 | 3% | 25% |  |
+| 5 | 2% | 24% |  |
 | 6 | 4% | 22% |  |
 | 7 | 3% | 18% |  |
 | 8 | 1.4% | 15% |  |
 | 9 | 0.8% | 14% |  |
-| 10 | 1.2% | 13% |  |
-| 11 | 0.9% | 12% |  |
+| 10 | 1.1% | 13% |  |
+| 11 | 1.0% | 12% |  |
 | 12 | 3% | 11% |  |
 | 13 | 2% | 8% |  |
 | 14 | 2% | 6% |  |
-| 15 | 0.9% | 4% |  |
-| 16 | 0.3% | 4% |  |
+| 15 | 0.7% | 4% |  |
+| 16 | 0.4% | 3% |  |
 | 17 | 2% | 3% |  |
-| 18 | 0.6% | 1.3% |  |
-| 19 | 0.2% | 0.7% |  |
-| 20 | 0.3% | 0.5% |  |
+| 18 | 0.6% | 1.2% |  |
+| 19 | 0.2% | 0.6% |  |
+| 20 | 0.1% | 0.4% |  |
 | 21 | 0.2% | 0.3% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 

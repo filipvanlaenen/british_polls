@@ -253,10 +253,10 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 54–87 | 45–99 | 45–107 | 44–112 |
+| N/A | [Poll Average](average.html) | 66 | 54–87 | 45–99 | 45–107 | 44–112 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 71 | 65–77 | 64–80 | 63–80 | 59–85 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 99 | 89–111 | 87–112 | 86–114 | 84–117 |
-| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 82 | 75–84 | 74–85 | 73–85 | 70–95 |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 81 | 75–84 | 74–85 | 72–85 | 70–94 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 73 | 70–80 | 68–82 | 67–86 | 66–89 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 124 | 114–133 | 111–136 | 108–139 | 105–142 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 45 | 44–54 | 44–55 | 42–56 | 40–58 |
@@ -266,7 +266,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 48 | 43–55 | 40–57 | 39–60 | 35–65 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 45–55 | 44–58 | 42–60 | 39–62 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 67 | 62–73 | 61–75 | 58–77 | 57–81 |
-| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 64 | 56–70 | 55–73 | 53–75 | 45–79 |
+| [10–14 May 2019](2019-05-14-IpsosMORI.html) | Ipsos MORI | 65 | 56–70 | 54–72 | 53–75 | 45–79 |
 | [9–13 May 2019](2019-05-13-KantarPublic.html) | Kantar Public | 60 | 54–67 | 52–68 | 50–71 | 48–73 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 62 | 55–67 | 55–68 | 54–69 | 53–73 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 67 | 60–70 | 58–72 | 57–73 | 54–76 |
@@ -513,19 +513,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0.5% | 92% |  |
 | 53 | 1.2% | 91% |  |
 | 54 | 3% | 90% |  |
-| 55 | 2% | 88% |  |
+| 55 | 2% | 87% |  |
 | 56 | 2% | 85% |  |
 | 57 | 3% | 84% |  |
-| 58 | 2% | 81% |  |
+| 58 | 2% | 80% |  |
 | 59 | 0.9% | 78% |  |
-| 60 | 7% | 77% |  |
+| 60 | 6% | 77% |  |
 | 61 | 3% | 71% |  |
 | 62 | 2% | 68% |  |
 | 63 | 3% | 66% |  |
 | 64 | 4% | 63% |  |
-| 65 | 4% | 58% |  |
-| 66 | 4% | 54% |  |
-| 67 | 4% | 50% | Median |
+| 65 | 5% | 59% |  |
+| 66 | 4% | 54% | Median |
+| 67 | 4% | 50% |  |
 | 68 | 4% | 46% |  |
 | 69 | 3% | 42% |  |
 | 70 | 3% | 39% |  |
@@ -534,16 +534,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 3% | 30% |  |
 | 74 | 2% | 27% |  |
 | 75 | 2% | 26% |  |
-| 76 | 1.4% | 23% |  |
+| 76 | 1.4% | 24% |  |
 | 77 | 1.0% | 22% |  |
 | 78 | 2% | 21% |  |
-| 79 | 1.2% | 19% |  |
-| 80 | 1.0% | 18% |  |
-| 81 | 0.9% | 17% |  |
-| 82 | 2% | 16% |  |
-| 83 | 1.4% | 14% |  |
-| 84 | 2% | 13% |  |
-| 85 | 0.8% | 11% |  |
+| 79 | 1.1% | 19% |  |
+| 80 | 2% | 18% |  |
+| 81 | 2% | 16% |  |
+| 82 | 2% | 15% |  |
+| 83 | 1.2% | 13% |  |
+| 84 | 1.2% | 12% |  |
+| 85 | 0.6% | 11% |  |
 | 86 | 0.3% | 10% |  |
 | 87 | 0.3% | 10% |  |
 | 88 | 0.4% | 10% |  |
