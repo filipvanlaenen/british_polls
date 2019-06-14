@@ -10,7 +10,8 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 3.0–10.3% | 2.7–11.1% | 2.6–11.6% | 2.2–12.3% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.0–10.3% | 2.7–11.1% | 2.6–11.6% | 2.2–12.3% |
+| [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 5.0% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
@@ -227,10 +228,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% | Last Result |
-| 2.5–3.5% | 18% | 98% |  |
-| 3.5–4.5% | 17% | 80% |  |
-| 4.5–5.5% | 26% | 63% | Median |
-| 5.5–6.5% | 8% | 37% |  |
+| 2.5–3.5% | 17% | 98% |  |
+| 3.5–4.5% | 11% | 81% |  |
+| 4.5–5.5% | 31% | 70% | Median |
+| 5.5–6.5% | 9% | 39% |  |
 | 6.5–7.5% | 5% | 30% |  |
 | 7.5–8.5% | 5% | 24% |  |
 | 8.5–9.5% | 6% | 20% |  |
@@ -250,6 +251,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–12 | 1–14 | 1–17 | 1–19 |
+| [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 7 | 6–10 | 5–11 | 5–12 | 4–13 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 14 | 12–18 | 11–19 | 11–20 | 9–22 |
@@ -283,10 +285,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 2 | 2 | 2 | 2–3 | 1–3 |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -467,8 +469,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 10% | 100% | Last Result |
-| 2 | 54% | 90% | Median |
-| 3 | 8% | 36% |  |
+| 2 | 53% | 90% | Median |
+| 3 | 9% | 37% |  |
 | 4 | 4% | 28% |  |
 | 5 | 2% | 24% |  |
 | 6 | 4% | 22% |  |
