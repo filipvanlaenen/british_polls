@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 14 Jun 2019 20:40:01 +0200</pubDate>
+    <pubDate>Sat, 15 Jun 2019 15:41:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 7–9 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-09-ComRes.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-09-ComRes.png"
         length="186903"
         type="image/png"/>
-      <pubDate>Fri, 14 Jun 2019 19:29:22 +0200</pubDate>
-      <dc:date>2019-06-14T19:29:22.052447+02:00</dc:date>
+      <pubDate>Sat, 15 Jun 2019 15:41:12 +0200</pubDate>
+      <dc:date>2019-06-15T15:41:12.766466+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 4–7 June 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.png"
         length="137456"
         type="image/png"/>
-      <pubDate>Fri, 14 Jun 2019 19:36:34 +0200</pubDate>
-      <dc:date>2019-06-14T19:36:34.545453+02:00</dc:date>
+      <pubDate>Fri, 14 Jun 2019 23:54:03 +0200</pubDate>
+      <dc:date>2019-06-14T23:54:03.106096+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 4–6 June 2019 – Seat Projections for the Parties</title>
@@ -3929,6 +3929,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-14T20:40:01.631273+02:00</dc:date>
+    <dc:date>2019-06-15T15:41:12.766466+02:00</dc:date>
   </channel>
 </rss>
