@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.5–5.3% | 0.3–6.0% | 0.2–6.4% | 0.1–6.9% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.6–5.0% | 0.3–6.0% | 0.2–6.3% | 0.1–6.9% |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.5–4.5% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
-| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft | 4.0% | N/A | N/A | N/A | N/A |
+| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft | 4.0% | 3.7–4.3% | 3.7–4.3% | 3.6–4.4% | 3.5–4.5% |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.6–2.4% | 1.5–2.6% | 1.4–2.7% | 1.3–2.9% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2.0% | 1.7–2.5% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% |
@@ -227,14 +227,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 34% | 89% |  |
-| 1.5–2.5% | 20% | 55% | Median |
-| 2.5–3.5% | 5% | 35% |  |
-| 3.5–4.5% | 17% | 30% |  |
-| 4.5–5.5% | 4% | 13% |  |
-| 5.5–6.5% | 7% | 9% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 0.0–0.5% | 10% | 100% | Last Result |
+| 0.5–1.5% | 31% | 90% |  |
+| 1.5–2.5% | 18% | 60% | Median |
+| 2.5–3.5% | 5% | 42% |  |
+| 3.5–4.5% | 25% | 37% |  |
+| 4.5–5.5% | 4% | 12% |  |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 1.4% | 1.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -253,7 +253,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
-| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
+| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft | 0 | 0 | 0 | 0 | 0 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 0 | 0 | 0 | 0 | 0 |
