@@ -280,7 +280,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 54 | 53–57 | 53–57 | 51–58 | 51–58 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 54 | 50–57 | 49–57 | 48–57 | 38–58 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation |  |  |  |  |  |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 51 | 48–54 | 48–54 | 47–54 | 40–56 |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 51 | 50–54 | 48–54 | 46–54 | 40–56 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 54 | 53–55 | 53–56 | 53–57 | 51–58 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 36 | 9–54 | 6–55 | 3–57 | 1–58 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 53 | 49–56 | 48–57 | 48–57 | 40–57 |

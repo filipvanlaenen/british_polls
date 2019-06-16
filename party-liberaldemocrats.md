@@ -255,14 +255,14 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 54–96 | 45–100 | 45–107 | 44–112 |
+| N/A | [Poll Average](average.html) | 70 | 54–96 | 45–101 | 45–107 | 44–112 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 75 | 69–81 | 69–81 | 67–84 | 64–89 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 71 | 65–77 | 64–80 | 63–81 | 59–85 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 99 | 89–111 | 87–112 | 86–114 | 84–117 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 81 | 75–84 | 74–85 | 72–85 | 70–94 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 73 | 70–80 | 68–82 | 67–86 | 66–89 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 124 | 114–133 | 111–136 | 108–139 | 105–142 |
-| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft | 95 | 93–100 | 92–103 | 91–104 | 90–106 |
+| [23–24 May 2019](2019-05-24-LordAshcroft.html) | Lord Ashcroft | 95 | 93–100 | 92–102 | 91–104 | 90–106 |
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 45 | 44–54 | 44–55 | 42–56 | 40–58 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 60 | 57–66 | 55–68 | 54–69 | 53–73 |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 54 | 51–61 | 49–62 | 47–62 | 44–65 |
@@ -290,7 +290,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 32 | 26–39 | 25–41 | 24–43 | 23–45 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 22 | 16–25 | 15–26 | 14–27 | 12–29 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 27 | 25–27 | 24–28 | 24–28 | 23–28 |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 29 | 27–36 | 26–38 | 26–39 | 23–40 |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 31 | 27–36 | 26–37 | 26–39 | 24–40 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 37 | 33–43 | 30–43 | 30–44 | 28–46 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 15 | 9–20 | 7–23 | 5–24 | 3–26 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 17–29 | 15–30 | 14–32 |
@@ -558,15 +558,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 1.3% | 15% |  |
 | 94 | 2% | 14% |  |
 | 95 | 2% | 12% |  |
-| 96 | 1.4% | 10% |  |
+| 96 | 1.3% | 10% |  |
 | 97 | 1.1% | 9% |  |
-| 98 | 1.4% | 8% |  |
-| 99 | 0.8% | 6% |  |
-| 100 | 0.7% | 6% |  |
-| 101 | 0.4% | 5% |  |
-| 102 | 0.5% | 4% |  |
-| 103 | 0.5% | 4% |  |
-| 104 | 0.5% | 4% |  |
+| 98 | 1.3% | 8% |  |
+| 99 | 1.0% | 7% |  |
+| 100 | 0.6% | 6% |  |
+| 101 | 0.6% | 5% |  |
+| 102 | 0.6% | 4% |  |
+| 103 | 0.4% | 4% |  |
+| 104 | 0.4% | 3% |  |
 | 105 | 0.2% | 3% |  |
 | 106 | 0.2% | 3% |  |
 | 107 | 0.7% | 3% |  |

@@ -286,7 +286,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -476,7 +476,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 6% | 36% |  |
 | 5 | 10% | 30% |  |
 | 6 | 4% | 20% |  |
-| 7 | 3% | 16% |  |
+| 7 | 3% | 17% |  |
 | 8 | 1.3% | 14% |  |
 | 9 | 0.7% | 12% |  |
 | 10 | 1.0% | 12% |  |
