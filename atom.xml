@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-06-15T21:11:17.308045+02:00</updated>
+  <updated>2019-06-16T18:29:40.874762+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 21.0–24.6%, 72–131 seats</li><li>Labour Party: 24.8–28.7%, 171–219 seats</li><li>Liberal Democrats: 15.2–18.5%, 67–84 seats</li><li>Scottish National Party: 2.3–3.8%, 46–53 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–10 seats</li><li>UK Independence Party: 0.6–1.5%, 0 seats</li><li>Green Party: 4.1–6.0%, 2–4 seats</li><li>Brexit Party: 20.0–23.6%, 165–237 seats</li><li>Change UK: 0.6–1.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-06-09-ComRes.html</id>
@@ -54,6 +54,14 @@
     <title>Opinion Poll by YouGov for The Times, 28–29 May 2019</title>
     <updated>2019-05-31T14:16:26.639284+02:00</updated>
     <dc:date>2019-05-31T14:16:26.639284+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 17.3–18.8%, 63–89 seats</li><li>Labour Party: 20.2–21.8%, 172–197 seats</li><li>Liberal Democrats: 16.3–17.8%, 91–104 seats</li><li>UK Independence Party: 2.7–3.4%, 0 seats</li><li>Green Party: 6.5–7.5%, 4–6 seats</li><li>Brexit Party: 17.3–18.8%, 198–233 seats</li><li>Change UK: 3.6–4.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-05-24-LordAshcroft.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-05-24-LordAshcroft.html"/>
+    <title>Opinion Poll by Lord Ashcroft, 23–24 May 2019</title>
+    <updated>2019-06-16T18:29:40.874762+02:00</updated>
+    <dc:date>2019-06-16T18:29:40.874762+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 26.0–29.9%, 192–241 seats</li><li>Labour Party: 30.9–35.0%, 276–323 seats</li><li>Liberal Democrats: 11.6–14.5%, 42–56 seats</li><li>Scottish National Party: 2.3–3.9%, 35–53 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–3 seats</li><li>UK Independence Party: 2.3–3.9%, 0 seats</li><li>Green Party: 2.3–3.9%, 1–2 seats</li><li>Brexit Party: 10.6–13.5%, 10–27 seats</li><li>Change UK: 1.4–2.7%, 0 seats</li></ul></div></content>
@@ -775,5 +783,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-06-15T21:11:17.308045+02:00</dc:date>
+  <dc:date>2019-06-16T18:29:40.874762+02:00</dc:date>
 </feed>
