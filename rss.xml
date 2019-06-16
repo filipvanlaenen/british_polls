@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 15 Jun 2019 20:09:47 +0200</pubDate>
+    <pubDate>Sun, 16 Jun 2019 08:29:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 7–9 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-09-ComRes.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-06-15T16:51:24.893294+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BMG Research for The Independent, 4–7 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 129–233 seats&lt;/li&gt;&lt;li&gt;Labour Party: 168–253 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 63–81 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 72–163 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch-seats.png"
+        length="178961"
+        type="image/png"/>
+      <pubDate>Sat, 15 Jun 2019 21:11:17 +0200</pubDate>
+      <dc:date>2019-06-15T21:11:17.308045+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 4–7 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch-coalitions-seats.png"
+        length="793427"
+        type="image/png"/>
+      <pubDate>Sat, 15 Jun 2019 21:11:17 +0200</pubDate>
+      <dc:date>2019-06-15T21:11:17.308045+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BMG Research for The Independent, 4–7 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.8–28.3%&lt;/li&gt;&lt;li&gt;Labour Party: 24.8–29.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 15.2–18.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Brexit Party: 16.2–20.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-07-BMGResearch.png"
         length="137456"
         type="image/png"/>
-      <pubDate>Sat, 15 Jun 2019 20:09:47 +0200</pubDate>
-      <dc:date>2019-06-15T20:09:47.677371+02:00</dc:date>
+      <pubDate>Sat, 15 Jun 2019 21:11:17 +0200</pubDate>
+      <dc:date>2019-06-15T21:11:17.308045+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 4–6 June 2019 – Seat Projections for the Parties</title>
@@ -990,6 +1010,16 @@
       <dc:date>2019-06-04T07:48:31.515326+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 3–4 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-03-04-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.1%&lt;/li&gt;&lt;li&gt;Labour Party: 29.1–33.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.8–12.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-03-04-YouGov.png"
+        length="170636"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jun 2019 08:23:44 +0200</pubDate>
+      <dc:date>2019-06-16T08:23:44.268421+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 26 February–1 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-03-01-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.4–41.8%&lt;/li&gt;&lt;li&gt;Labour Party: 31.6–35.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.7–10.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 5.9–8.2%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -998,6 +1028,16 @@
         type="image/png"/>
       <pubDate>Sat, 23 Mar 2019 17:19:50 +0100</pubDate>
       <dc:date>2019-03-23T17:19:50.418136+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 22–23 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-23-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.7–43.4%&lt;/li&gt;&lt;li&gt;Labour Party: 27.9–32.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.6–11.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-23-YouGov.png"
+        length="172677"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jun 2019 08:29:37 +0200</pubDate>
+      <dc:date>2019-06-16T08:29:37.181583+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 21–23 February 2019 – Voting Intentions</title>
@@ -3959,6 +3999,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-15T20:09:47.677371+02:00</dc:date>
+    <dc:date>2019-06-16T08:29:37.181583+02:00</dc:date>
   </channel>
 </rss>
