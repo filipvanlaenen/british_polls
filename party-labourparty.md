@@ -57,9 +57,9 @@ Last result: **40.0%** (General Election of 8 June 2017)
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 34.0% | 32.7–35.4% | 32.3–35.8% | 31.9–36.2% | 31.3–36.8% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 31.3% | 29.6–33.1% | 29.1–33.6% | 28.7–34.1% | 27.9–34.9% |
 | [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 34.0% | 32.4–35.6% | 32.0–36.0% | 31.6–36.4% | 30.9–37.2% |
-| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 31.0% | N/A | N/A | N/A | N/A |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 31.0% | 29.7–32.3% | 29.4–32.6% | 29.1–33.0% | 28.5–33.6% |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 33.7% | 32.3–35.1% | 31.9–35.5% | 31.6–35.8% | 31.0–36.5% |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 30.0% | N/A | N/A | N/A | N/A |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 30.0% | 28.6–31.5% | 28.2–31.9% | 27.9–32.3% | 27.2–33.0% |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 36.3% | 34.4–38.3% | 33.9–38.8% | 33.4–39.3% | 32.5–40.3% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 33.3% | 31.9–34.8% | 31.5–35.1% | 31.2–35.5% | 30.5–36.2% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 35.7% | 33.8–37.6% | 33.3–38.2% | 32.8–38.7% | 31.9–39.6% |
@@ -262,9 +262,9 @@ Last result: **262** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 211 | 148–301 | 139–316 | 131–331 | 119–349 |
+| N/A | [Poll Average](average.html) | 212 | 148–301 | 139–316 | 131–331 | 119–349 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 194 | 175–210 | 174–215 | 171–219 | 161–231 |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 216 | 184–239 | 174–246 | 167–252 | 156–262 |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 216 | 183–239 | 175–246 | 168–253 | 156–262 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 138 | 124–147 | 119–150 | 110–153 | 105–157 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 154 | 145–167 | 143–169 | 141–171 | 136–175 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 184 | 166–197 | 163–203 | 162–206 | 157–216 |
@@ -309,9 +309,9 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 235 | 226–258 | 222–267 | 219–269 | 212–277 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 206 | 188–225 | 185–230 | 182–236 | 174–240 |
 | [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 236 | 219–254 | 213–260 | 205–272 | 201–288 |
-| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 207 | 192–223 | 192–225 | 188–231 | 182–235 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 248 | 248 | 248 | 243–248 | 208–248 |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 190 | 190 | 190 | 190 | 190 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 226 | 211–226 | 211–233 | 185–233 | 185–287 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 218 | 204–232 | 195–236 | 193–237 | 187–244 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 246 | 226–276 | 220–288 | 217–297 | 207–312 |
@@ -558,19 +558,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 180 | 0.9% | 74% |  |
 | 181 | 1.3% | 73% |  |
 | 182 | 2% | 72% |  |
-| 183 | 1.5% | 70% |  |
+| 183 | 1.4% | 70% |  |
 | 184 | 1.4% | 69% |  |
 | 185 | 1.0% | 67% |  |
 | 186 | 0.9% | 66% |  |
 | 187 | 3% | 65% |  |
 | 188 | 0.4% | 63% |  |
 | 189 | 0.7% | 62% |  |
-| 190 | 1.1% | 62% |  |
+| 190 | 1.2% | 62% |  |
 | 191 | 0.6% | 61% |  |
 | 192 | 0.5% | 60% |  |
-| 193 | 0.7% | 60% |  |
+| 193 | 0.8% | 59% |  |
 | 194 | 0.7% | 59% |  |
-| 195 | 0.8% | 58% |  |
+| 195 | 0.7% | 58% |  |
 | 196 | 0.7% | 57% |  |
 | 197 | 0.7% | 57% |  |
 | 198 | 0.4% | 56% |  |
@@ -582,35 +582,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 204 | 0.5% | 53% |  |
 | 205 | 0.5% | 52% |  |
 | 206 | 0.3% | 52% |  |
-| 207 | 0.4% | 51% |  |
+| 207 | 0.3% | 51% |  |
 | 208 | 0.3% | 51% |  |
 | 209 | 0.3% | 51% |  |
 | 210 | 0.2% | 50% |  |
-| 211 | 0.3% | 50% | Median |
-| 212 | 0.3% | 50% |  |
+| 211 | 0.3% | 50% |  |
+| 212 | 0.3% | 50% | Median |
 | 213 | 0.2% | 50% |  |
 | 214 | 0.3% | 49% |  |
-| 215 | 0.4% | 49% |  |
+| 215 | 0.5% | 49% |  |
 | 216 | 0.7% | 49% |  |
 | 217 | 0.3% | 48% |  |
-| 218 | 0.4% | 48% |  |
+| 218 | 0.3% | 48% |  |
 | 219 | 0.3% | 47% |  |
 | 220 | 0.3% | 47% |  |
 | 221 | 0.2% | 47% |  |
-| 222 | 0.2% | 46% |  |
+| 222 | 0.2% | 47% |  |
 | 223 | 0.3% | 46% |  |
 | 224 | 0.3% | 46% |  |
 | 225 | 0.8% | 46% |  |
-| 226 | 1.0% | 45% |  |
-| 227 | 0.3% | 44% |  |
+| 226 | 1.1% | 45% |  |
+| 227 | 0.4% | 44% |  |
 | 228 | 0.4% | 44% |  |
-| 229 | 0.2% | 43% |  |
+| 229 | 0.3% | 43% |  |
 | 230 | 0.5% | 43% |  |
 | 231 | 0.3% | 42% |  |
 | 232 | 0.2% | 42% |  |
-| 233 | 0.4% | 42% |  |
+| 233 | 0.5% | 42% |  |
 | 234 | 0.3% | 41% |  |
-| 235 | 0.2% | 41% |  |
+| 235 | 0.3% | 41% |  |
 | 236 | 0.2% | 41% |  |
 | 237 | 0.1% | 41% |  |
 | 238 | 0.2% | 41% |  |
@@ -624,11 +624,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 246 | 0.4% | 38% |  |
 | 247 | 0.2% | 38% |  |
 | 248 | 0.5% | 37% |  |
-| 249 | 0.7% | 37% |  |
+| 249 | 0.6% | 37% |  |
 | 250 | 0.2% | 36% |  |
 | 251 | 0.2% | 36% |  |
 | 252 | 0.4% | 36% |  |
-| 253 | 0.3% | 35% |  |
+| 253 | 0.3% | 36% |  |
 | 254 | 0.7% | 35% |  |
 | 255 | 0.5% | 35% |  |
 | 256 | 0.4% | 34% |  |
