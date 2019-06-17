@@ -287,16 +287,16 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 34 | 31–42 | 29–43 | 28–44 | 25–45 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 27 | 23–33 | 22–34 | 21–37 | 19–39 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 21 | 19–25 | 18–27 | 16–28 | 14–31 |
-| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 32 | 26–39 | 25–41 | 24–43 | 23–45 |
+| [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 32 | 26–39 | 25–42 | 24–43 | 23–44 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 22 | 16–25 | 15–26 | 14–27 | 12–29 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 27 | 25–27 | 24–28 | 24–28 | 23–28 |
-| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 31 | 27–36 | 26–37 | 26–39 | 24–40 |
+| [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 30 | 27–36 | 26–37 | 26–39 | 23–40 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 37 | 33–43 | 30–43 | 30–44 | 28–46 |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 15 | 9–20 | 7–23 | 5–24 | 3–26 |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 17–29 | 15–30 | 14–32 |
-| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 31 | 27–35 | 26–35 | 26–36 | 24–38 |
+| [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 30 | 27–34 | 26–35 | 26–36 | 24–38 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 11 | 9–15 | 8–17 | 4–18 | 4–21 |
-| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 15 | 10–21 | 9–24 | 7–25 | 4–27 |
+| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 16 | 11–22 | 10–24 | 8–25 | 4–27 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 34 | 34–36 | 34–36 | 34–36 | 34–36 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 28 | 25–31 | 23–34 | 20–35 | 18–39 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 15 | 12–19 | 10–21 | 10–22 | 8–24 |
