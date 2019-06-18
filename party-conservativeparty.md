@@ -291,15 +291,15 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 67 | 50–90 | 46–95 | 42–97 | 35–108 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 175 | 152–200 | 148–212 | 139–218 | 123–237 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 244 | 215–276 | 204–278 | 195–282 | 185–294 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 222 | 200–244 | 190–248 | 188–252 | 179–264 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 219 | 196–243 | 196–250 | 190–252 | 183–264 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 208 | 189–221 | 184–225 | 179–229 | 168–234 |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 206 | 171–226 | 159–234 | 151–238 | 139–247 |
-| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 245 | 232–281 | 228–284 | 223–296 | 214–299 |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 247 | 233–278 | 228–284 | 222–293 | 215–298 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 186 | 165–205 | 163–211 | 155–217 | 142–227 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 221 | 201–251 | 197–263 | 194–276 | 183–281 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 223 | 211–238 | 207–242 | 201–246 | 192–254 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 245 | 226–271 | 221–280 | 215–288 | 207–303 |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 223 | 207–236 | 202–239 | 197–243 | 191–250 |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 224 | 208–237 | 202–241 | 198–244 | 190–251 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 261 | 250–268 | 249–270 | 248–273 | 245–277 |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 281 | 253–307 | 249–310 | 245–314 | 237–321 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 276 | 245–293 | 241–298 | 241–302 | 235–308 |
@@ -307,7 +307,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 271 | 251–305 | 248–312 | 247–315 | 240–321 |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 302 | 277–316 | 273–320 | 267–323 | 254–329 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 299 | 272–317 | 264–319 | 259–320 | 254–327 |
-| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 316 | 289–333 | 278–340 | 270–347 | 257–356 |
+| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 315 | 285–332 | 277–338 | 268–345 | 256–355 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 324 | 305–337 | 286–337 | 286–337 | 286–337 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 255 | 238–281 | 234–291 | 228–299 | 217–314 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 317 | 291–326 | 285–330 | 284–333 | 271–340 |

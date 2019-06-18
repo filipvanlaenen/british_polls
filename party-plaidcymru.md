@@ -267,7 +267,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 7 | 4–9 | 4–10 | 4–13 | 4–14 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 5 | 4–8 | 4–9 | 4–11 | 3–14 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 3–4 | 2–5 | 2–6 | 1–8 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–11 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–8 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 7 | 5–8 | 4–9 | 4–10 | 3–14 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–8 | 3–8 | 2–9 |
@@ -275,7 +275,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 5 | 5–8 | 5–10 | 5–12 | 3–14 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–7 | 5–8 | 4–8 | 3–9 |
 | [4–8 April 2019](2019-04-08-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–9 | 3–9 | 3–14 |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 5 | 4–5 | 4–7 | 4–8 | 3–8 |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 5 | 4–5 | 4–7 | 4–8 | 4–8 |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–8 | 4–8 | 3–9 | 3–10 |
 | [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 7 | 4–8 | 4–8 | 4–10 | 4–11 |
@@ -283,7 +283,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–3 | 0–3 | 0–5 |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 5 | 4–8 | 4–8 | 3–8 | 3–9 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–8 | 5–8 | 4–8 |
-| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 5 | 5–8 | 4–9 | 4–10 | 3–12 |
+| [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 5 | 5–8 | 5–10 | 4–10 | 3–12 |
 | [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 9 | 3–11 | 3–11 | 3–12 | 3–12 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 1 | 0–3 | 0–5 | 0–5 | 0–5 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 4–8 | 3–10 |

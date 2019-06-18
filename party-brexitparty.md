@@ -293,10 +293,10 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 201 | 177–223 | 168–230 | 160–236 | 151–242 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 85 | 65–119 | 61–125 | 56–132 | 42–146 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 45 | 32–66 | 31–76 | 29–83 | 25–89 |
-| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 29 | 25–60 | 23–65 | 23–68 | 19–75 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov <br> The Times | 31 | 27–48 | 26–52 | 24–62 | 23–71 |
 | [18–24 April 2019](2019-04-24-Panelbase.html) | Panelbase <br> The Sunday Times | 18 | 14–26 | 13–28 | 12–33 | 10–40 |
 | [21–23 April 2019](2019-04-23-Opinium.html) | Opinium <br> The Observer | 63 | 45–97 | 35–106 | 32–113 | 29–139 |
-| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 22 | 15–29 | 12–30 | 11–32 | 6–34 |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 22 | 15–28 | 12–30 | 9–32 | 6–34 |
 | [17 April 2019](2019-04-17-OnePoll.html) | OnePoll <br> The Sun on Sunday | 43 | 29–55 | 27–59 | 24–66 | 18–79 |
 | [16–17 April 2019](2019-04-17-ORB.html) | ORB <br> The Telegraph | 43 | 32–66 | 29–70 | 25–72 | 20–76 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
