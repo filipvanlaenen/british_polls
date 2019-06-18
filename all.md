@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 21–25% <br> 72–131 | 25–29% <br> 171–219 | 15–19% <br> 67–84 | 2–4% <br> 46–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–10 | 20–24% <br> 165–237 | 1–2% <br> 0 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 24–28% <br> 129–233 | 25–29% <br> 168–253 | 15–19% <br> 63–81 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 16–20% <br> 72–163 | N/A <br> N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 16–20% <br> 37–75 | 18–22% <br> 110–153 | 18–22% <br> 86–114 | 4–6% <br> 51–54 | N/A <br> N/A | 8–10% <br> 5–12 | 0–1% <br> 0–4 | 24–28% <br> 267–295 | 0–1% <br> 0 |
@@ -40,7 +42,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 29–33% <br> 198–244 | 37–42% <br> 305–348 | 7–9% <br> 14–27 | 3–5% <br> 48–57 | 7–9% <br> 1–2 | 4–6% <br> 2–3 | 1–2% <br> 4–8 | N/A <br> N/A | N/A <br> N/A |
 | [3–6 April 2019](2019-04-06-Survation.html) | Survation | 35–38% <br> 248–273 | 39–42% <br> 290–318 | 9–11% <br> 24–28 | N/A <br> N/A | 6–8% <br> 1 | 2% <br> 1 | 1% <br> 4–5 | N/A <br> N/A | N/A <br> N/A |
 | [2–5 April 2019](2019-04-05-BMGResearch.html) | BMG Research <br> The Independent | 33–38% <br> 245–314 | 32–37% <br> 229–294 | 10–13% <br> 26–39 | 3–5% <br> 47–54 | 5–7% <br> 1–2 | 4–6% <br> 1–3 | 1–2% <br> 3–9 | N/A <br> N/A | N/A <br> N/A |
-| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 30–34% <br> 241–302 | 29–33% <br> 231–286 | 11–14% <br> 30–44 | 4–6% <br> 53–57 | 6–8% <br> 1–2 | 3–5% <br> 1–3 | 1–2% <br> 4–10 | 4–6% <br> 0 | N/A <br> N/A |
+| [2–3 April 2019](2019-04-03-YouGov.html) | YouGov | 30–34% <br> 239–306 | 29–33% <br> 228–289 | 11–14% <br> 30–45 | 4–6% <br> 53–57 | 6–8% <br> 1–2 | 3–5% <br> 1–3 | 1–2% <br> 4–10 | 4–6% <br> 0 | N/A <br> N/A |
 | [28–30 March 2019](2019-03-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 33–39% <br> 233–302 | 38–44% <br> 272–350 | 6–9% <br> 5–24 | 2–4% <br> 3–57 | 6–9% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 4–8 | N/A <br> N/A | N/A <br> N/A |
 | [28–29 March 2019](2019-03-29-Opinium.html) | Opinium <br> The Observer | 33–37% <br> 247–315 | 33–37% <br> 238–300 | 8–10% <br> 15–30 | 3–5% <br> 48–57 | 8–10% <br> 2–5 | 4–6% <br> 1–3 | 0–1% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 34–38% <br> 267–323 | 31–35% <br> 222–274 | 10–12% <br> 26–36 | 3–5% <br> 45–54 | 3–5% <br> 0–1 | 3–5% <br> 1–2 | 1–2% <br> 3–8 | 4–6% <br> 0–1 | N/A <br> N/A |
