@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 19–23% <br> 68 | 19–23% <br> 140 | 17–21% <br> 83 | 2–4% <br> 52 | 0–1% <br> 0 | 8–11% <br> 8 | 1–2% <br> 13 | 22–26% <br> 267 | 0–1% <br> 0 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 21–25% <br> 72–131 | 25–29% <br> 171–219 | 15–19% <br> 67–84 | 2–4% <br> 46–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–10 | 20–24% <br> 165–237 | 1–2% <br> 0 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 24–28% <br> 129–233 | 25–29% <br> 168–253 | 15–19% <br> 63–81 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 16–20% <br> 72–163 | N/A <br> N/A |
