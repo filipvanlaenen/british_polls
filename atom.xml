@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-06-18T19:00:52.014379+02:00</updated>
+  <updated>2019-06-20T18:35:49.106531+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 19.2–23.1%, 56–116 seats</li><li>Labour Party: 19.2–23.1%, 110–161 seats</li><li>Liberal Democrats: 17.3–21.0%, 78–104 seats</li><li>Scottish National Party: 2.3–3.9%, 46–53 seats</li><li>Plaid Cymru: 0.6–1.6%, 4–13 seats</li><li>UK Independence Party: 0.1–0.6%, 0 seats</li><li>Green Party: 7.7–10.5%, 4–12 seats</li><li>Brexit Party: 22.1–26.2%, 236–279 seats</li><li>Change UK: 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019</title>
+    <updated>2019-06-20T18:35:49.106531+02:00</updated>
+    <dc:date>2019-06-20T18:35:49.106531+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 21.0–24.6%, 72–131 seats</li><li>Labour Party: 24.8–28.7%, 171–219 seats</li><li>Liberal Democrats: 15.2–18.5%, 67–84 seats</li><li>Scottish National Party: 2.3–3.8%, 46–53 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–10 seats</li><li>UK Independence Party: 0.6–1.5%, 0 seats</li><li>Green Party: 4.1–6.0%, 2–4 seats</li><li>Brexit Party: 20.0–23.6%, 165–237 seats</li><li>Change UK: 0.6–1.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-06-09-ComRes.html</id>
@@ -831,5 +839,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-06-18T19:00:52.014379+02:00</dc:date>
+  <dc:date>2019-06-20T18:35:49.106531+02:00</dc:date>
 </feed>
