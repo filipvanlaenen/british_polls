@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 18 Jun 2019 20:51:23 +0200</pubDate>
+    <pubDate>Thu, 20 Jun 2019 20:05:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 56–116 seats&lt;/li&gt;&lt;li&gt;Labour Party: 110–161 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 78–104 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 46–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–13 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 4–12 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 236–279 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov-seats.png"
+        length="194683"
+        type="image/png"/>
+      <pubDate>Thu, 20 Jun 2019 18:35:49 +0200</pubDate>
+      <dc:date>2019-06-20T18:35:49.106531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov-coalitions-seats.png"
+        length="577445"
+        type="image/png"/>
+      <pubDate>Thu, 20 Jun 2019 18:35:49 +0200</pubDate>
+      <dc:date>2019-06-20T18:35:49.106531+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html</link>
@@ -16,8 +36,18 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.png"
         length="189358"
         type="image/png"/>
-      <pubDate>Tue, 18 Jun 2019 20:51:23 +0200</pubDate>
-      <dc:date>2019-06-18T20:51:23.11214+02:00</dc:date>
+      <pubDate>Thu, 20 Jun 2019 18:35:49 +0200</pubDate>
+      <dc:date>2019-06-20T18:35:49.106531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 9–10 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-10-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 15.4–19.0%&lt;/li&gt;&lt;li&gt;Labour Party: 17.3–21.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 20.2–24.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 6.8–9.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 24.2–28.3%&lt;/li&gt;&lt;li&gt;Change UK: 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-10-YouGov.png"
+        length="189202"
+        type="image/png"/>
+      <pubDate>Thu, 20 Jun 2019 20:05:03 +0200</pubDate>
+      <dc:date>2019-06-20T20:05:03.972282+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 7–9 June 2019 – Seat Projections for the Parties</title>
@@ -4149,6 +4179,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-18T20:51:23.11214+02:00</dc:date>
+    <dc:date>2019-06-20T20:05:03.972282+02:00</dc:date>
   </channel>
 </rss>
