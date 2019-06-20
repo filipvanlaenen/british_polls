@@ -12,7 +12,7 @@ Last result: **3.0%** (General Election of 8 June 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.7–4.4% | 2.6–4.6% | 2.4–4.7% | 2.2–5.1% |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 4.1% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 3.0–5.5% |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 5.0% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
@@ -245,9 +245,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52 | 50–53 | 50–53 | 48–53 | 35–54 |
-| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 52 | 52 | 52 | 52 | 50–52 |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 52 | 50–53 | 49–53 | 46–53 | 35–54 |
+| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 50 | 48–50 | 47–52 | 46–53 | 42–54 |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 52 | 51–54 | 50–54 | 50–54 | 50–54 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 51 | 49–52 | 47–53 | 46–53 | 35–53 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 51–54 | 51–54 | 50–54 |
@@ -491,19 +491,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 99.1% |  |
 | 40 | 0.1% | 99.0% |  |
 | 41 | 0.1% | 98.9% |  |
-| 42 | 0.3% | 98.9% |  |
-| 43 | 0.1% | 98.6% |  |
-| 44 | 0.2% | 98.5% |  |
-| 45 | 0.1% | 98% |  |
-| 46 | 0.2% | 98% |  |
-| 47 | 0.4% | 98% |  |
-| 48 | 0.7% | 98% |  |
-| 49 | 2% | 97% |  |
-| 50 | 5% | 95% |  |
-| 51 | 16% | 90% |  |
-| 52 | 28% | 73% | Median |
-| 53 | 44% | 46% |  |
-| 54 | 1.4% | 1.4% |  |
+| 42 | 0.3% | 98.8% |  |
+| 43 | 0.1% | 98.5% |  |
+| 44 | 0.2% | 98% |  |
+| 45 | 0.3% | 98% |  |
+| 46 | 0.4% | 98% |  |
+| 47 | 0.7% | 97% |  |
+| 48 | 1.5% | 97% |  |
+| 49 | 2% | 95% |  |
+| 50 | 18% | 93% |  |
+| 51 | 17% | 75% |  |
+| 52 | 11% | 58% | Median |
+| 53 | 45% | 46% |  |
+| 54 | 2% | 2% |  |
 | 55 | 0% | 0% |  |
 
 
