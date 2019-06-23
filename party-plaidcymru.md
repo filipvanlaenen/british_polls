@@ -81,7 +81,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.1% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
-| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 1.0% | N/A | N/A | N/A | N/A |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 0.6% | 0.5–0.7% | 0.5–0.7% | 0.5–0.7% | 0.5–0.7% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -314,7 +314,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 2–6 | 2–8 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–8 | 2–11 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–7 | 3–8 | 3–8 | 3–10 |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 1–5 | 0–6 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 3 | 3 | 3 | 3–5 | 3–5 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 0 | 0–3 | 0–4 | 0–4 | 0–4 |

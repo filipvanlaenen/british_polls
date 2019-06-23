@@ -81,7 +81,7 @@ Last result: **40.0%** (General Election of 8 June 2017)
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 34.0% | 32.5–35.5% | 32.1–35.9% | 31.8–36.3% | 31.1–37.0% |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 38.0% | 36.1–39.9% | 35.6–40.4% | 35.1–40.9% | 34.3–41.8% |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 40.6% | 38.6–42.6% | 38.1–43.1% | 37.6–43.6% | 36.7–44.6% |
-| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 36.0% | N/A | N/A | N/A | N/A |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 36.0% | 34.4–37.6% | 34.0–38.1% | 33.6–38.5% | 32.9–39.2% |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 35.3% | 33.8–36.9% | 33.4–37.3% | 33.1–37.7% | 32.3–38.4% |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 34.7% | 34.3–35.1% | 34.2–35.2% | 34.1–35.3% | 33.9–35.5% |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 38.9% | 37.5–40.4% | 37.1–40.8% | 36.8–41.1% | 36.1–41.8% |
@@ -319,7 +319,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 246 | 226–276 | 220–288 | 217–297 | 207–312 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 296 | 252–304 | 242–304 | 242–304 | 242–308 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 238 | 214–249 | 209–264 | 206–268 | 201–284 |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 245 | 231–278 | 226–287 | 223–291 | 217–308 |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 242 | 231–276 | 224–279 | 223–291 | 216–305 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 271 | 239–295 | 235–301 | 232–305 | 223–313 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 225 | 209–237 | 206–239 | 203–245 | 194–255 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 225 | 210–236 | 206–239 | 203–244 | 194–255 |
@@ -333,7 +333,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [13–14 January 2019](2019-01-14-YouGov.html) | YouGov <br> The Times | 234 | 221–245 | 216–254 | 208–258 | 204–271 |
 | [10–14 January 2019](2019-01-14-KantarPublic.html) | Kantar Public | 292 | 269–309 | 259–313 | 254–319 | 238–326 |
 | [10–11 January 2019](2019-01-11-Survation.html) | Survation <br> Daily Mail | 304 | 274–329 | 265–336 | 257–340 | 243–351 |
-| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [8–11 January 2019](2019-01-11-BMGResearch.html) | BMG Research <br> The Independent | 277 | 247–300 | 241–304 | 240–310 | 235–320 |
 | [6–7 January 2019](2019-01-07-YouGov.html) | YouGov <br> The Times | 235 | 217–242 | 215–249 | 213–257 | 196–271 |
 | [21 December 2018–4 January 2019](2019-01-04-YouGov.html) | YouGov <br> People’s Vote | 230 | 226–236 | 226–236 | 225–236 | 225–237 |
 | [18–20 December 2018](2018-12-20-Opinium.html) | Opinium | 275 | 253–295 | 247–298 | 243–301 | 240–309 |
