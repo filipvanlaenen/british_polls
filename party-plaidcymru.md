@@ -67,7 +67,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 1.0% | N/A | N/A | N/A | N/A |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -300,7 +300,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–9 | 3–9 | 2–11 |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 5 | 4–8 | 3–8 | 3–8 | 3–10 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 5–8 | 5–8 | 4–10 |

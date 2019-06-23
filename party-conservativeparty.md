@@ -67,7 +67,7 @@ Last result: **42.4%** (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 39.6% | 37.6–41.6% | 37.1–42.1% | 36.6–42.6% | 35.7–43.6% |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 37.3% | 35.9–38.7% | 35.5–39.1% | 35.2–39.4% | 34.5–40.1% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 40.0% | 38.2–41.9% | 37.6–42.4% | 37.2–42.9% | 36.3–43.8% |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 37.6% | N/A | N/A | N/A | N/A |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 37.6% | 36.0–39.2% | 35.6–39.7% | 35.2–40.1% | 34.4–40.9% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 37.6% | 35.7–39.6% | 35.1–40.2% | 34.7–40.7% | 33.7–41.6% |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 41.0% | 39.6–42.5% | 39.1–42.9% | 38.8–43.3% | 38.1–44.0% |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 41.0% | 39.6–42.4% | 39.2–42.8% | 38.8–43.2% | 38.1–43.9% |
@@ -325,7 +325,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 318 | 291–342 | 280–346 | 270–350 | 260–364 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 262 | 252–303 | 252–320 | 252–321 | 243–321 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 311 | 291–340 | 279–346 | 279–350 | 262–362 |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 303 | 273–319 | 265–327 | 264–334 | 251–339 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 280 | 251–312 | 247–316 | 241–321 | 235–331 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 325 | 312–342 | 309–347 | 304–351 | 292–362 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 334 | 320–349 | 316–354 | 312–358 | 300–367 |

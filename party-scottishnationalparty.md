@@ -67,7 +67,7 @@ Last result: **3.0%** (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 2.9% | 2.3–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 3.0% | N/A | N/A | N/A | N/A |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 4.3% | 3.7–4.9% | 3.6–5.1% | 3.4–5.3% | 3.2–5.6% |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -302,7 +302,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 39 | 17–49 | 8–51 | 4–51 | 0–54 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 57 | 50–57 | 50–57 | 40–57 | 40–58 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 51 | 41–56 | 40–57 | 40–57 | 27–57 |
-| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 40 | 22–50 | 20–50 | 17–50 | 6–53 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 51 | 44–55 | 39–56 | 37–57 | 24–57 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 51 | 47–54 | 45–56 | 42–56 | 41–57 |
 | [30 January–1 February 2019](2019-02-01-Opinium.html) | Opinium <br> The Observer | 51 | 45–55 | 42–56 | 41–57 | 39–58 |
