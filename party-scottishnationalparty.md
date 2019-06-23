@@ -247,7 +247,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 52 | 50–53 | 49–53 | 46–53 | 35–54 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 50 | 48–50 | 47–52 | 46–53 | 42–54 |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 52 | 51–54 | 50–54 | 50–54 | 50–54 |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 52 | 50–54 | 50–54 | 50–54 | 48–54 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 51 | 49–52 | 47–53 | 46–53 | 35–53 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 54 | 53–54 | 51–54 | 51–54 | 50–54 |
