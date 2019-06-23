@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 20 Jun 2019 20:05:03 +0200</pubDate>
+    <pubDate>Sun, 23 Jun 2019 08:40:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-14-YouGov.html#seats</link>
@@ -1268,6 +1268,16 @@
         type="image/png"/>
       <pubDate>Mon, 04 Mar 2019 06:56:44 +0100</pubDate>
       <dc:date>2019-03-04T06:56:44.789273+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 4–8 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-02-08-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.2–40.1%&lt;/li&gt;&lt;li&gt;Labour Party: 32.3–37.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.2–14.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-08-BMGResearch.png"
+        length="163303"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 08:40:19 +0200</pubDate>
+      <dc:date>2019-06-23T08:40:19.820975+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 1–5 February 2019 – Voting Intentions</title>
@@ -4179,6 +4189,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-20T20:05:03.972282+02:00</dc:date>
+    <dc:date>2019-06-23T08:40:19.820975+02:00</dc:date>
   </channel>
 </rss>
