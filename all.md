@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 22–26% <br> 110–171 | 24–28% <br> 186–215 | 16–20% <br> 66–79 | 2–4% <br> 49–51 | 1–2% <br> 0 | 5–7% <br> 2–4 | 1–2% <br> 3–9 | 18–22% <br> 148–197 | 1–2% <br> 0 |
-| [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 18–22% <br> 47–115 | 24–28% <br> 183–201 | 14–18% <br> 67–84 | 3–5% <br> 51–53 | 1–3% <br> 0 | 5–7% <br> 3 | 1–2% <br> 2–15 | 21–25% <br> 192–246 | 1–2% <br> 0 |
+| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 22–26% <br> 94–169 | 24–28% <br> 162–225 | 16–20% <br> 69–90 | 2–4% <br> 44–53 | 1–2% <br> 0 | 5–7% <br> 2–4 | 1–2% <br> 4–11 | 18–22% <br> 122–208 | 1–2% <br> 0 |
+| [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 18–22% <br> 46–85 | 24–28% <br> 161–214 | 14–18% <br> 68–85 | 3–5% <br> 51–54 | 1–3% <br> 0 | 5–7% <br> 2–3 | 1–2% <br> 4–12 | 21–25% <br> 214–264 | 1–2% <br> 0 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 19–23% <br> 56–116 | 19–23% <br> 110–161 | 17–21% <br> 78–104 | 2–4% <br> 46–53 | 0–1% <br> 0 | 8–11% <br> 4–12 | 1–2% <br> 4–13 | 22–26% <br> 236–279 | 0–1% <br> 0 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 15–19% <br> 32–65 | 17–21% <br> 110–145 | 20–24% <br> 100–125 | 3–5% <br> 50–54 | 0–1% <br> 0 | 7–9% <br> 4–9 | 1–2% <br> 4–11 | 24–28% <br> 264–289 | 1–2% <br> 0 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 21–25% <br> 72–131 | 25–29% <br> 171–219 | 15–19% <br> 67–84 | 2–4% <br> 46–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–10 | 20–24% <br> 165–237 | 1–2% <br> 0 |
