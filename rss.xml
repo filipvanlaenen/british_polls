@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 25 Jun 2019 19:57:30 +0200</pubDate>
+    <pubDate>Wed, 26 Jun 2019 06:39:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation for Daily Mail on Sunday, 19–20 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 93–171 seats&lt;/li&gt;&lt;li&gt;Labour Party: 166–222 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 69–90 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 45–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–11 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 131–207 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation-seats.png"
+        length="199949"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 06:32:58 +0200</pubDate>
+      <dc:date>2019-06-26T06:32:58.787935+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Daily Mail on Sunday, 19–20 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation-coalitions-seats.png"
+        length="629389"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 06:32:58 +0200</pubDate>
+      <dc:date>2019-06-26T06:32:58.787935+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail on Sunday, 19–20 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Survation.png"
         length="187525"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 19:37:58 +0200</pubDate>
-      <dc:date>2019-06-25T19:37:58.482818+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 06:32:58 +0200</pubDate>
+      <dc:date>2019-06-26T06:32:58.787935+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 19–20 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-20-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 48–86 seats&lt;/li&gt;&lt;li&gt;Labour Party: 162–214 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 67–86 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 51–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2–3 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 213–263 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Opinium-seats.png"
+        length="179365"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 06:39:08 +0200</pubDate>
+      <dc:date>2019-06-26T06:39:08.83246+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 19–20 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-20-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Opinium-coalitions-seats.png"
+        length="530709"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 06:39:08 +0200</pubDate>
+      <dc:date>2019-06-26T06:39:08.83246+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 19–20 June 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-20-Opinium.png"
         length="185791"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 19:57:30 +0200</pubDate>
-      <dc:date>2019-06-25T19:57:30.20303+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 06:39:08 +0200</pubDate>
+      <dc:date>2019-06-26T06:39:08.83246+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 13–14 June 2019 – Seat Projections for the Parties</title>
@@ -4239,6 +4279,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-25T19:57:30.20303+02:00</dc:date>
+    <dc:date>2019-06-26T06:39:08.83246+02:00</dc:date>
   </channel>
 </rss>
