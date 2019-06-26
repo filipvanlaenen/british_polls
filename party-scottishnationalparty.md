@@ -247,8 +247,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52 | 50–53 | 48–53 | 47–53 | 43–54 |
-| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 51 | 48–53 | 47–53 | 44–53 | 40–53 |
+| N/A | [Poll Average](average.html) | 52 | 49–53 | 48–53 | 47–53 | 42–54 |
+| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 51 | 48–51 | 47–53 | 45–53 | 39–53 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 53 | 51–53 | 51–54 | 51–54 | 50–54 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 50 | 48–50 | 47–52 | 46–53 | 42–54 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 52 | 50–54 | 50–54 | 50–54 | 48–54 |
@@ -473,21 +473,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0.1% | 99.9% | Last Result |
 | 36 | 0% | 99.9% |  |
-| 37 | 0% | 99.9% |  |
+| 37 | 0% | 99.8% |  |
 | 38 | 0% | 99.8% |  |
-| 39 | 0% | 99.8% |  |
-| 40 | 0.1% | 99.8% |  |
+| 39 | 0.1% | 99.8% |  |
+| 40 | 0% | 99.8% |  |
 | 41 | 0.1% | 99.7% |  |
 | 42 | 0.1% | 99.6% |  |
 | 43 | 0.1% | 99.5% |  |
-| 44 | 0.3% | 99.4% |  |
-| 45 | 0.3% | 99.1% |  |
+| 44 | 0.2% | 99.4% |  |
+| 45 | 0.4% | 99.2% |  |
 | 46 | 0.7% | 98.8% |  |
-| 47 | 1.4% | 98% |  |
+| 47 | 1.2% | 98% |  |
 | 48 | 3% | 97% |  |
-| 49 | 3% | 93% |  |
-| 50 | 17% | 91% |  |
-| 51 | 22% | 74% |  |
+| 49 | 4% | 93% |  |
+| 50 | 17% | 90% |  |
+| 51 | 21% | 73% |  |
 | 52 | 3% | 52% | Median |
 | 53 | 47% | 49% |  |
 | 54 | 2% | 2% |  |
