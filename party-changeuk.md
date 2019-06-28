@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.4–4.2% | 0.2–4.4% | 0.2–4.6% | 0.1–4.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–3.9% | 0.2–4.2% | 0.2–4.4% | 0.1–4.8% |
+| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
@@ -231,12 +232,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% | Last Result |
-| 0.5–1.5% | 42% | 86% | Median |
-| 1.5–2.5% | 0.9% | 44% |  |
-| 2.5–3.5% | 4% | 43% |  |
-| 3.5–4.5% | 36% | 39% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 0.0–0.5% | 20% | 100% | Last Result |
+| 0.5–1.5% | 59% | 80% | Median |
+| 1.5–2.5% | 1.2% | 21% |  |
+| 2.5–3.5% | 3% | 20% |  |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 1.4% | 1.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -249,6 +250,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
