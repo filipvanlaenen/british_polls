@@ -12,6 +12,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.7% | 4.6–10.0% | 4.4–10.4% | 4.3–10.8% | 4.0–11.3% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 10.0% | 9.1–10.9% | 8.9–11.1% | 8.7–11.3% | 8.4–11.8% |
+| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 8.1% | N/A | N/A | N/A | N/A |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.5% |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.4–11.0% |
@@ -256,6 +257,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–7 | 2–9 | 2–9 | 2–9 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 7 | 5–10 | 5–11 | 4–12 | 4–12 |
