@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 28 Jun 2019 20:39:06 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 08:40:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 24–25 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-06-25-YouGov.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Fri, 28 Jun 2019 20:39:06 +0200</pubDate>
       <dc:date>2019-06-28T20:39:06.352146+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 21–25 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-06-25-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.8–29.1%&lt;/li&gt;&lt;li&gt;Labour Party: 21.8–27.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 19.9–25.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Green Party: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 10.3–14.3%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-25-IpsosMORI.png"
+        length="198828"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 08:40:43 +0200</pubDate>
+      <dc:date>2019-06-30T08:40:43.075443+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail on Sunday, 19–20 June 2019 – Seat Projections for the Parties</title>
@@ -4289,6 +4299,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-06-28T20:39:06.352146+02:00</dc:date>
+    <dc:date>2019-06-30T08:40:43.075443+02:00</dc:date>
   </channel>
 </rss>
