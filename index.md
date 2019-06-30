@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–27% <br> 52–208 | 19–28% <br> 117–235 | 15–20% <br> 66–86 | 2–5% <br> 47–53 | 1–2% <br> 0 | 4–11% <br> 2–9 | 1–2% <br> 4–11 | 17–25% <br> 90–270 | 0–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 19–28% <br> 53–253 | 19–28% <br> 117–235 | 15–24% <br> 67–89 | 2–5% <br> 48–53 | 1–2% <br> 0 | 4–11% <br> 2–9 | 1–2% <br> 4–10 | 11–25% <br> 42–270 | 0–4% <br> 0 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 20–24% <br> 95–112 | 18–22% <br> 117 | 17–21% <br> 82–84 | 3–5% <br> 50–53 | 1–2% <br> 0 | 9–11% <br> 7–9 | 1–2% <br> 7 | 20–24% <br> 254–270 | 0–1% <br> 0 |
-| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 24–29% <br> 253 | 22–27% <br> 184 | 20–25% <br> 89 | 3–5% <br> 48 | 1–2% <br> 0 | 7–10% <br> 5 | 1–2% <br> 10 | 10–14% <br> 42 | 0–1% <br> 0 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 22–26% <br> 93–171 | 24–28% <br> 166–222 | 16–20% <br> 69–90 | 2–4% <br> 45–53 | 1–2% <br> 0 | 5–7% <br> 2–4 | 1–2% <br> 4–11 | 18–22% <br> 131–207 | 1–2% <br> 0 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 18–22% <br> 48–86 | 24–28% <br> 162–214 | 14–18% <br> 67–86 | 3–5% <br> 51–54 | 1–3% <br> 0 | 5–7% <br> 2–3 | 1–2% <br> 4–12 | 21–25% <br> 213–263 | 1–2% <br> 0 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 21–25% <br> 72–131 | 25–29% <br> 171–219 | 15–19% <br> 67–84 | 2–4% <br> 46–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–10 | 20–24% <br> 165–237 | 1–2% <br> 0 |
