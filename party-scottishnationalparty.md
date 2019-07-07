@@ -10,7 +10,8 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.0% | 2.2–5.5% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.6–4.4% | 2.5–4.7% | 2.4–5.0% | 2.2–5.6% |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 4.9% | N/A | N/A | N/A | N/A |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 4.0% | 3.3–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -235,11 +236,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 49% | 95% | Last Result, Median |
-| 3.5–4.5% | 38% | 46% |  |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 60% | 93% | Last Result, Median |
+| 3.5–4.5% | 25% | 33% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -251,7 +252,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 48–53 | 48–53 | 47–53 | 41–54 |
+| N/A | [Poll Average](average.html) | 50 | 48–51 | 48–53 | 46–53 | 40–53 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 52 | 50–53 | 50–53 | 50–53 | 50–54 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 48 | 48 | 48 | 48 | 48–51 |
@@ -477,28 +479,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 99.9% |  |
+| 32 | 0% | 99.9% |  |
+| 33 | 0% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
 | 35 | 0.1% | 99.9% | Last Result |
-| 36 | 0% | 99.8% |  |
-| 37 | 0% | 99.8% |  |
-| 38 | 0% | 99.8% |  |
+| 36 | 0% | 99.7% |  |
+| 37 | 0% | 99.7% |  |
+| 38 | 0% | 99.7% |  |
 | 39 | 0.1% | 99.7% |  |
-| 40 | 0.1% | 99.7% |  |
-| 41 | 0.1% | 99.6% |  |
-| 42 | 0.1% | 99.5% |  |
-| 43 | 0.1% | 99.4% |  |
-| 44 | 0.3% | 99.3% |  |
-| 45 | 0.2% | 98.9% |  |
-| 46 | 0.8% | 98.7% |  |
-| 47 | 1.3% | 98% |  |
-| 48 | 28% | 97% |  |
-| 49 | 5% | 68% |  |
-| 50 | 6% | 63% |  |
-| 51 | 30% | 58% | Median |
-| 52 | 2% | 27% |  |
-| 53 | 24% | 26% |  |
-| 54 | 1.3% | 1.3% |  |
-| 55 | 0% | 0% |  |
+| 40 | 0.1% | 99.6% |  |
+| 41 | 0.2% | 99.5% |  |
+| 42 | 0.2% | 99.3% |  |
+| 43 | 0.1% | 99.1% |  |
+| 44 | 0.5% | 99.0% |  |
+| 45 | 0.2% | 98.6% |  |
+| 46 | 1.1% | 98% |  |
+| 47 | 2% | 97% |  |
+| 48 | 38% | 95% |  |
+| 49 | 7% | 58% |  |
+| 50 | 7% | 51% | Median |
+| 51 | 37% | 44% |  |
+| 52 | 2% | 7% |  |
+| 53 | 5% | 5% |  |
+| 54 | 0% | 0% |  |
 
 
