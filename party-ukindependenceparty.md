@@ -10,9 +10,9 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.7% | 0.5–2.0% |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -235,9 +235,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% |  |
-| 0.5–1.5% | 94% | 99.1% | Median |
-| 1.5–2.5% | 5% | 5% | Last Result |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 80% | 84% | Median |
+| 1.5–2.5% | 4% | 4% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -250,8 +250,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
