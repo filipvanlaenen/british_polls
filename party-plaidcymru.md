@@ -10,8 +10,12 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
+| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 0.2% | N/A | N/A | N/A | N/A |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 1.0% | N/A | N/A | N/A | N/A |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -235,9 +239,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 95% | 99.2% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 92% | 99.0% | Last Result, Median |
+| 1.5–2.5% | 7% | 7% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -249,8 +253,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 4–11 | 4–14 | 4–16 | 4–16 |
+| N/A | [Poll Average](average.html) | 6 | 6–15 | 4–16 | 4–16 | 4–17 |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation |  |  |  |  |  |
+| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 6 | 6 | 6–8 | 4–10 | 4–11 |
+| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 6 | 4–8 | 4–11 | 4–11 | 4–16 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 6 | 5–11 | 4–11 | 4–15 | 4–15 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 8 | 4–16 | 4–16 | 4–16 | 4–18 |
@@ -476,22 +484,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 11% | 99.7% | Last Result |
-| 5 | 1.3% | 88% |  |
-| 6 | 26% | 87% |  |
-| 7 | 13% | 61% | Median |
-| 8 | 5% | 48% |  |
-| 9 | 26% | 43% |  |
-| 10 | 6% | 17% |  |
-| 11 | 3% | 10% |  |
-| 12 | 0.9% | 8% |  |
-| 13 | 0.3% | 7% |  |
-| 14 | 2% | 6% |  |
-| 15 | 1.2% | 5% |  |
-| 16 | 3% | 3% |  |
-| 17 | 0.2% | 0.4% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 0.2% | 99.9% |  |
+| 4 | 8% | 99.7% | Last Result |
+| 5 | 0.4% | 91% |  |
+| 6 | 47% | 91% | Median |
+| 7 | 13% | 44% |  |
+| 8 | 4% | 31% |  |
+| 9 | 2% | 26% |  |
+| 10 | 4% | 24% |  |
+| 11 | 4% | 21% |  |
+| 12 | 1.2% | 17% |  |
+| 13 | 0.2% | 15% |  |
+| 14 | 5% | 15% |  |
+| 15 | 3% | 10% |  |
+| 16 | 7% | 8% |  |
+| 17 | 0.4% | 0.9% |  |
+| 18 | 0.3% | 0.4% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
