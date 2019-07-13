@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 08 Jul 2019 18:17:49 +0200</pubDate>
+    <pubDate>Sat, 13 Jul 2019 10:43:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.png"
         length="187838"
         type="image/png"/>
-      <pubDate>Mon, 08 Jul 2019 18:10:39 +0200</pubDate>
-      <dc:date>2019-07-08T18:10:39.169015+02:00</dc:date>
+      <pubDate>Fri, 12 Jul 2019 23:12:31 +0200</pubDate>
+      <dc:date>2019-07-12T23:12:31.843295+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 2–3 July 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-03-YouGov.png"
         length="192028"
         type="image/png"/>
-      <pubDate>Mon, 08 Jul 2019 18:17:49 +0200</pubDate>
-      <dc:date>2019-07-08T18:17:49.546496+02:00</dc:date>
+      <pubDate>Fri, 12 Jul 2019 23:28:25 +0200</pubDate>
+      <dc:date>2019-07-12T23:28:25.77671+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 24–25 June 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-25-YouGov.png"
         length="185905"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 06:57:54 +0200</pubDate>
-      <dc:date>2019-07-01T06:57:54.941313+02:00</dc:date>
+      <pubDate>Sat, 13 Jul 2019 10:36:10 +0200</pubDate>
+      <dc:date>2019-07-13T10:36:10.545706+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 21–25 June 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-25-IpsosMORI.png"
         length="198828"
         type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 08:40:43 +0200</pubDate>
-      <dc:date>2019-06-30T08:40:43.075443+02:00</dc:date>
+      <pubDate>Sat, 13 Jul 2019 10:43:59 +0200</pubDate>
+      <dc:date>2019-07-13T10:43:59.500904+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail on Sunday, 19–20 June 2019 – Seat Projections for the Parties</title>
@@ -4319,6 +4319,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-08T18:17:49.546496+02:00</dc:date>
+    <dc:date>2019-07-13T10:43:59.500904+02:00</dc:date>
   </channel>
 </rss>
