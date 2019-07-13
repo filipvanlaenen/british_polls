@@ -8,7 +8,37 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 13 Jul 2019 10:43:59 +0200</pubDate>
+    <pubDate>Sat, 13 Jul 2019 19:54:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation, 10–11 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 20.2–25.4%&lt;/li&gt;&lt;li&gt;Labour Party: 26.0–31.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.4–22.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.png"
+        length="202488"
+        type="image/png"/>
+      <pubDate>Sat, 13 Jul 2019 17:11:05 +0200</pubDate>
+      <dc:date>2019-07-13T17:11:05.263533+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 21.9–26.0%&lt;/li&gt;&lt;li&gt;Labour Party: 18.1–21.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 17.1–20.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 7.7–10.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 19.0–22.9%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov.png"
+        length="189636"
+        type="image/png"/>
+      <pubDate>Sat, 13 Jul 2019 17:20:14 +0200</pubDate>
+      <dc:date>2019-07-13T17:20:14.981954+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 5–7 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.5–27.3%&lt;/li&gt;&lt;li&gt;Labour Party: 26.5–30.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.7–17.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.6–21.1%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.png"
+        length="185858"
+        type="image/png"/>
+      <pubDate>Sat, 13 Jul 2019 17:34:50 +0200</pubDate>
+      <dc:date>2019-07-13T17:34:50.970087+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.html</link>
@@ -18,6 +48,16 @@
         type="image/png"/>
       <pubDate>Fri, 12 Jul 2019 23:12:31 +0200</pubDate>
       <dc:date>2019-07-12T23:12:31.843295+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 2–5 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-05-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 26.0–30.5%&lt;/li&gt;&lt;li&gt;Labour Party: 25.0–29.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.3–20.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Green Party: 5.0–7.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 12.4–15.9%&lt;/li&gt;&lt;li&gt;Change UK: 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-05-BMGResearch.png"
+        length="194064"
+        type="image/png"/>
+      <pubDate>Sat, 13 Jul 2019 19:54:43 +0200</pubDate>
+      <dc:date>2019-07-13T19:54:43.903224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 2–3 July 2019 – Voting Intentions</title>
@@ -4319,6 +4359,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-13T10:43:59.500904+02:00</dc:date>
+    <dc:date>2019-07-13T19:54:43.903224+02:00</dc:date>
   </channel>
 </rss>
