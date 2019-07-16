@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 15 Jul 2019 20:43:21 +0200</pubDate>
+    <pubDate>Tue, 16 Jul 2019 20:30:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation, 10–11 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.png"
         length="202488"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 17:02:51 +0200</pubDate>
-      <dc:date>2019-07-14T17:02:51.693045+02:00</dc:date>
+      <pubDate>Tue, 16 Jul 2019 20:30:08 +0200</pubDate>
+      <dc:date>2019-07-16T20:30:08.928612+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 102–201 seats&lt;/li&gt;&lt;li&gt;Labour Party: 94–145 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 73–100 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 51–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–15 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 4–10 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 173–250 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov-seats.png"
+        length="206926"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 19:19:15 +0200</pubDate>
+      <dc:date>2019-07-16T19:19:15.114139+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov-coalitions-seats.png"
+        length="650237"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 19:19:15 +0200</pubDate>
+      <dc:date>2019-07-16T19:19:15.114139+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-10-YouGov.png"
         length="189636"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 16:45:34 +0200</pubDate>
-      <dc:date>2019-07-14T16:45:34.145892+02:00</dc:date>
+      <pubDate>Tue, 16 Jul 2019 19:19:15 +0200</pubDate>
+      <dc:date>2019-07-16T19:19:15.114139+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 5–7 July 2019 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.png"
         length="185858"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 12:01:55 +0200</pubDate>
-      <dc:date>2019-07-14T12:01:55.999719+02:00</dc:date>
+      <pubDate>Tue, 16 Jul 2019 20:11:18 +0200</pubDate>
+      <dc:date>2019-07-16T20:11:18.607102+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Voting Intentions</title>
@@ -96,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-06-25-YouGov.png"
         length="185905"
         type="image/png"/>
-      <pubDate>Sat, 13 Jul 2019 10:36:10 +0200</pubDate>
-      <dc:date>2019-07-13T10:36:10.545706+02:00</dc:date>
+      <pubDate>Mon, 15 Jul 2019 23:14:17 +0200</pubDate>
+      <dc:date>2019-07-15T23:14:17.038576+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 21–25 June 2019 – Seat Projections for the Parties</title>
@@ -4399,6 +4419,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-15T20:43:21.525754+02:00</dc:date>
+    <dc:date>2019-07-16T20:30:08.928612+02:00</dc:date>
   </channel>
 </rss>
