@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 16 Jul 2019 20:30:08 +0200</pubDate>
+    <pubDate>Wed, 17 Jul 2019 11:52:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation, 10–11 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 59–148 seats&lt;/li&gt;&lt;li&gt;Labour Party: 187–272 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 69–101 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 51–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 3–14 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 104–211 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation-seats.png"
+        length="196956"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 23:10:00 +0200</pubDate>
+      <dc:date>2019-07-16T23:10:00.916116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 10–11 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation-coalitions-seats.png"
+        length="685532"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 23:10:00 +0200</pubDate>
+      <dc:date>2019-07-16T23:10:00.916116+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation, 10–11 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.png"
         length="202488"
         type="image/png"/>
-      <pubDate>Tue, 16 Jul 2019 20:30:08 +0200</pubDate>
-      <dc:date>2019-07-16T20:30:08.928612+02:00</dc:date>
+      <pubDate>Tue, 16 Jul 2019 23:10:00 +0200</pubDate>
+      <dc:date>2019-07-16T23:10:00.916116+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Seat Projections for the Parties</title>
@@ -50,14 +70,54 @@
       <dc:date>2019-07-16T19:19:15.114139+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 5–7 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 111–189 seats&lt;/li&gt;&lt;li&gt;Labour Party: 192–251 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 60–76 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 42–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 2–3 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 99–178 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes-seats.png"
+        length="196943"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 21:52:00 +0200</pubDate>
+      <dc:date>2019-07-16T21:52:00.884529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 5–7 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes-coalitions-seats.png"
+        length="630225"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 21:52:00 +0200</pubDate>
+      <dc:date>2019-07-16T21:52:00.884529+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 5–7 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.5–27.3%&lt;/li&gt;&lt;li&gt;Labour Party: 26.5–30.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.7–17.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.6–21.1%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-07-ComRes.png"
         length="185858"
         type="image/png"/>
-      <pubDate>Tue, 16 Jul 2019 20:11:18 +0200</pubDate>
-      <dc:date>2019-07-16T20:11:18.607102+02:00</dc:date>
+      <pubDate>Tue, 16 Jul 2019 21:52:00 +0200</pubDate>
+      <dc:date>2019-07-16T21:52:00.884529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 82–135 seats&lt;/li&gt;&lt;li&gt;Labour Party: 150–201 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 58–74 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 3–6 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 179–251 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium-seats.png"
+        length="193652"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 11:02:23 +0200</pubDate>
+      <dc:date>2019-07-17T11:02:23.46596+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium-coalitions-seats.png"
+        length="563185"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 11:02:23 +0200</pubDate>
+      <dc:date>2019-07-17T11:02:23.46596+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 3–5 July 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-05-Opinium.png"
         length="187838"
         type="image/png"/>
-      <pubDate>Fri, 12 Jul 2019 23:12:31 +0200</pubDate>
-      <dc:date>2019-07-12T23:12:31.843295+02:00</dc:date>
+      <pubDate>Wed, 17 Jul 2019 11:02:23 +0200</pubDate>
+      <dc:date>2019-07-17T11:02:23.46596+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 2–5 July 2019 – Seat Projections for the Parties</title>
@@ -106,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-03-YouGov.png"
         length="192028"
         type="image/png"/>
-      <pubDate>Fri, 12 Jul 2019 23:28:25 +0200</pubDate>
-      <dc:date>2019-07-12T23:28:25.77671+02:00</dc:date>
+      <pubDate>Wed, 17 Jul 2019 11:52:26 +0200</pubDate>
+      <dc:date>2019-07-17T11:52:26.77554+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 24–25 June 2019 – Voting Intentions</title>
@@ -4419,6 +4479,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-16T20:30:08.928612+02:00</dc:date>
+    <dc:date>2019-07-17T11:52:26.77554+02:00</dc:date>
   </channel>
 </rss>
