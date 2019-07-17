@@ -253,13 +253,13 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–10 | 1–12 | 0–14 | 0–16 |
-| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 6 | 4–10 | 3–14 | 3–14 | 3–15 |
+| N/A | [Poll Average](average.html) | 6 | 1–10 | 1–12 | 0–14 | 0–16 |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 5 | 4–10 | 4–14 | 3–14 | 3–15 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–12 | 4–15 | 4–16 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 6 | 6 | 6–8 | 4–10 | 4–11 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 6 | 4–10 | 4–11 | 4–12 | 4–12 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 8 | 4–10 | 3–10 | 3–11 | 3–12 |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 6 | 4–8 | 4–11 | 4–11 | 4–16 |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 6 | 4–8 | 4–11 | 4–13 | 4–16 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 6 | 5–11 | 5–12 | 4–15 | 4–15 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 7 | 4–14 | 4–15 | 4–16 | 3–16 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 9 | 4–10 | 4–10 | 4–11 | 4–13 |
@@ -486,17 +486,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
 | 1 | 5% | 95% |  |
-| 2 | 1.4% | 90% |  |
-| 3 | 7% | 89% |  |
-| 4 | 16% | 82% | Last Result |
-| 5 | 2% | 66% |  |
-| 6 | 22% | 63% | Median |
-| 7 | 13% | 41% |  |
-| 8 | 10% | 29% |  |
-| 9 | 8% | 19% |  |
-| 10 | 4% | 11% |  |
-| 11 | 1.4% | 7% |  |
-| 12 | 1.2% | 6% |  |
+| 2 | 2% | 90% |  |
+| 3 | 6% | 88% |  |
+| 4 | 23% | 82% | Last Result |
+| 5 | 2% | 59% |  |
+| 6 | 11% | 57% | Median |
+| 7 | 14% | 47% |  |
+| 8 | 10% | 32% |  |
+| 9 | 9% | 23% |  |
+| 10 | 5% | 14% |  |
+| 11 | 2% | 8% |  |
+| 12 | 2% | 6% |  |
 | 13 | 0.6% | 5% |  |
 | 14 | 2% | 4% |  |
 | 15 | 1.0% | 2% |  |
