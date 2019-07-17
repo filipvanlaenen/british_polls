@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 20–25% <br> 59–148 | 26–32% <br> 187–272 | 16–21% <br> 69–101 | 3–5% <br> 51–54 | N/A <br> N/A | 2–4% <br> 1–2 | 1–2% <br> 3–14 | 17–22% <br> 104–211 | N/A <br> N/A |
+| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 22–26% <br> 102–201 | 18–22% <br> 94–145 | 17–21% <br> 73–100 | 4–6% <br> 51–54 | 0–1% <br> 0 | 8–10% <br> 4–10 | 1–2% <br> 4–15 | 19–23% <br> 173–250 | 0–1% <br> 0 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 24–27% <br> 111–189 | 26–30% <br> 192–251 | 15–18% <br> 60–76 | 2–4% <br> 42–53 | 1–2% <br> 0 | 4–6% <br> 2–3 | 0–1% <br> 0–4 | 18–21% <br> 99–178 | 0–1% <br> 0 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 21–25% <br> 82–135 | 23–27% <br> 150–201 | 13–16% <br> 58–74 | 4–6% <br> 53–54 | 1–2% <br> 0 | 7–9% <br> 3–6 | 1–2% <br> 4–12 | 20–24% <br> 179–251 | 1–2% <br> 0 |
