@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.2% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.2% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 1.0% | N/A | N/A | N/A | N/A |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -239,9 +240,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% | Last Result, Median |
-| 0.5–1.5% | 44% | 45% |  |
-| 1.5–2.5% | 1.1% | 1.1% |  |
+| 0.0–0.5% | 45% | 100% | Last Result |
+| 0.5–1.5% | 54% | 55% | Median |
+| 1.5–2.5% | 1.4% | 1.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -255,6 +256,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation |  |  |  |  |  |
+| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express |  |  |  |  |  |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
