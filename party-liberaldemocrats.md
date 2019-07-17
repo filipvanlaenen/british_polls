@@ -276,8 +276,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 68 | 64–72 | 63–74 | 60–76 | 57–80 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 68 | 62–71 | 61–72 | 58–74 | 55–77 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 72 | 65–78 | 63–81 | 61–83 | 59–86 |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 89 | 81–99 | 81–99 | 78–102 | 74–107 |
-| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 91 | 81–98 | 79–101 | 78–102 | 76–107 |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 89 | 81–99 | 80–99 | 77–104 | 74–109 |
+| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 91 | 82–98 | 80–100 | 79–102 | 75–109 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 94 | 82–106 | 80–115 | 75–116 | 74–119 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 78 | 71–85 | 70–87 | 69–90 | 66–94 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 73 | 69–82 | 68–85 | 67–86 | 67–91 |
