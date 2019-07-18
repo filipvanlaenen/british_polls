@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 17 Jul 2019 21:30:08 +0200</pubDate>
+    <pubDate>Thu, 18 Jul 2019 19:17:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation, 10–11 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-11-ComRes.png"
         length="187157"
         type="image/png"/>
-      <pubDate>Wed, 17 Jul 2019 21:30:08 +0200</pubDate>
-      <dc:date>2019-07-17T21:30:08.15845+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 19:17:16 +0200</pubDate>
+      <dc:date>2019-07-18T19:17:16.308237+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 9–10 July 2019 – Seat Projections for the Parties</title>
@@ -4529,6 +4529,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-17T21:30:08.15845+02:00</dc:date>
+    <dc:date>2019-07-18T19:17:16.308237+02:00</dc:date>
   </channel>
 </rss>
