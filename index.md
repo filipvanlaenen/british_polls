@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–30% <br> 76–272 | 19–30% <br> 102–265 | 14–24% <br> 60–105 | 2–6% <br> 12–54 | 0–2% <br> 0 | 2–10% <br> 1–8 | 1–2% <br> 4–14 | 11–23% <br> 26–239 | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–30% <br> 76–272 | 19–30% <br> 102–265 | 14–24% <br> 61–105 | 2–6% <br> 12–54 | 0–2% <br> 0 | 2–10% <br> 1–8 | 1–2% <br> 4–14 | 11–23% <br> 26–239 | 0–2% <br> 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 20–25% <br> 59–148 | 26–32% <br> 187–272 | 16–21% <br> 69–101 | 3–5% <br> 51–54 | N/A <br> N/A | 2–4% <br> 1–2 | 1–2% <br> 3–14 | 17–22% <br> 104–211 | N/A <br> N/A |
-| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 22–26% <br> 99–160 | 26–30% <br> 178–238 | 13–17% <br> 57–71 | 2–4% <br> 43–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–10 | 18–22% <br> 117–203 | 1–2% <br> 0 |
+| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 22–26% <br> 103–167 | 26–30% <br> 186–236 | 13–17% <br> 59–72 | 2–4% <br> 43–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–12 | 18–22% <br> 114–199 | 1–2% <br> 0 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 22–26% <br> 102–201 | 18–22% <br> 94–145 | 17–21% <br> 73–100 | 4–6% <br> 51–54 | 0–1% <br> 0 | 8–10% <br> 4–10 | 1–2% <br> 4–15 | 19–23% <br> 173–250 | 0–1% <br> 0 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 21–25% <br> 82–135 | 23–27% <br> 150–201 | 13–16% <br> 58–74 | 4–6% <br> 53–54 | 1–2% <br> 0 | 7–9% <br> 3–6 | 1–2% <br> 4–12 | 20–24% <br> 179–251 | 1–2% <br> 0 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 26–31% <br> 199–285 | 25–30% <br> 189–285 | 16–20% <br> 61–83 | 1–3% <br> 1–48 | 1–3% <br> 0 | 5–7% <br> 2–5 | 1–2% <br> 3–11 | 12–16% <br> 27–76 | 1–2% <br> 0 |
