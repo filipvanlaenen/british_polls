@@ -264,7 +264,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–6 | 2–6 | 1–8 | 1–10 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 2 | 2 | 2–3 | 2–4 | 2–4 |
+| [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 2 | 2 | 2–3 | 2–3 | 2–4 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 5 | 4–8 | 4–9 | 4–10 | 3–11 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3–5 | 3–6 | 3–6 | 3–9 |
@@ -495,8 +495,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 28% | 96% |  |
-| 3 | 16% | 68% |  |
+| 2 | 29% | 96% |  |
+| 3 | 16% | 67% |  |
 | 4 | 19% | 52% | Median |
 | 5 | 21% | 33% |  |
 | 6 | 8% | 12% |  |
