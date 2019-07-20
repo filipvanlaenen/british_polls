@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 19 Jul 2019 18:16:15 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 15:55:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 16–17 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-17-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 23.1–27.2%&lt;/li&gt;&lt;li&gt;Labour Party: 19.3–23.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 18.3–22.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 6.9–9.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 17.3–21.0%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-17-YouGov.png"
+        length="189003"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 15:55:43 +0200</pubDate>
+      <dc:date>2019-07-20T15:55:43.873658+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation, 10–11 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html#seats</link>
@@ -4549,6 +4559,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-07-19T18:16:15.216417+02:00</dc:date>
+    <dc:date>2019-07-20T15:55:43.873658+02:00</dc:date>
   </channel>
 </rss>
