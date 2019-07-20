@@ -11,7 +11,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
-| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
@@ -241,9 +241,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.3% | 100% |  |
-| 0.5–1.5% | 93% | 98.7% | Last Result, Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.0–0.5% | 1.1% | 100% |  |
+| 0.5–1.5% | 93% | 98.9% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -255,8 +255,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 4–10 | 4–12 | 4–14 | 3–16 |
-| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 7 | 4–10 | 4–13 | 4–15 | 3–16 |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 6 | 6–8 | 6–16 | 6–16 | 6–16 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 5 | 4–10 | 4–14 | 3–14 | 3–15 |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 7 | 4–9 | 4–9 | 4–10 | 4–12 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–12 | 4–15 | 4–16 |
@@ -488,21 +488,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% |  |
-| 3 | 2% | 99.9% |  |
-| 4 | 29% | 98% | Last Result |
-| 5 | 2% | 69% |  |
-| 6 | 7% | 66% |  |
-| 7 | 18% | 59% | Median |
-| 8 | 16% | 42% |  |
-| 9 | 12% | 26% |  |
-| 10 | 6% | 14% |  |
+| 3 | 2% | 100% |  |
+| 4 | 24% | 98% | Last Result |
+| 5 | 2% | 74% |  |
+| 6 | 16% | 72% |  |
+| 7 | 15% | 56% | Median |
+| 8 | 19% | 42% |  |
+| 9 | 10% | 23% |  |
+| 10 | 5% | 13% |  |
 | 11 | 2% | 8% |  |
-| 12 | 2% | 6% |  |
-| 13 | 0.6% | 5% |  |
-| 14 | 2% | 4% |  |
-| 15 | 1.0% | 2% |  |
-| 16 | 0.7% | 0.8% |  |
+| 12 | 1.4% | 6% |  |
+| 13 | 0.5% | 5% |  |
+| 14 | 2% | 5% |  |
+| 15 | 0.9% | 3% |  |
+| 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
