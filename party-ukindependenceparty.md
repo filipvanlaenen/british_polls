@@ -10,7 +10,8 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.1% | 0.2–2.3% | 0.2–2.5% | 0.1–2.9% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–2.2% | 0.7–2.4% | 0.6–2.6% | 0.5–2.9% |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
@@ -240,10 +241,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 58% | 80% | Median |
-| 1.5–2.5% | 20% | 22% | Last Result |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 72% | 99.4% | Median |
+| 1.5–2.5% | 25% | 28% | Last Result |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -256,6 +257,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation |  |  |  |  |  |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 0 | 0 | 0 | 0 | 0 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
