@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-07-19T18:16:15.216417+02:00</updated>
+  <updated>2019-07-21T09:54:21.299705+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 23.1–27.2%, 131–235 seats</li><li>Labour Party: 19.3–23.1%, 102–157 seats</li><li>Liberal Democrats: 18.3–22.1%, 76–101 seats</li><li>Scottish National Party: 3.2–5.0%, 50–54 seats</li><li>Plaid Cymru: 0.6–1.6%, 4–15 seats</li><li>UK Independence Party: 0.1–0.6%, 0 seats</li><li>Green Party: 6.9–9.4%, 3–7 seats</li><li>Brexit Party: 17.3–21.0%, 124–209 seats</li><li>Change UK: 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-07-17-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-07-17-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 16–17 July 2019</title>
+    <updated>2019-07-21T09:54:21.299705+02:00</updated>
+    <dc:date>2019-07-21T09:54:21.299705+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 20.2–25.4%, 59–148 seats</li><li>Labour Party: 26.0–31.6%, 187–272 seats</li><li>Liberal Democrats: 16.5–21.3%, 69–101 seats</li><li>Scottish National Party: 2.9–5.3%, 51–54 seats</li><li>Plaid Cymru: 0.5–1.8%, 3–14 seats</li><li>Green Party: 2.1–4.2%, 1–2 seats</li><li>Brexit Party: 17.4–22.3%, 104–211 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-07-11-Survation.html</id>
@@ -935,5 +943,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-07-19T18:16:15.216417+02:00</dc:date>
+  <dc:date>2019-07-21T09:54:21.299705+02:00</dc:date>
 </feed>
