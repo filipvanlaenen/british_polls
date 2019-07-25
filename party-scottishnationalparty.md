@@ -11,6 +11,7 @@ Last result: **3.0%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 2.2–5.1% | 1.9–5.3% | 1.7–5.6% | 1.5–6.0% |
+| [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–4.9% | 2.8–5.3% |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.0% | 2.9–5.4% |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -245,9 +246,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 1.0% | 100% |  |
 | 1.5–2.5% | 14% | 99.0% |  |
-| 2.5–3.5% | 13% | 85% | Last Result |
-| 3.5–4.5% | 47% | 72% | Median |
-| 4.5–5.5% | 22% | 25% |  |
+| 2.5–3.5% | 14% | 85% | Last Result |
+| 3.5–4.5% | 47% | 71% | Median |
+| 4.5–5.5% | 22% | 24% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -261,6 +262,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 52 | 35–54 | 20–54 | 12–54 | 1–54 |
+| [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 52 | 52 | 52 | 52 | 51–52 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 51 | 50–54 | 50–54 | 50–54 | 48–54 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 53 | 51–53 | 51–53 | 51–54 | 50–54 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 52 | 51–53 | 51–53 | 51–54 | 48–54 |
@@ -541,14 +543,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.6% | 86% |  |
 | 45 | 0.4% | 85% |  |
 | 46 | 0.4% | 85% |  |
-| 47 | 1.1% | 85% |  |
-| 48 | 1.0% | 83% |  |
-| 49 | 0.3% | 82% |  |
-| 50 | 11% | 82% |  |
-| 51 | 19% | 71% |  |
-| 52 | 9% | 52% | Median |
-| 53 | 24% | 44% |  |
-| 54 | 19% | 19% |  |
+| 47 | 1.0% | 85% |  |
+| 48 | 0.9% | 84% |  |
+| 49 | 0.3% | 83% |  |
+| 50 | 6% | 82% |  |
+| 51 | 15% | 76% |  |
+| 52 | 22% | 61% | Median |
+| 53 | 23% | 39% |  |
+| 54 | 15% | 15% |  |
 | 55 | 0.2% | 0.2% |  |
 | 56 | 0% | 0% |  |
 
