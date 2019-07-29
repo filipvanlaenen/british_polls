@@ -10,7 +10,11 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.5–2.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–2.1% | 0.2–2.3% | 0.2–2.5% | 0.1–2.9% |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -243,9 +247,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 77% | 99.3% | Median |
-| 1.5–2.5% | 20% | 22% | Last Result |
+| 0.0–0.5% | 19% | 100% |  |
+| 0.5–1.5% | 61% | 81% | Median |
+| 1.5–2.5% | 18% | 20% | Last Result |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -259,6 +263,10 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 0 | 0 | 0 | 0 | 0 |
