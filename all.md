@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28–32% <br> 242–295 | 23–27% <br> 153–214 | 16–20% <br> 58–74 | 3–5% <br> 49–54 | 1–2% <br> 0 | 3–5% <br> 1–3 | 1–2% <br> 4–11 | 13–16% <br> 30–75 | 1–3% <br> 0 |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28–32% <br> 241–298 | 23–27% <br> 152–214 | 16–20% <br> 58–75 | 3–5% <br> 49–54 | 1–2% <br> 0 | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 13–16% <br> 31–68 | 1–3% <br> 0 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 29–33% <br> 287–318 | 19–23% <br> 113–156 | 18–22% <br> 68–78 | 4–6% <br> 51–54 | 0–1% <br> 0 | 7–9% <br> 4–5 | 1–2% <br> 4–11 | 11–15% <br> 32–72 | 0–1% <br> 0 |
-| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 27–31% <br> 210–280 | 25–29% <br> 179–256 | 14–17% <br> 49–66 | 4–6% <br> 53–54 | 1–2% <br> 0 | 4–6% <br> 2–3 | 1–2% <br> 4–12 | 13–16% <br> 29–81 | 0–1% <br> 0 |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 27–31% <br> 211–283 | 25–29% <br> 180–253 | 14–17% <br> 46–67 | 4–6% <br> 53–54 | 1–2% <br> 0 | 4–6% <br> 2–3 | 1–2% <br> 4–11 | 13–16% <br> 30–77 | 0–1% <br> 0 |
 | [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 26–30% <br> 181–254 | 25–29% <br> 180–247 | 17–21% <br> 68–80 | 2–4% <br> 37–51 | 1–2% <br> 0 | 3–5% <br> 2 | 1–2% <br> 4–11 | 15–18% <br> 41–92 | 0–1% <br> 0 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 22–27% <br> 149–253 | 17–21% <br> 94–145 | 21–25% <br> 89–119 | 3–5% <br> 50–54 | 1–2% <br> 0 | 8–10% <br> 5–9 | 1–2% <br> 4–15 | 15–18% <br> 104–181 | 0–1% <br> 0 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 23–27% <br> 131–235 | 19–23% <br> 102–157 | 18–22% <br> 76–101 | 3–5% <br> 50–54 | 0–1% <br> 0 | 7–9% <br> 3–7 | 1–2% <br> 4–15 | 17–21% <br> 124–209 | 0–1% <br> 0 |
