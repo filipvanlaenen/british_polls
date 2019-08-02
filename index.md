@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–32% <br> 77–309 | 20–30% <br> 133–265 | 15–21% <br> 55–93 | 2–6% <br> 12–54 | 0–2% <br> 0 | 2–9% <br> 1–5 | 1–2% <br> 4–11 | 12–21% <br> 30–186 | 0–2% <br> 0 |
-| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28–32% <br> 241–298 | 23–27% <br> 152–214 | 16–20% <br> 58–75 | 3–5% <br> 49–54 | 1–2% <br> 0 | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 13–16% <br> 31–68 | 1–3% <br> 0 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 29–33% <br> 287–318 | 19–23% <br> 113–156 | 18–22% <br> 68–78 | 4–6% <br> 51–54 | 0–1% <br> 0 | 7–9% <br> 4–5 | 1–2% <br> 4–11 | 11–15% <br> 32–72 | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–35% <br> 79–361 | 21–30% <br> 116–263 | 15–21% <br> 49–93 | 2–6% <br> 12–54 | 1–2% <br> 0 | 3–8% <br> 1–7 | 1–2% <br> 4–14 | 9–21% <br> 4–185 | 0–2% <br> 0 |
+| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 31–35% <br> 274–361 | 21–25% <br> 124–215 | 18–22% <br> 49–79 | 4–6% <br> 53–54 | 1–2% <br> 0 | 5–7% <br> 3–4 | 1–2% <br> 4–11 | 8–11% <br> 4–33 | 0–1% <br> 0 |
+| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 30–36% <br> 256–356 | 20–26% <br> 111–221 | 17–22% <br> 64–77 | 3–5% <br> 48–54 | 1–2% <br> 0 | 6–9% <br> 4–7 | 1–2% <br> 4–18 | 10–14% <br> 4–58 | 0–1% <br> 0 |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28–32% <br> 241–302 | 23–27% <br> 151–215 | 16–20% <br> 58–75 | 3–5% <br> 49–54 | 1–2% <br> 0 | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 13–16% <br> 31–69 | 1–3% <br> 0 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 27–31% <br> 211–283 | 25–29% <br> 180–253 | 14–17% <br> 46–67 | 4–6% <br> 53–54 | 1–2% <br> 0 | 4–6% <br> 2–3 | 1–2% <br> 4–11 | 13–16% <br> 30–77 | 0–1% <br> 0 |
 | [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 26–30% <br> 181–254 | 25–29% <br> 180–247 | 17–21% <br> 68–80 | 2–4% <br> 37–51 | 1–2% <br> 0 | 3–5% <br> 2 | 1–2% <br> 4–11 | 15–18% <br> 41–92 | 0–1% <br> 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 20–25% <br> 59–148 | 26–32% <br> 187–272 | 16–21% <br> 69–101 | 3–5% <br> 51–54 | N/A <br> N/A | 2–4% <br> 1–2 | 1–2% <br> 3–14 | 17–22% <br> 104–211 | N/A <br> N/A |
