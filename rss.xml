@@ -8,7 +8,47 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 01 Aug 2019 20:22:28 +0200</pubDate>
+    <pubDate>Fri, 02 Aug 2019 11:21:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 29–30 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-30-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 31.2–35.3%&lt;/li&gt;&lt;li&gt;Labour Party: 21.1–24.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 18.1–21.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 5.3–7.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 8.2–10.7%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-30-YouGov.png"
+        length="184698"
+        type="image/png"/>
+      <pubDate>Fri, 02 Aug 2019 11:12:21 +0200</pubDate>
+      <dc:date>2019-08-02T11:12:21.266616+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 26–30 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-30-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 29.7–35.5%&lt;/li&gt;&lt;li&gt;Labour Party: 20.4–25.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.8–21.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.7–13.6%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-30-IpsosMORI.png"
+        length="199751"
+        type="image/png"/>
+      <pubDate>Fri, 02 Aug 2019 11:21:37 +0200</pubDate>
+      <dc:date>2019-08-02T11:21:37.278475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 25–27 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 241–302 seats&lt;/li&gt;&lt;li&gt;Labour Party: 151–215 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 58–75 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 49–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–11 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 31–69 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll-seats.png"
+        length="187191"
+        type="image/png"/>
+      <pubDate>Thu, 01 Aug 2019 21:31:45 +0200</pubDate>
+      <dc:date>2019-08-01T21:31:45.168195+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 25–27 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll-coalitions-seats.png"
+        length="632045"
+        type="image/png"/>
+      <pubDate>Thu, 01 Aug 2019 21:31:45 +0200</pubDate>
+      <dc:date>2019-08-01T21:31:45.168195+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 25–27 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll.html</link>
@@ -16,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-27-Deltapoll.png"
         length="187348"
         type="image/png"/>
-      <pubDate>Thu, 01 Aug 2019 20:22:28 +0200</pubDate>
-      <dc:date>2019-08-01T20:22:28.75464+02:00</dc:date>
+      <pubDate>Thu, 01 Aug 2019 21:31:45 +0200</pubDate>
+      <dc:date>2019-08-01T21:31:45.168195+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 25–26 July 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-26-YouGov.png"
         length="187655"
         type="image/png"/>
-      <pubDate>Tue, 30 Jul 2019 14:44:55 +0200</pubDate>
-      <dc:date>2019-07-30T14:44:55.217393+02:00</dc:date>
+      <pubDate>Thu, 01 Aug 2019 22:18:17 +0200</pubDate>
+      <dc:date>2019-08-01T22:18:17.055177+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 24–26 July 2019 – Voting Intentions</title>
@@ -4679,6 +4719,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-08-01T20:22:28.75464+02:00</dc:date>
+    <dc:date>2019-08-02T11:21:37.278475+02:00</dc:date>
   </channel>
 </rss>
