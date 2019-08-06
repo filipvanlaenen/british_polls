@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 02 Aug 2019 11:21:37 +0200</pubDate>
+    <pubDate>Tue, 06 Aug 2019 13:49:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 29–30 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-07-30-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-30-YouGov.png"
         length="184698"
         type="image/png"/>
-      <pubDate>Fri, 02 Aug 2019 11:12:21 +0200</pubDate>
-      <dc:date>2019-08-02T11:12:21.266616+02:00</dc:date>
+      <pubDate>Sat, 03 Aug 2019 10:29:49 +0200</pubDate>
+      <dc:date>2019-08-03T10:29:49.722501+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 26–30 July 2019 – Voting Intentions</title>
@@ -26,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-30-IpsosMORI.png"
         length="199751"
         type="image/png"/>
-      <pubDate>Fri, 02 Aug 2019 11:21:37 +0200</pubDate>
-      <dc:date>2019-08-02T11:21:37.278475+02:00</dc:date>
+      <pubDate>Sat, 03 Aug 2019 11:37:44 +0200</pubDate>
+      <dc:date>2019-08-03T11:37:44.306514+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Britain Elects, 26–28 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-07-28-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 26.4–31.8%&lt;/li&gt;&lt;li&gt;Labour Party: 27.3–32.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Green Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 13.0–17.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-07-28-ComRes.png"
+        length="167508"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 13:49:51 +0200</pubDate>
+      <dc:date>2019-08-06T13:49:51.198989+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 25–27 July 2019 – Seat Projections for the Parties</title>
@@ -4719,6 +4729,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-08-02T11:21:37.278475+02:00</dc:date>
+    <dc:date>2019-08-06T13:49:51.198989+02:00</dc:date>
   </channel>
 </rss>
