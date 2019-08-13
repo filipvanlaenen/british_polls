@@ -10,8 +10,8 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–2.0% |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 1.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.6% | 0.2–1.7% | 0.1–2.0% |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.9% | 0.5–2.1% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -252,9 +252,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% |  |
-| 0.5–1.5% | 70% | 75% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 20% | 100% |  |
+| 0.5–1.5% | 74% | 80% | Last Result, Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -266,8 +266,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 3–11 | 3–11 | 2–13 | 0–15 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 3–10 | 3–11 | 2–13 | 0–15 |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 6 | 4–9 | 4–10 | 4–10 | 4–12 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 0–4 | 0–5 | 0–5 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–12 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 7 | 4–11 | 4–12 | 4–14 | 4–16 |
@@ -510,21 +510,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 2% | 98% |  |
-| 3 | 15% | 96% |  |
-| 4 | 26% | 81% | Last Result |
-| 5 | 2% | 55% |  |
-| 6 | 1.1% | 53% |  |
-| 7 | 29% | 52% | Median |
-| 8 | 6% | 24% |  |
-| 9 | 2% | 18% |  |
-| 10 | 5% | 16% |  |
-| 11 | 7% | 11% |  |
-| 12 | 0.7% | 4% |  |
-| 13 | 1.0% | 3% |  |
-| 14 | 2% | 2% |  |
+| 0 | 1.4% | 100% |  |
+| 1 | 0% | 98.6% |  |
+| 2 | 2% | 98.6% |  |
+| 3 | 12% | 97% |  |
+| 4 | 26% | 85% | Last Result |
+| 5 | 5% | 59% |  |
+| 6 | 5% | 54% | Median |
+| 7 | 24% | 50% |  |
+| 8 | 9% | 26% |  |
+| 9 | 3% | 17% |  |
+| 10 | 5% | 14% |  |
+| 11 | 6% | 9% |  |
+| 12 | 0.7% | 3% |  |
+| 13 | 0.8% | 3% |  |
+| 14 | 1.3% | 2% |  |
 | 15 | 0.2% | 0.5% |  |
 | 16 | 0.2% | 0.3% |  |
 | 17 | 0% | 0.1% |  |
