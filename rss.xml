@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 11 Aug 2019 14:44:09 +0200</pubDate>
+    <pubDate>Wed, 28 Aug 2019 19:39:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation, 6–11 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-08-11-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 26.3–30.2%&lt;/li&gt;&lt;li&gt;Labour Party: 22.3–26.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 19.4–23.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 13.6–16.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-08-11-Survation.png"
+        length="187466"
+        type="image/png"/>
+      <pubDate>Tue, 27 Aug 2019 07:00:52 +0200</pubDate>
+      <dc:date>2019-08-27T07:00:52.801704+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 8–9 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-08-09-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 29.2–33.2%&lt;/li&gt;&lt;li&gt;Labour Party: 26.2–30.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.7–14.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 14.5–17.8%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-08-09-Opinium.png"
+        length="185762"
+        type="image/png"/>
+      <pubDate>Wed, 28 Aug 2019 19:39:56 +0200</pubDate>
+      <dc:date>2019-08-28T19:39:56.355727+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 5–6 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-08-06-YouGov.html</link>
@@ -4729,6 +4749,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-08-11T14:44:09.690754+02:00</dc:date>
+    <dc:date>2019-08-28T19:39:56.355727+02:00</dc:date>
   </channel>
 </rss>
