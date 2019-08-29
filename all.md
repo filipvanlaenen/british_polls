@@ -5,6 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 26–30% <br> 205–278 | 22–26% <br> 150–218 | 19–23% <br> 74–93 | 3–5% <br> 49–54 | N/A <br> N/A | 2–4% <br> 1–2 | 0–1% <br> 0–4 | 14–17% <br> 46–96 | N/A <br> N/A |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 29–33% <br> N/A | 25–29% <br> N/A | 14–18% <br> N/A | 2–4% <br> N/A | 1–2% <br> N/A | 3–5% <br> N/A | 0–1% <br> N/A | 14–18% <br> N/A | 0–1% <br> N/A |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 29–33% <br> 223–294 | 26–30% <br> 168–242 | 12–15% <br> 36–52 | 3–5% <br> 51–54 | 1–2% <br> 0 | 4–6% <br> 2–3 | 1–2% <br> 4–11 | 15–18% <br> 33–89 | 0–1% <br> 0 |
