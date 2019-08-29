@@ -10,7 +10,13 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.8% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.4% | 0.1–1.6% | 0.1–1.9% |
+| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 1.0% | N/A | N/A | N/A | N/A |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
+| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 0.3% | N/A | N/A | N/A | N/A |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 1.0% | N/A | N/A | N/A | N/A |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -254,9 +260,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% |  |
-| 0.5–1.5% | 49% | 52% | Last Result, Median |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 49% | 100% |  |
+| 0.5–1.5% | 48% | 51% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -268,7 +274,13 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–10 | 0–11 | 0–11 | 0–14 |
+| N/A | [Poll Average](average.html) | 7 | 0–11 | 0–11 | 0–11 | 0–14 |
+| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 4 | 4–8 | 4–10 | 4–11 | 4–11 |
@@ -514,23 +526,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 3% | 92% |  |
-| 2 | 5% | 90% |  |
-| 3 | 17% | 85% |  |
-| 4 | 26% | 68% | Last Result, Median |
-| 5 | 2% | 42% |  |
-| 6 | 0.4% | 40% |  |
-| 7 | 19% | 39% |  |
-| 8 | 8% | 20% |  |
-| 9 | 1.2% | 13% |  |
-| 10 | 4% | 12% |  |
-| 11 | 6% | 8% |  |
-| 12 | 0.3% | 1.5% |  |
-| 13 | 0.4% | 1.2% |  |
-| 14 | 0.5% | 0.8% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0% | 0% |  |
+| 0 | 11% | 100% |  |
+| 1 | 4% | 89% |  |
+| 2 | 5% | 85% |  |
+| 3 | 10% | 80% |  |
+| 4 | 16% | 70% | Last Result |
+| 5 | 0.1% | 54% |  |
+| 6 | 0.2% | 54% |  |
+| 7 | 31% | 54% | Median |
+| 8 | 5% | 23% |  |
+| 9 | 1.1% | 18% |  |
+| 10 | 6% | 17% |  |
+| 11 | 9% | 11% |  |
+| 12 | 0.5% | 2% |  |
+| 13 | 0.6% | 2% |  |
+| 14 | 0.9% | 1.2% |  |
+| 15 | 0.1% | 0.3% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0% | 0.1% |  |
+| 18 | 0% | 0.1% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
