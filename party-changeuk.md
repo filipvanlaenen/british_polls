@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–2.2% | 0.1–2.4% | 0.1–2.5% | 0.1–2.8% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | N/A | N/A | N/A | N/A |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
@@ -260,11 +261,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 63% | 100% | Last Result, Median |
-| 0.5–1.5% | 6% | 37% |  |
-| 1.5–2.5% | 30% | 32% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 94% | 100% | Last Result, Median |
+| 0.5–1.5% | 6% | 6% |  |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -276,6 +275,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
