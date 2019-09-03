@@ -10,7 +10,10 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.5% | 2.6–4.8% | 2.5–5.0% | 2.3–5.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | N/A | N/A | N/A | N/A |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 4.1% | N/A | N/A | N/A | N/A |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 4.9% | N/A | N/A | N/A | N/A |
@@ -262,12 +265,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 39% | 96% | Last Result |
-| 3.5–4.5% | 47% | 57% | Median |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 81% | 90% | Last Result, Median |
+| 3.5–4.5% | 8% | 9% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -278,7 +279,10 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 48–54 | 47–54 | 43–54 | 38–54 |
+| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -528,32 +532,4 @@ Last result: **35** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Scottish National Party.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
-| 33 | 0% | 99.9% |  |
-| 34 | 0% | 99.9% |  |
-| 35 | 0% | 99.9% | Last Result |
-| 36 | 0% | 99.9% |  |
-| 37 | 0.3% | 99.9% |  |
-| 38 | 0.7% | 99.6% |  |
-| 39 | 0% | 98.9% |  |
-| 40 | 0.2% | 98.9% |  |
-| 41 | 0% | 98.7% |  |
-| 42 | 1.0% | 98.7% |  |
-| 43 | 0.6% | 98% |  |
-| 44 | 0.2% | 97% |  |
-| 45 | 0.8% | 97% |  |
-| 46 | 0.3% | 96% |  |
-| 47 | 2% | 96% |  |
-| 48 | 10% | 94% |  |
-| 49 | 3% | 84% |  |
-| 50 | 4% | 81% |  |
-| 51 | 32% | 76% | Median |
-| 52 | 9% | 45% |  |
-| 53 | 6% | 35% |  |
-| 54 | 29% | 29% |  |
-| 55 | 0% | 0% |  |
-
 

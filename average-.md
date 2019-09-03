@@ -38,7 +38,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average--.png "Voting Intentions")
 
 ### Confidence Intervals
 
@@ -230,9 +230,9 @@ Only polls for which at least the sample size has been published are included in
 
 ## Seats
 
-![Graph with seats not yet produced](average--seats.png "Seats")
+![Graph with seats not yet produced](average---seats.png "Seats")
 
-![Graph with seating plan not yet produced](average--seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](average---seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
@@ -252,7 +252,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Conservative Party](party-conservativeparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-conservativeparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-conservativeparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -450,7 +450,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Labour Party](party-labourparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-labourparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-labourparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -616,7 +616,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Liberal Democrats](party-liberaldemocrats.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -718,7 +718,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Scottish National Party](party-scottishnationalparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -751,7 +751,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [UK Independence Party](party-ukindependenceparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-ukindependenceparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-ukindependenceparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -761,7 +761,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Green Party](party-greenparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-greenparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-greenparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -779,7 +779,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Plaid Cymru](party-plaidcymru.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-plaidcymru.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-plaidcymru.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -810,7 +810,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Brexit Party](party-brexitparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-brexitparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-brexitparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -939,7 +939,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Change UK](party-changeuk.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-changeuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-changeuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -948,7 +948,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average--coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average---coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -974,7 +974,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Liberal Democrats – Change UK
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–libdem–chuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–libdem–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1144,7 +1144,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Liberal Democrats
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–libdem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–libdem.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1314,7 +1314,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Scottish National Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–snp–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–snp–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1516,7 +1516,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Scottish National Party
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–snp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–snp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1709,7 +1709,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–libdem–snp–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–libdem–snp–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1873,7 +1873,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2076,7 +2076,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Liberal Democrats – Scottish National Party
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–libdem–snp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–libdem–snp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2247,7 +2247,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party – Change UK
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–chuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2443,7 +2443,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Conservative Party
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-con.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2639,7 +2639,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Liberal Democrats – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–libdem–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–libdem–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2798,7 +2798,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Liberal Democrats – Change UK
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–libdem–chuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–libdem–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2966,7 +2966,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Liberal Democrats
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–libdem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–libdem.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -3134,7 +3134,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Scottish National Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–snp–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–snp–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -3281,7 +3281,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Scottish National Party
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–snp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–snp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -3431,7 +3431,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -3590,7 +3590,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party – Change UK
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab–chuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -3754,7 +3754,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Labour Party
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
