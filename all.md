@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 33–37% <br> N/A | 23–27% <br> N/A | 14–18% <br> N/A | 3–5% <br> N/A | 1–2% <br> N/A | 6–8% <br> N/A | 1–2% <br> N/A | 9–13% <br> N/A | 0–1% <br> N/A |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -227,6 +228,7 @@ The table below lists all polls registered and analyzed so far.
 | [26–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> The Times | 41–46% <br> 296–356 | 37–42% <br> 232–303 | 7–9% <br> 9–22 | 2–3% <br> 0–42 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
 | [16–18 March 2018](2018-03-18-ICMResearch.html) | ICM Research <br> The Guardian | 41–46% <br> 284–348 | 38–43% <br> 231–304 | 7–9% <br> 7–20 | 2–4% <br> 4–50 | 1–2% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 | N/A <br> N/A | N/A <br> N/A |
 | [13–16 March 2018](2018-03-16-BMGResearch.html) | BMG Research | 36–40% <br> 242–297 | 38–42% <br> 257–310 | 9–11% <br> 19–30 | 3–5% <br> 40–56 | 3–5% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
+| [14–15 March 201
 | [14–15 March 2018](2018-03-15-YouGov.html) | YouGov <br> The Times | 40–44% <br> 283–339 | 37–41% <br> 231–282 | 6–8% <br> 2–15 | 3–5% <br> 42–58 | 2–4% <br> 0–1 | 2–4% <br> 1 | 0–1% <br> 2–5 | N/A <br> N/A | N/A <br> N/A |
 | [13–15 March 2018](2018-03-15-Opinium.html) | Opinium <br> The Observer | 40–44% <br> 281–339 | 38–42% <br> 236–287 | 5–7% <br> 0–10 | 3–5% <br> 41–58 | 3–5% <br> 0–1 | 2–4% <br> 1 | 1–2% <br> 4–8 | N/A <br> N/A | N/A <br> N/A |
 | [7–8 March 2018](2018-03-08-Survation.html) | Survation <br> Good Morning Britain | 34–39% <br> 222–283 | 40–46% <br> 292–362 | 7–11% <br> 15–28 | 2–4% <br> 3–54 | 2–4% <br> 0–1 | 1–3% <br> 1 | 0–1% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
