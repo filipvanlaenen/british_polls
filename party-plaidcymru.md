@@ -10,7 +10,8 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.2% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | N/A | N/A | N/A | N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 1.0% | N/A | N/A | N/A | N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 1.0% | N/A | N/A | N/A | N/A |
@@ -264,9 +265,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Median |
-| 0.5–1.5% | 4% | 4% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 49% | 100% |  |
+| 0.5–1.5% | 50% | 51% | Last Result, Median |
+| 1.5–2.5% | 1.5% | 1.5% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -277,7 +279,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–12 | 4–12 | 4–12 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–12 | 4–12 | 4–12 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
@@ -530,4 +533,18 @@ Last result: **4** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-plaidcymru.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Plaid Cymru.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 94% | 100% | Last Result, Median |
+| 5 | 0% | 6% |  |
+| 6 | 0% | 6% |  |
+| 7 | 0% | 6% |  |
+| 8 | 0% | 6% |  |
+| 9 | 0% | 6% |  |
+| 10 | 0% | 6% |  |
+| 11 | 0% | 6% |  |
+| 12 | 6% | 6% |  |
+| 13 | 0% | 0% |  |
+
 

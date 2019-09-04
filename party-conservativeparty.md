@@ -10,7 +10,8 @@ Last result: **42.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.8% | 29.5–32.2% | 29.1–32.5% | 28.8–32.9% | 28.2–33.5% |
+| N/A | [Poll Average](average.html) | 32.7% | 30.0–35.8% | 29.5–36.4% | 29.1–36.8% | 28.5–37.6% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 34.8% | 33.3–36.4% | 32.9–36.8% | 32.6–37.2% | 31.9–37.9% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 34.2% | N/A | N/A | N/A | N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 30.6% | N/A | N/A | N/A | N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 32.5% | N/A | N/A | N/A | N/A |
@@ -264,18 +265,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0.1% | 100% |  |
-| 27.5–28.5% | 1.1% | 99.9% |  |
-| 28.5–29.5% | 9% | 98.9% |  |
-| 29.5–30.5% | 28% | 90% |  |
-| 30.5–31.5% | 37% | 61% | Median |
-| 31.5–32.5% | 20% | 25% |  |
-| 32.5–33.5% | 5% | 5% |  |
-| 33.5–34.5% | 0.4% | 0.5% |  |
-| 34.5–35.5% | 0% | 0% |  |
-| 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0.5% | 100% |  |
+| 28.5–29.5% | 4% | 99.4% |  |
+| 29.5–30.5% | 14% | 95% |  |
+| 30.5–31.5% | 18% | 81% |  |
+| 31.5–32.5% | 11% | 62% |  |
+| 32.5–33.5% | 8% | 51% | Median |
+| 33.5–34.5% | 14% | 44% |  |
+| 34.5–35.5% | 16% | 30% |  |
+| 35.5–36.5% | 10% | 14% |  |
+| 36.5–37.5% | 3% | 4% |  |
+| 37.5–38.5% | 0.5% | 0.6% |  |
 | 38.5–39.5% | 0% | 0% |  |
 | 39.5–40.5% | 0% | 0% |  |
 | 40.5–41.5% | 0% | 0% |  |
@@ -290,7 +291,8 @@ Last result: **317** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 321 | 321 | 321–332 | 321–332 | 321–332 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 321 | 321 | 321–332 | 321–332 | 321–332 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
@@ -543,4 +545,25 @@ Last result: **317** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-conservativeparty.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Conservative Party.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 317 | 0% | 100% | Last Result |
+| 318 | 0% | 100% |  |
+| 319 | 0% | 100% |  |
+| 320 | 0% | 100% |  |
+| 321 | 94% | 100% | Median |
+| 322 | 0% | 6% |  |
+| 323 | 0% | 6% |  |
+| 324 | 0% | 6% |  |
+| 325 | 0% | 6% |  |
+| 326 | 0% | 6% | Majority |
+| 327 | 0% | 6% |  |
+| 328 | 0% | 6% |  |
+| 329 | 0% | 6% |  |
+| 330 | 0% | 6% |  |
+| 331 | 0% | 6% |  |
+| 332 | 6% | 6% |  |
+| 333 | 0% | 0% |  |
+
 

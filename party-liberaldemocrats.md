@@ -10,7 +10,8 @@ Last result: **7.4%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 14.9–17.0% | 14.6–17.3% | 14.4–17.6% | 13.9–18.1% |
+| N/A | [Poll Average](average.html) | 15.9% | 14.9–17.1% | 14.6–17.4% | 14.3–17.7% | 13.8–18.3% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 15.9% | 14.8–17.1% | 14.5–17.5% | 14.2–17.8% | 13.7–18.4% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 17.6% | N/A | N/A | N/A | N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 20.8% | N/A | N/A | N/A | N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 20.7% | N/A | N/A | N/A | N/A |
@@ -270,13 +271,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 4% | 99.9% |  |
-| 14.5–15.5% | 28% | 96% |  |
-| 15.5–16.5% | 46% | 68% | Median |
-| 16.5–17.5% | 20% | 23% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 5% | 99.8% |  |
+| 14.5–15.5% | 27% | 95% |  |
+| 15.5–16.5% | 44% | 68% | Median |
+| 16.5–17.5% | 21% | 24% |  |
 | 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -288,7 +289,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 55 | 55 | 47–55 | 47–55 | 47–55 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 55 | 55 | 47–55 | 47–55 | 47–55 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
@@ -541,4 +543,53 @@ Last result: **12** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Liberal Democrats.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 12 | 0% | 100% | Last Result |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0% | 100% |  |
+| 47 | 6% | 100% |  |
+| 48 | 0% | 94% |  |
+| 49 | 0% | 94% |  |
+| 50 | 0% | 94% |  |
+| 51 | 0% | 94% |  |
+| 52 | 0% | 94% |  |
+| 53 | 0% | 94% |  |
+| 54 | 0% | 94% |  |
+| 55 | 94% | 94% | Median |
+| 56 | 0% | 0% |  |
+
 

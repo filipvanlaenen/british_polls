@@ -9,14 +9,14 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 27–35% <br> 215–339 | 21–28% <br> 130–212 | 15–22% <br> 58–91 | 2–5% <br> 43–54 | 1–2% <br> 0 | 3–9% <br> 1–6 | 0–2% <br> 0–12 | 10–17% <br> 14–92 | 0–1% <br> 0 |
-| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 29–37% <br> 321–332 | 23–28% <br> 163–164 | 14–18% <br> 47–55 | 2–5% <br> 53–54 | 1–2% <br> 0 | 3–8% <br> 4 | 0–2% <br> 4–12 | 10–17% <br> 20–31 | 0–1% <br> 0 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 33–37% <br> 321–332 | 23–27% <br> 163–164 | 14–18% <br> 47–55 | 3–5% <br> 53–54 | 1–2% <br> 0 | 6–8% <br> 4 | 1–2% <br> 4–12 | 9–13% <br> 20–31 | 0–1% <br> 0 |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 26–30% <br> 205–278 | 22–26% <br> 150–218 | 19–23% <br> 74–93 | 3–5% <br> 49–54 | N/A <br> N/A | 2–4% <br> 1–2 | 0–1% <br> 0–4 | 14–17% <br> 46–96 | N/A <br> N/A |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 29–33% <br> N/A | 25–29% <br> N/A | 14–18% <br> N/A | 2–4% <br> N/A | 1–2% <br> N/A | 3–5% <br> N/A | 0–1% <br> N/A | 14–18% <br> N/A | 0–1% <br> N/A |
-| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 30–36% <br> 267–345 | 20–26% <br> 126–205 | 17–22% <br> 55–80 | 3–5% <br> 40–54 | 1–2% <br> 0 | 6–9% <br> 4–6 | 1–2% <br> 4–14 | 10–14% <br> 12–53 | 0–1% <br> 0 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -38,21 +38,21 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average----.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party">Conservative Party</a> | 42.4% | 30.6% | 27.7–33.4% |27.2–34.1% | 26.8–34.7% | 26.1–35.9% |
-| <a href="#labour-party">Labour Party</a> | 40.0% | 24.5% | 22.2–27.4% |21.6–27.9% | 21.1–28.3% | 20.2–29.1% |
-| <a href="#liberal-democrats">Liberal Democrats</a> | 7.4% | 19.2% | 15.5–21.7% |15.1–22.2% | 14.8–22.5% | 14.2–23.2% |
-| <a href="#scottish-national-party">Scottish National Party</a> | 3.0% | 3.7% | 2.8–4.5% |2.6–4.8% | 2.5–5.0% | 2.3–5.4% |
-| <a href="#uk-independence-party">UK Independence Party</a> | 1.8% | 1.0% | 0.7–1.4% |0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
-| <a href="#green-party">Green Party</a> | 1.6% | 4.0% | 2.9–8.1% |2.7–8.6% | 2.6–9.0% | 2.3–9.7% |
-| <a href="#plaid-cymru">Plaid Cymru</a> | 0.5% | 0.4% | 0.2–1.2% |0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
-| <a href="#brexit-party">Brexit Party</a> | 0.0% | 14.9% | 11.0–16.5% |10.6–16.8% | 10.2–17.2% | 9.5–17.8% |
-| <a href="#change-uk">Change UK</a> | 0.0% | 0.3% | 0.1–0.5% |0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
+| <a href="#conservative-party">Conservative Party</a> | 42.4% | 32.7% | 30.0–35.8% |29.5–36.4% | 29.1–36.8% | 28.5–37.6% |
+| <a href="#labour-party">Labour Party</a> | 40.0% | 25.9% | 24.0–27.7% |23.6–28.1% | 23.2–28.5% | 22.5–29.2% |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 7.4% | 15.9% | 14.9–17.1% |14.6–17.4% | 14.3–17.7% | 13.8–18.3% |
+| <a href="#scottish-national-party">Scottish National Party</a> | 3.0% | 3.5% | 2.7–4.4% |2.5–4.7% | 2.4–4.9% | 2.2–5.2% |
+| <a href="#uk-independence-party">UK Independence Party</a> | 1.8% | 1.0% | 0.8–1.3% |0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| <a href="#green-party">Green Party</a> | 1.6% | 5.4% | 3.6–7.5% |3.5–7.8% | 3.3–8.1% | 3.1–8.5% |
+| <a href="#plaid-cymru">Plaid Cymru</a> | 0.5% | 0.6% | 0.2–1.2% |0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
+| <a href="#brexit-party">Brexit Party</a> | 0.0% | 13.5% | 10.3–16.6% |10.0–17.0% | 9.7–17.3% | 9.2–17.9% |
+| <a href="#change-uk">Change UK</a> | 0.0% | 0.3% | 0.2–0.5% |0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 
 ### Conservative Party
 
@@ -60,21 +60,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 1.3% | 99.9% |  |
-| 26.5–27.5% | 7% | 98.6% |  |
-| 27.5–28.5% | 13% | 92% |  |
-| 28.5–29.5% | 13% | 79% |  |
-| 29.5–30.5% | 14% | 66% |  |
-| 30.5–31.5% | 18% | 52% | Median |
-| 31.5–32.5% | 15% | 34% |  |
-| 32.5–33.5% | 10% | 19% |  |
-| 33.5–34.5% | 6% | 9% |  |
-| 34.5–35.5% | 2% | 3% |  |
-| 35.5–36.5% | 0.7% | 0.8% |  |
-| 36.5–37.5% | 0.1% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0.5% | 100% |  |
+| 28.5–29.5% | 4% | 99.4% |  |
+| 29.5–30.5% | 14% | 95% |  |
+| 30.5–31.5% | 18% | 81% |  |
+| 31.5–32.5% | 11% | 62% |  |
+| 32.5–33.5% | 8% | 51% | Median |
+| 33.5–34.5% | 14% | 44% |  |
+| 34.5–35.5% | 16% | 30% |  |
+| 35.5–36.5% | 10% | 14% |  |
+| 36.5–37.5% | 3% | 4% |  |
+| 37.5–38.5% | 0.5% | 0.6% |  |
 | 38.5–39.5% | 0% | 0% |  |
 | 39.5–40.5% | 0% | 0% |  |
 | 40.5–41.5% | 0% | 0% |  |
@@ -86,19 +83,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.9% | 99.9% |  |
-| 20.5–21.5% | 4% | 99.0% |  |
-| 21.5–22.5% | 9% | 95% |  |
-| 22.5–23.5% | 17% | 86% |  |
-| 23.5–24.5% | 21% | 69% | Median |
-| 24.5–25.5% | 15% | 49% |  |
-| 25.5–26.5% | 13% | 34% |  |
-| 26.5–27.5% | 13% | 21% |  |
-| 27.5–28.5% | 6% | 8% |  |
-| 28.5–29.5% | 1.5% | 2% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.6% | 100% |  |
+| 22.5–23.5% | 4% | 99.4% |  |
+| 23.5–24.5% | 14% | 95% |  |
+| 24.5–25.5% | 22% | 81% |  |
+| 25.5–26.5% | 25% | 59% | Median |
+| 26.5–27.5% | 22% | 34% |  |
+| 27.5–28.5% | 10% | 12% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
 | 30.5–31.5% | 0% | 0% |  |
 | 31.5–32.5% | 0% | 0% |  |
 | 32.5–33.5% | 0% | 0% |  |
@@ -122,19 +116,14 @@ Only polls for which at least the sample size has been published are included in
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 1.3% | 100% |  |
-| 14.5–15.5% | 9% | 98.7% |  |
-| 15.5–16.5% | 16% | 89% |  |
-| 16.5–17.5% | 9% | 74% |  |
-| 17.5–18.5% | 8% | 65% |  |
-| 18.5–19.5% | 12% | 57% | Median |
-| 19.5–20.5% | 15% | 45% |  |
-| 20.5–21.5% | 18% | 30% |  |
-| 21.5–22.5% | 10% | 13% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 5% | 99.8% |  |
+| 14.5–15.5% | 27% | 95% |  |
+| 15.5–16.5% | 44% | 68% | Median |
+| 16.5–17.5% | 21% | 24% |  |
+| 17.5–18.5% | 3% | 3% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 ### Scottish National Party
 
@@ -143,11 +132,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 39% | 96% | Last Result |
-| 3.5–4.5% | 47% | 57% | Median |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 49% | 95% | Last Result, Median |
+| 3.5–4.5% | 39% | 46% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 ### UK Independence Party
@@ -156,9 +145,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 93% | 98% | Median |
-| 1.5–2.5% | 5% | 5% | Last Result |
+| 0.0–0.5% | 0.8% | 100% |  |
+| 0.5–1.5% | 97% | 99.2% | Median |
+| 1.5–2.5% | 3% | 3% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Green Party
@@ -167,17 +156,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% | Last Result |
-| 2.5–3.5% | 32% | 98% |  |
-| 3.5–4.5% | 29% | 66% | Median |
-| 4.5–5.5% | 4% | 37% |  |
-| 5.5–6.5% | 2% | 33% |  |
-| 6.5–7.5% | 12% | 31% |  |
-| 7.5–8.5% | 14% | 19% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% | Last Result |
+| 2.5–3.5% | 7% | 100% |  |
+| 3.5–4.5% | 37% | 93% |  |
+| 4.5–5.5% | 6% | 55% | Median |
+| 5.5–6.5% | 12% | 50% |  |
+| 6.5–7.5% | 28% | 38% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Plaid Cymru
 
@@ -185,9 +172,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 65% | 100% | Median |
-| 0.5–1.5% | 32% | 35% | Last Result |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 49% | 100% |  |
+| 0.5–1.5% | 50% | 51% | Last Result, Median |
+| 1.5–2.5% | 1.5% | 1.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Brexit Party
@@ -205,17 +192,18 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 4% | 99.4% |  |
-| 10.5–11.5% | 11% | 95% |  |
-| 11.5–12.5% | 11% | 84% |  |
-| 12.5–13.5% | 5% | 72% |  |
-| 13.5–14.5% | 9% | 67% |  |
-| 14.5–15.5% | 25% | 58% | Median |
-| 15.5–16.5% | 24% | 33% |  |
-| 16.5–17.5% | 8% | 9% |  |
-| 17.5–18.5% | 0.9% | 0.9% |  |
+| 8.5–9.5% | 1.5% | 100% |  |
+| 9.5–10.5% | 13% | 98.5% |  |
+| 10.5–11.5% | 24% | 85% |  |
+| 11.5–12.5% | 10% | 61% |  |
+| 12.5–13.5% | 1.2% | 51% |  |
+| 13.5–14.5% | 2% | 50% | Median |
+| 14.5–15.5% | 14% | 48% |  |
+| 15.5–16.5% | 23% | 34% |  |
+| 16.5–17.5% | 10% | 11% |  |
+| 17.5–18.5% | 1.3% | 1.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 ### Change UK
 
@@ -223,375 +211,146 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 94% | 100% | Last Result, Median |
-| 0.5–1.5% | 6% | 6% |  |
+| 0.0–0.5% | 95% | 100% | Last Result, Median |
+| 0.5–1.5% | 5% | 5% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
 
-![Graph with seats not yet produced](average-----seats.png "Seats")
+![Graph with seats not yet produced](average--seats.png "Seats")
 
-![Graph with seating plan not yet produced](average-----seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](average--seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party">Conservative Party</a> | 317 | 276 | 234–322 |225–331 | 215–339 | 200–350 |
-| <a href="#labour-party">Labour Party</a> | 262 | 173 | 141–198 |138–203 | 130–212 | 117–225 |
-| <a href="#liberal-democrats">Liberal Democrats</a> | 12 | 75 | 64–85 |59–88 | 58–91 | 53–97 |
-| <a href="#scottish-national-party">Scottish National Party</a> | 35 | 51 | 48–54 |47–54 | 43–54 | 38–54 |
+| <a href="#conservative-party">Conservative Party</a> | 317 | 321 | 321 |321–332 | 321–332 | 321–332 |
+| <a href="#labour-party">Labour Party</a> | 262 | 163 | 163 |163–164 | 163–164 | 163–164 |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 12 | 55 | 55 |47–55 | 47–55 | 47–55 |
+| <a href="#scottish-national-party">Scottish National Party</a> | 35 | 54 | 54 |53–54 | 53–54 | 53–54 |
 | <a href="#uk-independence-party">UK Independence Party</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#green-party">Green Party</a> | 1 | 2 | 1–5 |1–6 | 1–6 | 1–7 |
-| <a href="#plaid-cymru">Plaid Cymru</a> | 4 | 4 | 0–11 |0–11 | 0–12 | 0–14 |
-| <a href="#brexit-party">Brexit Party</a> | 0 | 48 | 27–79 |19–84 | 14–92 | 10–104 |
+| <a href="#green-party">Green Party</a> | 1 | 4 | 4 |4 | 4 | 4 |
+| <a href="#plaid-cymru">Plaid Cymru</a> | 4 | 4 | 4 |4–12 | 4–12 | 4–12 |
+| <a href="#brexit-party">Brexit Party</a> | 0 | 31 | 31 |20–31 | 20–31 | 20–31 |
 | <a href="#change-uk">Change UK</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Conservative Party
 
 *For a full overview of the results for this party, see the [Conservative Party](party-conservativeparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-conservativeparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-conservativeparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 178 | 0% | 100% |  |
-| 179 | 0% | 99.9% |  |
-| 180 | 0% | 99.9% |  |
-| 181 | 0% | 99.9% |  |
-| 182 | 0% | 99.9% |  |
-| 183 | 0% | 99.9% |  |
-| 184 | 0% | 99.9% |  |
-| 185 | 0% | 99.9% |  |
-| 186 | 0% | 99.9% |  |
-| 187 | 0% | 99.9% |  |
-| 188 | 0% | 99.9% |  |
-| 189 | 0% | 99.8% |  |
-| 190 | 0% | 99.8% |  |
-| 191 | 0% | 99.8% |  |
-| 192 | 0% | 99.8% |  |
-| 193 | 0.1% | 99.8% |  |
-| 194 | 0% | 99.7% |  |
-| 195 | 0% | 99.7% |  |
-| 196 | 0% | 99.7% |  |
-| 197 | 0.1% | 99.6% |  |
-| 198 | 0% | 99.6% |  |
-| 199 | 0% | 99.5% |  |
-| 200 | 0.1% | 99.5% |  |
-| 201 | 0.1% | 99.5% |  |
-| 202 | 0.1% | 99.4% |  |
-| 203 | 0% | 99.3% |  |
-| 204 | 0.5% | 99.3% |  |
-| 205 | 0.2% | 98.8% |  |
-| 206 | 0% | 98.6% |  |
-| 207 | 0% | 98.6% |  |
-| 208 | 0% | 98.6% |  |
-| 209 | 0.1% | 98.5% |  |
-| 210 | 0.1% | 98% |  |
-| 211 | 0.4% | 98% |  |
-| 212 | 0% | 98% |  |
-| 213 | 0.3% | 98% |  |
-| 214 | 0.1% | 98% |  |
-| 215 | 0.1% | 98% |  |
-| 216 | 0.2% | 97% |  |
-| 217 | 0.1% | 97% |  |
-| 218 | 0.2% | 97% |  |
-| 219 | 0.4% | 97% |  |
-| 220 | 0.1% | 97% |  |
-| 221 | 0.2% | 96% |  |
-| 222 | 0.2% | 96% |  |
-| 223 | 0.2% | 96% |  |
-| 224 | 0.9% | 96% |  |
-| 225 | 0.7% | 95% |  |
-| 226 | 0.5% | 94% |  |
-| 227 | 0.5% | 94% |  |
-| 228 | 0.8% | 93% |  |
-| 229 | 0.5% | 93% |  |
-| 230 | 0.2% | 92% |  |
-| 231 | 0.6% | 92% |  |
-| 232 | 0.5% | 91% |  |
-| 233 | 0.3% | 91% |  |
-| 234 | 3% | 91% |  |
-| 235 | 1.2% | 88% |  |
-| 236 | 0.5% | 86% |  |
-| 237 | 0.9% | 86% |  |
-| 238 | 0.1% | 85% |  |
-| 239 | 0.1% | 85% |  |
-| 240 | 0.4% | 85% |  |
-| 241 | 0.4% | 84% |  |
-| 242 | 0.3% | 84% |  |
-| 243 | 1.5% | 84% |  |
-| 244 | 0.4% | 82% |  |
-| 245 | 3% | 82% |  |
-| 246 | 1.4% | 79% |  |
-| 247 | 0.9% | 78% |  |
-| 248 | 0.5% | 77% |  |
-| 249 | 0.7% | 76% |  |
-| 250 | 3% | 76% |  |
-| 251 | 0.4% | 73% |  |
-| 252 | 0.3% | 73% |  |
-| 253 | 2% | 72% |  |
-| 254 | 0.8% | 70% |  |
-| 255 | 0.1% | 70% |  |
-| 256 | 1.1% | 70% |  |
-| 257 | 2% | 69% |  |
-| 258 | 2% | 67% |  |
-| 259 | 1.0% | 65% |  |
-| 260 | 4% | 64% |  |
-| 261 | 0.2% | 60% |  |
-| 262 | 3% | 60% |  |
-| 263 | 2% | 57% |  |
-| 264 | 0.2% | 55% |  |
-| 265 | 0.2% | 55% |  |
-| 266 | 1.0% | 54% |  |
-| 267 | 1.0% | 53% |  |
-| 268 | 0.1% | 52% |  |
-| 269 | 0.5% | 52% |  |
-| 270 | 0.3% | 52% |  |
-| 271 | 0.1% | 51% |  |
-| 272 | 0.3% | 51% |  |
-| 273 | 0.3% | 51% |  |
-| 274 | 0.1% | 51% |  |
-| 275 | 0.3% | 51% |  |
-| 276 | 1.3% | 50% | Median |
-| 277 | 0.2% | 49% |  |
-| 278 | 0.3% | 49% |  |
-| 279 | 0.2% | 48% |  |
-| 280 | 0.5% | 48% |  |
-| 281 | 0.4% | 48% |  |
-| 282 | 0.1% | 47% |  |
-| 283 | 0.3% | 47% |  |
-| 284 | 0.2% | 47% |  |
-| 285 | 3% | 47% |  |
-| 286 | 0% | 44% |  |
-| 287 | 5% | 44% |  |
-| 288 | 0.6% | 39% |  |
-| 289 | 2% | 38% |  |
-| 290 | 0.1% | 37% |  |
-| 291 | 0% | 36% |  |
-| 292 | 0.1% | 36% |  |
-| 293 | 0.1% | 36% |  |
-| 294 | 0% | 36% |  |
-| 295 | 0.3% | 36% |  |
-| 296 | 2% | 36% |  |
-| 297 | 0% | 34% |  |
-| 298 | 0.2% | 34% |  |
-| 299 | 8% | 34% |  |
-| 300 | 0.5% | 26% |  |
-| 301 | 0.2% | 25% |  |
-| 302 | 0.2% | 25% |  |
-| 303 | 0.2% | 25% |  |
-| 304 | 0.5% | 25% |  |
-| 305 | 0.1% | 24% |  |
-| 306 | 0.6% | 24% |  |
-| 307 | 0% | 24% |  |
-| 308 | 6% | 23% |  |
-| 309 | 0.3% | 17% |  |
-| 310 | 0.3% | 17% |  |
-| 311 | 0.1% | 17% |  |
-| 312 | 1.4% | 17% |  |
-| 313 | 1.0% | 15% |  |
-| 314 | 0.2% | 14% |  |
-| 315 | 0.2% | 14% |  |
-| 316 | 0.4% | 14% |  |
-| 317 | 0% | 14% | Last Result |
-| 318 | 0.1% | 14% |  |
-| 319 | 0.9% | 13% |  |
-| 320 | 0.4% | 13% |  |
-| 321 | 0% | 12% |  |
-| 322 | 4% | 12% |  |
-| 323 | 0.4% | 8% |  |
-| 324 | 0.2% | 7% |  |
-| 325 | 0.1% | 7% |  |
-| 326 | 0.4% | 7% | Majority |
-| 327 | 0.4% | 7% |  |
-| 328 | 0.1% | 6% |  |
-| 329 | 0.5% | 6% |  |
-| 330 | 0.3% | 6% |  |
-| 331 | 0.4% | 5% |  |
-| 332 | 0.9% | 5% |  |
-| 333 | 0.1% | 4% |  |
-| 334 | 0.1% | 4% |  |
-| 335 | 0% | 4% |  |
-| 336 | 0.3% | 4% |  |
-| 337 | 0.1% | 4% |  |
-| 338 | 0.9% | 4% |  |
-| 339 | 0.7% | 3% |  |
-| 340 | 0.3% | 2% |  |
-| 341 | 0.3% | 2% |  |
-| 342 | 0% | 1.4% |  |
-| 343 | 0.1% | 1.3% |  |
-| 344 | 0% | 1.3% |  |
-| 345 | 0% | 1.3% |  |
-| 346 | 0.3% | 1.2% |  |
-| 347 | 0% | 1.0% |  |
-| 348 | 0.3% | 0.9% |  |
-| 349 | 0.1% | 0.6% |  |
-| 350 | 0.1% | 0.6% |  |
-| 351 | 0% | 0.4% |  |
-| 352 | 0% | 0.4% |  |
-| 353 | 0% | 0.4% |  |
-| 354 | 0.1% | 0.4% |  |
-| 355 | 0% | 0.3% |  |
-| 356 | 0% | 0.3% |  |
-| 357 | 0.1% | 0.3% |  |
-| 358 | 0% | 0.2% |  |
-| 359 | 0% | 0.2% |  |
-| 360 | 0% | 0.2% |  |
-| 361 | 0% | 0.1% |  |
-| 362 | 0% | 0.1% |  |
-| 363 | 0.1% | 0.1% |  |
-| 364 | 0% | 0.1% |  |
-| 365 | 0% | 0.1% |  |
-| 366 | 0% | 0% |  |
+| 317 | 0% | 100% | Last Result |
+| 318 | 0% | 100% |  |
+| 319 | 0% | 100% |  |
+| 320 | 0% | 100% |  |
+| 321 | 94% | 100% | Median |
+| 322 | 0% | 6% |  |
+| 323 | 0% | 6% |  |
+| 324 | 0% | 6% |  |
+| 325 | 0% | 6% |  |
+| 326 | 0% | 6% | Majority |
+| 327 | 0% | 6% |  |
+| 328 | 0% | 6% |  |
+| 329 | 0% | 6% |  |
+| 330 | 0% | 6% |  |
+| 331 | 0% | 6% |  |
+| 332 | 6% | 6% |  |
+| 333 | 0% | 0% |  |
 
 ### Labour Party
 
 *For a full overview of the results for this party, see the [Labour Party](party-labourparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-labourparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-labourparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0% | 100% |  |
-| 107 | 0% | 99.9% |  |
-| 108 | 0.1% | 99.9% |  |
-| 109 | 0% | 99.8% |  |
-| 110 | 0% | 99.8% |  |
-| 111 | 0% | 99.8% |  |
-| 112 | 0% | 99.8% |  |
-| 113 | 0.1% | 99.8% |  |
-| 114 | 0.1% | 99.7% |  |
-| 115 | 0% | 99.7% |  |
-| 116 | 0% | 99.7% |  |
-| 117 | 0.2% | 99.6% |  |
-| 118 | 0% | 99.5% |  |
-| 119 | 0% | 99.5% |  |
-| 120 | 0.3% | 99.4% |  |
-| 121 | 0% | 99.1% |  |
-| 122 | 0% | 99.1% |  |
-| 123 | 0.1% | 99.1% |  |
-| 124 | 0% | 98.9% |  |
-| 125 | 0% | 98.9% |  |
-| 126 | 0.3% | 98.9% |  |
-| 127 | 0.3% | 98.6% |  |
-| 128 | 0.1% | 98% |  |
-| 129 | 0.5% | 98% |  |
-| 130 | 0.4% | 98% |  |
-| 131 | 0.1% | 97% |  |
-| 132 | 0% | 97% |  |
-| 133 | 0.1% | 97% |  |
-| 134 | 0.2% | 97% |  |
-| 135 | 0.8% | 97% |  |
-| 136 | 0.6% | 96% |  |
-| 137 | 0.1% | 96% |  |
-| 138 | 4% | 95% |  |
-| 139 | 0% | 91% |  |
-| 140 | 0.1% | 91% |  |
-| 141 | 1.3% | 91% |  |
-| 142 | 0.4% | 90% |  |
-| 143 | 0.5% | 89% |  |
-| 144 | 0.2% | 89% |  |
-| 145 | 1.2% | 89% |  |
-| 146 | 0.3% | 88% |  |
-| 147 | 0.1% | 87% |  |
-| 148 | 6% | 87% |  |
-| 149 | 1.0% | 81% |  |
-| 150 | 0.4% | 80% |  |
-| 151 | 0.4% | 80% |  |
-| 152 | 2% | 79% |  |
-| 153 | 0.3% | 78% |  |
-| 154 | 0.7% | 78% |  |
-| 155 | 0.5% | 77% |  |
-| 156 | 0.4% | 76% |  |
-| 157 | 0.4% | 76% |  |
-| 158 | 1.3% | 76% |  |
-| 159 | 2% | 74% |  |
-| 160 | 0.2% | 72% |  |
-| 161 | 1.4% | 72% |  |
-| 162 | 0.3% | 71% |  |
-| 163 | 1.4% | 71% |  |
-| 164 | 0.8% | 69% |  |
-| 165 | 2% | 68% |  |
-| 166 | 0.8% | 67% |  |
-| 167 | 0.7% | 66% |  |
-| 168 | 3% | 65% |  |
-| 169 | 1.3% | 63% |  |
-| 170 | 0.4% | 61% |  |
-| 171 | 9% | 61% |  |
-| 172 | 0.1% | 52% |  |
-| 173 | 5% | 52% | Median |
-| 174 | 1.3% | 47% |  |
-| 175 | 2% | 45% |  |
-| 176 | 1.1% | 43% |  |
-| 177 | 0.6% | 42% |  |
-| 178 | 1.2% | 41% |  |
-| 179 | 3% | 40% |  |
-| 180 | 4% | 37% |  |
-| 181 | 5% | 33% |  |
-| 182 | 2% | 28% |  |
-| 183 | 1.2% | 26% |  |
-| 184 | 5% | 24% |  |
-| 185 | 1.4% | 19% |  |
-| 186 | 2% | 18% |  |
-| 187 | 0.1% | 16% |  |
-| 188 | 0.6% | 16% |  |
-| 189 | 0.2% | 15% |  |
-| 190 | 0.4% | 15% |  |
-| 191 | 0.4% | 15% |  |
-| 192 | 1.3% | 14% |  |
-| 193 | 0.5% | 13% |  |
-| 194 | 0.6% | 13% |  |
-| 195 | 0.3% | 12% |  |
-| 196 | 0.6% | 12% |  |
-| 197 | 0.8% | 11% |  |
-| 198 | 0.4% | 10% |  |
-| 199 | 0.1% | 10% |  |
-| 200 | 3% | 10% |  |
-| 201 | 1.4% | 7% |  |
-| 202 | 0.3% | 6% |  |
-| 203 | 0.5% | 5% |  |
-| 204 | 0.5% | 5% |  |
-| 205 | 1.0% | 4% |  |
-| 206 | 0.2% | 3% |  |
-| 207 | 0.3% | 3% |  |
-| 208 | 0% | 3% |  |
-| 209 | 0.2% | 3% |  |
-| 210 | 0.2% | 3% |  |
-| 211 | 0.1% | 3% |  |
-| 212 | 0.1% | 3% |  |
-| 213 | 0.2% | 2% |  |
-| 214 | 0.1% | 2% |  |
-| 215 | 0.1% | 2% |  |
-| 216 | 0.1% | 2% |  |
-| 217 | 0.1% | 2% |  |
-| 218 | 1.0% | 2% |  |
-| 219 | 0% | 0.8% |  |
-| 220 | 0% | 0.8% |  |
-| 221 | 0.1% | 0.8% |  |
-| 222 | 0% | 0.7% |  |
-| 223 | 0% | 0.6% |  |
-| 224 | 0% | 0.6% |  |
-| 225 | 0.3% | 0.6% |  |
-| 226 | 0.1% | 0.3% |  |
-| 227 | 0% | 0.3% |  |
-| 228 | 0.1% | 0.3% |  |
-| 229 | 0% | 0.2% |  |
-| 230 | 0% | 0.2% |  |
-| 231 | 0% | 0.2% |  |
-| 232 | 0% | 0.2% |  |
-| 233 | 0% | 0.2% |  |
-| 234 | 0% | 0.2% |  |
-| 235 | 0% | 0.2% |  |
-| 236 | 0% | 0.1% |  |
-| 237 | 0% | 0.1% |  |
-| 238 | 0% | 0.1% |  |
-| 239 | 0% | 0.1% |  |
-| 240 | 0% | 0.1% |  |
-| 241 | 0% | 0.1% |  |
-| 242 | 0% | 0.1% |  |
-| 243 | 0% | 0.1% |  |
+| 163 | 94% | 100% | Median |
+| 164 | 6% | 6% |  |
+| 165 | 0% | 0% |  |
+| 166 | 0% | 0% |  |
+| 167 | 0% | 0% |  |
+| 168 | 0% | 0% |  |
+| 169 | 0% | 0% |  |
+| 170 | 0% | 0% |  |
+| 171 | 0% | 0% |  |
+| 172 | 0% | 0% |  |
+| 173 | 0% | 0% |  |
+| 174 | 0% | 0% |  |
+| 175 | 0% | 0% |  |
+| 176 | 0% | 0% |  |
+| 177 | 0% | 0% |  |
+| 178 | 0% | 0% |  |
+| 179 | 0% | 0% |  |
+| 180 | 0% | 0% |  |
+| 181 | 0% | 0% |  |
+| 182 | 0% | 0% |  |
+| 183 | 0% | 0% |  |
+| 184 | 0% | 0% |  |
+| 185 | 0% | 0% |  |
+| 186 | 0% | 0% |  |
+| 187 | 0% | 0% |  |
+| 188 | 0% | 0% |  |
+| 189 | 0% | 0% |  |
+| 190 | 0% | 0% |  |
+| 191 | 0% | 0% |  |
+| 192 | 0% | 0% |  |
+| 193 | 0% | 0% |  |
+| 194 | 0% | 0% |  |
+| 195 | 0% | 0% |  |
+| 196 | 0% | 0% |  |
+| 197 | 0% | 0% |  |
+| 198 | 0% | 0% |  |
+| 199 | 0% | 0% |  |
+| 200 | 0% | 0% |  |
+| 201 | 0% | 0% |  |
+| 202 | 0% | 0% |  |
+| 203 | 0% | 0% |  |
+| 204 | 0% | 0% |  |
+| 205 | 0% | 0% |  |
+| 206 | 0% | 0% |  |
+| 207 | 0% | 0% |  |
+| 208 | 0% | 0% |  |
+| 209 | 0% | 0% |  |
+| 210 | 0% | 0% |  |
+| 211 | 0% | 0% |  |
+| 212 | 0% | 0% |  |
+| 213 | 0% | 0% |  |
+| 214 | 0% | 0% |  |
+| 215 | 0% | 0% |  |
+| 216 | 0% | 0% |  |
+| 217 | 0% | 0% |  |
+| 218 | 0% | 0% |  |
+| 219 | 0% | 0% |  |
+| 220 | 0% | 0% |  |
+| 221 | 0% | 0% |  |
+| 222 | 0% | 0% |  |
+| 223 | 0% | 0% |  |
+| 224 | 0% | 0% |  |
+| 225 | 0% | 0% |  |
+| 226 | 0% | 0% |  |
+| 227 | 0% | 0% |  |
+| 228 | 0% | 0% |  |
+| 229 | 0% | 0% |  |
+| 230 | 0% | 0% |  |
+| 231 | 0% | 0% |  |
+| 232 | 0% | 0% |  |
+| 233 | 0% | 0% |  |
+| 234 | 0% | 0% |  |
+| 235 | 0% | 0% |  |
+| 236 | 0% | 0% |  |
+| 237 | 0% | 0% |  |
+| 238 | 0% | 0% |  |
+| 239 | 0% | 0% |  |
+| 240 | 0% | 0% |  |
+| 241 | 0% | 0% |  |
+| 242 | 0% | 0% |  |
+| 243 | 0% | 0% |  |
 | 244 | 0% | 0% |  |
 | 245 | 0% | 0% |  |
 | 246 | 0% | 0% |  |
@@ -616,7 +375,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Liberal Democrats](party-liberaldemocrats.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-liberaldemocrats.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -655,103 +414,52 @@ Only polls for which at least the sample size has been published are included in
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.2% | 99.9% |  |
-| 51 | 0% | 99.7% |  |
-| 52 | 0% | 99.7% |  |
-| 53 | 0.3% | 99.6% |  |
-| 54 | 0.1% | 99.3% |  |
-| 55 | 0.7% | 99.2% |  |
-| 56 | 0.1% | 98% |  |
-| 57 | 0.5% | 98% |  |
-| 58 | 0.4% | 98% |  |
-| 59 | 6% | 97% |  |
-| 60 | 0.4% | 92% |  |
-| 61 | 0.4% | 91% |  |
-| 62 | 0.3% | 91% |  |
-| 63 | 0.2% | 91% |  |
-| 64 | 1.0% | 90% |  |
-| 65 | 3% | 89% |  |
-| 66 | 4% | 86% |  |
-| 67 | 9% | 82% |  |
-| 68 | 1.3% | 73% |  |
-| 69 | 11% | 72% |  |
-| 70 | 2% | 61% |  |
-| 71 | 2% | 59% |  |
-| 72 | 0.9% | 57% |  |
-| 73 | 0.9% | 56% |  |
-| 74 | 2% | 55% |  |
-| 75 | 4% | 53% | Median |
-| 76 | 5% | 49% |  |
-| 77 | 8% | 44% |  |
-| 78 | 4% | 36% |  |
-| 79 | 4% | 32% |  |
-| 80 | 4% | 28% |  |
-| 81 | 5% | 25% |  |
-| 82 | 4% | 19% |  |
-| 83 | 2% | 15% |  |
-| 84 | 0.9% | 13% |  |
-| 85 | 3% | 13% |  |
-| 86 | 0.6% | 10% |  |
-| 87 | 3% | 9% |  |
-| 88 | 2% | 6% |  |
-| 89 | 0.8% | 4% |  |
-| 90 | 0.4% | 3% |  |
-| 91 | 0.4% | 3% |  |
-| 92 | 0.3% | 2% |  |
-| 93 | 0.7% | 2% |  |
-| 94 | 0.1% | 1.1% |  |
-| 95 | 0.3% | 1.0% |  |
-| 96 | 0% | 0.7% |  |
-| 97 | 0.3% | 0.7% |  |
-| 98 | 0% | 0.4% |  |
-| 99 | 0.1% | 0.4% |  |
-| 100 | 0.2% | 0.3% |  |
-| 101 | 0% | 0.1% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 47 | 6% | 100% |  |
+| 48 | 0% | 94% |  |
+| 49 | 0% | 94% |  |
+| 50 | 0% | 94% |  |
+| 51 | 0% | 94% |  |
+| 52 | 0% | 94% |  |
+| 53 | 0% | 94% |  |
+| 54 | 0% | 94% |  |
+| 55 | 94% | 94% | Median |
+| 56 | 0% | 0% |  |
 
 ### Scottish National Party
 
 *For a full overview of the results for this party, see the [Scottish National Party](party-scottishnationalparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
-| 33 | 0% | 99.9% |  |
-| 34 | 0% | 99.9% |  |
-| 35 | 0% | 99.9% | Last Result |
-| 36 | 0% | 99.9% |  |
-| 37 | 0.3% | 99.9% |  |
-| 38 | 0.7% | 99.6% |  |
-| 39 | 0% | 98.9% |  |
-| 40 | 0.2% | 98.9% |  |
-| 41 | 0% | 98.7% |  |
-| 42 | 1.0% | 98.7% |  |
-| 43 | 0.6% | 98% |  |
-| 44 | 0.2% | 97% |  |
-| 45 | 0.8% | 97% |  |
-| 46 | 0.3% | 96% |  |
-| 47 | 2% | 96% |  |
-| 48 | 10% | 94% |  |
-| 49 | 3% | 84% |  |
-| 50 | 4% | 81% |  |
-| 51 | 32% | 76% | Median |
-| 52 | 9% | 45% |  |
-| 53 | 6% | 35% |  |
-| 54 | 29% | 29% |  |
+| 35 | 0% | 100% | Last Result |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0% | 100% |  |
+| 47 | 0% | 100% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0% | 100% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0% | 100% |  |
+| 52 | 0% | 100% |  |
+| 53 | 6% | 100% |  |
+| 54 | 94% | 94% | Median |
 | 55 | 0% | 0% |  |
 
 ### UK Independence Party
 
 *For a full overview of the results for this party, see the [UK Independence Party](party-ukindependenceparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-ukindependenceparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-ukindependenceparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -761,56 +469,39 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Green Party](party-greenparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-greenparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-greenparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 15% | 65% | Median |
-| 3 | 0.1% | 50% |  |
-| 4 | 18% | 50% |  |
-| 5 | 24% | 32% |  |
-| 6 | 7% | 8% |  |
-| 7 | 0.2% | 0.6% |  |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 100% | 100% | Median |
 
 ### Plaid Cymru
 
 *For a full overview of the results for this party, see the [Plaid Cymru](party-plaidcymru.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-plaidcymru.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-plaidcymru.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 6% | 84% |  |
-| 2 | 7% | 78% |  |
-| 3 | 15% | 71% |  |
-| 4 | 12% | 55% | Last Result, Median |
-| 5 | 0.1% | 43% |  |
-| 6 | 0% | 43% |  |
-| 7 | 20% | 43% |  |
-| 8 | 7% | 23% |  |
-| 9 | 0.7% | 17% |  |
-| 10 | 3% | 16% |  |
-| 11 | 10% | 13% |  |
-| 12 | 0.4% | 3% |  |
-| 13 | 0.6% | 2% |  |
-| 14 | 1.2% | 2% |  |
-| 15 | 0% | 0.4% |  |
-| 16 | 0.2% | 0.4% |  |
-| 17 | 0% | 0.1% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 4 | 94% | 100% | Last Result, Median |
+| 5 | 0% | 6% |  |
+| 6 | 0% | 6% |  |
+| 7 | 0% | 6% |  |
+| 8 | 0% | 6% |  |
+| 9 | 0% | 6% |  |
+| 10 | 0% | 6% |  |
+| 11 | 0% | 6% |  |
+| 12 | 6% | 6% |  |
+| 13 | 0% | 0% |  |
 
 ### Brexit Party
 
 *For a full overview of the results for this party, see the [Brexit Party](party-brexitparty.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-brexitparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-brexitparty.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -821,125 +512,38 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 0.1% | 99.8% |  |
-| 9 | 0.1% | 99.7% |  |
-| 10 | 0.4% | 99.6% |  |
-| 11 | 0.4% | 99.2% |  |
-| 12 | 0.2% | 98.8% |  |
-| 13 | 0.4% | 98.5% |  |
-| 14 | 0.8% | 98% |  |
-| 15 | 0.2% | 97% |  |
-| 16 | 0.4% | 97% |  |
-| 17 | 0.3% | 97% |  |
-| 18 | 0.4% | 96% |  |
-| 19 | 1.2% | 96% |  |
-| 20 | 0.6% | 95% |  |
-| 21 | 0.1% | 94% |  |
-| 22 | 1.0% | 94% |  |
-| 23 | 0.1% | 93% |  |
-| 24 | 0.3% | 93% |  |
-| 25 | 0.6% | 93% |  |
-| 26 | 0.2% | 92% |  |
-| 27 | 2% | 92% |  |
-| 28 | 0.2% | 90% |  |
-| 29 | 0.3% | 90% |  |
-| 30 | 0.4% | 89% |  |
-| 31 | 0.3% | 89% |  |
-| 32 | 0.3% | 88% |  |
-| 33 | 0.6% | 88% |  |
-| 34 | 1.5% | 88% |  |
-| 35 | 7% | 86% |  |
-| 36 | 0.8% | 79% |  |
-| 37 | 9% | 78% |  |
-| 38 | 6% | 69% |  |
-| 39 | 0.4% | 63% |  |
-| 40 | 2% | 63% |  |
-| 41 | 0.8% | 61% |  |
-| 42 | 1.3% | 60% |  |
-| 43 | 0.4% | 59% |  |
-| 44 | 2% | 59% |  |
-| 45 | 0.7% | 57% |  |
-| 46 | 6% | 56% |  |
-| 47 | 0.3% | 50% |  |
-| 48 | 0.5% | 50% | Median |
-| 49 | 2% | 50% |  |
-| 50 | 2% | 47% |  |
-| 51 | 0.8% | 46% |  |
-| 52 | 0.2% | 45% |  |
-| 53 | 3% | 45% |  |
-| 54 | 2% | 42% |  |
-| 55 | 2% | 40% |  |
-| 56 | 2% | 37% |  |
-| 57 | 0.5% | 35% |  |
-| 58 | 0.9% | 35% |  |
-| 59 | 0.1% | 34% |  |
-| 60 | 3% | 33% |  |
-| 61 | 0.8% | 31% |  |
-| 62 | 2% | 30% |  |
-| 63 | 0.9% | 28% |  |
-| 64 | 1.2% | 27% |  |
-| 65 | 1.3% | 26% |  |
-| 66 | 2% | 25% |  |
-| 67 | 1.1% | 23% |  |
-| 68 | 0.9% | 22% |  |
-| 69 | 1.4% | 21% |  |
-| 70 | 1.1% | 20% |  |
-| 71 | 1.1% | 18% |  |
-| 72 | 0.3% | 17% |  |
-| 73 | 1.2% | 17% |  |
-| 74 | 0.1% | 16% |  |
-| 75 | 1.3% | 16% |  |
-| 76 | 0.9% | 14% |  |
-| 77 | 0.4% | 14% |  |
-| 78 | 0.3% | 13% |  |
-| 79 | 3% | 13% |  |
-| 80 | 1.4% | 10% |  |
-| 81 | 0.2% | 8% |  |
-| 82 | 0.3% | 8% |  |
-| 83 | 2% | 8% |  |
-| 84 | 0.8% | 6% |  |
-| 85 | 0% | 5% |  |
-| 86 | 0.5% | 5% |  |
-| 87 | 0.1% | 4% |  |
-| 88 | 0.2% | 4% |  |
-| 89 | 0.2% | 4% |  |
-| 90 | 0.3% | 4% |  |
-| 91 | 0.5% | 3% |  |
-| 92 | 0.5% | 3% |  |
-| 93 | 0.1% | 2% |  |
-| 94 | 0.3% | 2% |  |
-| 95 | 0.3% | 2% |  |
-| 96 | 0.6% | 2% |  |
-| 97 | 0% | 1.0% |  |
-| 98 | 0% | 1.0% |  |
-| 99 | 0.1% | 1.0% |  |
-| 100 | 0% | 0.9% |  |
-| 101 | 0.2% | 0.9% |  |
-| 102 | 0.2% | 0.7% |  |
-| 103 | 0% | 0.6% |  |
-| 104 | 0.1% | 0.5% |  |
-| 105 | 0.1% | 0.4% |  |
-| 106 | 0% | 0.4% |  |
-| 107 | 0% | 0.3% |  |
-| 108 | 0% | 0.3% |  |
-| 109 | 0% | 0.3% |  |
-| 110 | 0% | 0.3% |  |
-| 111 | 0% | 0.3% |  |
-| 112 | 0.1% | 0.2% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0% | 0.1% |  |
-| 115 | 0% | 0.1% |  |
-| 116 | 0% | 0.1% |  |
-| 117 | 0% | 0.1% |  |
-| 118 | 0% | 0.1% |  |
-| 119 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 6% | 100% |  |
+| 21 | 0% | 94% |  |
+| 22 | 0% | 94% |  |
+| 23 | 0% | 94% |  |
+| 24 | 0% | 94% |  |
+| 25 | 0% | 94% |  |
+| 26 | 0% | 94% |  |
+| 27 | 0% | 94% |  |
+| 28 | 0% | 94% |  |
+| 29 | 0% | 94% |  |
+| 30 | 0% | 94% |  |
+| 31 | 94% | 94% | Median |
+| 32 | 0% | 0% |  |
 
 ### Change UK
 
 *For a full overview of the results for this party, see the [Change UK](party-changeuk.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----seats-pmf-changeuk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-changeuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -948,2978 +552,246 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average-----coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average--coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party – Liberal Democrats – Change UK | 329 | 351 | 80% | 315–382 | 309–394 | 301–404 | 286–418 |
-| Conservative Party – Liberal Democrats | 329 | 351 | 80% | 315–382 | 309–394 | 301–404 | 286–418 |
-| Conservative Party – Scottish National Party – Plaid Cymru | 356 | 330 | 51% | 286–384 | 277–388 | 268–396 | 253–409 |
-| Conservative Party – Scottish National Party | 352 | 327 | 51% | 286–376 | 276–380 | 266–389 | 252–402 |
-| Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru | 313 | 303 | 14% | 265–332 | 259–342 | 253–349 | 238–358 |
-| Conservative Party – Plaid Cymru | 321 | 279 | 13% | 234–330 | 226–339 | 217–348 | 201–359 |
-| Labour Party – Liberal Democrats – Scottish National Party | 309 | 297 | 13% | 258–330 | 251–334 | 247–347 | 230–357 |
-| Conservative Party – Change UK | 317 | 276 | 7% | 234–322 | 225–331 | 215–339 | 200–350 |
-| Conservative Party | 317 | 276 | 7% | 234–322 | 225–331 | 215–339 | 200–350 |
-| Labour Party – Liberal Democrats – Plaid Cymru | 278 | 250 | 0.1% | 215–281 | 205–291 | 203–297 | 190–307 |
-| Labour Party – Liberal Democrats – Change UK | 274 | 247 | 0.1% | 210–279 | 197–283 | 194–295 | 182–306 |
-| Labour Party – Liberal Democrats | 274 | 247 | 0.1% | 210–279 | 197–283 | 194–295 | 182–306 |
-| Labour Party – Scottish National Party – Plaid Cymru | 301 | 230 | 0% | 200–251 | 193–257 | 192–266 | 175–277 |
-| Labour Party – Scottish National Party | 297 | 225 | 0% | 192–250 | 188–255 | 182–262 | 166–276 |
-| Labour Party – Plaid Cymru | 266 | 178 | 0% | 146–200 | 145–206 | 140–215 | 125–226 |
-| Labour Party – Change UK | 262 | 173 | 0% | 141–198 | 138–203 | 130–212 | 117–225 |
-| Labour Party | 262 | 173 | 0% | 141–198 | 138–203 | 130–212 | 117–225 |
-
-### Conservative Party – Liberal Democrats – Change UK
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–libdem–chuk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 268 | 0% | 100% |  |
-| 269 | 0% | 99.9% |  |
-| 270 | 0% | 99.9% |  |
-| 271 | 0% | 99.9% |  |
-| 272 | 0% | 99.9% |  |
-| 273 | 0% | 99.9% |  |
-| 274 | 0% | 99.9% |  |
-| 275 | 0% | 99.9% |  |
-| 276 | 0% | 99.9% |  |
-| 277 | 0% | 99.9% |  |
-| 278 | 0.1% | 99.8% |  |
-| 279 | 0% | 99.8% |  |
-| 280 | 0% | 99.7% |  |
-| 281 | 0.1% | 99.7% |  |
-| 282 | 0% | 99.7% |  |
-| 283 | 0% | 99.6% |  |
-| 284 | 0% | 99.6% |  |
-| 285 | 0.1% | 99.6% |  |
-| 286 | 0% | 99.5% |  |
-| 287 | 0% | 99.5% |  |
-| 288 | 0% | 99.4% |  |
-| 289 | 0.1% | 99.4% |  |
-| 290 | 0% | 99.3% |  |
-| 291 | 0% | 99.3% |  |
-| 292 | 0.7% | 99.3% |  |
-| 293 | 0% | 98.6% |  |
-| 294 | 0.2% | 98.6% |  |
-| 295 | 0% | 98% |  |
-| 296 | 0.2% | 98% |  |
-| 297 | 0.1% | 98% |  |
-| 298 | 0.2% | 98% |  |
-| 299 | 0.3% | 98% |  |
-| 300 | 0% | 98% |  |
-| 301 | 0.3% | 98% |  |
-| 302 | 0.4% | 97% |  |
-| 303 | 0.1% | 97% |  |
-| 304 | 0% | 97% |  |
-| 305 | 0.2% | 97% |  |
-| 306 | 0.1% | 97% |  |
-| 307 | 0.6% | 96% |  |
-| 308 | 0.7% | 96% |  |
-| 309 | 1.0% | 95% |  |
-| 310 | 0.4% | 94% |  |
-| 311 | 0% | 94% |  |
-| 312 | 0.5% | 94% |  |
-| 313 | 0.2% | 93% |  |
-| 314 | 0.2% | 93% |  |
-| 315 | 4% | 93% |  |
-| 316 | 0.2% | 89% |  |
-| 317 | 0.3% | 89% |  |
-| 318 | 0.5% | 88% |  |
-| 319 | 1.0% | 88% |  |
-| 320 | 0.8% | 87% |  |
-| 321 | 1.0% | 86% |  |
-| 322 | 1.2% | 85% |  |
-| 323 | 1.4% | 84% |  |
-| 324 | 2% | 82% |  |
-| 325 | 0.3% | 81% |  |
-| 326 | 1.0% | 80% | Majority |
-| 327 | 0.5% | 79% |  |
-| 328 | 0.8% | 79% |  |
-| 329 | 2% | 78% | Last Result |
-| 330 | 1.3% | 76% |  |
-| 331 | 1.0% | 75% |  |
-| 332 | 2% | 74% |  |
-| 333 | 1.1% | 72% |  |
-| 334 | 3% | 71% |  |
-| 335 | 1.2% | 68% |  |
-| 336 | 0.1% | 67% |  |
-| 337 | 4% | 67% |  |
-| 338 | 3% | 63% |  |
-| 339 | 0.7% | 60% |  |
-| 340 | 1.0% | 59% |  |
-| 341 | 2% | 58% |  |
-| 342 | 2% | 57% |  |
-| 343 | 0.5% | 55% |  |
-| 344 | 1.2% | 55% |  |
-| 345 | 0.2% | 53% |  |
-| 346 | 0.1% | 53% |  |
-| 347 | 0.7% | 53% |  |
-| 348 | 0.5% | 52% |  |
-| 349 | 0.7% | 52% |  |
-| 350 | 0.6% | 51% |  |
-| 351 | 4% | 50% | Median |
-| 352 | 0.1% | 47% |  |
-| 353 | 1.2% | 47% |  |
-| 354 | 2% | 46% |  |
-| 355 | 0.6% | 44% |  |
-| 356 | 5% | 43% |  |
-| 357 | 0.5% | 39% |  |
-| 358 | 0.9% | 38% |  |
-| 359 | 0.3% | 37% |  |
-| 360 | 0.5% | 37% |  |
-| 361 | 0% | 37% |  |
-| 362 | 0.1% | 37% |  |
-| 363 | 0.2% | 36% |  |
-| 364 | 0.1% | 36% |  |
-| 365 | 0.2% | 36% |  |
-| 366 | 8% | 36% |  |
-| 367 | 1.2% | 28% |  |
-| 368 | 0.2% | 27% |  |
-| 369 | 0.1% | 27% |  |
-| 370 | 0.4% | 26% |  |
-| 371 | 0.3% | 26% |  |
-| 372 | 0.6% | 26% |  |
-| 373 | 0.2% | 25% |  |
-| 374 | 0.7% | 25% |  |
-| 375 | 0.3% | 24% |  |
-| 376 | 0.5% | 24% |  |
-| 377 | 6% | 23% |  |
-| 378 | 1.4% | 18% |  |
-| 379 | 0.1% | 16% |  |
-| 380 | 1.0% | 16% |  |
-| 381 | 4% | 15% |  |
-| 382 | 1.3% | 11% |  |
-| 383 | 0.1% | 10% |  |
-| 384 | 0.4% | 10% |  |
-| 385 | 0.6% | 9% |  |
-| 386 | 0.4% | 9% |  |
-| 387 | 0.6% | 8% |  |
-| 388 | 1.0% | 8% |  |
-| 389 | 0.5% | 7% |  |
-| 390 | 0% | 6% |  |
-| 391 | 0.1% | 6% |  |
-| 392 | 0.1% | 6% |  |
-| 393 | 1.0% | 6% |  |
-| 394 | 0.1% | 5% |  |
-| 395 | 0.1% | 5% |  |
-| 396 | 0.4% | 5% |  |
-| 397 | 0.2% | 4% |  |
-| 398 | 0.1% | 4% |  |
-| 399 | 0.3% | 4% |  |
-| 400 | 0% | 4% |  |
-| 401 | 0.7% | 4% |  |
-| 402 | 0.3% | 3% |  |
-| 403 | 0.1% | 3% |  |
-| 404 | 0.4% | 3% |  |
-| 405 | 0.2% | 2% |  |
-| 406 | 0.2% | 2% |  |
-| 407 | 0.6% | 2% |  |
-| 408 | 0.3% | 1.2% |  |
-| 409 | 0.1% | 0.9% |  |
-| 410 | 0.1% | 0.8% |  |
-| 411 | 0% | 0.8% |  |
-| 412 | 0% | 0.8% |  |
-| 413 | 0% | 0.8% |  |
-| 414 | 0% | 0.7% |  |
-| 415 | 0.1% | 0.7% |  |
-| 416 | 0% | 0.6% |  |
-| 417 | 0% | 0.6% |  |
-| 418 | 0.1% | 0.6% |  |
-| 419 | 0.1% | 0.5% |  |
-| 420 | 0.2% | 0.4% |  |
-| 421 | 0% | 0.2% |  |
-| 422 | 0% | 0.2% |  |
-| 423 | 0% | 0.2% |  |
-| 424 | 0% | 0.2% |  |
-| 425 | 0% | 0.2% |  |
-| 426 | 0% | 0.1% |  |
-| 427 | 0% | 0.1% |  |
-| 428 | 0% | 0.1% |  |
-| 429 | 0% | 0.1% |  |
-| 430 | 0% | 0% |  |
-
-### Conservative Party – Liberal Democrats
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–libdem.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 268 | 0% | 100% |  |
-| 269 | 0% | 99.9% |  |
-| 270 | 0% | 99.9% |  |
-| 271 | 0% | 99.9% |  |
-| 272 | 0% | 99.9% |  |
-| 273 | 0% | 99.9% |  |
-| 274 | 0% | 99.9% |  |
-| 275 | 0% | 99.9% |  |
-| 276 | 0% | 99.9% |  |
-| 277 | 0% | 99.9% |  |
-| 278 | 0.1% | 99.8% |  |
-| 279 | 0% | 99.8% |  |
-| 280 | 0% | 99.7% |  |
-| 281 | 0.1% | 99.7% |  |
-| 282 | 0% | 99.7% |  |
-| 283 | 0% | 99.6% |  |
-| 284 | 0% | 99.6% |  |
-| 285 | 0.1% | 99.6% |  |
-| 286 | 0% | 99.5% |  |
-| 287 | 0% | 99.5% |  |
-| 288 | 0% | 99.4% |  |
-| 289 | 0.1% | 99.4% |  |
-| 290 | 0% | 99.3% |  |
-| 291 | 0% | 99.3% |  |
-| 292 | 0.7% | 99.3% |  |
-| 293 | 0% | 98.6% |  |
-| 294 | 0.2% | 98.6% |  |
-| 295 | 0% | 98% |  |
-| 296 | 0.2% | 98% |  |
-| 297 | 0.1% | 98% |  |
-| 298 | 0.2% | 98% |  |
-| 299 | 0.3% | 98% |  |
-| 300 | 0% | 98% |  |
-| 301 | 0.3% | 98% |  |
-| 302 | 0.4% | 97% |  |
-| 303 | 0.1% | 97% |  |
-| 304 | 0% | 97% |  |
-| 305 | 0.2% | 97% |  |
-| 306 | 0.1% | 97% |  |
-| 307 | 0.6% | 96% |  |
-| 308 | 0.7% | 96% |  |
-| 309 | 1.0% | 95% |  |
-| 310 | 0.4% | 94% |  |
-| 311 | 0% | 94% |  |
-| 312 | 0.5% | 94% |  |
-| 313 | 0.2% | 93% |  |
-| 314 | 0.2% | 93% |  |
-| 315 | 4% | 93% |  |
-| 316 | 0.2% | 89% |  |
-| 317 | 0.3% | 89% |  |
-| 318 | 0.5% | 88% |  |
-| 319 | 1.0% | 88% |  |
-| 320 | 0.8% | 87% |  |
-| 321 | 1.0% | 86% |  |
-| 322 | 1.2% | 85% |  |
-| 323 | 1.4% | 84% |  |
-| 324 | 2% | 82% |  |
-| 325 | 0.3% | 81% |  |
-| 326 | 1.0% | 80% | Majority |
-| 327 | 0.5% | 79% |  |
-| 328 | 0.8% | 79% |  |
-| 329 | 2% | 78% | Last Result |
-| 330 | 1.3% | 76% |  |
-| 331 | 1.0% | 75% |  |
-| 332 | 2% | 74% |  |
-| 333 | 1.1% | 72% |  |
-| 334 | 3% | 71% |  |
-| 335 | 1.2% | 68% |  |
-| 336 | 0.1% | 67% |  |
-| 337 | 4% | 67% |  |
-| 338 | 3% | 63% |  |
-| 339 | 0.7% | 60% |  |
-| 340 | 1.0% | 59% |  |
-| 341 | 2% | 58% |  |
-| 342 | 2% | 57% |  |
-| 343 | 0.5% | 55% |  |
-| 344 | 1.2% | 55% |  |
-| 345 | 0.2% | 53% |  |
-| 346 | 0.1% | 53% |  |
-| 347 | 0.7% | 53% |  |
-| 348 | 0.5% | 52% |  |
-| 349 | 0.7% | 52% |  |
-| 350 | 0.6% | 51% |  |
-| 351 | 4% | 50% | Median |
-| 352 | 0.1% | 47% |  |
-| 353 | 1.2% | 47% |  |
-| 354 | 2% | 46% |  |
-| 355 | 0.6% | 44% |  |
-| 356 | 5% | 43% |  |
-| 357 | 0.5% | 39% |  |
-| 358 | 0.9% | 38% |  |
-| 359 | 0.3% | 37% |  |
-| 360 | 0.5% | 37% |  |
-| 361 | 0% | 37% |  |
-| 362 | 0.1% | 37% |  |
-| 363 | 0.2% | 36% |  |
-| 364 | 0.1% | 36% |  |
-| 365 | 0.2% | 36% |  |
-| 366 | 8% | 36% |  |
-| 367 | 1.2% | 28% |  |
-| 368 | 0.2% | 27% |  |
-| 369 | 0.1% | 27% |  |
-| 370 | 0.4% | 26% |  |
-| 371 | 0.3% | 26% |  |
-| 372 | 0.6% | 26% |  |
-| 373 | 0.2% | 25% |  |
-| 374 | 0.7% | 25% |  |
-| 375 | 0.3% | 24% |  |
-| 376 | 0.5% | 24% |  |
-| 377 | 6% | 23% |  |
-| 378 | 1.4% | 18% |  |
-| 379 | 0.1% | 16% |  |
-| 380 | 1.0% | 16% |  |
-| 381 | 4% | 15% |  |
-| 382 | 1.3% | 11% |  |
-| 383 | 0.1% | 10% |  |
-| 384 | 0.4% | 10% |  |
-| 385 | 0.6% | 9% |  |
-| 386 | 0.4% | 9% |  |
-| 387 | 0.6% | 8% |  |
-| 388 | 1.0% | 8% |  |
-| 389 | 0.5% | 7% |  |
-| 390 | 0% | 6% |  |
-| 391 | 0.1% | 6% |  |
-| 392 | 0.1% | 6% |  |
-| 393 | 1.0% | 6% |  |
-| 394 | 0.1% | 5% |  |
-| 395 | 0.1% | 5% |  |
-| 396 | 0.4% | 5% |  |
-| 397 | 0.2% | 4% |  |
-| 398 | 0.1% | 4% |  |
-| 399 | 0.3% | 4% |  |
-| 400 | 0% | 4% |  |
-| 401 | 0.7% | 4% |  |
-| 402 | 0.3% | 3% |  |
-| 403 | 0.1% | 3% |  |
-| 404 | 0.4% | 3% |  |
-| 405 | 0.2% | 2% |  |
-| 406 | 0.2% | 2% |  |
-| 407 | 0.6% | 2% |  |
-| 408 | 0.3% | 1.2% |  |
-| 409 | 0.1% | 0.9% |  |
-| 410 | 0.1% | 0.8% |  |
-| 411 | 0% | 0.8% |  |
-| 412 | 0% | 0.8% |  |
-| 413 | 0% | 0.8% |  |
-| 414 | 0% | 0.7% |  |
-| 415 | 0.1% | 0.7% |  |
-| 416 | 0% | 0.6% |  |
-| 417 | 0% | 0.6% |  |
-| 418 | 0.1% | 0.6% |  |
-| 419 | 0.1% | 0.5% |  |
-| 420 | 0.2% | 0.4% |  |
-| 421 | 0% | 0.2% |  |
-| 422 | 0% | 0.2% |  |
-| 423 | 0% | 0.2% |  |
-| 424 | 0% | 0.2% |  |
-| 425 | 0% | 0.2% |  |
-| 426 | 0% | 0.1% |  |
-| 427 | 0% | 0.1% |  |
-| 428 | 0% | 0.1% |  |
-| 429 | 0% | 0.1% |  |
-| 430 | 0% | 0% |  |
+| Conservative Party – Scottish National Party – Plaid Cymru | 356 | 379 | 100% | 379 | 379–397 | 379–397 | 379–397 |
+| Conservative Party – Liberal Democrats – Change UK | 329 | 376 | 100% | 376 | 376–379 | 376–379 | 376–379 |
+| Conservative Party – Liberal Democrats | 329 | 376 | 100% | 376 | 376–379 | 376–379 | 376–379 |
+| Conservative Party – Plaid Cymru | 321 | 325 | 6% | 325 | 325–344 | 325–344 | 325–344 |
+| Conservative Party | 317 | 321 | 6% | 321 | 321–332 | 321–332 | 321–332 |
 
 ### Conservative Party – Scottish National Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–snp–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–snp–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 230 | 0% | 100% |  |
-| 231 | 0% | 99.9% |  |
-| 232 | 0% | 99.9% |  |
-| 233 | 0% | 99.9% |  |
-| 234 | 0% | 99.9% |  |
-| 235 | 0% | 99.9% |  |
-| 236 | 0% | 99.9% |  |
-| 237 | 0% | 99.9% |  |
-| 238 | 0% | 99.9% |  |
-| 239 | 0% | 99.9% |  |
-| 240 | 0% | 99.9% |  |
-| 241 | 0% | 99.9% |  |
-| 242 | 0% | 99.8% |  |
-| 243 | 0% | 99.8% |  |
-| 244 | 0% | 99.8% |  |
-| 245 | 0% | 99.8% |  |
-| 246 | 0% | 99.8% |  |
-| 247 | 0.1% | 99.8% |  |
-| 248 | 0% | 99.7% |  |
-| 249 | 0.1% | 99.7% |  |
-| 250 | 0% | 99.6% |  |
-| 251 | 0% | 99.6% |  |
-| 252 | 0.1% | 99.6% |  |
-| 253 | 0.1% | 99.5% |  |
-| 254 | 0% | 99.5% |  |
-| 255 | 0% | 99.4% |  |
-| 256 | 0.3% | 99.4% |  |
-| 257 | 0% | 99.1% |  |
-| 258 | 0.5% | 99.1% |  |
-| 259 | 0% | 98.6% |  |
-| 260 | 0.1% | 98.6% |  |
-| 261 | 0% | 98.6% |  |
-| 262 | 0% | 98.5% |  |
-| 263 | 0.4% | 98% |  |
-| 264 | 0% | 98% |  |
-| 265 | 0.2% | 98% |  |
-| 266 | 0.2% | 98% |  |
-| 267 | 0% | 98% |  |
-| 268 | 0.2% | 98% |  |
-| 269 | 0.1% | 97% |  |
-| 270 | 0.1% | 97% |  |
-| 271 | 0.2% | 97% |  |
-| 272 | 0.1% | 97% |  |
-| 273 | 0% | 97% |  |
-| 274 | 0.2% | 97% |  |
-| 275 | 0.1% | 97% |  |
-| 276 | 0.6% | 97% |  |
-| 277 | 2% | 96% |  |
-| 278 | 0% | 95% |  |
-| 279 | 0.6% | 95% |  |
-| 280 | 0.7% | 94% |  |
-| 281 | 0.3% | 93% |  |
-| 282 | 0.2% | 93% |  |
-| 283 | 0.2% | 93% |  |
-| 284 | 1.0% | 93% |  |
-| 285 | 0.3% | 92% |  |
-| 286 | 3% | 91% |  |
-| 287 | 0.4% | 88% |  |
-| 288 | 0.4% | 88% |  |
-| 289 | 1.2% | 87% |  |
-| 290 | 0.3% | 86% |  |
-| 291 | 0.8% | 86% |  |
-| 292 | 0.1% | 85% |  |
-| 293 | 0.1% | 85% |  |
-| 294 | 0.6% | 85% |  |
-| 295 | 0.6% | 84% |  |
-| 296 | 2% | 84% |  |
-| 297 | 0.9% | 82% |  |
-| 298 | 0.1% | 81% |  |
-| 299 | 0.8% | 81% |  |
-| 300 | 2% | 80% |  |
-| 301 | 3% | 78% |  |
-| 302 | 1.5% | 75% |  |
-| 303 | 0.8% | 74% |  |
-| 304 | 0.7% | 73% |  |
-| 305 | 0.3% | 72% |  |
-| 306 | 0.7% | 72% |  |
-| 307 | 0.6% | 71% |  |
-| 308 | 1.2% | 71% |  |
-| 309 | 0.4% | 69% |  |
-| 310 | 0.1% | 69% |  |
-| 311 | 2% | 69% |  |
-| 312 | 2% | 67% |  |
-| 313 | 1.0% | 66% |  |
-| 314 | 6% | 65% |  |
-| 315 | 1.4% | 59% |  |
-| 316 | 0.4% | 58% |  |
-| 317 | 0.2% | 57% |  |
-| 318 | 1.1% | 57% |  |
-| 319 | 2% | 56% |  |
-| 320 | 0.7% | 54% |  |
-| 321 | 0.6% | 53% |  |
-| 322 | 0.3% | 52% |  |
-| 323 | 0.2% | 52% |  |
-| 324 | 0.4% | 52% |  |
-| 325 | 0.2% | 51% |  |
-| 326 | 0% | 51% | Majority |
-| 327 | 0.3% | 51% |  |
-| 328 | 0.2% | 51% |  |
-| 329 | 0.2% | 51% |  |
-| 330 | 1.1% | 51% |  |
-| 331 | 0.1% | 49% | Median |
-| 332 | 0.2% | 49% |  |
-| 333 | 0.4% | 49% |  |
-| 334 | 0.1% | 49% |  |
-| 335 | 0.3% | 49% |  |
-| 336 | 0% | 48% |  |
-| 337 | 0.3% | 48% |  |
-| 338 | 0.2% | 48% |  |
-| 339 | 0.3% | 48% |  |
-| 340 | 0.3% | 47% |  |
-| 341 | 0.1% | 47% |  |
-| 342 | 3% | 47% |  |
-| 343 | 0% | 44% |  |
-| 344 | 0.5% | 44% |  |
-| 345 | 0.4% | 43% |  |
-| 346 | 0.2% | 43% |  |
-| 347 | 0.1% | 42% |  |
-| 348 | 4% | 42% |  |
-| 349 | 0.2% | 38% |  |
-| 350 | 0.6% | 38% |  |
-| 351 | 0% | 37% |  |
-| 352 | 0.2% | 37% |  |
-| 353 | 0% | 37% |  |
-| 354 | 9% | 37% |  |
-| 355 | 0.6% | 28% |  |
-| 356 | 0.2% | 28% | Last Result |
-| 357 | 0.1% | 27% |  |
-| 358 | 2% | 27% |  |
-| 359 | 0.1% | 25% |  |
-| 360 | 0% | 25% |  |
-| 361 | 0% | 25% |  |
-| 362 | 0.8% | 25% |  |
-| 363 | 1.4% | 25% |  |
-| 364 | 0.5% | 23% |  |
-| 365 | 1.4% | 23% |  |
-| 366 | 0.1% | 21% |  |
-| 367 | 0.1% | 21% |  |
-| 368 | 0.4% | 21% |  |
-| 369 | 0.2% | 21% |  |
-| 370 | 0% | 20% |  |
-| 371 | 0.1% | 20% |  |
-| 372 | 0.1% | 20% |  |
-| 373 | 6% | 20% |  |
-| 374 | 0.6% | 14% |  |
-| 375 | 0% | 13% |  |
-| 376 | 0.4% | 13% |  |
-| 377 | 0.3% | 13% |  |
-| 378 | 0.1% | 13% |  |
-| 379 | 0.1% | 12% |  |
-| 380 | 0.3% | 12% |  |
-| 381 | 0.4% | 12% |  |
-| 382 | 0.7% | 12% |  |
-| 383 | 0.2% | 11% |  |
-| 384 | 4% | 11% |  |
-| 385 | 0.1% | 6% |  |
-| 386 | 0.4% | 6% |  |
-| 387 | 0.3% | 6% |  |
-| 388 | 0.9% | 6% |  |
-| 389 | 0% | 5% |  |
-| 390 | 0.7% | 5% |  |
-| 391 | 0.2% | 4% |  |
-| 392 | 0.4% | 4% |  |
-| 393 | 0.1% | 3% |  |
-| 394 | 0.1% | 3% |  |
-| 395 | 0% | 3% |  |
-| 396 | 0.8% | 3% |  |
-| 397 | 0.1% | 2% |  |
-| 398 | 0.2% | 2% |  |
-| 399 | 0.3% | 2% |  |
-| 400 | 0% | 2% |  |
-| 401 | 0.3% | 2% |  |
-| 402 | 0.2% | 1.4% |  |
-| 403 | 0.2% | 1.2% |  |
-| 404 | 0% | 1.0% |  |
-| 405 | 0.1% | 1.0% |  |
-| 406 | 0.2% | 0.9% |  |
-| 407 | 0% | 0.7% |  |
-| 408 | 0% | 0.6% |  |
-| 409 | 0.2% | 0.6% |  |
-| 410 | 0.2% | 0.5% |  |
-| 411 | 0.1% | 0.3% |  |
-| 412 | 0% | 0.2% |  |
-| 413 | 0% | 0.2% |  |
-| 414 | 0% | 0.2% |  |
-| 415 | 0% | 0.2% |  |
-| 416 | 0.1% | 0.1% |  |
-| 417 | 0% | 0.1% |  |
-| 418 | 0% | 0.1% |  |
-| 419 | 0% | 0.1% |  |
-| 420 | 0% | 0.1% |  |
-| 421 | 0% | 0.1% |  |
-| 422 | 0% | 0.1% |  |
-| 423 | 0% | 0.1% |  |
-| 424 | 0% | 0% |  |
+| 356 | 0% | 100% | Last Result |
+| 357 | 0% | 100% |  |
+| 358 | 0% | 100% |  |
+| 359 | 0% | 100% |  |
+| 360 | 0% | 100% |  |
+| 361 | 0% | 100% |  |
+| 362 | 0% | 100% |  |
+| 363 | 0% | 100% |  |
+| 364 | 0% | 100% |  |
+| 365 | 0% | 100% |  |
+| 366 | 0% | 100% |  |
+| 367 | 0% | 100% |  |
+| 368 | 0% | 100% |  |
+| 369 | 0% | 100% |  |
+| 370 | 0% | 100% |  |
+| 371 | 0% | 100% |  |
+| 372 | 0% | 100% |  |
+| 373 | 0% | 100% |  |
+| 374 | 0% | 100% |  |
+| 375 | 0% | 100% |  |
+| 376 | 0% | 100% |  |
+| 377 | 0% | 100% |  |
+| 378 | 0% | 100% |  |
+| 379 | 94% | 100% | Median |
+| 380 | 0% | 6% |  |
+| 381 | 0% | 6% |  |
+| 382 | 0% | 6% |  |
+| 383 | 0% | 6% |  |
+| 384 | 0% | 6% |  |
+| 385 | 0% | 6% |  |
+| 386 | 0% | 6% |  |
+| 387 | 0% | 6% |  |
+| 388 | 0% | 6% |  |
+| 389 | 0% | 6% |  |
+| 390 | 0% | 6% |  |
+| 391 | 0% | 6% |  |
+| 392 | 0% | 6% |  |
+| 393 | 0% | 6% |  |
+| 394 | 0% | 6% |  |
+| 395 | 0% | 6% |  |
+| 396 | 0% | 6% |  |
+| 397 | 6% | 6% |  |
+| 398 | 0% | 0% |  |
 
-### Conservative Party – Scottish National Party
+### Conservative Party – Liberal Democrats – Change UK
 
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–snp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–libdem–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 229 | 0% | 100% |  |
-| 230 | 0% | 99.9% |  |
-| 231 | 0% | 99.9% |  |
-| 232 | 0% | 99.9% |  |
-| 233 | 0% | 99.9% |  |
-| 234 | 0% | 99.9% |  |
-| 235 | 0% | 99.9% |  |
-| 236 | 0% | 99.9% |  |
-| 237 | 0% | 99.9% |  |
-| 238 | 0% | 99.9% |  |
-| 239 | 0% | 99.9% |  |
-| 240 | 0% | 99.8% |  |
-| 241 | 0% | 99.8% |  |
-| 242 | 0% | 99.8% |  |
-| 243 | 0% | 99.8% |  |
-| 244 | 0.1% | 99.8% |  |
-| 245 | 0% | 99.7% |  |
-| 246 | 0% | 99.7% |  |
-| 247 | 0% | 99.7% |  |
-| 248 | 0% | 99.6% |  |
-| 249 | 0.1% | 99.6% |  |
-| 250 | 0% | 99.6% |  |
-| 251 | 0% | 99.5% |  |
-| 252 | 0.1% | 99.5% |  |
-| 253 | 0.1% | 99.4% |  |
-| 254 | 0% | 99.4% |  |
-| 255 | 0.5% | 99.3% |  |
-| 256 | 0.2% | 98.8% |  |
-| 257 | 0% | 98.6% |  |
-| 258 | 0% | 98.6% |  |
-| 259 | 0% | 98.6% |  |
-| 260 | 0.1% | 98.6% |  |
-| 261 | 0% | 98% |  |
-| 262 | 0.3% | 98% |  |
-| 263 | 0% | 98% |  |
-| 264 | 0.4% | 98% |  |
-| 265 | 0.1% | 98% |  |
-| 266 | 0.1% | 98% |  |
-| 267 | 0.1% | 97% |  |
-| 268 | 0.1% | 97% |  |
-| 269 | 0% | 97% |  |
-| 270 | 0.4% | 97% |  |
-| 271 | 0.2% | 97% |  |
-| 272 | 0.1% | 97% |  |
-| 273 | 0.3% | 97% |  |
-| 274 | 0.1% | 96% |  |
-| 275 | 1.1% | 96% |  |
-| 276 | 0.8% | 95% |  |
-| 277 | 0.5% | 94% |  |
-| 278 | 0.1% | 94% |  |
-| 279 | 0.8% | 94% |  |
-| 280 | 0.3% | 93% |  |
-| 281 | 0.5% | 93% |  |
-| 282 | 0.2% | 92% |  |
-| 283 | 0.7% | 92% |  |
-| 284 | 0.4% | 91% |  |
-| 285 | 0.5% | 91% |  |
-| 286 | 4% | 91% |  |
-| 287 | 0.5% | 87% |  |
-| 288 | 1.0% | 86% |  |
-| 289 | 0.1% | 85% |  |
-| 290 | 0.1% | 85% |  |
-| 291 | 0.2% | 85% |  |
-| 292 | 0% | 85% |  |
-| 293 | 0.1% | 85% |  |
-| 294 | 2% | 84% |  |
-| 295 | 0.3% | 82% |  |
-| 296 | 1.3% | 82% |  |
-| 297 | 0.8% | 81% |  |
-| 298 | 2% | 80% |  |
-| 299 | 2% | 78% |  |
-| 300 | 0.7% | 76% |  |
-| 301 | 3% | 76% |  |
-| 302 | 0.3% | 73% |  |
-| 303 | 0.6% | 73% |  |
-| 304 | 2% | 72% |  |
-| 305 | 0.5% | 70% |  |
-| 306 | 0.1% | 70% |  |
-| 307 | 0.5% | 70% |  |
-| 308 | 1.3% | 69% |  |
-| 309 | 2% | 68% |  |
-| 310 | 0.9% | 66% |  |
-| 311 | 4% | 65% |  |
-| 312 | 1.1% | 61% |  |
-| 313 | 0.8% | 60% |  |
-| 314 | 3% | 59% |  |
-| 315 | 1.0% | 56% |  |
-| 316 | 0.3% | 55% |  |
-| 317 | 1.0% | 55% |  |
-| 318 | 0.7% | 54% |  |
-| 319 | 1.0% | 53% |  |
-| 320 | 0.3% | 52% |  |
-| 321 | 0.4% | 52% |  |
-| 322 | 0% | 51% |  |
-| 323 | 0.2% | 51% |  |
-| 324 | 0.3% | 51% |  |
-| 325 | 0.1% | 51% |  |
-| 326 | 0.6% | 51% | Majority |
-| 327 | 1.1% | 50% | Median |
-| 328 | 0.2% | 49% |  |
-| 329 | 0.6% | 49% |  |
-| 330 | 0.3% | 48% |  |
-| 331 | 0.3% | 48% |  |
-| 332 | 0.1% | 48% |  |
-| 333 | 0.1% | 48% |  |
-| 334 | 0.2% | 48% |  |
-| 335 | 3% | 47% |  |
-| 336 | 0.2% | 44% |  |
-| 337 | 0.6% | 44% |  |
-| 338 | 0.3% | 43% |  |
-| 339 | 0% | 43% |  |
-| 340 | 0.1% | 43% |  |
-| 341 | 5% | 43% |  |
-| 342 | 0.6% | 38% |  |
-| 343 | 1.5% | 37% |  |
-| 344 | 0.1% | 36% |  |
-| 345 | 0.8% | 36% |  |
-| 346 | 0.2% | 35% |  |
-| 347 | 8% | 35% |  |
-| 348 | 0.1% | 27% |  |
-| 349 | 0% | 27% |  |
-| 350 | 1.2% | 27% |  |
-| 351 | 0.2% | 26% |  |
-| 352 | 0.2% | 25% | Last Result |
-| 353 | 0.3% | 25% |  |
-| 354 | 0.1% | 25% |  |
-| 355 | 1.3% | 25% |  |
-| 356 | 0.1% | 24% |  |
-| 357 | 0.4% | 23% |  |
-| 358 | 0.9% | 23% |  |
-| 359 | 2% | 22% |  |
-| 360 | 0.1% | 21% |  |
-| 361 | 0.1% | 20% |  |
-| 362 | 6% | 20% |  |
-| 363 | 0.4% | 15% |  |
-| 364 | 0.4% | 14% |  |
-| 365 | 0.1% | 14% |  |
-| 366 | 0.3% | 14% |  |
-| 367 | 0.2% | 14% |  |
-| 368 | 0.1% | 13% |  |
-| 369 | 0.2% | 13% |  |
-| 370 | 0.4% | 13% |  |
-| 371 | 0.1% | 13% |  |
-| 372 | 0.8% | 13% |  |
-| 373 | 0.1% | 12% |  |
-| 374 | 0.2% | 12% |  |
-| 375 | 0.8% | 11% |  |
-| 376 | 4% | 11% |  |
-| 377 | 1.1% | 6% |  |
-| 378 | 0% | 5% |  |
-| 379 | 0.2% | 5% |  |
-| 380 | 0.4% | 5% |  |
-| 381 | 0.4% | 5% |  |
-| 382 | 0.1% | 4% |  |
-| 383 | 0.4% | 4% |  |
-| 384 | 0.3% | 4% |  |
-| 385 | 0.2% | 4% |  |
-| 386 | 0.4% | 3% |  |
-| 387 | 0.1% | 3% |  |
-| 388 | 0% | 3% |  |
-| 389 | 0.8% | 3% |  |
-| 390 | 0.2% | 2% |  |
-| 391 | 0.4% | 2% |  |
-| 392 | 0.1% | 2% |  |
-| 393 | 0.2% | 1.5% |  |
-| 394 | 0.4% | 1.3% |  |
-| 395 | 0% | 0.9% |  |
-| 396 | 0% | 0.9% |  |
-| 397 | 0% | 0.8% |  |
-| 398 | 0% | 0.8% |  |
-| 399 | 0.1% | 0.8% |  |
-| 400 | 0% | 0.7% |  |
-| 401 | 0.1% | 0.7% |  |
-| 402 | 0.4% | 0.6% |  |
-| 403 | 0.1% | 0.3% |  |
-| 404 | 0% | 0.2% |  |
-| 405 | 0% | 0.2% |  |
-| 406 | 0% | 0.2% |  |
-| 407 | 0.1% | 0.2% |  |
-| 408 | 0% | 0.1% |  |
-| 409 | 0% | 0.1% |  |
-| 410 | 0% | 0.1% |  |
-| 411 | 0% | 0.1% |  |
-| 412 | 0% | 0.1% |  |
-| 413 | 0% | 0.1% |  |
-| 414 | 0% | 0% |  |
+| 329 | 0% | 100% | Last Result |
+| 330 | 0% | 100% |  |
+| 331 | 0% | 100% |  |
+| 332 | 0% | 100% |  |
+| 333 | 0% | 100% |  |
+| 334 | 0% | 100% |  |
+| 335 | 0% | 100% |  |
+| 336 | 0% | 100% |  |
+| 337 | 0% | 100% |  |
+| 338 | 0% | 100% |  |
+| 339 | 0% | 100% |  |
+| 340 | 0% | 100% |  |
+| 341 | 0% | 100% |  |
+| 342 | 0% | 100% |  |
+| 343 | 0% | 100% |  |
+| 344 | 0% | 100% |  |
+| 345 | 0% | 100% |  |
+| 346 | 0% | 100% |  |
+| 347 | 0% | 100% |  |
+| 348 | 0% | 100% |  |
+| 349 | 0% | 100% |  |
+| 350 | 0% | 100% |  |
+| 351 | 0% | 100% |  |
+| 352 | 0% | 100% |  |
+| 353 | 0% | 100% |  |
+| 354 | 0% | 100% |  |
+| 355 | 0% | 100% |  |
+| 356 | 0% | 100% |  |
+| 357 | 0% | 100% |  |
+| 358 | 0% | 100% |  |
+| 359 | 0% | 100% |  |
+| 360 | 0% | 100% |  |
+| 361 | 0% | 100% |  |
+| 362 | 0% | 100% |  |
+| 363 | 0% | 100% |  |
+| 364 | 0% | 100% |  |
+| 365 | 0% | 100% |  |
+| 366 | 0% | 100% |  |
+| 367 | 0% | 100% |  |
+| 368 | 0% | 100% |  |
+| 369 | 0% | 100% |  |
+| 370 | 0% | 100% |  |
+| 371 | 0% | 100% |  |
+| 372 | 0% | 100% |  |
+| 373 | 0% | 100% |  |
+| 374 | 0% | 100% |  |
+| 375 | 0% | 100% |  |
+| 376 | 94% | 100% | Median |
+| 377 | 0% | 6% |  |
+| 378 | 0% | 6% |  |
+| 379 | 6% | 6% |  |
+| 380 | 0% | 0% |  |
 
-### Labour Party – Liberal Democrats – Scottish National Party – Plaid Cymru
+### Conservative Party – Liberal Democrats
 
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–libdem–snp–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–libdem.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 227 | 0% | 100% |  |
-| 228 | 0% | 99.9% |  |
-| 229 | 0% | 99.9% |  |
-| 230 | 0.1% | 99.9% |  |
-| 231 | 0% | 99.9% |  |
-| 232 | 0% | 99.9% |  |
-| 233 | 0% | 99.8% |  |
-| 234 | 0% | 99.8% |  |
-| 235 | 0.2% | 99.8% |  |
-| 236 | 0% | 99.6% |  |
-| 237 | 0% | 99.6% |  |
-| 238 | 0.2% | 99.6% |  |
-| 239 | 0.1% | 99.4% |  |
-| 240 | 0.1% | 99.3% |  |
-| 241 | 0% | 99.2% |  |
-| 242 | 0% | 99.2% |  |
-| 243 | 0.1% | 99.2% |  |
-| 244 | 0% | 99.1% |  |
-| 245 | 0.1% | 99.1% |  |
-| 246 | 0.1% | 99.0% |  |
-| 247 | 0% | 98.9% |  |
-| 248 | 0.7% | 98.9% |  |
-| 249 | 0% | 98% |  |
-| 250 | 0.2% | 98% |  |
-| 251 | 0.1% | 98% |  |
-| 252 | 0.2% | 98% |  |
-| 253 | 0.3% | 98% |  |
-| 254 | 0% | 97% |  |
-| 255 | 0.1% | 97% |  |
-| 256 | 0% | 97% |  |
-| 257 | 0% | 97% |  |
-| 258 | 0% | 97% |  |
-| 259 | 5% | 97% |  |
-| 260 | 0.4% | 93% |  |
-| 261 | 0% | 92% |  |
-| 262 | 2% | 92% |  |
-| 263 | 0.1% | 91% |  |
-| 264 | 0.5% | 91% |  |
-| 265 | 0.2% | 90% |  |
-| 266 | 1.0% | 90% |  |
-| 267 | 0% | 89% |  |
-| 268 | 0.7% | 89% |  |
-| 269 | 1.1% | 88% |  |
-| 270 | 0.5% | 87% |  |
-| 271 | 0.4% | 87% |  |
-| 272 | 0.4% | 86% |  |
-| 273 | 0.2% | 86% |  |
-| 274 | 0.5% | 86% |  |
-| 275 | 0.3% | 85% |  |
-| 276 | 0.2% | 85% |  |
-| 277 | 0.8% | 85% |  |
-| 278 | 0.1% | 84% |  |
-| 279 | 0.5% | 84% |  |
-| 280 | 0.1% | 83% |  |
-| 281 | 0.4% | 83% |  |
-| 282 | 6% | 83% |  |
-| 283 | 0.1% | 77% |  |
-| 284 | 0.5% | 77% |  |
-| 285 | 0.2% | 76% |  |
-| 286 | 0.4% | 76% |  |
-| 287 | 1.0% | 76% |  |
-| 288 | 0.9% | 75% |  |
-| 289 | 0.4% | 74% |  |
-| 290 | 1.2% | 73% |  |
-| 291 | 0.7% | 72% |  |
-| 292 | 0.6% | 72% |  |
-| 293 | 8% | 71% |  |
-| 294 | 0.9% | 63% |  |
-| 295 | 0.2% | 62% |  |
-| 296 | 0.9% | 62% |  |
-| 297 | 0.3% | 61% |  |
-| 298 | 2% | 61% |  |
-| 299 | 1.1% | 59% |  |
-| 300 | 0.3% | 58% |  |
-| 301 | 2% | 58% |  |
-| 302 | 2% | 56% |  |
-| 303 | 5% | 54% | Median |
-| 304 | 5% | 50% |  |
-| 305 | 0.7% | 45% |  |
-| 306 | 2% | 44% |  |
-| 307 | 0.3% | 42% |  |
-| 308 | 3% | 42% |  |
-| 309 | 2% | 39% |  |
-| 310 | 2% | 37% |  |
-| 311 | 2% | 35% |  |
-| 312 | 1.0% | 34% |  |
-| 313 | 0.9% | 33% | Last Result |
-| 314 | 2% | 32% |  |
-| 315 | 2% | 30% |  |
-| 316 | 1.0% | 27% |  |
-| 317 | 4% | 26% |  |
-| 318 | 2% | 22% |  |
-| 319 | 2% | 20% |  |
-| 320 | 2% | 18% |  |
-| 321 | 1.0% | 16% |  |
-| 322 | 0.4% | 15% |  |
-| 323 | 0.6% | 15% |  |
-| 324 | 0.2% | 14% |  |
-| 325 | 0.3% | 14% |  |
-| 326 | 0.4% | 14% | Majority |
-| 327 | 0.1% | 13% |  |
-| 328 | 0.1% | 13% |  |
-| 329 | 1.0% | 13% |  |
-| 330 | 1.2% | 12% |  |
-| 331 | 0.5% | 11% |  |
-| 332 | 2% | 11% |  |
-| 333 | 1.2% | 9% |  |
-| 334 | 2% | 8% |  |
-| 335 | 0.2% | 6% |  |
-| 336 | 0.2% | 6% |  |
-| 337 | 0.2% | 5% |  |
-| 338 | 0% | 5% |  |
-| 339 | 0.1% | 5% |  |
-| 340 | 0% | 5% |  |
-| 341 | 0% | 5% |  |
-| 342 | 0.9% | 5% |  |
-| 343 | 0.1% | 4% |  |
-| 344 | 0.1% | 4% |  |
-| 345 | 0.5% | 4% |  |
-| 346 | 0.4% | 4% |  |
-| 347 | 0.1% | 3% |  |
-| 348 | 0.4% | 3% |  |
-| 349 | 0.2% | 3% |  |
-| 350 | 0% | 2% |  |
-| 351 | 0% | 2% |  |
-| 352 | 0.1% | 2% |  |
-| 353 | 0.1% | 2% |  |
-| 354 | 0.1% | 2% |  |
-| 355 | 0.1% | 2% |  |
-| 356 | 1.0% | 2% |  |
-| 357 | 0% | 0.7% |  |
-| 358 | 0.3% | 0.7% |  |
-| 359 | 0% | 0.4% |  |
-| 360 | 0% | 0.4% |  |
-| 361 | 0% | 0.4% |  |
-| 362 | 0% | 0.3% |  |
-| 363 | 0% | 0.3% |  |
-| 364 | 0% | 0.3% |  |
-| 365 | 0% | 0.3% |  |
-| 366 | 0% | 0.3% |  |
-| 367 | 0% | 0.3% |  |
-| 368 | 0% | 0.3% |  |
-| 369 | 0% | 0.3% |  |
-| 370 | 0% | 0.3% |  |
-| 371 | 0% | 0.3% |  |
-| 372 | 0% | 0.3% |  |
-| 373 | 0% | 0.3% |  |
-| 374 | 0% | 0.3% |  |
-| 375 | 0% | 0.2% |  |
-| 376 | 0% | 0.2% |  |
-| 377 | 0% | 0.2% |  |
-| 378 | 0% | 0.1% |  |
-| 379 | 0% | 0.1% |  |
-| 380 | 0% | 0.1% |  |
-| 381 | 0% | 0.1% |  |
-| 382 | 0% | 0.1% |  |
-| 383 | 0% | 0% |  |
+| 329 | 0% | 100% | Last Result |
+| 330 | 0% | 100% |  |
+| 331 | 0% | 100% |  |
+| 332 | 0% | 100% |  |
+| 333 | 0% | 100% |  |
+| 334 | 0% | 100% |  |
+| 335 | 0% | 100% |  |
+| 336 | 0% | 100% |  |
+| 337 | 0% | 100% |  |
+| 338 | 0% | 100% |  |
+| 339 | 0% | 100% |  |
+| 340 | 0% | 100% |  |
+| 341 | 0% | 100% |  |
+| 342 | 0% | 100% |  |
+| 343 | 0% | 100% |  |
+| 344 | 0% | 100% |  |
+| 345 | 0% | 100% |  |
+| 346 | 0% | 100% |  |
+| 347 | 0% | 100% |  |
+| 348 | 0% | 100% |  |
+| 349 | 0% | 100% |  |
+| 350 | 0% | 100% |  |
+| 351 | 0% | 100% |  |
+| 352 | 0% | 100% |  |
+| 353 | 0% | 100% |  |
+| 354 | 0% | 100% |  |
+| 355 | 0% | 100% |  |
+| 356 | 0% | 100% |  |
+| 357 | 0% | 100% |  |
+| 358 | 0% | 100% |  |
+| 359 | 0% | 100% |  |
+| 360 | 0% | 100% |  |
+| 361 | 0% | 100% |  |
+| 362 | 0% | 100% |  |
+| 363 | 0% | 100% |  |
+| 364 | 0% | 100% |  |
+| 365 | 0% | 100% |  |
+| 366 | 0% | 100% |  |
+| 367 | 0% | 100% |  |
+| 368 | 0% | 100% |  |
+| 369 | 0% | 100% |  |
+| 370 | 0% | 100% |  |
+| 371 | 0% | 100% |  |
+| 372 | 0% | 100% |  |
+| 373 | 0% | 100% |  |
+| 374 | 0% | 100% |  |
+| 375 | 0% | 100% |  |
+| 376 | 94% | 100% | Median |
+| 377 | 0% | 6% |  |
+| 378 | 0% | 6% |  |
+| 379 | 6% | 6% |  |
+| 380 | 0% | 0% |  |
 
 ### Conservative Party – Plaid Cymru
 
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 179 | 0% | 100% |  |
-| 180 | 0% | 99.9% |  |
-| 181 | 0% | 99.9% |  |
-| 182 | 0% | 99.9% |  |
-| 183 | 0% | 99.9% |  |
-| 184 | 0% | 99.9% |  |
-| 185 | 0% | 99.9% |  |
-| 186 | 0% | 99.9% |  |
-| 187 | 0% | 99.9% |  |
-| 188 | 0% | 99.9% |  |
-| 189 | 0% | 99.9% |  |
-| 190 | 0% | 99.9% |  |
-| 191 | 0% | 99.8% |  |
-| 192 | 0% | 99.8% |  |
-| 193 | 0% | 99.8% |  |
-| 194 | 0% | 99.8% |  |
-| 195 | 0% | 99.8% |  |
-| 196 | 0.1% | 99.8% |  |
-| 197 | 0.1% | 99.7% |  |
-| 198 | 0% | 99.6% |  |
-| 199 | 0% | 99.6% |  |
-| 200 | 0% | 99.6% |  |
-| 201 | 0.1% | 99.5% |  |
-| 202 | 0% | 99.5% |  |
-| 203 | 0% | 99.4% |  |
-| 204 | 0% | 99.4% |  |
-| 205 | 0.2% | 99.4% |  |
-| 206 | 0% | 99.1% |  |
-| 207 | 0.5% | 99.1% |  |
-| 208 | 0% | 98.6% |  |
-| 209 | 0% | 98.6% |  |
-| 210 | 0.1% | 98.5% |  |
-| 211 | 0.1% | 98% |  |
-| 212 | 0.4% | 98% |  |
-| 213 | 0% | 98% |  |
-| 214 | 0.1% | 98% |  |
-| 215 | 0.2% | 98% |  |
-| 216 | 0.1% | 98% |  |
-| 217 | 0.2% | 98% |  |
-| 218 | 0.1% | 97% |  |
-| 219 | 0.1% | 97% |  |
-| 220 | 0.2% | 97% |  |
-| 221 | 0% | 97% |  |
-| 222 | 0.6% | 97% |  |
-| 223 | 0.2% | 96% |  |
-| 224 | 0.1% | 96% |  |
-| 225 | 0.1% | 96% |  |
-| 226 | 1.5% | 96% |  |
-| 227 | 0% | 94% |  |
-| 228 | 0.6% | 94% |  |
-| 229 | 0.6% | 94% |  |
-| 230 | 0.6% | 93% |  |
-| 231 | 0.4% | 93% |  |
-| 232 | 0.6% | 92% |  |
-| 233 | 0.7% | 92% |  |
-| 234 | 3% | 91% |  |
-| 235 | 0.2% | 88% |  |
-| 236 | 0.2% | 88% |  |
-| 237 | 0.3% | 88% |  |
-| 238 | 1.1% | 87% |  |
-| 239 | 0.4% | 86% |  |
-| 240 | 1.0% | 86% |  |
-| 241 | 0.5% | 85% |  |
-| 242 | 0.2% | 84% |  |
-| 243 | 0.3% | 84% |  |
-| 244 | 0.4% | 84% |  |
-| 245 | 2% | 83% |  |
-| 246 | 2% | 82% |  |
-| 247 | 0.3% | 80% |  |
-| 248 | 1.0% | 79% |  |
-| 249 | 0.4% | 78% |  |
-| 250 | 3% | 78% |  |
-| 251 | 1.3% | 75% |  |
-| 252 | 1.1% | 74% |  |
-| 253 | 0.1% | 72% |  |
-| 254 | 0.3% | 72% |  |
-| 255 | 1.1% | 72% |  |
-| 256 | 0.6% | 71% |  |
-| 257 | 1.4% | 70% |  |
-| 258 | 0.1% | 69% |  |
-| 259 | 2% | 69% |  |
-| 260 | 2% | 67% |  |
-| 261 | 1.0% | 66% |  |
-| 262 | 3% | 65% |  |
-| 263 | 3% | 62% |  |
-| 264 | 1.2% | 59% |  |
-| 265 | 1.3% | 58% |  |
-| 266 | 2% | 57% |  |
-| 267 | 0.3% | 55% |  |
-| 268 | 1.1% | 55% |  |
-| 269 | 0.8% | 53% |  |
-| 270 | 0.2% | 53% |  |
-| 271 | 0.5% | 52% |  |
-| 272 | 0.1% | 52% |  |
-| 273 | 0.8% | 52% |  |
-| 274 | 0.1% | 51% |  |
-| 275 | 0.1% | 51% |  |
-| 276 | 0.1% | 51% |  |
-| 277 | 0.1% | 51% |  |
-| 278 | 0% | 51% |  |
-| 279 | 1.2% | 51% |  |
-| 280 | 0.4% | 49% | Median |
-| 281 | 0.4% | 49% |  |
-| 282 | 0.1% | 49% |  |
-| 283 | 0.3% | 49% |  |
-| 284 | 0.1% | 48% |  |
-| 285 | 0.2% | 48% |  |
-| 286 | 0.3% | 48% |  |
-| 287 | 0.2% | 48% |  |
-| 288 | 0.1% | 48% |  |
-| 289 | 0.1% | 48% |  |
-| 290 | 0% | 47% |  |
-| 291 | 0.9% | 47% |  |
-| 292 | 3% | 47% |  |
-| 293 | 0.2% | 43% |  |
-| 294 | 4% | 43% |  |
-| 295 | 0% | 39% |  |
-| 296 | 0.8% | 39% |  |
-| 297 | 0.2% | 38% |  |
-| 298 | 0% | 38% |  |
-| 299 | 0.1% | 38% |  |
-| 300 | 1.4% | 38% |  |
-| 301 | 0% | 36% |  |
-| 302 | 0.1% | 36% |  |
-| 303 | 0.1% | 36% |  |
-| 304 | 1.5% | 36% |  |
-| 305 | 0.2% | 34% |  |
-| 306 | 8% | 34% |  |
-| 307 | 0.2% | 26% |  |
-| 308 | 0.2% | 26% |  |
-| 309 | 0% | 26% |  |
-| 310 | 1.1% | 26% |  |
-| 311 | 0.6% | 25% |  |
-| 312 | 0% | 24% |  |
-| 313 | 0.2% | 24% |  |
-| 314 | 0.3% | 24% |  |
-| 315 | 0.1% | 24% |  |
-| 316 | 2% | 23% |  |
-| 317 | 0.1% | 22% |  |
-| 318 | 0% | 22% |  |
-| 319 | 6% | 22% |  |
-| 320 | 0.2% | 16% |  |
-| 321 | 0.1% | 16% | Last Result |
-| 322 | 0.5% | 16% |  |
-| 323 | 1.4% | 15% |  |
-| 324 | 0.2% | 14% |  |
-| 325 | 0.2% | 14% |  |
-| 326 | 0.3% | 13% | Majority |
-| 327 | 0.3% | 13% |  |
-| 328 | 0.1% | 13% |  |
-| 329 | 0.2% | 13% |  |
-| 330 | 4% | 12% |  |
-| 331 | 0.4% | 8% |  |
-| 332 | 0% | 8% |  |
-| 333 | 0.7% | 8% |  |
-| 334 | 0.5% | 7% |  |
-| 335 | 0.1% | 6% |  |
-| 336 | 0.7% | 6% |  |
-| 337 | 0.2% | 6% |  |
-| 338 | 0.1% | 5% |  |
-| 339 | 0.6% | 5% |  |
-| 340 | 0.1% | 5% |  |
-| 341 | 0% | 5% |  |
-| 342 | 0.3% | 4% |  |
-| 343 | 0.2% | 4% |  |
-| 344 | 0.2% | 4% |  |
-| 345 | 0.9% | 4% |  |
-| 346 | 0.1% | 3% |  |
-| 347 | 0% | 3% |  |
-| 348 | 0.5% | 3% |  |
-| 349 | 0.2% | 2% |  |
-| 350 | 0.6% | 2% |  |
-| 351 | 0.1% | 1.5% |  |
-| 352 | 0.2% | 1.3% |  |
-| 353 | 0% | 1.1% |  |
-| 354 | 0% | 1.1% |  |
-| 355 | 0% | 1.0% |  |
-| 356 | 0.1% | 1.0% |  |
-| 357 | 0.2% | 0.9% |  |
-| 358 | 0.2% | 0.7% |  |
-| 359 | 0.1% | 0.5% |  |
-| 360 | 0% | 0.4% |  |
-| 361 | 0% | 0.4% |  |
-| 362 | 0.1% | 0.4% |  |
-| 363 | 0% | 0.4% |  |
-| 364 | 0.2% | 0.3% |  |
-| 365 | 0% | 0.2% |  |
-| 366 | 0% | 0.2% |  |
-| 367 | 0% | 0.1% |  |
-| 368 | 0% | 0.1% |  |
-| 369 | 0% | 0.1% |  |
-| 370 | 0% | 0.1% |  |
-| 371 | 0% | 0.1% |  |
-| 372 | 0% | 0.1% |  |
-| 373 | 0% | 0.1% |  |
-| 374 | 0% | 0% |  |
-
-### Labour Party – Liberal Democrats – Scottish National Party
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–libdem–snp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 218 | 0% | 100% |  |
-| 219 | 0% | 99.9% |  |
-| 220 | 0% | 99.9% |  |
-| 221 | 0% | 99.9% |  |
-| 222 | 0% | 99.9% |  |
-| 223 | 0.1% | 99.9% |  |
-| 224 | 0.1% | 99.8% |  |
-| 225 | 0% | 99.7% |  |
-| 226 | 0% | 99.7% |  |
-| 227 | 0.2% | 99.7% |  |
-| 228 | 0% | 99.5% |  |
-| 229 | 0% | 99.5% |  |
-| 230 | 0.1% | 99.5% |  |
-| 231 | 0.1% | 99.4% |  |
-| 232 | 0% | 99.3% |  |
-| 233 | 0% | 99.3% |  |
-| 234 | 0% | 99.3% |  |
-| 235 | 0% | 99.3% |  |
-| 236 | 0.1% | 99.2% |  |
-| 237 | 0% | 99.1% |  |
-| 238 | 0.1% | 99.1% |  |
-| 239 | 0% | 99.0% |  |
-| 240 | 0% | 98.9% |  |
-| 241 | 0.9% | 98.9% |  |
-| 242 | 0.1% | 98% |  |
-| 243 | 0% | 98% |  |
-| 244 | 0% | 98% |  |
-| 245 | 0.1% | 98% |  |
-| 246 | 0.3% | 98% |  |
-| 247 | 0.2% | 98% |  |
-| 248 | 0.2% | 97% |  |
-| 249 | 0.2% | 97% |  |
-| 250 | 0.5% | 97% |  |
-| 251 | 5% | 97% |  |
-| 252 | 0% | 92% |  |
-| 253 | 0.1% | 92% |  |
-| 254 | 0% | 92% |  |
-| 255 | 0.8% | 92% |  |
-| 256 | 0.2% | 91% |  |
-| 257 | 0.1% | 91% |  |
-| 258 | 1.3% | 91% |  |
-| 259 | 1.1% | 89% |  |
-| 260 | 0.5% | 88% |  |
-| 261 | 0% | 88% |  |
-| 262 | 0.6% | 88% |  |
-| 263 | 0.1% | 87% |  |
-| 264 | 0.8% | 87% |  |
-| 265 | 0.4% | 86% |  |
-| 266 | 0.5% | 86% |  |
-| 267 | 0% | 85% |  |
-| 268 | 0.5% | 85% |  |
-| 269 | 0.1% | 85% |  |
-| 270 | 0.7% | 85% |  |
-| 271 | 6% | 84% |  |
-| 272 | 0.3% | 78% |  |
-| 273 | 0.3% | 78% |  |
-| 274 | 0.3% | 78% |  |
-| 275 | 0.3% | 77% |  |
-| 276 | 0.8% | 77% |  |
-| 277 | 0.6% | 76% |  |
-| 278 | 0.1% | 76% |  |
-| 279 | 0.1% | 76% |  |
-| 280 | 0.2% | 75% |  |
-| 281 | 0.7% | 75% |  |
-| 282 | 0.4% | 74% |  |
-| 283 | 0.2% | 74% |  |
-| 284 | 0.4% | 74% |  |
-| 285 | 0.2% | 73% |  |
-| 286 | 8% | 73% |  |
-| 287 | 1.5% | 66% |  |
-| 288 | 0.4% | 64% |  |
-| 289 | 0.1% | 64% |  |
-| 290 | 3% | 64% |  |
-| 291 | 0.4% | 61% |  |
-| 292 | 0.9% | 60% |  |
-| 293 | 0.5% | 60% |  |
-| 294 | 0.5% | 59% |  |
-| 295 | 0.9% | 59% |  |
-| 296 | 5% | 58% |  |
-| 297 | 3% | 53% |  |
-| 298 | 0.6% | 50% |  |
-| 299 | 0.9% | 49% | Median |
-| 300 | 1.1% | 48% |  |
-| 301 | 3% | 47% |  |
-| 302 | 2% | 44% |  |
-| 303 | 1.4% | 43% |  |
-| 304 | 0.3% | 41% |  |
-| 305 | 0.7% | 41% |  |
-| 306 | 1.3% | 40% |  |
-| 307 | 2% | 39% |  |
-| 308 | 5% | 38% |  |
-| 309 | 0.4% | 33% | Last Result |
-| 310 | 0.8% | 32% |  |
-| 311 | 1.0% | 31% |  |
-| 312 | 3% | 30% |  |
-| 313 | 0.7% | 27% |  |
-| 314 | 2% | 27% |  |
-| 315 | 2% | 25% |  |
-| 316 | 2% | 23% |  |
-| 317 | 5% | 21% |  |
-| 318 | 1.3% | 17% |  |
-| 319 | 0.3% | 15% |  |
-| 320 | 0.2% | 15% |  |
-| 321 | 0.5% | 15% |  |
-| 322 | 0.3% | 14% |  |
-| 323 | 0.4% | 14% |  |
-| 324 | 0.3% | 14% |  |
-| 325 | 0.8% | 13% |  |
-| 326 | 0.3% | 13% | Majority |
-| 327 | 0.1% | 12% |  |
-| 328 | 0.2% | 12% |  |
-| 329 | 0.9% | 12% |  |
-| 330 | 1.4% | 11% |  |
-| 331 | 2% | 10% |  |
-| 332 | 1.1% | 7% |  |
-| 333 | 0.2% | 6% |  |
-| 334 | 2% | 6% |  |
-| 335 | 0% | 4% |  |
-| 336 | 0% | 4% |  |
-| 337 | 0.1% | 4% |  |
-| 338 | 0% | 4% |  |
-| 339 | 0.1% | 4% |  |
-| 340 | 0.1% | 4% |  |
-| 341 | 0% | 4% |  |
-| 342 | 0.7% | 4% |  |
-| 343 | 0% | 3% |  |
-| 344 | 0.3% | 3% |  |
-| 345 | 0.3% | 3% |  |
-| 346 | 0.1% | 3% |  |
-| 347 | 0.1% | 3% |  |
-| 348 | 0.1% | 2% |  |
-| 349 | 0.1% | 2% |  |
-| 350 | 0.1% | 2% |  |
-| 351 | 0.1% | 2% |  |
-| 352 | 0.2% | 2% |  |
-| 353 | 0.1% | 2% |  |
-| 354 | 1.0% | 2% |  |
-| 355 | 0% | 0.8% |  |
-| 356 | 0% | 0.7% |  |
-| 357 | 0.3% | 0.7% |  |
-| 358 | 0.1% | 0.4% |  |
-| 359 | 0% | 0.3% |  |
-| 360 | 0% | 0.3% |  |
-| 361 | 0% | 0.3% |  |
-| 362 | 0% | 0.3% |  |
-| 363 | 0% | 0.3% |  |
-| 364 | 0% | 0.3% |  |
-| 365 | 0% | 0.3% |  |
-| 366 | 0% | 0.3% |  |
-| 367 | 0% | 0.3% |  |
-| 368 | 0% | 0.3% |  |
-| 369 | 0% | 0.3% |  |
-| 370 | 0% | 0.3% |  |
-| 371 | 0% | 0.3% |  |
-| 372 | 0% | 0.2% |  |
-| 373 | 0% | 0.2% |  |
-| 374 | 0% | 0.2% |  |
-| 375 | 0% | 0.2% |  |
-| 376 | 0% | 0.2% |  |
-| 377 | 0% | 0.1% |  |
-| 378 | 0% | 0.1% |  |
-| 379 | 0% | 0.1% |  |
-| 380 | 0% | 0.1% |  |
-| 381 | 0% | 0% |  |
-
-### Conservative Party – Change UK
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con–chuk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 178 | 0% | 100% |  |
-| 179 | 0% | 99.9% |  |
-| 180 | 0% | 99.9% |  |
-| 181 | 0% | 99.9% |  |
-| 182 | 0% | 99.9% |  |
-| 183 | 0% | 99.9% |  |
-| 184 | 0% | 99.9% |  |
-| 185 | 0% | 99.9% |  |
-| 186 | 0% | 99.9% |  |
-| 187 | 0% | 99.9% |  |
-| 188 | 0% | 99.9% |  |
-| 189 | 0% | 99.8% |  |
-| 190 | 0% | 99.8% |  |
-| 191 | 0% | 99.8% |  |
-| 192 | 0% | 99.8% |  |
-| 193 | 0.1% | 99.8% |  |
-| 194 | 0% | 99.7% |  |
-| 195 | 0% | 99.7% |  |
-| 196 | 0% | 99.7% |  |
-| 197 | 0.1% | 99.6% |  |
-| 198 | 0% | 99.6% |  |
-| 199 | 0% | 99.5% |  |
-| 200 | 0.1% | 99.5% |  |
-| 201 | 0.1% | 99.5% |  |
-| 202 | 0.1% | 99.4% |  |
-| 203 | 0% | 99.3% |  |
-| 204 | 0.5% | 99.3% |  |
-| 205 | 0.2% | 98.8% |  |
-| 206 | 0% | 98.6% |  |
-| 207 | 0% | 98.6% |  |
-| 208 | 0% | 98.6% |  |
-| 209 | 0.1% | 98.5% |  |
-| 210 | 0.1% | 98% |  |
-| 211 | 0.4% | 98% |  |
-| 212 | 0% | 98% |  |
-| 213 | 0.3% | 98% |  |
-| 214 | 0.1% | 98% |  |
-| 215 | 0.1% | 98% |  |
-| 216 | 0.2% | 97% |  |
-| 217 | 0.1% | 97% |  |
-| 218 | 0.2% | 97% |  |
-| 219 | 0.4% | 97% |  |
-| 220 | 0.1% | 97% |  |
-| 221 | 0.2% | 96% |  |
-| 222 | 0.2% | 96% |  |
-| 223 | 0.2% | 96% |  |
-| 224 | 0.9% | 96% |  |
-| 225 | 0.7% | 95% |  |
-| 226 | 0.5% | 94% |  |
-| 227 | 0.5% | 94% |  |
-| 228 | 0.8% | 93% |  |
-| 229 | 0.5% | 93% |  |
-| 230 | 0.2% | 92% |  |
-| 231 | 0.6% | 92% |  |
-| 232 | 0.5% | 91% |  |
-| 233 | 0.3% | 91% |  |
-| 234 | 3% | 91% |  |
-| 235 | 1.2% | 88% |  |
-| 236 | 0.5% | 86% |  |
-| 237 | 0.9% | 86% |  |
-| 238 | 0.1% | 85% |  |
-| 239 | 0.1% | 85% |  |
-| 240 | 0.4% | 85% |  |
-| 241 | 0.4% | 84% |  |
-| 242 | 0.3% | 84% |  |
-| 243 | 1.5% | 84% |  |
-| 244 | 0.4% | 82% |  |
-| 245 | 3% | 82% |  |
-| 246 | 1.4% | 79% |  |
-| 247 | 0.9% | 78% |  |
-| 248 | 0.5% | 77% |  |
-| 249 | 0.7% | 76% |  |
-| 250 | 3% | 76% |  |
-| 251 | 0.4% | 73% |  |
-| 252 | 0.3% | 73% |  |
-| 253 | 2% | 72% |  |
-| 254 | 0.8% | 70% |  |
-| 255 | 0.1% | 70% |  |
-| 256 | 1.1% | 70% |  |
-| 257 | 2% | 69% |  |
-| 258 | 2% | 67% |  |
-| 259 | 1.0% | 65% |  |
-| 260 | 4% | 64% |  |
-| 261 | 0.2% | 60% |  |
-| 262 | 3% | 60% |  |
-| 263 | 2% | 57% |  |
-| 264 | 0.2% | 55% |  |
-| 265 | 0.2% | 55% |  |
-| 266 | 1.0% | 54% |  |
-| 267 | 1.0% | 53% |  |
-| 268 | 0.1% | 52% |  |
-| 269 | 0.5% | 52% |  |
-| 270 | 0.3% | 52% |  |
-| 271 | 0.1% | 51% |  |
-| 272 | 0.3% | 51% |  |
-| 273 | 0.3% | 51% |  |
-| 274 | 0.1% | 51% |  |
-| 275 | 0.3% | 51% |  |
-| 276 | 1.3% | 50% | Median |
-| 277 | 0.2% | 49% |  |
-| 278 | 0.3% | 49% |  |
-| 279 | 0.2% | 48% |  |
-| 280 | 0.5% | 48% |  |
-| 281 | 0.4% | 48% |  |
-| 282 | 0.1% | 47% |  |
-| 283 | 0.3% | 47% |  |
-| 284 | 0.2% | 47% |  |
-| 285 | 3% | 47% |  |
-| 286 | 0% | 44% |  |
-| 287 | 5% | 44% |  |
-| 288 | 0.6% | 39% |  |
-| 289 | 2% | 38% |  |
-| 290 | 0.1% | 37% |  |
-| 291 | 0% | 36% |  |
-| 292 | 0.1% | 36% |  |
-| 293 | 0.1% | 36% |  |
-| 294 | 0% | 36% |  |
-| 295 | 0.3% | 36% |  |
-| 296 | 2% | 36% |  |
-| 297 | 0% | 34% |  |
-| 298 | 0.2% | 34% |  |
-| 299 | 8% | 34% |  |
-| 300 | 0.5% | 26% |  |
-| 301 | 0.2% | 25% |  |
-| 302 | 0.2% | 25% |  |
-| 303 | 0.2% | 25% |  |
-| 304 | 0.5% | 25% |  |
-| 305 | 0.1% | 24% |  |
-| 306 | 0.6% | 24% |  |
-| 307 | 0% | 24% |  |
-| 308 | 6% | 23% |  |
-| 309 | 0.3% | 17% |  |
-| 310 | 0.3% | 17% |  |
-| 311 | 0.1% | 17% |  |
-| 312 | 1.4% | 17% |  |
-| 313 | 1.0% | 15% |  |
-| 314 | 0.2% | 14% |  |
-| 315 | 0.2% | 14% |  |
-| 316 | 0.4% | 14% |  |
-| 317 | 0% | 14% | Last Result |
-| 318 | 0.1% | 14% |  |
-| 319 | 0.9% | 13% |  |
-| 320 | 0.4% | 13% |  |
-| 321 | 0% | 12% |  |
-| 322 | 4% | 12% |  |
-| 323 | 0.4% | 8% |  |
-| 324 | 0.2% | 7% |  |
-| 325 | 0.1% | 7% |  |
-| 326 | 0.4% | 7% | Majority |
-| 327 | 0.4% | 7% |  |
-| 328 | 0.1% | 6% |  |
-| 329 | 0.5% | 6% |  |
-| 330 | 0.3% | 6% |  |
-| 331 | 0.4% | 5% |  |
-| 332 | 0.9% | 5% |  |
-| 333 | 0.1% | 4% |  |
-| 334 | 0.1% | 4% |  |
-| 335 | 0% | 4% |  |
-| 336 | 0.3% | 4% |  |
-| 337 | 0.1% | 4% |  |
-| 338 | 0.9% | 4% |  |
-| 339 | 0.7% | 3% |  |
-| 340 | 0.3% | 2% |  |
-| 341 | 0.3% | 2% |  |
-| 342 | 0% | 1.4% |  |
-| 343 | 0.1% | 1.3% |  |
-| 344 | 0% | 1.3% |  |
-| 345 | 0% | 1.3% |  |
-| 346 | 0.3% | 1.2% |  |
-| 347 | 0% | 1.0% |  |
-| 348 | 0.3% | 0.9% |  |
-| 349 | 0.1% | 0.6% |  |
-| 350 | 0.1% | 0.6% |  |
-| 351 | 0% | 0.4% |  |
-| 352 | 0% | 0.4% |  |
-| 353 | 0% | 0.4% |  |
-| 354 | 0.1% | 0.4% |  |
-| 355 | 0% | 0.3% |  |
-| 356 | 0% | 0.3% |  |
-| 357 | 0.1% | 0.3% |  |
-| 358 | 0% | 0.2% |  |
-| 359 | 0% | 0.2% |  |
-| 360 | 0% | 0.2% |  |
-| 361 | 0% | 0.1% |  |
-| 362 | 0% | 0.1% |  |
-| 363 | 0.1% | 0.1% |  |
-| 364 | 0% | 0.1% |  |
-| 365 | 0% | 0.1% |  |
-| 366 | 0% | 0% |  |
+| 321 | 0% | 100% | Last Result |
+| 322 | 0% | 100% |  |
+| 323 | 0% | 100% |  |
+| 324 | 0% | 100% |  |
+| 325 | 94% | 100% | Median |
+| 326 | 0% | 6% | Majority |
+| 327 | 0% | 6% |  |
+| 328 | 0% | 6% |  |
+| 329 | 0% | 6% |  |
+| 330 | 0% | 6% |  |
+| 331 | 0% | 6% |  |
+| 332 | 0% | 6% |  |
+| 333 | 0% | 6% |  |
+| 334 | 0% | 6% |  |
+| 335 | 0% | 6% |  |
+| 336 | 0% | 6% |  |
+| 337 | 0% | 6% |  |
+| 338 | 0% | 6% |  |
+| 339 | 0% | 6% |  |
+| 340 | 0% | 6% |  |
+| 341 | 0% | 6% |  |
+| 342 | 0% | 6% |  |
+| 343 | 0% | 6% |  |
+| 344 | 6% | 6% |  |
+| 345 | 0% | 0% |  |
 
 ### Conservative Party
 
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-con.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-con.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 178 | 0% | 100% |  |
-| 179 | 0% | 99.9% |  |
-| 180 | 0% | 99.9% |  |
-| 181 | 0% | 99.9% |  |
-| 182 | 0% | 99.9% |  |
-| 183 | 0% | 99.9% |  |
-| 184 | 0% | 99.9% |  |
-| 185 | 0% | 99.9% |  |
-| 186 | 0% | 99.9% |  |
-| 187 | 0% | 99.9% |  |
-| 188 | 0% | 99.9% |  |
-| 189 | 0% | 99.8% |  |
-| 190 | 0% | 99.8% |  |
-| 191 | 0% | 99.8% |  |
-| 192 | 0% | 99.8% |  |
-| 193 | 0.1% | 99.8% |  |
-| 194 | 0% | 99.7% |  |
-| 195 | 0% | 99.7% |  |
-| 196 | 0% | 99.7% |  |
-| 197 | 0.1% | 99.6% |  |
-| 198 | 0% | 99.6% |  |
-| 199 | 0% | 99.5% |  |
-| 200 | 0.1% | 99.5% |  |
-| 201 | 0.1% | 99.5% |  |
-| 202 | 0.1% | 99.4% |  |
-| 203 | 0% | 99.3% |  |
-| 204 | 0.5% | 99.3% |  |
-| 205 | 0.2% | 98.8% |  |
-| 206 | 0% | 98.6% |  |
-| 207 | 0% | 98.6% |  |
-| 208 | 0% | 98.6% |  |
-| 209 | 0.1% | 98.5% |  |
-| 210 | 0.1% | 98% |  |
-| 211 | 0.4% | 98% |  |
-| 212 | 0% | 98% |  |
-| 213 | 0.3% | 98% |  |
-| 214 | 0.1% | 98% |  |
-| 215 | 0.1% | 98% |  |
-| 216 | 0.2% | 97% |  |
-| 217 | 0.1% | 97% |  |
-| 218 | 0.2% | 97% |  |
-| 219 | 0.4% | 97% |  |
-| 220 | 0.1% | 97% |  |
-| 221 | 0.2% | 96% |  |
-| 222 | 0.2% | 96% |  |
-| 223 | 0.2% | 96% |  |
-| 224 | 0.9% | 96% |  |
-| 225 | 0.7% | 95% |  |
-| 226 | 0.5% | 94% |  |
-| 227 | 0.5% | 94% |  |
-| 228 | 0.8% | 93% |  |
-| 229 | 0.5% | 93% |  |
-| 230 | 0.2% | 92% |  |
-| 231 | 0.6% | 92% |  |
-| 232 | 0.5% | 91% |  |
-| 233 | 0.3% | 91% |  |
-| 234 | 3% | 91% |  |
-| 235 | 1.2% | 88% |  |
-| 236 | 0.5% | 86% |  |
-| 237 | 0.9% | 86% |  |
-| 238 | 0.1% | 85% |  |
-| 239 | 0.1% | 85% |  |
-| 240 | 0.4% | 85% |  |
-| 241 | 0.4% | 84% |  |
-| 242 | 0.3% | 84% |  |
-| 243 | 1.5% | 84% |  |
-| 244 | 0.4% | 82% |  |
-| 245 | 3% | 82% |  |
-| 246 | 1.4% | 79% |  |
-| 247 | 0.9% | 78% |  |
-| 248 | 0.5% | 77% |  |
-| 249 | 0.7% | 76% |  |
-| 250 | 3% | 76% |  |
-| 251 | 0.4% | 73% |  |
-| 252 | 0.3% | 73% |  |
-| 253 | 2% | 72% |  |
-| 254 | 0.8% | 70% |  |
-| 255 | 0.1% | 70% |  |
-| 256 | 1.1% | 70% |  |
-| 257 | 2% | 69% |  |
-| 258 | 2% | 67% |  |
-| 259 | 1.0% | 65% |  |
-| 260 | 4% | 64% |  |
-| 261 | 0.2% | 60% |  |
-| 262 | 3% | 60% |  |
-| 263 | 2% | 57% |  |
-| 264 | 0.2% | 55% |  |
-| 265 | 0.2% | 55% |  |
-| 266 | 1.0% | 54% |  |
-| 267 | 1.0% | 53% |  |
-| 268 | 0.1% | 52% |  |
-| 269 | 0.5% | 52% |  |
-| 270 | 0.3% | 52% |  |
-| 271 | 0.1% | 51% |  |
-| 272 | 0.3% | 51% |  |
-| 273 | 0.3% | 51% |  |
-| 274 | 0.1% | 51% |  |
-| 275 | 0.3% | 51% |  |
-| 276 | 1.3% | 50% | Median |
-| 277 | 0.2% | 49% |  |
-| 278 | 0.3% | 49% |  |
-| 279 | 0.2% | 48% |  |
-| 280 | 0.5% | 48% |  |
-| 281 | 0.4% | 48% |  |
-| 282 | 0.1% | 47% |  |
-| 283 | 0.3% | 47% |  |
-| 284 | 0.2% | 47% |  |
-| 285 | 3% | 47% |  |
-| 286 | 0% | 44% |  |
-| 287 | 5% | 44% |  |
-| 288 | 0.6% | 39% |  |
-| 289 | 2% | 38% |  |
-| 290 | 0.1% | 37% |  |
-| 291 | 0% | 36% |  |
-| 292 | 0.1% | 36% |  |
-| 293 | 0.1% | 36% |  |
-| 294 | 0% | 36% |  |
-| 295 | 0.3% | 36% |  |
-| 296 | 2% | 36% |  |
-| 297 | 0% | 34% |  |
-| 298 | 0.2% | 34% |  |
-| 299 | 8% | 34% |  |
-| 300 | 0.5% | 26% |  |
-| 301 | 0.2% | 25% |  |
-| 302 | 0.2% | 25% |  |
-| 303 | 0.2% | 25% |  |
-| 304 | 0.5% | 25% |  |
-| 305 | 0.1% | 24% |  |
-| 306 | 0.6% | 24% |  |
-| 307 | 0% | 24% |  |
-| 308 | 6% | 23% |  |
-| 309 | 0.3% | 17% |  |
-| 310 | 0.3% | 17% |  |
-| 311 | 0.1% | 17% |  |
-| 312 | 1.4% | 17% |  |
-| 313 | 1.0% | 15% |  |
-| 314 | 0.2% | 14% |  |
-| 315 | 0.2% | 14% |  |
-| 316 | 0.4% | 14% |  |
-| 317 | 0% | 14% | Last Result |
-| 318 | 0.1% | 14% |  |
-| 319 | 0.9% | 13% |  |
-| 320 | 0.4% | 13% |  |
-| 321 | 0% | 12% |  |
-| 322 | 4% | 12% |  |
-| 323 | 0.4% | 8% |  |
-| 324 | 0.2% | 7% |  |
-| 325 | 0.1% | 7% |  |
-| 326 | 0.4% | 7% | Majority |
-| 327 | 0.4% | 7% |  |
-| 328 | 0.1% | 6% |  |
-| 329 | 0.5% | 6% |  |
-| 330 | 0.3% | 6% |  |
-| 331 | 0.4% | 5% |  |
-| 332 | 0.9% | 5% |  |
-| 333 | 0.1% | 4% |  |
-| 334 | 0.1% | 4% |  |
-| 335 | 0% | 4% |  |
-| 336 | 0.3% | 4% |  |
-| 337 | 0.1% | 4% |  |
-| 338 | 0.9% | 4% |  |
-| 339 | 0.7% | 3% |  |
-| 340 | 0.3% | 2% |  |
-| 341 | 0.3% | 2% |  |
-| 342 | 0% | 1.4% |  |
-| 343 | 0.1% | 1.3% |  |
-| 344 | 0% | 1.3% |  |
-| 345 | 0% | 1.3% |  |
-| 346 | 0.3% | 1.2% |  |
-| 347 | 0% | 1.0% |  |
-| 348 | 0.3% | 0.9% |  |
-| 349 | 0.1% | 0.6% |  |
-| 350 | 0.1% | 0.6% |  |
-| 351 | 0% | 0.4% |  |
-| 352 | 0% | 0.4% |  |
-| 353 | 0% | 0.4% |  |
-| 354 | 0.1% | 0.4% |  |
-| 355 | 0% | 0.3% |  |
-| 356 | 0% | 0.3% |  |
-| 357 | 0.1% | 0.3% |  |
-| 358 | 0% | 0.2% |  |
-| 359 | 0% | 0.2% |  |
-| 360 | 0% | 0.2% |  |
-| 361 | 0% | 0.1% |  |
-| 362 | 0% | 0.1% |  |
-| 363 | 0.1% | 0.1% |  |
-| 364 | 0% | 0.1% |  |
-| 365 | 0% | 0.1% |  |
-| 366 | 0% | 0% |  |
-
-### Labour Party – Liberal Democrats – Plaid Cymru
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–libdem–pc.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 181 | 0% | 100% |  |
-| 182 | 0% | 99.9% |  |
-| 183 | 0% | 99.9% |  |
-| 184 | 0% | 99.9% |  |
-| 185 | 0% | 99.9% |  |
-| 186 | 0% | 99.9% |  |
-| 187 | 0% | 99.8% |  |
-| 188 | 0.1% | 99.8% |  |
-| 189 | 0.1% | 99.7% |  |
-| 190 | 0.2% | 99.6% |  |
-| 191 | 0% | 99.5% |  |
-| 192 | 0.1% | 99.5% |  |
-| 193 | 0.1% | 99.4% |  |
-| 194 | 0.1% | 99.3% |  |
-| 195 | 0.1% | 99.2% |  |
-| 196 | 0.1% | 99.0% |  |
-| 197 | 0.7% | 98.9% |  |
-| 198 | 0.2% | 98% |  |
-| 199 | 0.1% | 98% |  |
-| 200 | 0.3% | 98% |  |
-| 201 | 0% | 98% |  |
-| 202 | 0% | 98% |  |
-| 203 | 0% | 98% |  |
-| 204 | 0.1% | 97% |  |
-| 205 | 4% | 97% |  |
-| 206 | 0.3% | 93% |  |
-| 207 | 0% | 93% |  |
-| 208 | 0% | 93% |  |
-| 209 | 0.2% | 93% |  |
-| 210 | 0% | 93% |  |
-| 211 | 0.6% | 93% |  |
-| 212 | 0% | 92% |  |
-| 213 | 0.2% | 92% |  |
-| 214 | 0.9% | 92% |  |
-| 215 | 2% | 91% |  |
-| 216 | 0.5% | 89% |  |
-| 217 | 0.4% | 89% |  |
-| 218 | 0.1% | 88% |  |
-| 219 | 0.3% | 88% |  |
-| 220 | 0.1% | 88% |  |
-| 221 | 0.1% | 88% |  |
-| 222 | 0.3% | 88% |  |
-| 223 | 0.7% | 88% |  |
-| 224 | 0.3% | 87% |  |
-| 225 | 0% | 87% |  |
-| 226 | 0.4% | 87% |  |
-| 227 | 1.3% | 86% |  |
-| 228 | 6% | 85% |  |
-| 229 | 0.4% | 78% |  |
-| 230 | 0.2% | 78% |  |
-| 231 | 0.2% | 78% |  |
-| 232 | 0.3% | 78% |  |
-| 233 | 0.4% | 77% |  |
-| 234 | 1.1% | 77% |  |
-| 235 | 0.3% | 76% |  |
-| 236 | 0.5% | 75% |  |
-| 237 | 0.8% | 75% |  |
-| 238 | 0.2% | 74% |  |
-| 239 | 2% | 74% |  |
-| 240 | 0.3% | 72% |  |
-| 241 | 0.9% | 72% |  |
-| 242 | 0.4% | 71% |  |
-| 243 | 0.9% | 71% |  |
-| 244 | 2% | 70% |  |
-| 245 | 8% | 68% |  |
-| 246 | 0.3% | 60% |  |
-| 247 | 2% | 60% |  |
-| 248 | 2% | 58% |  |
-| 249 | 5% | 55% |  |
-| 250 | 1.3% | 50% |  |
-| 251 | 0.1% | 49% |  |
-| 252 | 0.6% | 49% | Median |
-| 253 | 0.7% | 49% |  |
-| 254 | 4% | 48% |  |
-| 255 | 2% | 44% |  |
-| 256 | 2% | 42% |  |
-| 257 | 2% | 40% |  |
-| 258 | 2% | 38% |  |
-| 259 | 3% | 36% |  |
-| 260 | 0.7% | 33% |  |
-| 261 | 2% | 33% |  |
-| 262 | 0.3% | 31% |  |
-| 263 | 2% | 31% |  |
-| 264 | 4% | 29% |  |
-| 265 | 4% | 26% |  |
-| 266 | 1.3% | 22% |  |
-| 267 | 1.0% | 20% |  |
-| 268 | 0.7% | 19% |  |
-| 269 | 3% | 19% |  |
-| 270 | 0.9% | 16% |  |
-| 271 | 0.4% | 15% |  |
-| 272 | 0.5% | 15% |  |
-| 273 | 0.2% | 14% |  |
-| 274 | 0.1% | 14% |  |
-| 275 | 0.3% | 14% |  |
-| 276 | 0.1% | 14% |  |
-| 277 | 0.3% | 13% |  |
-| 278 | 1.1% | 13% | Last Result |
-| 279 | 1.5% | 12% |  |
-| 280 | 0.3% | 11% |  |
-| 281 | 2% | 10% |  |
-| 282 | 1.3% | 9% |  |
-| 283 | 2% | 8% |  |
-| 284 | 0.1% | 6% |  |
-| 285 | 0.2% | 6% |  |
-| 286 | 0.1% | 5% |  |
-| 287 | 0% | 5% |  |
-| 288 | 0.1% | 5% |  |
-| 289 | 0.1% | 5% |  |
-| 290 | 0.1% | 5% |  |
-| 291 | 0.9% | 5% |  |
-| 292 | 0.3% | 4% |  |
-| 293 | 0.1% | 4% |  |
-| 294 | 0.6% | 4% |  |
-| 295 | 0.2% | 3% |  |
-| 296 | 0.1% | 3% |  |
-| 297 | 0.4% | 3% |  |
-| 298 | 0.1% | 2% |  |
-| 299 | 0% | 2% |  |
-| 300 | 0% | 2% |  |
-| 301 | 0.1% | 2% |  |
-| 302 | 0.2% | 2% |  |
-| 303 | 0.2% | 2% |  |
-| 304 | 0% | 2% |  |
-| 305 | 1.0% | 2% |  |
-| 306 | 0% | 0.7% |  |
-| 307 | 0.3% | 0.7% |  |
-| 308 | 0% | 0.4% |  |
-| 309 | 0% | 0.4% |  |
-| 310 | 0% | 0.4% |  |
-| 311 | 0% | 0.3% |  |
-| 312 | 0% | 0.3% |  |
-| 313 | 0% | 0.3% |  |
-| 314 | 0% | 0.3% |  |
-| 315 | 0% | 0.3% |  |
-| 316 | 0% | 0.3% |  |
-| 317 | 0% | 0.3% |  |
-| 318 | 0% | 0.3% |  |
-| 319 | 0% | 0.3% |  |
-| 320 | 0% | 0.3% |  |
-| 321 | 0% | 0.3% |  |
-| 322 | 0% | 0.3% |  |
-| 323 | 0% | 0.2% |  |
-| 324 | 0% | 0.2% |  |
-| 325 | 0% | 0.2% |  |
-| 326 | 0% | 0.1% | Majority |
-| 327 | 0% | 0.1% |  |
-| 328 | 0% | 0.1% |  |
-| 329 | 0% | 0.1% |  |
-| 330 | 0% | 0.1% |  |
-| 331 | 0% | 0.1% |  |
-| 332 | 0% | 0% |  |
-
-### Labour Party – Liberal Democrats – Change UK
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–libdem–chuk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 170 | 0% | 100% |  |
-| 171 | 0% | 99.9% |  |
-| 172 | 0% | 99.9% |  |
-| 173 | 0.1% | 99.9% |  |
-| 174 | 0% | 99.9% |  |
-| 175 | 0% | 99.9% |  |
-| 176 | 0% | 99.9% |  |
-| 177 | 0.1% | 99.8% |  |
-| 178 | 0% | 99.7% |  |
-| 179 | 0.1% | 99.7% |  |
-| 180 | 0% | 99.7% |  |
-| 181 | 0% | 99.7% |  |
-| 182 | 0.2% | 99.6% |  |
-| 183 | 0% | 99.4% |  |
-| 184 | 0% | 99.4% |  |
-| 185 | 0.1% | 99.4% |  |
-| 186 | 0.2% | 99.4% |  |
-| 187 | 0.1% | 99.1% |  |
-| 188 | 0% | 99.0% |  |
-| 189 | 0% | 99.0% |  |
-| 190 | 0.7% | 98.9% |  |
-| 191 | 0.1% | 98% |  |
-| 192 | 0.1% | 98% |  |
-| 193 | 0.3% | 98% |  |
-| 194 | 0.3% | 98% |  |
-| 195 | 0.2% | 97% |  |
-| 196 | 0% | 97% |  |
-| 197 | 5% | 97% |  |
-| 198 | 0% | 93% |  |
-| 199 | 0% | 93% |  |
-| 200 | 0.3% | 93% |  |
-| 201 | 0% | 92% |  |
-| 202 | 0.3% | 92% |  |
-| 203 | 0.1% | 92% |  |
-| 204 | 0.2% | 92% |  |
-| 205 | 0.2% | 92% |  |
-| 206 | 0.2% | 91% |  |
-| 207 | 0.2% | 91% |  |
-| 208 | 0% | 91% |  |
-| 209 | 0.4% | 91% |  |
-| 210 | 0.9% | 91% |  |
-| 211 | 2% | 90% |  |
-| 212 | 0.5% | 88% |  |
-| 213 | 0.2% | 87% |  |
-| 214 | 0.1% | 87% |  |
-| 215 | 0.1% | 87% |  |
-| 216 | 0% | 87% |  |
-| 217 | 7% | 87% |  |
-| 218 | 0.4% | 80% |  |
-| 219 | 0.6% | 79% |  |
-| 220 | 0.1% | 79% |  |
-| 221 | 0.1% | 79% |  |
-| 222 | 0.5% | 79% |  |
-| 223 | 0.2% | 78% |  |
-| 224 | 0.3% | 78% |  |
-| 225 | 0.2% | 78% |  |
-| 226 | 0.2% | 77% |  |
-| 227 | 1.1% | 77% |  |
-| 228 | 0.6% | 76% |  |
-| 229 | 0.4% | 75% |  |
-| 230 | 0.6% | 75% |  |
-| 231 | 0.3% | 75% |  |
-| 232 | 0.1% | 74% |  |
-| 233 | 0.2% | 74% |  |
-| 234 | 0.8% | 74% |  |
-| 235 | 0.4% | 73% |  |
-| 236 | 4% | 73% |  |
-| 237 | 0.3% | 69% |  |
-| 238 | 8% | 69% |  |
-| 239 | 0.1% | 61% |  |
-| 240 | 0.7% | 61% |  |
-| 241 | 0.9% | 60% |  |
-| 242 | 5% | 59% |  |
-| 243 | 0.2% | 54% |  |
-| 244 | 0.4% | 54% |  |
-| 245 | 0.4% | 54% |  |
-| 246 | 0.8% | 53% |  |
-| 247 | 6% | 53% |  |
-| 248 | 0.7% | 47% | Median |
-| 249 | 1.2% | 46% |  |
-| 250 | 0.4% | 45% |  |
-| 251 | 2% | 44% |  |
-| 252 | 0.8% | 42% |  |
-| 253 | 0.3% | 41% |  |
-| 254 | 1.0% | 41% |  |
-| 255 | 0.7% | 40% |  |
-| 256 | 4% | 39% |  |
-| 257 | 2% | 35% |  |
-| 258 | 1.0% | 33% |  |
-| 259 | 1.3% | 32% |  |
-| 260 | 0.2% | 30% |  |
-| 261 | 5% | 30% |  |
-| 262 | 1.1% | 25% |  |
-| 263 | 0.5% | 24% |  |
-| 264 | 0.8% | 23% |  |
-| 265 | 4% | 23% |  |
-| 266 | 2% | 19% |  |
-| 267 | 1.2% | 16% |  |
-| 268 | 0.1% | 15% |  |
-| 269 | 0.3% | 15% |  |
-| 270 | 0.5% | 15% |  |
-| 271 | 0.2% | 14% |  |
-| 272 | 0.3% | 14% |  |
-| 273 | 0.5% | 14% |  |
-| 274 | 1.0% | 13% | Last Result |
-| 275 | 0.1% | 12% |  |
-| 276 | 0.1% | 12% |  |
-| 277 | 0.1% | 12% |  |
-| 278 | 2% | 12% |  |
-| 279 | 1.3% | 10% |  |
-| 280 | 2% | 9% |  |
-| 281 | 0.9% | 7% |  |
-| 282 | 0.3% | 6% |  |
-| 283 | 2% | 6% |  |
-| 284 | 0.1% | 4% |  |
-| 285 | 0% | 4% |  |
-| 286 | 0.1% | 4% |  |
-| 287 | 0% | 4% |  |
-| 288 | 0.1% | 4% |  |
-| 289 | 0% | 4% |  |
-| 290 | 0.4% | 4% |  |
-| 291 | 0.6% | 4% |  |
-| 292 | 0.1% | 3% |  |
-| 293 | 0.1% | 3% |  |
-| 294 | 0.4% | 3% |  |
-| 295 | 0.1% | 3% |  |
-| 296 | 0.1% | 2% |  |
-| 297 | 0.1% | 2% |  |
-| 298 | 0.1% | 2% |  |
-| 299 | 0.1% | 2% |  |
-| 300 | 0.1% | 2% |  |
-| 301 | 0.2% | 2% |  |
-| 302 | 0.1% | 2% |  |
-| 303 | 0.9% | 2% |  |
-| 304 | 0% | 0.7% |  |
-| 305 | 0% | 0.7% |  |
-| 306 | 0.3% | 0.7% |  |
-| 307 | 0.1% | 0.4% |  |
-| 308 | 0% | 0.3% |  |
-| 309 | 0% | 0.3% |  |
-| 310 | 0% | 0.3% |  |
-| 311 | 0% | 0.3% |  |
-| 312 | 0% | 0.3% |  |
-| 313 | 0% | 0.3% |  |
-| 314 | 0% | 0.3% |  |
-| 315 | 0% | 0.3% |  |
-| 316 | 0% | 0.3% |  |
-| 317 | 0% | 0.3% |  |
-| 318 | 0% | 0.3% |  |
-| 319 | 0% | 0.3% |  |
-| 320 | 0% | 0.2% |  |
-| 321 | 0% | 0.2% |  |
-| 322 | 0% | 0.2% |  |
-| 323 | 0% | 0.2% |  |
-| 324 | 0% | 0.2% |  |
-| 325 | 0% | 0.1% |  |
-| 326 | 0% | 0.1% | Majority |
-| 327 | 0% | 0.1% |  |
-| 328 | 0% | 0.1% |  |
-| 329 | 0% | 0.1% |  |
-| 330 | 0% | 0% |  |
-
-### Labour Party – Liberal Democrats
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–libdem.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 170 | 0% | 100% |  |
-| 171 | 0% | 99.9% |  |
-| 172 | 0% | 99.9% |  |
-| 173 | 0.1% | 99.9% |  |
-| 174 | 0% | 99.9% |  |
-| 175 | 0% | 99.9% |  |
-| 176 | 0% | 99.9% |  |
-| 177 | 0.1% | 99.8% |  |
-| 178 | 0% | 99.7% |  |
-| 179 | 0.1% | 99.7% |  |
-| 180 | 0% | 99.7% |  |
-| 181 | 0% | 99.7% |  |
-| 182 | 0.2% | 99.6% |  |
-| 183 | 0% | 99.4% |  |
-| 184 | 0% | 99.4% |  |
-| 185 | 0.1% | 99.4% |  |
-| 186 | 0.2% | 99.4% |  |
-| 187 | 0.1% | 99.1% |  |
-| 188 | 0% | 99.0% |  |
-| 189 | 0% | 99.0% |  |
-| 190 | 0.7% | 98.9% |  |
-| 191 | 0.1% | 98% |  |
-| 192 | 0.1% | 98% |  |
-| 193 | 0.3% | 98% |  |
-| 194 | 0.3% | 98% |  |
-| 195 | 0.2% | 97% |  |
-| 196 | 0% | 97% |  |
-| 197 | 5% | 97% |  |
-| 198 | 0% | 93% |  |
-| 199 | 0% | 93% |  |
-| 200 | 0.3% | 93% |  |
-| 201 | 0% | 92% |  |
-| 202 | 0.3% | 92% |  |
-| 203 | 0.1% | 92% |  |
-| 204 | 0.2% | 92% |  |
-| 205 | 0.2% | 92% |  |
-| 206 | 0.2% | 91% |  |
-| 207 | 0.2% | 91% |  |
-| 208 | 0% | 91% |  |
-| 209 | 0.4% | 91% |  |
-| 210 | 0.9% | 91% |  |
-| 211 | 2% | 90% |  |
-| 212 | 0.5% | 88% |  |
-| 213 | 0.2% | 87% |  |
-| 214 | 0.1% | 87% |  |
-| 215 | 0.1% | 87% |  |
-| 216 | 0% | 87% |  |
-| 217 | 7% | 87% |  |
-| 218 | 0.4% | 80% |  |
-| 219 | 0.6% | 79% |  |
-| 220 | 0.1% | 79% |  |
-| 221 | 0.1% | 79% |  |
-| 222 | 0.5% | 79% |  |
-| 223 | 0.2% | 78% |  |
-| 224 | 0.3% | 78% |  |
-| 225 | 0.2% | 78% |  |
-| 226 | 0.2% | 77% |  |
-| 227 | 1.1% | 77% |  |
-| 228 | 0.6% | 76% |  |
-| 229 | 0.4% | 75% |  |
-| 230 | 0.6% | 75% |  |
-| 231 | 0.3% | 75% |  |
-| 232 | 0.1% | 74% |  |
-| 233 | 0.2% | 74% |  |
-| 234 | 0.8% | 74% |  |
-| 235 | 0.4% | 73% |  |
-| 236 | 4% | 73% |  |
-| 237 | 0.3% | 69% |  |
-| 238 | 8% | 69% |  |
-| 239 | 0.1% | 61% |  |
-| 240 | 0.7% | 61% |  |
-| 241 | 0.9% | 60% |  |
-| 242 | 5% | 59% |  |
-| 243 | 0.2% | 54% |  |
-| 244 | 0.4% | 54% |  |
-| 245 | 0.4% | 54% |  |
-| 246 | 0.8% | 53% |  |
-| 247 | 6% | 53% |  |
-| 248 | 0.7% | 47% | Median |
-| 249 | 1.2% | 46% |  |
-| 250 | 0.4% | 45% |  |
-| 251 | 2% | 44% |  |
-| 252 | 0.8% | 42% |  |
-| 253 | 0.3% | 41% |  |
-| 254 | 1.0% | 41% |  |
-| 255 | 0.7% | 40% |  |
-| 256 | 4% | 39% |  |
-| 257 | 2% | 35% |  |
-| 258 | 1.0% | 33% |  |
-| 259 | 1.3% | 32% |  |
-| 260 | 0.2% | 30% |  |
-| 261 | 5% | 30% |  |
-| 262 | 1.1% | 25% |  |
-| 263 | 0.5% | 24% |  |
-| 264 | 0.8% | 23% |  |
-| 265 | 4% | 23% |  |
-| 266 | 2% | 19% |  |
-| 267 | 1.2% | 16% |  |
-| 268 | 0.1% | 15% |  |
-| 269 | 0.3% | 15% |  |
-| 270 | 0.5% | 15% |  |
-| 271 | 0.2% | 14% |  |
-| 272 | 0.3% | 14% |  |
-| 273 | 0.5% | 14% |  |
-| 274 | 1.0% | 13% | Last Result |
-| 275 | 0.1% | 12% |  |
-| 276 | 0.1% | 12% |  |
-| 277 | 0.1% | 12% |  |
-| 278 | 2% | 12% |  |
-| 279 | 1.3% | 10% |  |
-| 280 | 2% | 9% |  |
-| 281 | 0.9% | 7% |  |
-| 282 | 0.3% | 6% |  |
-| 283 | 2% | 6% |  |
-| 284 | 0.1% | 4% |  |
-| 285 | 0% | 4% |  |
-| 286 | 0.1% | 4% |  |
-| 287 | 0% | 4% |  |
-| 288 | 0.1% | 4% |  |
-| 289 | 0% | 4% |  |
-| 290 | 0.4% | 4% |  |
-| 291 | 0.6% | 4% |  |
-| 292 | 0.1% | 3% |  |
-| 293 | 0.1% | 3% |  |
-| 294 | 0.4% | 3% |  |
-| 295 | 0.1% | 3% |  |
-| 296 | 0.1% | 2% |  |
-| 297 | 0.1% | 2% |  |
-| 298 | 0.1% | 2% |  |
-| 299 | 0.1% | 2% |  |
-| 300 | 0.1% | 2% |  |
-| 301 | 0.2% | 2% |  |
-| 302 | 0.1% | 2% |  |
-| 303 | 0.9% | 2% |  |
-| 304 | 0% | 0.7% |  |
-| 305 | 0% | 0.7% |  |
-| 306 | 0.3% | 0.7% |  |
-| 307 | 0.1% | 0.4% |  |
-| 308 | 0% | 0.3% |  |
-| 309 | 0% | 0.3% |  |
-| 310 | 0% | 0.3% |  |
-| 311 | 0% | 0.3% |  |
-| 312 | 0% | 0.3% |  |
-| 313 | 0% | 0.3% |  |
-| 314 | 0% | 0.3% |  |
-| 315 | 0% | 0.3% |  |
-| 316 | 0% | 0.3% |  |
-| 317 | 0% | 0.3% |  |
-| 318 | 0% | 0.3% |  |
-| 319 | 0% | 0.3% |  |
-| 320 | 0% | 0.2% |  |
-| 321 | 0% | 0.2% |  |
-| 322 | 0% | 0.2% |  |
-| 323 | 0% | 0.2% |  |
-| 324 | 0% | 0.2% |  |
-| 325 | 0% | 0.1% |  |
-| 326 | 0% | 0.1% | Majority |
-| 327 | 0% | 0.1% |  |
-| 328 | 0% | 0.1% |  |
-| 329 | 0% | 0.1% |  |
-| 330 | 0% | 0% |  |
-
-### Labour Party – Scottish National Party – Plaid Cymru
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–snp–pc.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0.1% | 100% |  |
-| 163 | 0% | 99.9% |  |
-| 164 | 0.1% | 99.9% |  |
-| 165 | 0% | 99.8% |  |
-| 166 | 0% | 99.8% |  |
-| 167 | 0% | 99.8% |  |
-| 168 | 0% | 99.7% |  |
-| 169 | 0% | 99.7% |  |
-| 170 | 0% | 99.7% |  |
-| 171 | 0% | 99.7% |  |
-| 172 | 0% | 99.7% |  |
-| 173 | 0.1% | 99.7% |  |
-| 174 | 0% | 99.6% |  |
-| 175 | 0.2% | 99.6% |  |
-| 176 | 0% | 99.4% |  |
-| 177 | 0.2% | 99.3% |  |
-| 178 | 0.1% | 99.2% |  |
-| 179 | 0.2% | 99.1% |  |
-| 180 | 0% | 98.9% |  |
-| 181 | 0.1% | 98.9% |  |
-| 182 | 0% | 98.8% |  |
-| 183 | 0% | 98.7% |  |
-| 184 | 0.1% | 98.7% |  |
-| 185 | 0.2% | 98.6% |  |
-| 186 | 0.4% | 98% |  |
-| 187 | 0% | 98% |  |
-| 188 | 0% | 98% |  |
-| 189 | 0.1% | 98% |  |
-| 190 | 0.2% | 98% |  |
-| 191 | 0.1% | 98% |  |
-| 192 | 2% | 98% |  |
-| 193 | 0.8% | 96% |  |
-| 194 | 0.5% | 95% |  |
-| 195 | 0.1% | 94% |  |
-| 196 | 0.6% | 94% |  |
-| 197 | 0.1% | 94% |  |
-| 198 | 0.7% | 94% |  |
-| 199 | 0.5% | 93% |  |
-| 200 | 4% | 92% |  |
-| 201 | 0.4% | 88% |  |
-| 202 | 0.3% | 88% |  |
-| 203 | 0.5% | 87% |  |
-| 204 | 1.3% | 87% |  |
-| 205 | 0.3% | 86% |  |
-| 206 | 0.4% | 85% |  |
-| 207 | 0.6% | 85% |  |
-| 208 | 0.7% | 84% |  |
-| 209 | 2% | 84% |  |
-| 210 | 0.6% | 82% |  |
-| 211 | 0.7% | 82% |  |
-| 212 | 0.9% | 81% |  |
-| 213 | 8% | 80% |  |
-| 214 | 0.2% | 72% |  |
-| 215 | 0.6% | 72% |  |
-| 216 | 0.6% | 72% |  |
-| 217 | 0.4% | 71% |  |
-| 218 | 0.6% | 71% |  |
-| 219 | 0.6% | 70% |  |
-| 220 | 1.4% | 69% |  |
-| 221 | 0.5% | 68% |  |
-| 222 | 0.4% | 67% |  |
-| 223 | 3% | 67% |  |
-| 224 | 0.9% | 64% |  |
-| 225 | 0.2% | 63% |  |
-| 226 | 8% | 63% |  |
-| 227 | 2% | 55% |  |
-| 228 | 0.7% | 54% | Median |
-| 229 | 3% | 53% |  |
-| 230 | 2% | 50% |  |
-| 231 | 1.4% | 48% |  |
-| 232 | 3% | 47% |  |
-| 233 | 4% | 44% |  |
-| 234 | 6% | 40% |  |
-| 235 | 2% | 34% |  |
-| 236 | 4% | 32% |  |
-| 237 | 0.7% | 27% |  |
-| 238 | 6% | 26% |  |
-| 239 | 3% | 21% |  |
-| 240 | 0.9% | 18% |  |
-| 241 | 0.1% | 17% |  |
-| 242 | 0.2% | 17% |  |
-| 243 | 1.0% | 17% |  |
-| 244 | 0.1% | 15% |  |
-| 245 | 0.5% | 15% |  |
-| 246 | 0.3% | 15% |  |
-| 247 | 1.0% | 15% |  |
-| 248 | 0.6% | 14% |  |
-| 249 | 0.7% | 13% |  |
-| 250 | 0.8% | 12% |  |
-| 251 | 2% | 12% |  |
-| 252 | 2% | 10% |  |
-| 253 | 1.5% | 8% |  |
-| 254 | 0.3% | 6% |  |
-| 255 | 0% | 6% |  |
-| 256 | 0.7% | 6% |  |
-| 257 | 0.5% | 5% |  |
-| 258 | 0.3% | 5% |  |
-| 259 | 0.2% | 5% |  |
-| 260 | 0.1% | 4% |  |
-| 261 | 0.3% | 4% |  |
-| 262 | 0.2% | 4% |  |
-| 263 | 0.2% | 4% |  |
-| 264 | 0.2% | 4% |  |
-| 265 | 0.2% | 3% |  |
-| 266 | 0.8% | 3% |  |
-| 267 | 0.1% | 2% |  |
-| 268 | 0.2% | 2% |  |
-| 269 | 0.2% | 2% |  |
-| 270 | 0% | 2% |  |
-| 271 | 0.9% | 2% |  |
-| 272 | 0.1% | 0.9% |  |
-| 273 | 0% | 0.9% |  |
-| 274 | 0% | 0.9% |  |
-| 275 | 0.2% | 0.8% |  |
-| 276 | 0% | 0.7% |  |
-| 277 | 0.3% | 0.7% |  |
-| 278 | 0% | 0.4% |  |
-| 279 | 0% | 0.3% |  |
-| 280 | 0% | 0.3% |  |
-| 281 | 0% | 0.3% |  |
-| 282 | 0% | 0.2% |  |
-| 283 | 0% | 0.2% |  |
-| 284 | 0% | 0.2% |  |
-| 285 | 0% | 0.2% |  |
-| 286 | 0% | 0.2% |  |
-| 287 | 0% | 0.2% |  |
-| 288 | 0% | 0.2% |  |
-| 289 | 0% | 0.1% |  |
-| 290 | 0% | 0.1% |  |
-| 291 | 0% | 0.1% |  |
-| 292 | 0% | 0.1% |  |
-| 293 | 0% | 0.1% |  |
-| 294 | 0% | 0.1% |  |
-| 295 | 0% | 0.1% |  |
-| 296 | 0% | 0% |  |
-| 297 | 0% | 0% |  |
-| 298 | 0% | 0% |  |
-| 299 | 0% | 0% |  |
-| 300 | 0% | 0% |  |
-| 301 | 0% | 0% | Last Result |
-
-### Labour Party – Scottish National Party
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–snp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0.1% | 100% |  |
-| 156 | 0.1% | 99.9% |  |
-| 157 | 0% | 99.8% |  |
-| 158 | 0% | 99.8% |  |
-| 159 | 0% | 99.7% |  |
-| 160 | 0% | 99.7% |  |
-| 161 | 0% | 99.7% |  |
-| 162 | 0% | 99.7% |  |
-| 163 | 0% | 99.7% |  |
-| 164 | 0% | 99.7% |  |
-| 165 | 0.2% | 99.7% |  |
-| 166 | 0% | 99.5% |  |
-| 167 | 0.2% | 99.5% |  |
-| 168 | 0.1% | 99.3% |  |
-| 169 | 0.1% | 99.2% |  |
-| 170 | 0% | 99.1% |  |
-| 171 | 0.1% | 99.0% |  |
-| 172 | 0% | 99.0% |  |
-| 173 | 0% | 98.9% |  |
-| 174 | 0.1% | 98.9% |  |
-| 175 | 0.1% | 98.8% |  |
-| 176 | 0% | 98.7% |  |
-| 177 | 0.1% | 98.7% |  |
-| 178 | 0% | 98.6% |  |
-| 179 | 0.3% | 98.6% |  |
-| 180 | 0.1% | 98% |  |
-| 181 | 0.3% | 98% |  |
-| 182 | 0.5% | 98% |  |
-| 183 | 0% | 97% |  |
-| 184 | 0.2% | 97% |  |
-| 185 | 0.2% | 97% |  |
-| 186 | 0.8% | 97% |  |
-| 187 | 0.6% | 96% |  |
-| 188 | 2% | 96% |  |
-| 189 | 0% | 94% |  |
-| 190 | 0.3% | 94% |  |
-| 191 | 0.4% | 93% |  |
-| 192 | 4% | 93% |  |
-| 193 | 0.3% | 88% |  |
-| 194 | 1.2% | 88% |  |
-| 195 | 0.1% | 87% |  |
-| 196 | 0.8% | 87% |  |
-| 197 | 0.5% | 86% |  |
-| 198 | 0.2% | 86% |  |
-| 199 | 0.6% | 85% |  |
-| 200 | 0.4% | 85% |  |
-| 201 | 1.0% | 85% |  |
-| 202 | 6% | 83% |  |
-| 203 | 0.3% | 78% |  |
-| 204 | 0.4% | 77% |  |
-| 205 | 0.9% | 77% |  |
-| 206 | 0.5% | 76% |  |
-| 207 | 0.2% | 76% |  |
-| 208 | 0.9% | 75% |  |
-| 209 | 0.9% | 74% |  |
-| 210 | 1.3% | 74% |  |
-| 211 | 0.5% | 72% |  |
-| 212 | 2% | 72% |  |
-| 213 | 0.1% | 70% |  |
-| 214 | 0.3% | 70% |  |
-| 215 | 1.1% | 70% |  |
-| 216 | 0.2% | 69% |  |
-| 217 | 0.7% | 68% |  |
-| 218 | 0.8% | 68% |  |
-| 219 | 9% | 67% |  |
-| 220 | 1.4% | 58% |  |
-| 221 | 0.8% | 57% |  |
-| 222 | 2% | 56% |  |
-| 223 | 0.5% | 53% |  |
-| 224 | 0.6% | 53% | Median |
-| 225 | 2% | 52% |  |
-| 226 | 0.9% | 50% |  |
-| 227 | 7% | 49% |  |
-| 228 | 0.5% | 42% |  |
-| 229 | 1.1% | 42% |  |
-| 230 | 4% | 41% |  |
-| 231 | 4% | 37% |  |
-| 232 | 3% | 33% |  |
-| 233 | 3% | 30% |  |
-| 234 | 0.8% | 27% |  |
-| 235 | 4% | 26% |  |
-| 236 | 3% | 22% |  |
-| 237 | 1.2% | 19% |  |
-| 238 | 0.6% | 17% |  |
-| 239 | 1.5% | 17% |  |
-| 240 | 0.2% | 15% |  |
-| 241 | 0.3% | 15% |  |
-| 242 | 0.3% | 15% |  |
-| 243 | 1.2% | 15% |  |
-| 244 | 0.4% | 13% |  |
-| 245 | 1.0% | 13% |  |
-| 246 | 0.3% | 12% |  |
-| 247 | 0.8% | 12% |  |
-| 248 | 0.6% | 11% |  |
-| 249 | 0.2% | 10% |  |
-| 250 | 0.2% | 10% |  |
-| 251 | 2% | 10% |  |
-| 252 | 1.4% | 8% |  |
-| 253 | 0.5% | 6% |  |
-| 254 | 0.6% | 6% |  |
-| 255 | 0.5% | 5% |  |
-| 256 | 1.2% | 5% |  |
-| 257 | 0.2% | 3% |  |
-| 258 | 0.2% | 3% |  |
-| 259 | 0.1% | 3% |  |
-| 260 | 0% | 3% |  |
-| 261 | 0.3% | 3% |  |
-| 262 | 0.1% | 3% |  |
-| 263 | 0.1% | 2% |  |
-| 264 | 0.1% | 2% |  |
-| 265 | 0.1% | 2% |  |
-| 266 | 0.1% | 2% |  |
-| 267 | 0.1% | 2% |  |
-| 268 | 0.2% | 2% |  |
-| 269 | 1.0% | 2% |  |
-| 270 | 0% | 0.8% |  |
-| 271 | 0% | 0.8% |  |
-| 272 | 0.1% | 0.8% |  |
-| 273 | 0% | 0.7% |  |
-| 274 | 0% | 0.7% |  |
-| 275 | 0% | 0.6% |  |
-| 276 | 0.3% | 0.6% |  |
-| 277 | 0.1% | 0.3% |  |
-| 278 | 0% | 0.3% |  |
-| 279 | 0% | 0.3% |  |
-| 280 | 0% | 0.2% |  |
-| 281 | 0% | 0.2% |  |
-| 282 | 0% | 0.2% |  |
-| 283 | 0% | 0.2% |  |
-| 284 | 0% | 0.2% |  |
-| 285 | 0% | 0.2% |  |
-| 286 | 0% | 0.2% |  |
-| 287 | 0% | 0.2% |  |
-| 288 | 0% | 0.1% |  |
-| 289 | 0% | 0.1% |  |
-| 290 | 0% | 0.1% |  |
-| 291 | 0% | 0.1% |  |
-| 292 | 0% | 0.1% |  |
-| 293 | 0% | 0.1% |  |
-| 294 | 0% | 0.1% |  |
-| 295 | 0% | 0% |  |
-| 296 | 0% | 0% |  |
-| 297 | 0% | 0% | Last Result |
-
-### Labour Party – Plaid Cymru
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–pc.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 115 | 0% | 100% |  |
-| 116 | 0.1% | 99.9% |  |
-| 117 | 0% | 99.8% |  |
-| 118 | 0% | 99.8% |  |
-| 119 | 0% | 99.8% |  |
-| 120 | 0% | 99.8% |  |
-| 121 | 0% | 99.8% |  |
-| 122 | 0% | 99.8% |  |
-| 123 | 0% | 99.8% |  |
-| 124 | 0.1% | 99.7% |  |
-| 125 | 0.2% | 99.6% |  |
-| 126 | 0% | 99.5% |  |
-| 127 | 0% | 99.4% |  |
-| 128 | 0.1% | 99.4% |  |
-| 129 | 0.1% | 99.3% |  |
-| 130 | 0.1% | 99.2% |  |
-| 131 | 0.3% | 99.0% |  |
-| 132 | 0% | 98.8% |  |
-| 133 | 0.3% | 98.8% |  |
-| 134 | 0.2% | 98% |  |
-| 135 | 0.1% | 98% |  |
-| 136 | 0.2% | 98% |  |
-| 137 | 0% | 98% |  |
-| 138 | 0.2% | 98% |  |
-| 139 | 0.1% | 98% |  |
-| 140 | 0.9% | 98% |  |
-| 141 | 0% | 97% |  |
-| 142 | 0.9% | 97% |  |
-| 143 | 0.5% | 96% |  |
-| 144 | 0.1% | 95% |  |
-| 145 | 1.3% | 95% |  |
-| 146 | 4% | 94% |  |
-| 147 | 0.2% | 90% |  |
-| 148 | 0.3% | 89% |  |
-| 149 | 0.4% | 89% |  |
-| 150 | 0.5% | 89% |  |
-| 151 | 0.2% | 88% |  |
-| 152 | 0.2% | 88% |  |
-| 153 | 0.4% | 88% |  |
-| 154 | 0.3% | 88% |  |
-| 155 | 0.7% | 87% |  |
-| 156 | 0.9% | 87% |  |
-| 157 | 0.3% | 86% |  |
-| 158 | 0.8% | 85% |  |
-| 159 | 6% | 85% |  |
-| 160 | 0.8% | 78% |  |
-| 161 | 1.0% | 78% |  |
-| 162 | 3% | 77% |  |
-| 163 | 0.1% | 73% |  |
-| 164 | 1.2% | 73% |  |
-| 165 | 1.4% | 72% |  |
-| 166 | 0.4% | 71% |  |
-| 167 | 0.5% | 70% |  |
-| 168 | 0.6% | 70% |  |
-| 169 | 3% | 69% |  |
-| 170 | 0.8% | 66% |  |
-| 171 | 0.3% | 65% |  |
-| 172 | 0.8% | 65% |  |
-| 173 | 2% | 64% |  |
-| 174 | 0.5% | 62% |  |
-| 175 | 0.6% | 62% |  |
-| 176 | 0.5% | 61% |  |
-| 177 | 0.4% | 61% | Median |
-| 178 | 11% | 60% |  |
-| 179 | 1.3% | 49% |  |
-| 180 | 9% | 48% |  |
-| 181 | 1.2% | 39% |  |
-| 182 | 4% | 37% |  |
-| 183 | 1.3% | 33% |  |
-| 184 | 4% | 32% |  |
-| 185 | 1.0% | 27% |  |
-| 186 | 2% | 26% |  |
-| 187 | 3% | 25% |  |
-| 188 | 4% | 22% |  |
-| 189 | 1.0% | 18% |  |
-| 190 | 0.1% | 17% |  |
-| 191 | 0.6% | 17% |  |
-| 192 | 0.5% | 16% |  |
-| 193 | 0.3% | 16% |  |
-| 194 | 0.5% | 15% |  |
-| 195 | 0.4% | 15% |  |
-| 196 | 1.4% | 15% |  |
-| 197 | 0.6% | 13% |  |
-| 198 | 0.4% | 13% |  |
-| 199 | 0.9% | 12% |  |
-| 200 | 2% | 11% |  |
-| 201 | 1.5% | 9% |  |
-| 202 | 1.3% | 8% |  |
-| 203 | 0.1% | 6% |  |
-| 204 | 0.5% | 6% |  |
-| 205 | 0.5% | 6% |  |
-| 206 | 0.6% | 5% |  |
-| 207 | 0% | 5% |  |
-| 208 | 0.3% | 5% |  |
-| 209 | 0.1% | 4% |  |
-| 210 | 0.4% | 4% |  |
-| 211 | 0% | 4% |  |
-| 212 | 0.1% | 4% |  |
-| 213 | 0.2% | 4% |  |
-| 214 | 0.2% | 3% |  |
-| 215 | 0.8% | 3% |  |
-| 216 | 0% | 2% |  |
-| 217 | 0.1% | 2% |  |
-| 218 | 0.2% | 2% |  |
-| 219 | 0.2% | 2% |  |
-| 220 | 0.9% | 2% |  |
-| 221 | 0% | 0.9% |  |
-| 222 | 0.1% | 0.9% |  |
-| 223 | 0% | 0.8% |  |
-| 224 | 0.1% | 0.8% |  |
-| 225 | 0% | 0.7% |  |
-| 226 | 0.3% | 0.7% |  |
-| 227 | 0% | 0.4% |  |
-| 228 | 0% | 0.3% |  |
-| 229 | 0% | 0.3% |  |
-| 230 | 0% | 0.3% |  |
-| 231 | 0% | 0.2% |  |
-| 232 | 0% | 0.2% |  |
-| 233 | 0% | 0.2% |  |
-| 234 | 0% | 0.2% |  |
-| 235 | 0% | 0.2% |  |
-| 236 | 0% | 0.2% |  |
-| 237 | 0% | 0.2% |  |
-| 238 | 0% | 0.1% |  |
-| 239 | 0% | 0.1% |  |
-| 240 | 0% | 0.1% |  |
-| 241 | 0% | 0.1% |  |
-| 242 | 0% | 0.1% |  |
-| 243 | 0% | 0.1% |  |
-| 244 | 0% | 0.1% |  |
-| 245 | 0% | 0% |  |
-| 246 | 0% | 0% |  |
-| 247 | 0% | 0% |  |
-| 248 | 0% | 0% |  |
-| 249 | 0% | 0% |  |
-| 250 | 0% | 0% |  |
-| 251 | 0% | 0% |  |
-| 252 | 0% | 0% |  |
-| 253 | 0% | 0% |  |
-| 254 | 0% | 0% |  |
-| 255 | 0% | 0% |  |
-| 256 | 0% | 0% |  |
-| 257 | 0% | 0% |  |
-| 258 | 0% | 0% |  |
-| 259 | 0% | 0% |  |
-| 260 | 0% | 0% |  |
-| 261 | 0% | 0% |  |
-| 262 | 0% | 0% |  |
-| 263 | 0% | 0% |  |
-| 264 | 0% | 0% |  |
-| 265 | 0% | 0% |  |
-| 266 | 0% | 0% | Last Result |
-
-### Labour Party – Change UK
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab–chuk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0% | 100% |  |
-| 107 | 0% | 99.9% |  |
-| 108 | 0.1% | 99.9% |  |
-| 109 | 0% | 99.8% |  |
-| 110 | 0% | 99.8% |  |
-| 111 | 0% | 99.8% |  |
-| 112 | 0% | 99.8% |  |
-| 113 | 0.1% | 99.8% |  |
-| 114 | 0.1% | 99.7% |  |
-| 115 | 0% | 99.7% |  |
-| 116 | 0% | 99.7% |  |
-| 117 | 0.2% | 99.6% |  |
-| 118 | 0% | 99.5% |  |
-| 119 | 0% | 99.5% |  |
-| 120 | 0.3% | 99.4% |  |
-| 121 | 0% | 99.1% |  |
-| 122 | 0% | 99.1% |  |
-| 123 | 0.1% | 99.1% |  |
-| 124 | 0% | 98.9% |  |
-| 125 | 0% | 98.9% |  |
-| 126 | 0.3% | 98.9% |  |
-| 127 | 0.3% | 98.6% |  |
-| 128 | 0.1% | 98% |  |
-| 129 | 0.5% | 98% |  |
-| 130 | 0.4% | 98% |  |
-| 131 | 0.1% | 97% |  |
-| 132 | 0% | 97% |  |
-| 133 | 0.1% | 97% |  |
-| 134 | 0.2% | 97% |  |
-| 135 | 0.8% | 97% |  |
-| 136 | 0.6% | 96% |  |
-| 137 | 0.1% | 96% |  |
-| 138 | 4% | 95% |  |
-| 139 | 0% | 91% |  |
-| 140 | 0.1% | 91% |  |
-| 141 | 1.3% | 91% |  |
-| 142 | 0.4% | 90% |  |
-| 143 | 0.5% | 89% |  |
-| 144 | 0.2% | 89% |  |
-| 145 | 1.2% | 89% |  |
-| 146 | 0.3% | 88% |  |
-| 147 | 0.1% | 87% |  |
-| 148 | 6% | 87% |  |
-| 149 | 1.0% | 81% |  |
-| 150 | 0.4% | 80% |  |
-| 151 | 0.4% | 80% |  |
-| 152 | 2% | 79% |  |
-| 153 | 0.3% | 78% |  |
-| 154 | 0.7% | 78% |  |
-| 155 | 0.5% | 77% |  |
-| 156 | 0.4% | 76% |  |
-| 157 | 0.4% | 76% |  |
-| 158 | 1.3% | 76% |  |
-| 159 | 2% | 74% |  |
-| 160 | 0.2% | 72% |  |
-| 161 | 1.4% | 72% |  |
-| 162 | 0.3% | 71% |  |
-| 163 | 1.4% | 71% |  |
-| 164 | 0.8% | 69% |  |
-| 165 | 2% | 68% |  |
-| 166 | 0.8% | 67% |  |
-| 167 | 0.7% | 66% |  |
-| 168 | 3% | 65% |  |
-| 169 | 1.3% | 63% |  |
-| 170 | 0.4% | 61% |  |
-| 171 | 9% | 61% |  |
-| 172 | 0.1% | 52% |  |
-| 173 | 5% | 52% | Median |
-| 174 | 1.3% | 47% |  |
-| 175 | 2% | 45% |  |
-| 176 | 1.1% | 43% |  |
-| 177 | 0.6% | 42% |  |
-| 178 | 1.2% | 41% |  |
-| 179 | 3% | 40% |  |
-| 180 | 4% | 37% |  |
-| 181 | 5% | 33% |  |
-| 182 | 2% | 28% |  |
-| 183 | 1.2% | 26% |  |
-| 184 | 5% | 24% |  |
-| 185 | 1.4% | 19% |  |
-| 186 | 2% | 18% |  |
-| 187 | 0.1% | 16% |  |
-| 188 | 0.6% | 16% |  |
-| 189 | 0.2% | 15% |  |
-| 190 | 0.4% | 15% |  |
-| 191 | 0.4% | 15% |  |
-| 192 | 1.3% | 14% |  |
-| 193 | 0.5% | 13% |  |
-| 194 | 0.6% | 13% |  |
-| 195 | 0.3% | 12% |  |
-| 196 | 0.6% | 12% |  |
-| 197 | 0.8% | 11% |  |
-| 198 | 0.4% | 10% |  |
-| 199 | 0.1% | 10% |  |
-| 200 | 3% | 10% |  |
-| 201 | 1.4% | 7% |  |
-| 202 | 0.3% | 6% |  |
-| 203 | 0.5% | 5% |  |
-| 204 | 0.5% | 5% |  |
-| 205 | 1.0% | 4% |  |
-| 206 | 0.2% | 3% |  |
-| 207 | 0.3% | 3% |  |
-| 208 | 0% | 3% |  |
-| 209 | 0.2% | 3% |  |
-| 210 | 0.2% | 3% |  |
-| 211 | 0.1% | 3% |  |
-| 212 | 0.1% | 3% |  |
-| 213 | 0.2% | 2% |  |
-| 214 | 0.1% | 2% |  |
-| 215 | 0.1% | 2% |  |
-| 216 | 0.1% | 2% |  |
-| 217 | 0.1% | 2% |  |
-| 218 | 1.0% | 2% |  |
-| 219 | 0% | 0.8% |  |
-| 220 | 0% | 0.8% |  |
-| 221 | 0.1% | 0.8% |  |
-| 222 | 0% | 0.7% |  |
-| 223 | 0% | 0.6% |  |
-| 224 | 0% | 0.6% |  |
-| 225 | 0.3% | 0.6% |  |
-| 226 | 0.1% | 0.3% |  |
-| 227 | 0% | 0.3% |  |
-| 228 | 0.1% | 0.3% |  |
-| 229 | 0% | 0.2% |  |
-| 230 | 0% | 0.2% |  |
-| 231 | 0% | 0.2% |  |
-| 232 | 0% | 0.2% |  |
-| 233 | 0% | 0.2% |  |
-| 234 | 0% | 0.2% |  |
-| 235 | 0% | 0.2% |  |
-| 236 | 0% | 0.1% |  |
-| 237 | 0% | 0.1% |  |
-| 238 | 0% | 0.1% |  |
-| 239 | 0% | 0.1% |  |
-| 240 | 0% | 0.1% |  |
-| 241 | 0% | 0.1% |  |
-| 242 | 0% | 0.1% |  |
-| 243 | 0% | 0.1% |  |
-| 244 | 0% | 0% |  |
-| 245 | 0% | 0% |  |
-| 246 | 0% | 0% |  |
-| 247 | 0% | 0% |  |
-| 248 | 0% | 0% |  |
-| 249 | 0% | 0% |  |
-| 250 | 0% | 0% |  |
-| 251 | 0% | 0% |  |
-| 252 | 0% | 0% |  |
-| 253 | 0% | 0% |  |
-| 254 | 0% | 0% |  |
-| 255 | 0% | 0% |  |
-| 256 | 0% | 0% |  |
-| 257 | 0% | 0% |  |
-| 258 | 0% | 0% |  |
-| 259 | 0% | 0% |  |
-| 260 | 0% | 0% |  |
-| 261 | 0% | 0% |  |
-| 262 | 0% | 0% | Last Result |
-
-### Labour Party
-
-![Graph with seats probability mass function not yet produced](average-----coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0% | 100% |  |
-| 107 | 0% | 99.9% |  |
-| 108 | 0.1% | 99.9% |  |
-| 109 | 0% | 99.8% |  |
-| 110 | 0% | 99.8% |  |
-| 111 | 0% | 99.8% |  |
-| 112 | 0% | 99.8% |  |
-| 113 | 0.1% | 99.8% |  |
-| 114 | 0.1% | 99.7% |  |
-| 115 | 0% | 99.7% |  |
-| 116 | 0% | 99.7% |  |
-| 117 | 0.2% | 99.6% |  |
-| 118 | 0% | 99.5% |  |
-| 119 | 0% | 99.5% |  |
-| 120 | 0.3% | 99.4% |  |
-| 121 | 0% | 99.1% |  |
-| 122 | 0% | 99.1% |  |
-| 123 | 0.1% | 99.1% |  |
-| 124 | 0% | 98.9% |  |
-| 125 | 0% | 98.9% |  |
-| 126 | 0.3% | 98.9% |  |
-| 127 | 0.3% | 98.6% |  |
-| 128 | 0.1% | 98% |  |
-| 129 | 0.5% | 98% |  |
-| 130 | 0.4% | 98% |  |
-| 131 | 0.1% | 97% |  |
-| 132 | 0% | 97% |  |
-| 133 | 0.1% | 97% |  |
-| 134 | 0.2% | 97% |  |
-| 135 | 0.8% | 97% |  |
-| 136 | 0.6% | 96% |  |
-| 137 | 0.1% | 96% |  |
-| 138 | 4% | 95% |  |
-| 139 | 0% | 91% |  |
-| 140 | 0.1% | 91% |  |
-| 141 | 1.3% | 91% |  |
-| 142 | 0.4% | 90% |  |
-| 143 | 0.5% | 89% |  |
-| 144 | 0.2% | 89% |  |
-| 145 | 1.2% | 89% |  |
-| 146 | 0.3% | 88% |  |
-| 147 | 0.1% | 87% |  |
-| 148 | 6% | 87% |  |
-| 149 | 1.0% | 81% |  |
-| 150 | 0.4% | 80% |  |
-| 151 | 0.4% | 80% |  |
-| 152 | 2% | 79% |  |
-| 153 | 0.3% | 78% |  |
-| 154 | 0.7% | 78% |  |
-| 155 | 0.5% | 77% |  |
-| 156 | 0.4% | 76% |  |
-| 157 | 0.4% | 76% |  |
-| 158 | 1.3% | 76% |  |
-| 159 | 2% | 74% |  |
-| 160 | 0.2% | 72% |  |
-| 161 | 1.4% | 72% |  |
-| 162 | 0.3% | 71% |  |
-| 163 | 1.4% | 71% |  |
-| 164 | 0.8% | 69% |  |
-| 165 | 2% | 68% |  |
-| 166 | 0.8% | 67% |  |
-| 167 | 0.7% | 66% |  |
-| 168 | 3% | 65% |  |
-| 169 | 1.3% | 63% |  |
-| 170 | 0.4% | 61% |  |
-| 171 | 9% | 61% |  |
-| 172 | 0.1% | 52% |  |
-| 173 | 5% | 52% | Median |
-| 174 | 1.3% | 47% |  |
-| 175 | 2% | 45% |  |
-| 176 | 1.1% | 43% |  |
-| 177 | 0.6% | 42% |  |
-| 178 | 1.2% | 41% |  |
-| 179 | 3% | 40% |  |
-| 180 | 4% | 37% |  |
-| 181 | 5% | 33% |  |
-| 182 | 2% | 28% |  |
-| 183 | 1.2% | 26% |  |
-| 184 | 5% | 24% |  |
-| 185 | 1.4% | 19% |  |
-| 186 | 2% | 18% |  |
-| 187 | 0.1% | 16% |  |
-| 188 | 0.6% | 16% |  |
-| 189 | 0.2% | 15% |  |
-| 190 | 0.4% | 15% |  |
-| 191 | 0.4% | 15% |  |
-| 192 | 1.3% | 14% |  |
-| 193 | 0.5% | 13% |  |
-| 194 | 0.6% | 13% |  |
-| 195 | 0.3% | 12% |  |
-| 196 | 0.6% | 12% |  |
-| 197 | 0.8% | 11% |  |
-| 198 | 0.4% | 10% |  |
-| 199 | 0.1% | 10% |  |
-| 200 | 3% | 10% |  |
-| 201 | 1.4% | 7% |  |
-| 202 | 0.3% | 6% |  |
-| 203 | 0.5% | 5% |  |
-| 204 | 0.5% | 5% |  |
-| 205 | 1.0% | 4% |  |
-| 206 | 0.2% | 3% |  |
-| 207 | 0.3% | 3% |  |
-| 208 | 0% | 3% |  |
-| 209 | 0.2% | 3% |  |
-| 210 | 0.2% | 3% |  |
-| 211 | 0.1% | 3% |  |
-| 212 | 0.1% | 3% |  |
-| 213 | 0.2% | 2% |  |
-| 214 | 0.1% | 2% |  |
-| 215 | 0.1% | 2% |  |
-| 216 | 0.1% | 2% |  |
-| 217 | 0.1% | 2% |  |
-| 218 | 1.0% | 2% |  |
-| 219 | 0% | 0.8% |  |
-| 220 | 0% | 0.8% |  |
-| 221 | 0.1% | 0.8% |  |
-| 222 | 0% | 0.7% |  |
-| 223 | 0% | 0.6% |  |
-| 224 | 0% | 0.6% |  |
-| 225 | 0.3% | 0.6% |  |
-| 226 | 0.1% | 0.3% |  |
-| 227 | 0% | 0.3% |  |
-| 228 | 0.1% | 0.3% |  |
-| 229 | 0% | 0.2% |  |
-| 230 | 0% | 0.2% |  |
-| 231 | 0% | 0.2% |  |
-| 232 | 0% | 0.2% |  |
-| 233 | 0% | 0.2% |  |
-| 234 | 0% | 0.2% |  |
-| 235 | 0% | 0.2% |  |
-| 236 | 0% | 0.1% |  |
-| 237 | 0% | 0.1% |  |
-| 238 | 0% | 0.1% |  |
-| 239 | 0% | 0.1% |  |
-| 240 | 0% | 0.1% |  |
-| 241 | 0% | 0.1% |  |
-| 242 | 0% | 0.1% |  |
-| 243 | 0% | 0.1% |  |
-| 244 | 0% | 0% |  |
-| 245 | 0% | 0% |  |
-| 246 | 0% | 0% |  |
-| 247 | 0% | 0% |  |
-| 248 | 0% | 0% |  |
-| 249 | 0% | 0% |  |
-| 250 | 0% | 0% |  |
-| 251 | 0% | 0% |  |
-| 252 | 0% | 0% |  |
-| 253 | 0% | 0% |  |
-| 254 | 0% | 0% |  |
-| 255 | 0% | 0% |  |
-| 256 | 0% | 0% |  |
-| 257 | 0% | 0% |  |
-| 258 | 0% | 0% |  |
-| 259 | 0% | 0% |  |
-| 260 | 0% | 0% |  |
-| 261 | 0% | 0% |  |
-| 262 | 0% | 0% | Last Result |
+| 317 | 0% | 100% | Last Result |
+| 318 | 0% | 100% |  |
+| 319 | 0% | 100% |  |
+| 320 | 0% | 100% |  |
+| 321 | 94% | 100% | Median |
+| 322 | 0% | 6% |  |
+| 323 | 0% | 6% |  |
+| 324 | 0% | 6% |  |
+| 325 | 0% | 6% |  |
+| 326 | 0% | 6% | Majority |
+| 327 | 0% | 6% |  |
+| 328 | 0% | 6% |  |
+| 329 | 0% | 6% |  |
+| 330 | 0% | 6% |  |
+| 331 | 0% | 6% |  |
+| 332 | 6% | 6% |  |
+| 333 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 655,360
-+ **Error estimate:** 1.59%
++ **Total number of simulations done in the polls included in this average:** 16
++ **Error estimate:** 1.14%

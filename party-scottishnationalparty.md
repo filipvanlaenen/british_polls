@@ -10,7 +10,8 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.4% | 2.5–4.7% | 2.4–4.9% | 2.2–5.2% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.9–5.4% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | N/A | N/A | N/A | N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
@@ -265,10 +266,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 10% | 100% |  |
-| 2.5–3.5% | 81% | 90% | Last Result, Median |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 49% | 95% | Last Result, Median |
+| 3.5–4.5% | 39% | 46% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -279,7 +282,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 54 | 54 | 53–54 | 53–54 | 53–54 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 54 | 54 | 53–54 | 53–54 | 53–54 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
@@ -532,4 +536,29 @@ Last result: **35** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-scottishnationalparty.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Scottish National Party.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 35 | 0% | 100% | Last Result |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0% | 100% |  |
+| 47 | 0% | 100% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0% | 100% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0% | 100% |  |
+| 52 | 0% | 100% |  |
+| 53 | 6% | 100% |  |
+| 54 | 94% | 94% | Median |
+| 55 | 0% | 0% |  |
+
 

@@ -10,7 +10,8 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
+| N/A | [Poll Average](average.html) | 5.4% | 3.6–7.5% | 3.5–7.8% | 3.3–8.1% | 3.1–8.5% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | N/A | N/A | N/A | N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 2.9% | N/A | N/A | N/A | N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 6.9% | N/A | N/A | N/A | N/A |
@@ -265,11 +266,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
-| 2.5–3.5% | 15% | 100% |  |
-| 3.5–4.5% | 75% | 85% | Median |
-| 4.5–5.5% | 11% | 11% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 7% | 100% |  |
+| 3.5–4.5% | 37% | 93% |  |
+| 4.5–5.5% | 6% | 55% | Median |
+| 5.5–6.5% | 12% | 50% |  |
+| 6.5–7.5% | 28% | 38% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -280,7 +284,8 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 4 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4 | 4 | 4 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
@@ -533,4 +538,12 @@ Last result: **1** seats (General Election of 8 June 2017)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-greenparty.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Green Party.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 100% | 100% | Median |
+
 
