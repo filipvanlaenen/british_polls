@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 29–33% <br> N/A | 25–29% <br> N/A | 14–18% <br> N/A | 2–4% <br> N/A | 1–2% <br> N/A | 3–5% <br> N/A | 0–1% <br> N/A | 14–18% <br> N/A | 0–1% <br> N/A |
+| N/A | [Poll Average](average.html) | 29–37% <br> 321–332 | 23–28% <br> 163–164 | 14–18% <br> 47–55 | 2–5% <br> 53–54 | 1–2% <br> 0 | 3–8% <br> 4 | 0–2% <br> 4–12 | 10–17% <br> 20–31 | 0–1% <br> 0 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 33–37% <br> N/A | 23–27% <br> N/A | 14–18% <br> N/A | 3–5% <br> N/A | 1–2% <br> N/A | 6–8% <br> N/A | 1–2% <br> N/A | 9–13% <br> N/A | 0–1% <br> N/A |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
