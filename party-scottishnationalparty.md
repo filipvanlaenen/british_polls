@@ -10,16 +10,16 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.4% | 2.5–4.7% | 2.4–4.9% | 2.2–5.2% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.3% | 2.8–5.6% | 2.6–5.8% | 2.4–6.4% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.9–5.4% |
-| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | N/A | N/A | N/A | N/A |
-| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 4.1% | N/A | N/A | N/A | N/A |
-| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 4.9% | N/A | N/A | N/A | N/A |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
-| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 4.9% | N/A | N/A | N/A | N/A |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 4.9% | 4.2–5.9% | 4.0–6.1% | 3.8–6.4% | 3.5–6.8% |
 | [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 3.9% | N/A | N/A | N/A | N/A |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 3.0% | N/A | N/A | N/A | N/A |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -266,12 +266,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 49% | 95% | Last Result, Median |
-| 3.5–4.5% | 39% | 46% |  |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 23% | 98% | Last Result |
+| 3.5–4.5% | 42% | 75% | Median |
+| 4.5–5.5% | 27% | 33% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.2% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -282,16 +283,16 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 53 | 47–53 | 47–53 | 47–53 | 47–54 |
-| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 53 | 47–53 | 47–53 | 47–53 | 47–54 |
-| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
-| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 53 | 49–54 | 48–54 | 47–54 | 40–54 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 51 | 49–53 | 48–54 | 46–54 | 45–54 |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 51 | 48–53 | 48–54 | 40–54 | 40–54 |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 51 | 48–54 | 48–54 | 46–54 | 39–54 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
-| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 54 | 53–54 | 53–54 | 53–54 | 51–55 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 54 | 53–54 | 53–54 | 51–54 | 47–54 |
 | [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 51 | 51–54 | 51–54 | 49–54 | 48–54 |
@@ -542,23 +543,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% | Last Result |
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
-| 38 | 0% | 100% |  |
-| 39 | 0% | 100% |  |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0% | 100% |  |
-| 43 | 0% | 100% |  |
-| 44 | 0% | 100% |  |
-| 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 17% | 100% |  |
-| 48 | 0% | 83% |  |
-| 49 | 0.3% | 83% |  |
-| 50 | 0% | 83% |  |
-| 51 | 0% | 83% |  |
-| 52 | 0.3% | 83% |  |
-| 53 | 81% | 83% | Median |
-| 54 | 1.3% | 1.3% |  |
-| 55 | 0% | 0% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
+| 40 | 0.5% | 99.8% |  |
+| 41 | 0.1% | 99.3% |  |
+| 42 | 0% | 99.3% |  |
+| 43 | 0.1% | 99.2% |  |
+| 44 | 0% | 99.1% |  |
+| 45 | 0.5% | 99.1% |  |
+| 46 | 0.6% | 98.6% |  |
+| 47 | 0.6% | 98% |  |
+| 48 | 7% | 97% |  |
+| 49 | 2% | 90% |  |
+| 50 | 4% | 88% |  |
+| 51 | 19% | 84% |  |
+| 52 | 6% | 65% |  |
+| 53 | 22% | 59% | Median |
+| 54 | 37% | 37% |  |
+| 55 | 0.4% | 0.4% |  |
+| 56 | 0% | 0% |  |
 
 
