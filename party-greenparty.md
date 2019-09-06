@@ -10,20 +10,21 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–6.8% | 2.5–7.3% | 2.3–7.7% | 2.0–8.2% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.8–6.8% | 2.6–7.3% | 2.4–7.6% | 2.0–8.2% |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3.0% | N/A | N/A | N/A | N/A |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 2.9% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
-| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 6.9% | N/A | N/A | N/A | N/A |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 6.9% | 6.2–7.7% | 6.0–8.0% | 5.8–8.2% | 5.5–8.6% |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 8.0% | N/A | N/A | N/A | N/A |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 7.1% | N/A | N/A | N/A | N/A |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 7.0% | N/A | N/A | N/A | N/A |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 7.9% | N/A | N/A | N/A | N/A |
-| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 6.0% | N/A | N/A | N/A | N/A |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 6.9% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.3–7.4% | 5.0–7.7% |
@@ -267,13 +268,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 5% | 100% | Last Result |
-| 2.5–3.5% | 30% | 95% |  |
-| 3.5–4.5% | 43% | 64% | Median |
-| 4.5–5.5% | 5% | 22% |  |
-| 5.5–6.5% | 4% | 17% |  |
-| 6.5–7.5% | 9% | 13% |  |
+| 2.5–3.5% | 26% | 95% |  |
+| 3.5–4.5% | 37% | 69% | Median |
+| 4.5–5.5% | 7% | 33% |  |
+| 5.5–6.5% | 12% | 26% |  |
+| 6.5–7.5% | 11% | 14% |  |
 | 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -285,20 +286,21 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–4 | 1–4 | 1–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 1–5 | 1–5 | 1–5 | 1–5 |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–5 | 4–6 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–5 | 4–5 | 2–5 | 2–5 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -542,12 +544,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 53% | 100% | Last Result, Median |
-| 2 | 26% | 47% |  |
-| 3 | 0.9% | 21% |  |
-| 4 | 19% | 20% |  |
-| 5 | 1.0% | 1.3% |  |
-| 6 | 0.3% | 0.3% |  |
+| 1 | 41% | 100% | Last Result |
+| 2 | 30% | 59% | Median |
+| 3 | 1.0% | 29% |  |
+| 4 | 16% | 28% |  |
+| 5 | 12% | 12% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
