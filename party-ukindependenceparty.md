@@ -10,8 +10,8 @@ Last result: **1.8%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.3% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
@@ -266,8 +266,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% |  |
-| 0.5–1.5% | 83% | 85% | Median |
+| 0.0–0.5% | 26% | 100% |  |
+| 0.5–1.5% | 72% | 74% | Median |
 | 1.5–2.5% | 2% | 2% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -281,7 +281,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 0 | 0 | 0 | 0 | 0 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
