@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 06 Sep 2019 19:08:22 +0200</pubDate>
+    <pubDate>Mon, 09 Sep 2019 19:02:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Hanbury Strategy, 3–4 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-09-04-HanburyStrategy.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 30.0–35.8%&lt;/li&gt;&lt;li&gt;Labour Party: 23.2–28.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.7–19.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 11.9–16.3%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-09-04-HanburyStrategy.png"
+        length="196861"
+        type="image/png"/>
+      <pubDate>Mon, 09 Sep 2019 19:02:35 +0200</pubDate>
+      <dc:date>2019-09-09T19:02:35.295682+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 2–3 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-09-03-YouGov.html</link>
@@ -4829,6 +4839,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-09-06T19:08:22.091793+02:00</dc:date>
+    <dc:date>2019-09-09T19:02:35.295682+02:00</dc:date>
   </channel>
 </rss>
