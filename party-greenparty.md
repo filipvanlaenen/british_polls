@@ -10,7 +10,14 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.7–6.7% | 2.5–7.2% | 2.3–7.6% | 2.0–8.1% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–6.4% | 2.4–6.7% | 2.2–7.0% | 1.9–7.5% |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation | 3.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 3.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 3.0% | N/A | N/A | N/A | N/A |
+| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
+| [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase | 2.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
@@ -267,15 +274,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% | Last Result |
-| 2.5–3.5% | 31% | 94% |  |
-| 3.5–4.5% | 34% | 63% | Median |
-| 4.5–5.5% | 6% | 29% |  |
-| 5.5–6.5% | 10% | 22% |  |
-| 6.5–7.5% | 10% | 12% |  |
-| 7.5–8.5% | 2% | 3% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 10% | 100% | Last Result |
+| 2.5–3.5% | 44% | 90% | Median |
+| 3.5–4.5% | 12% | 46% |  |
+| 4.5–5.5% | 7% | 34% |  |
+| 5.5–6.5% | 20% | 27% |  |
+| 6.5–7.5% | 7% | 7% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -286,7 +292,14 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–5 | 1–5 | 1–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 1 | 1–5 | 1–5 | 1–5 | 1–5 |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation |  |  |  |  |  |
+| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–5 | 4–6 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -544,12 +557,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% | Last Result |
-| 2 | 27% | 53% | Median |
-| 3 | 0.9% | 25% |  |
-| 4 | 14% | 24% |  |
-| 5 | 10% | 10% |  |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% |  |
+| 1 | 64% | 100% | Last Result, Median |
+| 2 | 3% | 36% |  |
+| 3 | 0.7% | 33% |  |
+| 4 | 6% | 32% |  |
+| 5 | 26% | 26% |  |
+| 6 | 0% | 0% |  |
 
 
