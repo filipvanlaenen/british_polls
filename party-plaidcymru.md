@@ -10,11 +10,11 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–2.0% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
-| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
+| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail | 1.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
@@ -273,9 +273,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 30% | 100% |  |
-| 0.5–1.5% | 65% | 70% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 47% | 100% |  |
+| 0.5–1.5% | 50% | 53% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -287,11 +287,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–10 | 3–10 | 3–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 4 | 0–10 | 0–10 | 0–10 | 0–12 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation |  |  |  |  |  |
-| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase |  |  |  |  |  |
@@ -552,22 +552,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 27% | 98% |  |
-| 4 | 25% | 70% | Last Result, Median |
-| 5 | 6% | 45% |  |
-| 6 | 0.4% | 39% |  |
-| 7 | 15% | 39% |  |
-| 8 | 1.1% | 24% |  |
-| 9 | 2% | 23% |  |
-| 10 | 18% | 21% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.2% | 0.7% |  |
-| 13 | 0.2% | 0.5% |  |
-| 14 | 0.1% | 0.3% |  |
-| 15 | 0.1% | 0.2% |  |
+| 0 | 15% | 100% |  |
+| 1 | 0.4% | 85% |  |
+| 2 | 0.1% | 85% |  |
+| 3 | 29% | 84% |  |
+| 4 | 21% | 55% | Last Result, Median |
+| 5 | 4% | 34% |  |
+| 6 | 0.3% | 29% |  |
+| 7 | 11% | 29% |  |
+| 8 | 0.8% | 18% |  |
+| 9 | 2% | 17% |  |
+| 10 | 13% | 16% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.2% | 0.5% |  |
+| 13 | 0.1% | 0.4% |  |
+| 14 | 0.1% | 0.2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
