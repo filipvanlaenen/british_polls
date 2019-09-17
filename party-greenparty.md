@@ -10,14 +10,19 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.1–5.7% | 1.9–6.3% | 1.7–6.6% | 1.5–7.2% |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 5.0% | N/A | N/A | N/A | N/A |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 2.0% | N/A | N/A | N/A | N/A |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 6.9% | N/A | N/A | N/A | N/A |
+| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 3.0% | N/A | N/A | N/A | N/A |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | N/A | N/A | N/A | N/A |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 7.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 3.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 2.0% | N/A | N/A | N/A | N/A |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
-| [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.0% |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 3.0% | N/A | N/A | N/A | N/A |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
@@ -273,16 +278,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.0% | 100% |  |
-| 1.5–2.5% | 21% | 99.0% | Last Result |
-| 2.5–3.5% | 53% | 78% | Median |
-| 3.5–4.5% | 11% | 25% |  |
-| 4.5–5.5% | 3% | 15% |  |
-| 5.5–6.5% | 8% | 11% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 15% | 100% | Last Result |
+| 2.5–3.5% | 65% | 85% | Median |
+| 3.5–4.5% | 20% | 20% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -293,14 +294,19 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–5 | 1–5 | 1–5 | 1–5 |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday |  |  |  |  |  |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1–2 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–5 | 4–6 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -558,11 +564,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 77% | 100% | Last Result, Median |
-| 2 | 9% | 23% |  |
-| 3 | 0.3% | 14% |  |
-| 4 | 3% | 14% |  |
-| 5 | 11% | 11% |  |
-| 6 | 0% | 0% |  |
+| 1 | 94% | 100% | Last Result, Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
