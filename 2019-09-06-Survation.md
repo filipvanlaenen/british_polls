@@ -1,4 +1,4 @@
-# Opinion Poll by Survation, 5–6 September 2019
+# Opinion Poll by Survation for Daily Mail, 5–6 September 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -1933,7 +1933,7 @@
 ### Opinion Poll
 
 + **Polling firm:** Survation
-+ **Commissioner(s):** —
++ **Commissioner(s):** Daily Mail
 + **Fieldwork period:** 5–6 September 2019
 
 ### Calculations
