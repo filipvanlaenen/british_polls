@@ -301,7 +301,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4 | 4–9 | 4–9 | 4–10 | 3–11 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0–3 | 0–5 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0 | 0–3 | 0–3 | 0–5 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
@@ -562,12 +562,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 0.2% | 81% |  |
-| 2 | 3% | 80% |  |
-| 3 | 7% | 78% |  |
-| 4 | 19% | 70% | Last Result |
-| 5 | 7% | 51% | Median |
+| 0 | 25% | 100% |  |
+| 1 | 0.2% | 75% |  |
+| 2 | 3% | 75% |  |
+| 3 | 3% | 72% |  |
+| 4 | 19% | 69% | Last Result |
+| 5 | 6% | 50% | Median |
 | 6 | 0.3% | 44% |  |
 | 7 | 21% | 44% |  |
 | 8 | 6% | 23% |  |

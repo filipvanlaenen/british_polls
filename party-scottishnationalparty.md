@@ -295,7 +295,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 52 | 46–54 | 39–54 | 38–54 | 25–54 |
+| N/A | [Poll Average](average.html) | 52 | 48–54 | 45–54 | 43–54 | 38–54 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 51 | 51–53 | 51–53 | 49–53 | 48–54 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 51 | 47–54 | 45–54 | 40–54 | 39–54 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 53 | 47–54 | 47–54 | 45–54 | 44–54 |
@@ -304,7 +304,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 53 | 53–54 | 53–54 | 53–54 | 53–54 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 53 | 49–54 | 49–54 | 48–54 | 45–54 |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 48 | 48 | 43–48 | 38–49 | 25–53 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 48 | 43–48 | 43–48 | 38–49 | 26–53 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 54 | 53–54 | 53–54 | 51–54 | 51–54 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
@@ -565,39 +565,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0% | 100% |  |
-| 20 | 0% | 99.9% |  |
-| 21 | 0% | 99.9% |  |
-| 22 | 0% | 99.9% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 0% | 99.8% |  |
-| 25 | 0.8% | 99.8% |  |
-| 26 | 0% | 99.0% |  |
-| 27 | 0% | 99.0% |  |
-| 28 | 0% | 99.0% |  |
-| 29 | 0% | 99.0% |  |
-| 30 | 0% | 99.0% |  |
-| 31 | 0% | 99.0% |  |
-| 32 | 0% | 99.0% |  |
-| 33 | 0% | 98.9% |  |
-| 34 | 0.1% | 98.9% |  |
-| 35 | 0% | 98.8% | Last Result |
-| 36 | 0% | 98.8% |  |
-| 37 | 0% | 98.8% |  |
-| 38 | 3% | 98.7% |  |
-| 39 | 0.7% | 95% |  |
-| 40 | 0.2% | 95% |  |
-| 41 | 0% | 94% |  |
-| 42 | 0% | 94% |  |
-| 43 | 0.6% | 94% |  |
-| 44 | 0.1% | 94% |  |
-| 45 | 2% | 94% |  |
-| 46 | 6% | 91% |  |
-| 47 | 1.1% | 85% |  |
-| 48 | 5% | 84% |  |
-| 49 | 8% | 79% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 99.9% |  |
+| 27 | 0% | 99.9% |  |
+| 28 | 0% | 99.9% |  |
+| 29 | 0% | 99.9% |  |
+| 30 | 0% | 99.9% |  |
+| 31 | 0% | 99.9% |  |
+| 32 | 0% | 99.9% |  |
+| 33 | 0.1% | 99.9% |  |
+| 34 | 0% | 99.8% |  |
+| 35 | 0% | 99.8% | Last Result |
+| 36 | 0% | 99.7% |  |
+| 37 | 0% | 99.7% |  |
+| 38 | 0.3% | 99.7% |  |
+| 39 | 0.6% | 99.4% |  |
+| 40 | 0.1% | 98.8% |  |
+| 41 | 0% | 98.6% |  |
+| 42 | 0% | 98.6% |  |
+| 43 | 2% | 98.6% |  |
+| 44 | 0.1% | 97% |  |
+| 45 | 2% | 97% |  |
+| 46 | 1.1% | 95% |  |
+| 47 | 1.1% | 94% |  |
+| 48 | 14% | 93% |  |
+| 49 | 8% | 78% |  |
 | 50 | 2% | 71% |  |
-| 51 | 19% | 69% |  |
+| 51 | 18% | 68% |  |
 | 52 | 5% | 50% | Median |
 | 53 | 25% | 45% |  |
 | 54 | 20% | 20% |  |
