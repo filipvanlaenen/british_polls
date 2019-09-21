@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 20 Sep 2019 21:33:11 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 23:33:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-09-15-ComRes.html</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-09-06-Panelbase.png"
         length="194497"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 21:33:11 +0200</pubDate>
-      <dc:date>2019-09-20T21:33:11.017589+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 23:11:16 +0200</pubDate>
+      <dc:date>2019-09-20T23:11:16.148694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 4–6 September 2019 – Voting Intentions</title>
@@ -88,6 +88,16 @@
         type="image/png"/>
       <pubDate>Thu, 12 Sep 2019 19:03:01 +0200</pubDate>
       <dc:date>2019-09-12T19:03:01.93266+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 3–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-09-06-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 28.7–33.4%&lt;/li&gt;&lt;li&gt;Labour Party: 24.8–29.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 17.1–21.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 11.4–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-09-06-BMGResearch.png"
+        length="145656"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 23:33:29 +0200</pubDate>
+      <dc:date>2019-09-20T23:33:29.879495+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Hanbury Strategy, 3–4 September 2019 – Voting Intentions</title>
@@ -4919,6 +4929,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-09-20T21:33:11.017589+02:00</dc:date>
+    <dc:date>2019-09-20T23:33:29.879495+02:00</dc:date>
   </channel>
 </rss>
