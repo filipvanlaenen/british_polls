@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 26–30% <br> 199–259 | 25–29% <br> 199–266 | 18–22% <br> 71–87 | 3–5% <br> 49–53 | 1–2% <br> 0 | 4–6% <br> 2–4 | N/A <br> N/A | 12–15% <br> 22–49 | N/A <br> N/A |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 35–39% <br> 309–365 | 23–27% <br> 126–181 | 14–18% <br> 39–57 | 3–5% <br> 40–54 | 1–2% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–11 | 12–15% <br> 17–48 | 0–1% <br> 0 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 30–34% <br> 265–324 | 21–25% <br> 117–186 | 17–21% <br> 57–78 | 3–5% <br> 45–54 | 0–1% <br> 0 | 6–8% <br> 3–6 | 0–1% <br> 0–4 | 12–16% <br> 37–73 | 0–1% <br> 0 |
