@@ -10,9 +10,9 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.1% | 2.9–5.3% | 2.6–5.6% | 2.2–6.0% |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 3.9% | N/A | N/A | N/A | N/A |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.0% | 2.8–5.3% | 2.6–5.5% | 2.2–5.9% |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.3% |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
@@ -282,10 +282,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 21% | 98% | Last Result |
-| 3.5–4.5% | 52% | 77% | Median |
-| 4.5–5.5% | 22% | 25% |  |
-| 5.5–6.5% | 3% | 3% |  |
+| 2.5–3.5% | 24% | 98% | Last Result |
+| 3.5–4.5% | 53% | 75% | Median |
+| 4.5–5.5% | 19% | 21% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -297,9 +297,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 48–54 | 45–54 | 43–54 | 38–54 |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 51 | 48–54 | 45–54 | 40–54 | 38–54 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 52 | 51–52 | 49–52 | 48–52 | 46–54 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 49 | 40–52 | 38–52 | 38–53 | 32–54 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 51 | 51–53 | 51–53 | 49–53 | 48–54 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 51 | 47–54 | 45–54 | 40–54 | 39–54 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 53 | 47–54 | 47–54 | 45–54 | 44–54 |
@@ -576,30 +576,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 99.9% |  |
 | 30 | 0% | 99.9% |  |
 | 31 | 0% | 99.9% |  |
-| 32 | 0% | 99.9% |  |
-| 33 | 0.1% | 99.9% |  |
-| 34 | 0% | 99.7% |  |
-| 35 | 0% | 99.7% | Last Result |
-| 36 | 0% | 99.7% |  |
-| 37 | 0% | 99.7% |  |
-| 38 | 0.3% | 99.7% |  |
-| 39 | 0.7% | 99.3% |  |
-| 40 | 0.2% | 98.6% |  |
-| 41 | 0% | 98% |  |
-| 42 | 0% | 98% |  |
-| 43 | 2% | 98% |  |
-| 44 | 0% | 97% |  |
-| 45 | 2% | 97% |  |
-| 46 | 1.2% | 95% |  |
-| 47 | 0.2% | 93% |  |
-| 48 | 15% | 93% |  |
-| 49 | 8% | 79% |  |
-| 50 | 2% | 70% |  |
-| 51 | 19% | 68% | Median |
-| 52 | 5% | 49% |  |
-| 53 | 27% | 43% |  |
-| 54 | 16% | 16% |  |
-| 55 | 0.1% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 32 | 0.1% | 99.9% |  |
+| 33 | 0.1% | 99.8% |  |
+| 34 | 0.1% | 99.7% |  |
+| 35 | 0% | 99.6% | Last Result |
+| 36 | 0% | 99.6% |  |
+| 37 | 0.1% | 99.6% |  |
+| 38 | 1.0% | 99.5% |  |
+| 39 | 0.6% | 98% |  |
+| 40 | 0.4% | 98% |  |
+| 41 | 0% | 97% |  |
+| 42 | 0% | 97% |  |
+| 43 | 2% | 97% |  |
+| 44 | 0.1% | 96% |  |
+| 45 | 2% | 96% |  |
+| 46 | 2% | 94% |  |
+| 47 | 0.9% | 92% |  |
+| 48 | 13% | 92% |  |
+| 49 | 11% | 79% |  |
+| 50 | 2% | 68% |  |
+| 51 | 17% | 66% | Median |
+| 52 | 15% | 49% |  |
+| 53 | 21% | 34% |  |
+| 54 | 13% | 13% |  |
+| 55 | 0% | 0% |  |
 
 

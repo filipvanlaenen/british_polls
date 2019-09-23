@@ -10,9 +10,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.4% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.3% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
@@ -281,8 +281,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 17% | 100% |  |
-| 0.5–1.5% | 79% | 83% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.5–1.5% | 80% | 83% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -294,9 +294,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 0–10 | 0–10 | 0–11 | 0–12 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–12 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 3–7 | 3–8 | 0–9 | 0–10 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 7 | 4–11 | 4–11 | 4–11 | 4–12 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–7 |
@@ -566,20 +566,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 0.2% | 81% |  |
-| 2 | 0% | 81% |  |
-| 3 | 1.0% | 81% |  |
-| 4 | 20% | 80% | Last Result |
+| 0 | 14% | 100% |  |
+| 1 | 0.2% | 86% |  |
+| 2 | 0.1% | 86% |  |
+| 3 | 2% | 86% |  |
+| 4 | 24% | 84% | Last Result |
 | 5 | 7% | 60% |  |
-| 6 | 0.3% | 53% |  |
-| 7 | 25% | 52% | Median |
-| 8 | 7% | 28% |  |
-| 9 | 4% | 21% |  |
-| 10 | 12% | 17% |  |
-| 11 | 4% | 5% |  |
-| 12 | 0.8% | 1.3% |  |
-| 13 | 0.3% | 0.5% |  |
+| 6 | 5% | 53% | Median |
+| 7 | 25% | 48% |  |
+| 8 | 6% | 23% |  |
+| 9 | 3% | 17% |  |
+| 10 | 10% | 14% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.6% | 1.0% |  |
+| 13 | 0.3% | 0.4% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0% | 0.1% |  |
