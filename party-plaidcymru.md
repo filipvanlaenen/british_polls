@@ -10,7 +10,13 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.3% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 1.1% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 0.2% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 0.2% | N/A | N/A | N/A | N/A |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 0.0% | N/A | N/A | N/A | N/A |
@@ -280,8 +286,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 17% | 100% |  |
-| 0.5–1.5% | 80% | 83% | Last Result, Median |
+| 0.0–0.5% | 24% | 100% |  |
+| 0.5–1.5% | 73% | 76% | Last Result, Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -294,11 +300,17 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–10 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 5 | 0–10 | 0–10 | 0–11 | 0–12 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–12 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 3–7 | 3–8 | 0–9 | 0–10 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 7 | 4–11 | 4–11 | 4–11 | 4–12 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 6–8 | 5–9 | 4–10 | 4–11 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–7 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 7 | 4–7 | 4–11 | 4–12 | 4–13 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
@@ -566,19 +578,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 0.2% | 86% |  |
-| 2 | 0.1% | 86% |  |
-| 3 | 2% | 86% |  |
-| 4 | 24% | 84% | Last Result |
-| 5 | 7% | 60% |  |
-| 6 | 5% | 53% | Median |
-| 7 | 25% | 48% |  |
-| 8 | 6% | 23% |  |
-| 9 | 3% | 17% |  |
-| 10 | 10% | 14% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.6% | 1.0% |  |
+| 0 | 19% | 100% |  |
+| 1 | 0.2% | 81% |  |
+| 2 | 0.2% | 81% |  |
+| 3 | 3% | 80% |  |
+| 4 | 26% | 78% | Last Result |
+| 5 | 6% | 51% | Median |
+| 6 | 1.1% | 46% |  |
+| 7 | 23% | 45% |  |
+| 8 | 5% | 21% |  |
+| 9 | 3% | 16% |  |
+| 10 | 11% | 13% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.7% | 1.2% |  |
 | 13 | 0.3% | 0.4% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
