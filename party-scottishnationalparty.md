@@ -10,12 +10,17 @@ Last result: **3.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.1% | 2.7–5.4% | 2.5–5.6% | 2.1–6.1% |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2.9% | N/A | N/A | N/A | N/A |
-| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 4.0% | N/A | N/A | N/A | N/A |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 4.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.1% | 2.7–5.4% | 2.5–5.6% | 2.1–6.0% |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 3.9% | N/A | N/A | N/A | N/A |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
+| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | N/A | N/A | N/A | N/A |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 4.0% | N/A | N/A | N/A | N/A |
-| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 4.0% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 4.0% | N/A | N/A | N/A | N/A |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.3% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -290,7 +295,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 30% | 97% | Last Result |
 | 3.5–4.5% | 40% | 67% | Median |
-| 4.5–5.5% | 23% | 27% |  |
+| 4.5–5.5% | 23% | 26% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -304,12 +309,17 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 46–54 | 43–54 | 38–54 | 33–54 |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 50 | 46–54 | 43–54 | 38–54 | 33–54 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 48 | 38–50 | 33–52 | 31–52 | 31–52 |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 51 | 50–54 | 49–54 | 47–54 | 46–54 |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 52 | 51–53 | 49–54 | 49–54 | 46–54 |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote |  |  |  |  |  |
-| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 52 | 48–54 | 39–54 | 39–54 | 39–54 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 52 | 51–52 | 49–52 | 48–52 | 46–54 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 49 | 40–52 | 38–52 | 38–53 | 32–54 |
@@ -604,14 +614,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 94% |  |
 | 45 | 2% | 93% |  |
 | 46 | 3% | 91% |  |
-| 47 | 1.2% | 89% |  |
+| 47 | 1.5% | 89% |  |
 | 48 | 20% | 87% |  |
-| 49 | 15% | 67% |  |
-| 50 | 2% | 52% |  |
-| 51 | 8% | 50% | Median |
-| 52 | 5% | 42% |  |
-| 53 | 24% | 37% |  |
-| 54 | 13% | 13% |  |
+| 49 | 16% | 67% |  |
+| 50 | 2% | 51% | Median |
+| 51 | 16% | 49% |  |
+| 52 | 7% | 34% |  |
+| 53 | 15% | 27% |  |
+| 54 | 12% | 12% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
