@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 10 Oct 2019 19:03:53 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2019 13:09:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 4–6 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-06-ComRes.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Thu, 10 Oct 2019 17:57:41 +0200</pubDate>
       <dc:date>2019-10-10T17:57:41.135628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 1–4 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-04-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 28.7–33.4%&lt;/li&gt;&lt;li&gt;Labour Party: 23.9–28.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 18.1–22.1%&lt;/li&gt;&lt;li&gt;Green Party: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.5–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-04-BMGResearch.png"
+        length="163531"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 13:09:24 +0200</pubDate>
+      <dc:date>2019-10-11T13:09:24.530757+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 30 September–1 October 2019 – Voting Intentions</title>
@@ -4949,6 +4959,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-10-10T19:03:53.989572+02:00</dc:date>
+    <dc:date>2019-10-11T13:09:24.530757+02:00</dc:date>
   </channel>
 </rss>
