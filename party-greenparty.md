@@ -315,7 +315,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–5 | 1–5 | 1–5 | 1–5 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 5 | 5 | 4–5 | 4–5 | 3–5 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 2–5 | 1–5 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
@@ -597,8 +597,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 26% | 49% |  |
+| 1 | 52% | 100% | Last Result, Median |
+| 2 | 25% | 48% |  |
 | 3 | 5% | 23% |  |
 | 4 | 6% | 18% |  |
 | 5 | 12% | 12% |  |

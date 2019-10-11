@@ -311,8 +311,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51 | 45–54 | 38–54 | 35–54 | 34–55 |
-| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 53 | 49–53 | 48–53 | 46–53 | 45–54 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 54 | 51–54 | 50–55 | 50–55 | 50–55 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 52 | 48–53 | 48–53 | 46–53 | 45–54 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 54 | 51–54 | 51–55 | 51–55 | 50–55 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 48 | 35–48 | 35–50 | 35–50 | 32–52 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
@@ -618,13 +618,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 3% | 89% |  |
 | 47 | 1.0% | 87% |  |
 | 48 | 19% | 86% |  |
-| 49 | 12% | 67% |  |
-| 50 | 3% | 55% |  |
+| 49 | 13% | 67% |  |
+| 50 | 2% | 54% |  |
 | 51 | 13% | 52% | Median |
-| 52 | 5% | 39% |  |
-| 53 | 17% | 34% |  |
+| 52 | 7% | 39% |  |
+| 53 | 15% | 32% |  |
 | 54 | 16% | 17% |  |
-| 55 | 0.8% | 0.8% |  |
+| 55 | 0.7% | 0.7% |  |
 | 56 | 0% | 0% |  |
 
 
