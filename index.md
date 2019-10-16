@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–40% <br> 171–375 | 22–28% <br> 128–237 | 14–25% <br> 40–101 | 2–6% <br> 36–54 | 0–1% <br> 0 | 2–8% <br> 1–5 | 0–2% <br> 0–11 | 9–18% <br> 7–122 | 0–1% <br> 0 |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 26–40% <br> 183–373 | 21–28% <br> 117–232 | 14–25% <br> 42–99 | 2–6% <br> 38–54 | 0–1% <br> 0 | 2–8% <br> 1–5 | 0–2% <br> 0–11 | 9–17% <br> 7–114 | 0–1% <br> 0 |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 31–35% <br> 258–320 | 25–29% <br> 174–230 | 16–20% <br> 49–70 | 3–5% <br> 46–53 | N/A <br> N/A | 3–5% <br> 1–2 | N/A <br> N/A | 11–13% <br> 9–38 | N/A <br> N/A |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 32–37% <br> 307–360 | 20–24% <br> 109–166 | 18–22% <br> 58–79 | 3–5% <br> 39–54 | 0–1% <br> 0 | 5–7% <br> 3–5 | 1–2% <br> 4–12 | 10–13% <br> 19–52 | 1–2% <br> 0 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 36–41% <br> 339–381 | 21–25% <br> 123–168 | 14–17% <br> 37–48 | 4–6% <br> 51–55 | 1–2% <br> 0 | 3–5% <br> 1–3 | 0–1% <br> 0–4 | 11–14% <br> 18–40 | 0–1% <br> 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 29–33% <br> 244–314 | 24–28% <br> 167–237 | 18–22% <br> 65–83 | 2–4% <br> 33–51 | 0–1% <br> 0 | 6–8% <br> 4–5 | 1–2% <br> 4–11 | 10–13% <br> 8–37 | N/A <br> N/A |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 24–30% <br> 151–270 | 21–27% <br> 130–236 | 20–25% <br> 75–107 | 3–5% <br> 47–54 | N/A <br> N/A | 2–4% <br> 1–2 | N/A <br> N/A | 14–18% <br> 48–142 | N/A <br> N/A |
