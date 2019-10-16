@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 15 Oct 2019 20:45:49 +0200</pubDate>
+    <pubDate>Wed, 16 Oct 2019 20:40:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-10-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 31.0–35.1%&lt;/li&gt;&lt;li&gt;Labour Party: 25.1–29.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.4–19.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 10.6–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-10-ComRes.png"
+        length="173798"
+        type="image/png"/>
+      <pubDate>Wed, 16 Oct 2019 20:05:30 +0200</pubDate>
+      <dc:date>2019-10-16T20:05:30.000009+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 8–9 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-09-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 32.2–36.8%&lt;/li&gt;&lt;li&gt;Labour Party: 19.7–23.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 17.8–21.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.9–7.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 10.3–13.5%&lt;/li&gt;&lt;li&gt;Change UK: 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-09-YouGov.png"
+        length="189930"
+        type="image/png"/>
+      <pubDate>Wed, 16 Oct 2019 20:40:11 +0200</pubDate>
+      <dc:date>2019-10-16T20:40:11.497444+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 4–6 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-06-ComRes.html</link>
@@ -4959,6 +4979,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-10-15T20:45:49.115841+02:00</dc:date>
+    <dc:date>2019-10-16T20:40:11.497444+02:00</dc:date>
   </channel>
 </rss>
