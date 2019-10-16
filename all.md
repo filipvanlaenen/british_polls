@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 31–35% <br> 258–320 | 25–29% <br> 174–230 | 16–20% <br> 49–70 | 3–5% <br> 46–53 | N/A <br> N/A | 3–5% <br> 1–2 | N/A <br> N/A | 11–13% <br> 9–38 | N/A <br> N/A |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 32–37% <br> 307–360 | 20–24% <br> 109–166 | 18–22% <br> 58–79 | 3–5% <br> 39–54 | 0–1% <br> 0 | 5–7% <br> 3–5 | 1–2% <br> 4–12 | 10–13% <br> 19–52 | 1–2% <br> 0 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 30–34% <br> 258–317 | 25–28% <br> 164–221 | 17–20% <br> 57–73 | 3–5% <br> 46–54 | 1–2% <br> 0 | 2–4% <br> 1–2 | 1–2% <br> 4–10 | 11–14% <br> 16–46 | N/A <br> N/A |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 36–41% <br> 339–381 | 21–25% <br> 123–168 | 14–17% <br> 37–48 | 4–6% <br> 51–55 | 1–2% <br> 0 | 3–5% <br> 1–3 | 0–1% <br> 0–4 | 11–14% <br> 18–40 | 0–1% <br> 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 29–33% <br> 244–314 | 24–28% <br> 167–237 | 18–22% <br> 65–83 | 2–4% <br> 33–51 | 0–1% <br> 0 | 6–8% <br> 4–5 | 1–2% <br> 4–11 | 10–13% <br> 8–37 | N/A <br> N/A |
