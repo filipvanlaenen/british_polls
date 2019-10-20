@@ -330,7 +330,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 8 | 4–11 | 4–12 | 4–13 | 4–13 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–12 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 3–7 | 2–7 | 2–8 | 0–10 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 3–7 | 3–7 | 2–9 | 0–10 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 6–8 | 5–9 | 4–10 | 4–11 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–7 |
@@ -602,17 +602,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% |  |
 | 1 | 0% | 64% |  |
-| 2 | 1.0% | 64% |  |
-| 3 | 24% | 63% | Median |
-| 4 | 17% | 39% | Last Result |
-| 5 | 0.6% | 22% |  |
-| 6 | 0.3% | 22% |  |
-| 7 | 20% | 21% |  |
-| 8 | 0.2% | 2% |  |
-| 9 | 0.8% | 1.4% |  |
-| 10 | 0.5% | 0.6% |  |
-| 11 | 0.1% | 0.1% |  |
+| 2 | 2% | 64% |  |
+| 3 | 26% | 62% | Median |
+| 4 | 24% | 37% | Last Result |
+| 5 | 2% | 13% |  |
+| 6 | 0.8% | 11% |  |
+| 7 | 8% | 10% |  |
+| 8 | 1.0% | 2% |  |
+| 9 | 0.7% | 1.5% |  |
+| 10 | 0.6% | 0.8% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
