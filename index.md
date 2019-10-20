@@ -13,7 +13,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 36–41% <br> 339–381 | 21–25% <br> 123–168 | 14–17% <br> 37–48 | 4–6% <br> 51–55 | 1–2% <br> 0 | 3–5% <br> 1–3 | 0–1% <br> 0–4 | 11–14% <br> 18–40 | 0–1% <br> 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 24–30% <br> 153–271 | 21–27% <br> 130–233 | 20–25% <br> 75–107 | 3–5% <br> 48–54 | N/A <br> N/A | 2–4% <br> 1–2 | N/A <br> N/A | 14–18% <br> 48–142 | N/A <br> N/A |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30–36% <br> 260–340 | 22–27% <br> 135–219 | 21–26% <br> 71–94 | 3–5% <br> 34–52 | 0–1% <br> 0 | 3–5% <br> 1–4 | 0–1% <br> 2–9 | 8–12% <br> 5–29 | 0–1% <br> 0 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30–36% <br> 258–340 | 22–27% <br> 136–218 | 21–26% <br> 68–95 | 3–5% <br> 38–52 | 0–1% <br> 0 | 3–5% <br> 1–4 | 0–1% <br> 2–9 | 8–12% <br> 4–34 | 0–1% <br> 0 |
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
