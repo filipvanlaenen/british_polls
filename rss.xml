@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 30 Oct 2019 06:56:08 +0100</pubDate>
+    <pubDate>Thu, 31 Oct 2019 06:48:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 24–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-YouGov.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Wed, 30 Oct 2019 06:56:08 +0100</pubDate>
       <dc:date>2019-10-30T06:56:08.697548+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 22.3–26.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.6–16.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 8.8–11.4%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.png"
+        length="180719"
+        type="image/png"/>
+      <pubDate>Thu, 31 Oct 2019 06:48:32 +0100</pubDate>
+      <dc:date>2019-10-31T06:48:32.927575+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Voting Intentions</title>
@@ -5019,6 +5029,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-10-30T06:56:08.697548+01:00</dc:date>
+    <dc:date>2019-10-31T06:48:32.927575+01:00</dc:date>
   </channel>
 </rss>
