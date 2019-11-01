@@ -7,7 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 33–38% <br> 320–350 | 21–25% <br> 135–170 | 16–20% <br> 52–68 | 2–4% <br> 31–51 | 0–1% <br> 0 | 5–7% <br> 3–5 | 1–2% <br> 4–11 | 10–14% <br> 18–40 | 0–1% <br> 0 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 38–42% <br> 353–386 | 22–26% <br> 132–165 | 14–17% <br> 37–49 | 4–6% <br> 51–54 | 1–2% <br> 0 | 2–4% <br> 1 | 0–1% <br> 0–3 | 9–11% <br> 10–20 | 0–1% <br> 0 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 34–39% <br> 331–389 | 20–24% <br> 104–161 | 17–21% <br> 51–73 | 2–4% <br> 33–50 | 1–2% <br> 0 | 6–8% <br> 3–6 | 1–2% <br> 4–13 | 9–12% <br> 12–33 | 0–1% <br> 0 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
