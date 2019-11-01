@@ -13,7 +13,7 @@ Last result: **40.0%** (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 24.6% | 22.5–26.8% | 22.0–27.4% | 21.6–27.8% | 20.8–28.6% |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 22.9% | 21.6–24.3% | 21.2–24.7% | 20.9–25.0% | 20.3–25.7% |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 24.1% | 22.9–25.4% | 22.6–25.8% | 22.3–26.1% | 21.7–26.7% |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 21.7% | N/A | N/A | N/A | N/A |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 21.7% | 20.4–23.0% | 20.1–23.4% | 19.8–23.7% | 19.2–24.4% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 23.9% | N/A | N/A | N/A | N/A |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 23.6% | N/A | N/A | N/A | N/A |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 27.3% | N/A | N/A | N/A | N/A |
@@ -340,7 +340,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 157 | 139–212 | 139–218 | 136–223 | 127–242 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 139 | 139–164 | 138–164 | 135–170 | 117–185 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 157 | 140–165 | 140–165 | 132–165 | 129–174 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 127 | 111–151 | 111–159 | 104–161 | 88–175 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase |  |  |  |  |  |
