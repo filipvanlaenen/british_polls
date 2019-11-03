@@ -8,7 +8,47 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 02 Nov 2019 21:20:56 +0100</pubDate>
+    <pubDate>Sun, 03 Nov 2019 16:43:01 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Panelbase, 30–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-31-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.0–43.0%&lt;/li&gt;&lt;li&gt;Labour Party: 26.2–31.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 7.4–11.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-31-Panelbase.png"
+        length="192213"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 09:38:14 +0100</pubDate>
+      <dc:date>2019-11-03T09:38:14.775234+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 29–30 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-30-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.1–38.6%&lt;/li&gt;&lt;li&gt;Labour Party: 19.3–23.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.4–20.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 5.0–7.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 11.6–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-30-YouGov.png"
+        length="190178"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 15:45:16 +0100</pubDate>
+      <dc:date>2019-11-03T15:45:16.148037+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 29–30 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-30-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 31.1–36.9%&lt;/li&gt;&lt;li&gt;Labour Party: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 10.1–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-30-Survation.png"
+        length="196992"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 16:10:05 +0100</pubDate>
+      <dc:date>2019-11-03T16:10:05.996953+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 25–28 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-28-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.8–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 21.3–26.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 17.5–22.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-28-IpsosMORI.png"
+        length="191403"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 16:43:01 +0100</pubDate>
+      <dc:date>2019-11-03T16:43:01.097726+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.html</link>
@@ -5069,6 +5109,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-02T21:20:56.6117+01:00</dc:date>
+    <dc:date>2019-11-03T16:43:01.097726+01:00</dc:date>
   </channel>
 </rss>
