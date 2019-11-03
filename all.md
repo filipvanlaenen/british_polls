@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37–43% <br> N/A | 25–31% <br> N/A | 12–16% <br> N/A | 2–5% <br> N/A | 0–2% <br> N/A | 1–4% <br> N/A | 0–2% <br> N/A | 9–14% <br> N/A | N/A <br> N/A |
-| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37–42% <br> 326–381 | 26–30% <br> 160–210 | 12–16% <br> 31–44 | 2–4% <br> 33–50 | 1–2% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–11 | 10–13% <br> 4–19 | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 37–41% <br> 309–366 | 25–29% <br> 159–217 | 14–18% <br> 36–54 | 4–6% <br> 50–54 | 0–1% <br> 0 | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 6–8% <br> 1–3 | 0–1% <br> 0 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 39–44% <br> N/A | 24–28% <br> N/A | 14–17% <br> N/A | 3–5% <br> N/A | 0–1% <br> N/A | 1–3% <br> N/A | 1–2% <br> N/A | 8–10% <br> N/A | 0–1% <br> N/A |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 37–43% <br> 312–386 | 26–32% <br> 161–225 | 12–16% <br> 30–48 | 2–4% <br> 22–51 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 7–11% <br> 2–10 | N/A <br> N/A |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
