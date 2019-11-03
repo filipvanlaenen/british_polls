@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 03 Nov 2019 19:14:23 +0100</pubDate>
+    <pubDate>Sun, 03 Nov 2019 20:29:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 31 October–2 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-02-Deltapoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.5–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 25.7–30.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 12.3–15.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.5–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-02-Deltapoll.png"
+        length="178836"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 19:51:54 +0100</pubDate>
+      <dc:date>2019-11-03T19:51:54.579436+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times, 30 October–1 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-01-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.6–41.1%&lt;/li&gt;&lt;li&gt;Labour Party: 24.9–29.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.3–17.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 5.9–8.2%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-01-YouGov.png"
+        length="185825"
+        type="image/png"/>
+      <pubDate>Sun, 03 Nov 2019 20:29:07 +0100</pubDate>
+      <dc:date>2019-11-03T20:29:07.572576+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase, 30–31 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-31-Panelbase.html</link>
@@ -5109,6 +5129,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-03T19:14:23.614751+01:00</dc:date>
+    <dc:date>2019-11-03T20:29:07.572576+01:00</dc:date>
   </channel>
 </rss>
