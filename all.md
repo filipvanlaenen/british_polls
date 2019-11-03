@@ -5,7 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 37–43% <br> 315–383 | 26–32% <br> 162–223 | 12–16% <br> 30–48 | 2–4% <br> 18–51 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 7–11% <br> 2–11 | N/A <br> N/A |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37–43% <br> N/A | 25–31% <br> N/A | 12–16% <br> N/A | 2–5% <br> N/A | 0–2% <br> N/A | 1–4% <br> N/A | 0–2% <br> N/A | 9–14% <br> N/A | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 37–43% <br> 312–386 | 26–32% <br> 161–225 | 12–16% <br> 30–48 | 2–4% <br> 22–51 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 7–11% <br> 2–10 | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 34–39% <br> 320–373 | 19–23% <br> 99–148 | 16–20% <br> 49–67 | 3–5% <br> 45–54 | N/A <br> N/A | 5–7% <br> 3–4 | 0–1% <br> 0–4 | 12–15% <br> 28–64 | N/A <br> N/A |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 31–37% <br> 264–341 | 23–29% <br> 143–220 | 17–22% <br> 48–77 | 3–5% <br> 40–54 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 4–12 | 10–14% <br> 8–46 | N/A <br> N/A |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
