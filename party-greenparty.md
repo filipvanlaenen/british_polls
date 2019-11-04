@@ -78,7 +78,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 6.9% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.3–7.4% | 5.0–7.7% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 7.6% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 4.9% | N/A | N/A | N/A | N/A |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–5.9% | 3.8–6.3% |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.4–9.8% |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–5.9% | 3.8–6.3% |
@@ -90,7 +90,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.1–6.1% | 3.8–6.5% |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–9.9% | 7.9–10.2% | 7.7–10.5% | 7.3–10.9% |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 7.9% | N/A | N/A | N/A | N/A |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.4–9.6% |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 6.1% | 5.3–6.9% | 5.2–7.2% | 5.0–7.4% | 4.6–7.8% |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 10.0% | 9.1–10.9% | 8.9–11.1% | 8.7–11.3% | 8.4–11.8% |
@@ -100,7 +100,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.4–11.0% |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 8.0% | 7.3–9.0% | 7.0–9.2% | 6.8–9.4% | 6.5–9.9% |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 5.0% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 5.9% | N/A | N/A | N/A | N/A |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.8–7.2% | 4.5–7.7% |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4.9% | 4.4–5.5% | 4.2–5.7% | 4.1–5.8% | 3.9–6.1% |
@@ -346,7 +346,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 4 |
-| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–2 |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–3 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -371,7 +371,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 3 | 3 | 3 | 3 | 2–3 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–2 | 1–3 | 1–4 | 1–4 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -384,7 +384,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1–2 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–5 | 4–6 |
@@ -392,11 +392,11 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 6 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
-| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–6 | 4–8 | 4–8 |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 5 | 4–5 | 4–5 | 2–5 | 2–5 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -404,7 +404,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 5 | 4–6 | 4–6 | 4–6 | 4–8 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 2 | 2 | 2 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2–3 | 2–3 | 2–4 |
@@ -416,7 +416,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 5 | 4–8 | 4–9 | 4–10 | 3–11 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 9 | 3–9 | 3–9 | 3–9 | 3–11 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 6 | 4–9 | 4–10 | 4–11 | 4–12 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 10 | 6–12 | 5–12 | 5–12 | 4–13 |
@@ -426,7 +426,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 7 | 5–10 | 5–11 | 4–12 | 4–12 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 6 | 5–8 | 4–8 | 4–9 | 3–10 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 4 | 4 | 4 | 4 | 3–4 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 7 | 6–10 | 5–11 | 5–12 | 4–13 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 14 | 12–18 | 11–19 | 11–20 | 9–22 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -473,7 +473,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [4–8 March 2019](2019-03-08-BMGResearch.html) | BMG Research | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1–2 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
