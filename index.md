@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 33–43% <br> 284–395 | 23–32% <br> 134–228 | 13–21% <br> 32–70 | 2–5% <br> 30–54 | 0–2% <br> 0 | 1–5% <br> 1–3 | 0–2% <br> 0–11 | 6–13% <br> 2–31 | 0–1% <br> 0 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 36–39% <br> 334–361 | 23–26% <br> 144–182 | 15–17% <br> 42–50 | 3–5% <br> 46–54 | 0% <br> 0 | 4–6% <br> 2–3 | 1% <br> 4–10 | 10–12% <br> 10–26 | 0% <br> 0 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 36–39% <br> 332–365 | 23–26% <br> 144–180 | 15–17% <br> 40–50 | 3–5% <br> 47–54 | 0% <br> 0 | 4–6% <br> 2–3 | 1% <br> 4–10 | 10–12% <br> 10–27 | 0% <br> 0 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 35–40% <br> 300–340 | 29–33% <br> 202–241 | 13–16% <br> 36–49 | 2–4% <br> 33–50 | 1–2% <br> 0 | 2–4% <br> 1 | 0–1% <br> 0–3 | 8–10% <br> 2–5 | N/A <br> N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37–42% <br> 326–383 | 26–30% <br> 150–210 | 12–16% <br> 30–46 | 2–4% <br> 29–50 | 1–2% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–11 | 10–13% <br> 4–20 | N/A <br> N/A |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 39–44% <br> 345–393 | 24–28% <br> 141–180 | 14–17% <br> 36–49 | 3–5% <br> 40–53 | 0–1% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–10 | 8–10% <br> 2–8 | 0–1% <br> 0 |
