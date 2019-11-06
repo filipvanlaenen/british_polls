@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 06 Nov 2019 17:32:55 +0100</pubDate>
+    <pubDate>Wed, 06 Nov 2019 18:14:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 1–4 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-04-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-04-YouGov.png"
         length="175015"
         type="image/png"/>
-      <pubDate>Tue, 05 Nov 2019 23:20:52 +0100</pubDate>
-      <dc:date>2019-11-05T23:20:52.284264+01:00</dc:date>
+      <pubDate>Wed, 06 Nov 2019 17:56:12 +0100</pubDate>
+      <dc:date>2019-11-06T17:56:12.129877+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICM Research for Reuters, 1–4 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-04-ICMResearch.png"
         length="172556"
         type="image/png"/>
-      <pubDate>Wed, 06 Nov 2019 06:51:30 +0100</pubDate>
-      <dc:date>2019-11-06T06:51:30.179756+01:00</dc:date>
+      <pubDate>Wed, 06 Nov 2019 18:11:00 +0100</pubDate>
+      <dc:date>2019-11-06T18:11:00.700772+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 31 October–2 November 2019 – Voting Intentions</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-17-Opinium.png"
         length="184100"
         type="image/png"/>
-      <pubDate>Wed, 06 Nov 2019 17:32:55 +0100</pubDate>
-      <dc:date>2019-11-06T17:32:55.914947+01:00</dc:date>
+      <pubDate>Wed, 06 Nov 2019 17:52:12 +0100</pubDate>
+      <dc:date>2019-11-06T17:52:12.894698+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Britain Elects, 16–17 October 2019 – Voting Intentions</title>
@@ -606,8 +606,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-08-21-YouGov.png"
         length="187537"
         type="image/png"/>
-      <pubDate>Mon, 04 Nov 2019 20:14:03 +0100</pubDate>
-      <dc:date>2019-11-04T20:14:03.562716+01:00</dc:date>
+      <pubDate>Wed, 06 Nov 2019 18:14:27 +0100</pubDate>
+      <dc:date>2019-11-06T18:14:27.055107+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 15–19 August 2019 – Voting Intentions</title>
@@ -2412,7 +2412,7 @@
     <item>
       <title>Opinion Poll by Opinium for The Observer, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-02-15-Opinium.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Labour Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Labour Party: 35.2–39.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 6.0–8.3%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-02-15-Opinium.png"
         length="157167"
         type="image/png"/>
@@ -5359,6 +5359,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-06T17:32:55.914947+01:00</dc:date>
+    <dc:date>2019-11-06T18:14:27.055107+01:00</dc:date>
   </channel>
 </rss>
