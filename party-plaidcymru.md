@@ -331,12 +331,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–10 | 0–11 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 5 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 7 | 4–9 | 4–10 | 4–10 | 4–11 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 5 | 4–10 | 4–10 | 4–11 | 3–11 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 6 | 4–9 | 4–10 | 4–11 | 4–11 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 6 | 4–9 | 4–9 | 4–10 | 4–11 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 7 | 4–9 | 4–9 | 4–10 | 4–11 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 5 | 4–9 | 4–10 | 4–11 | 3–13 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 2–4 | 0–4 | 0–4 |
@@ -362,7 +362,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 4–10 | 4–10 | 4–11 | 4–14 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 9 | 7–10 | 4–11 | 4–13 | 4–13 |
-| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 7 | 7–10 | 5–11 | 4–12 | 4–12 |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 7 | 4–8 | 4–10 | 4–11 | 4–12 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 9 | 4–11 | 4–11 | 4–12 | 4–16 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 7 | 4–11 | 4–14 | 4–14 | 3–16 |
@@ -375,7 +375,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 6–8 | 5–9 | 4–10 | 4–11 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–7 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 7 | 4–7 | 4–11 | 4–12 | 4–13 |
-| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 7 | 7 | 7 | 7 | 7 |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 4 | 4–9 | 4–10 | 4–10 | 3–12 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4 | 4–9 | 4–9 | 4–10 | 3–11 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 7 | 4–12 | 4–13 | 4–15 | 3–16 |
@@ -388,7 +388,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 9–11 | 7–11 | 7–11 | 3–12 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 7 | 5–12 | 4–13 | 4–13 | 3–16 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 8 | 7–10 | 4–11 | 4–11 | 4–13 |
-| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 11 | 7–11 | 7–11 | 7–11 | 7–11 |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 8 | 5–11 | 4–11 | 4–11 | 4–12 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 8 | 7–11 | 6–12 | 6–13 | 4–13 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 7 | 4–9 | 4–10 | 4–11 | 4–11 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 10 | 5–11 | 4–12 | 4–13 | 4–14 |
@@ -475,7 +475,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–6 | 3–7 | 2–8 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–9 | 3–9 | 2–11 |
+| [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
 | [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 5 | 4–8 | 3–8 | 3–8 | 3–10 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
 | [3–4 February 2019](2019-02-04-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–5 | 2–6 | 1–8 |
@@ -640,20 +640,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0.4% | 89% |  |
-| 2 | 11% | 89% |  |
+| 0 | 12% | 100% |  |
+| 1 | 0.3% | 88% |  |
+| 2 | 11% | 88% |  |
 | 3 | 7% | 77% |  |
-| 4 | 22% | 70% | Last Result, Median |
-| 5 | 5% | 49% |  |
-| 6 | 2% | 44% |  |
-| 7 | 13% | 42% |  |
-| 8 | 11% | 30% |  |
+| 4 | 20% | 70% | Last Result |
+| 5 | 5% | 51% | Median |
+| 6 | 2% | 45% |  |
+| 7 | 13% | 44% |  |
+| 8 | 12% | 31% |  |
 | 9 | 5% | 19% |  |
-| 10 | 6% | 13% |  |
+| 10 | 6% | 14% |  |
 | 11 | 5% | 8% |  |
 | 12 | 1.0% | 2% |  |
-| 13 | 1.0% | 1.3% |  |
+| 13 | 1.1% | 1.3% |  |
 | 14 | 0.2% | 0.3% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0.1% | 0.1% |  |

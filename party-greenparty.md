@@ -379,7 +379,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
-| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 2 |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -392,7 +392,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 4 | 4 | 4–5 | 4–6 | 4–6 |
