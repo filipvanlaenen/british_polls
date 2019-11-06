@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 05 Nov 2019 21:15:26 +0100</pubDate>
+    <pubDate>Wed, 06 Nov 2019 17:32:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–4 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-04-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.8–39.1%&lt;/li&gt;&lt;li&gt;Labour Party: 23.2–26.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.6–17.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–4.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.4%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.2–5.7%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.8–12.0%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-04-YouGov.png"
+        length="175015"
+        type="image/png"/>
+      <pubDate>Tue, 05 Nov 2019 23:20:52 +0100</pubDate>
+      <dc:date>2019-11-05T23:20:52.284264+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research for Reuters, 1–4 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-04-ICMResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.4–39.6%&lt;/li&gt;&lt;li&gt;Labour Party: 28.7–32.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.3–16.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 7.7–10.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-04-ICMResearch.png"
+        length="172556"
+        type="image/png"/>
+      <pubDate>Wed, 06 Nov 2019 06:51:30 +0100</pubDate>
+      <dc:date>2019-11-06T06:51:30.179756+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 31 October–2 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-02-Deltapoll.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-02-Deltapoll.png"
         length="178836"
         type="image/png"/>
-      <pubDate>Tue, 05 Nov 2019 20:46:49 +0100</pubDate>
-      <dc:date>2019-11-05T20:46:49.179958+01:00</dc:date>
+      <pubDate>Tue, 05 Nov 2019 21:34:50 +0100</pubDate>
+      <dc:date>2019-11-05T21:34:50.902221+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 30 October–1 November 2019 – Voting Intentions</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-YouGov.png"
         length="185528"
         type="image/png"/>
-      <pubDate>Tue, 05 Nov 2019 21:15:26 +0100</pubDate>
-      <dc:date>2019-11-05T21:15:26.197089+01:00</dc:date>
+      <pubDate>Tue, 05 Nov 2019 21:36:17 +0100</pubDate>
+      <dc:date>2019-11-05T21:36:17.444925+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Voting Intentions</title>
@@ -176,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-17-Opinium.png"
         length="184100"
         type="image/png"/>
-      <pubDate>Mon, 04 Nov 2019 18:17:55 +0100</pubDate>
-      <dc:date>2019-11-04T18:17:55.65149+01:00</dc:date>
+      <pubDate>Wed, 06 Nov 2019 17:32:55 +0100</pubDate>
+      <dc:date>2019-11-06T17:32:55.914947+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Britain Elects, 16–17 October 2019 – Voting Intentions</title>
@@ -2286,8 +2306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-03-15-YouGov.png"
         length="175742"
         type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 13:27:01 +0200</pubDate>
-      <dc:date>2019-06-13T13:27:01.438511+02:00</dc:date>
+      <pubDate>Tue, 05 Nov 2019 23:13:35 +0100</pubDate>
+      <dc:date>2019-11-05T23:13:35.372222+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 15 March 2019 – Voting Intentions</title>
@@ -5339,6 +5359,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-05T21:15:26.197089+01:00</dc:date>
+    <dc:date>2019-11-06T17:32:55.914947+01:00</dc:date>
   </channel>
 </rss>
