@@ -153,7 +153,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
-| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -332,7 +332,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–10 | 0–11 | 0–11 | 0–13 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 8 | 4–9 | 4–9 | 4–10 | 4–11 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 7 | 4–9 | 4–10 | 4–10 | 4–11 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 5 | 4–10 | 4–10 | 4–11 | 3–11 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 6 | 4–9 | 4–10 | 4–11 | 4–11 |
@@ -342,7 +342,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 7 | 4–11 | 4–11 | 4–12 | 3–16 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 10 | 7–10 | 7–10 | 7–11 | 7–11 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 7 | 7–8 | 7–8 | 7–9 | 6–10 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 9 | 4–12 | 4–13 | 4–13 | 3–14 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 7 | 4–11 | 4–12 | 4–12 | 4–14 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -413,7 +413,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 7 | 4–9 | 4–9 | 4–10 | 4–12 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–12 | 4–15 | 4–16 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 4 | 3–11 | 3–12 | 3–12 | 3–15 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 6 | 4–11 | 4–11 | 4–11 | 4–13 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 8 | 4–10 | 3–10 | 3–11 | 3–12 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 6 | 4–10 | 4–13 | 4–13 | 4–16 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 6 | 5–11 | 4–13 | 4–14 | 4–15 |
@@ -474,7 +474,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–2 | 0–4 | 0–4 | 0–4 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–6 | 3–7 | 2–8 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 5 | 4–8 | 4–9 | 3–9 | 2–11 |
 | [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 5 | 4–8 | 3–8 | 3–8 | 3–10 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 5 | 4–8 | 3–8 | 3–9 | 2–11 |
@@ -644,13 +644,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.2% | 87% |  |
 | 2 | 11% | 87% |  |
 | 3 | 6% | 76% |  |
-| 4 | 21% | 70% | Last Result, Median |
+| 4 | 22% | 70% | Last Result, Median |
 | 5 | 5% | 49% |  |
 | 6 | 2% | 44% |  |
-| 7 | 11% | 43% |  |
-| 8 | 13% | 32% |  |
-| 9 | 6% | 19% |  |
-| 10 | 5% | 13% |  |
+| 7 | 13% | 42% |  |
+| 8 | 11% | 30% |  |
+| 9 | 5% | 19% |  |
+| 10 | 6% | 13% |  |
 | 11 | 5% | 8% |  |
 | 12 | 1.0% | 2% |  |
 | 13 | 1.0% | 1.3% |  |

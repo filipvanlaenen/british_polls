@@ -153,7 +153,7 @@ Last result: **1.8%** (General Election of 8 June 2017)
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.2–5.0% | 3.0–5.4% |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
-| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.3% | 5.7–8.6% |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 7.0% | 6.3–7.8% | 6.2–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% | 1.9–4.5% |
 | [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.6–6.6% |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -474,7 +474,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 0–1 |
-| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 February 2019](2019-02-11-KantarPublic.html) | Kantar Public | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 February 2019](2019-02-08-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1 |
 | [1–5 February 2019](2019-02-05-IpsosMORI.html) | Ipsos MORI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
