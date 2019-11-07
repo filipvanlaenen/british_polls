@@ -356,7 +356,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
@@ -649,7 +649,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% |  |
 | 1 | 85% | 99.7% | Last Result, Median |
-| 2 | 8% | 14% |  |
+| 2 | 9% | 15% |  |
 | 3 | 2% | 6% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |

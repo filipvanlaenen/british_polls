@@ -345,7 +345,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–20 | 2–27 | 2–33 | 1–43 |
+| N/A | [Poll Average](average.html) | 7 | 2–20 | 2–27 | 2–33 | 1–43 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 17 | 13–25 | 12–25 | 10–27 | 7–40 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 15 | 13–21 | 12–26 | 10–26 | 9–28 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 2 | 2–5 | 2–5 | 2–6 | 2–9 |
@@ -353,8 +353,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 1–3 | 1–3 | 1–5 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 3 | 3–8 | 3–10 | 2–10 | 2–12 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 3 | 2–8 | 2–9 | 2–12 | 2–15 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 16 | 11–26 | 10–29 | 9–34 | 8–39 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 8 | 5–13 | 5–13 | 4–15 | 2–15 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 16 | 12–25 | 10–29 | 9–34 | 8–38 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 8 | 5–13 | 4–15 | 4–18 | 2–18 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 43 | 35–57 | 29–61 | 28–64 | 25–75 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 23 | 12–39 | 10–43 | 8–46 | 6–55 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 32 | 26–33 | 26–34 | 26–36 | 26–37 |
@@ -364,7 +364,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 27 | 15–30 | 14–33 | 12–35 | 7–43 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 20 | 10–29 | 8–31 | 8–31 | 8–38 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 39 | 20–55 | 19–58 | 17–61 | 14–73 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 15 | 8–23 | 8–26 | 8–26 | 3–26 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 9 | 7–23 | 7–26 | 7–30 | 4–30 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 18–32 | 18–38 | 15–45 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 22 | 9–29 | 8–30 | 6–31 | 6–36 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 24 | 15–31 | 12–33 | 11–35 | 9–42 |
@@ -660,32 +660,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 16% | 99.3% |  |
 | 3 | 16% | 83% |  |
 | 4 | 5% | 68% |  |
-| 5 | 12% | 63% |  |
-| 6 | 1.1% | 51% | Median |
-| 7 | 1.4% | 50% |  |
+| 5 | 11% | 63% |  |
+| 6 | 1.4% | 52% |  |
+| 7 | 2% | 50% | Median |
 | 8 | 6% | 49% |  |
-| 9 | 2% | 42% |  |
+| 9 | 3% | 43% |  |
 | 10 | 2% | 40% |  |
 | 11 | 3% | 38% |  |
-| 12 | 2% | 35% |  |
-| 13 | 6% | 33% |  |
-| 14 | 4% | 27% |  |
+| 12 | 2% | 36% |  |
+| 13 | 6% | 34% |  |
+| 14 | 5% | 28% |  |
 | 15 | 3% | 23% |  |
-| 16 | 1.4% | 20% |  |
-| 17 | 1.3% | 19% |  |
-| 18 | 2% | 17% |  |
+| 16 | 1.4% | 21% |  |
+| 17 | 1.4% | 19% |  |
+| 18 | 2% | 18% |  |
 | 19 | 3% | 16% |  |
-| 20 | 4% | 13% |  |
-| 21 | 0.8% | 9% |  |
-| 22 | 0.3% | 9% |  |
+| 20 | 3% | 13% |  |
+| 21 | 1.1% | 10% |  |
+| 22 | 0.3% | 8% |  |
 | 23 | 0.6% | 8% |  |
 | 24 | 0.5% | 8% |  |
 | 25 | 1.1% | 7% |  |
-| 26 | 0.5% | 6% |  |
+| 26 | 0.4% | 6% |  |
 | 27 | 1.0% | 5% |  |
 | 28 | 0.7% | 4% |  |
 | 29 | 0.4% | 4% |  |
-| 30 | 0.6% | 3% |  |
+| 30 | 0.7% | 3% |  |
 | 31 | 0.1% | 3% |  |
 | 32 | 0.1% | 3% |  |
 | 33 | 0.1% | 3% |  |
@@ -693,7 +693,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.2% | 2% |  |
 | 36 | 0.3% | 2% |  |
 | 37 | 0.2% | 2% |  |
-| 38 | 0.3% | 2% |  |
+| 38 | 0.2% | 2% |  |
 | 39 | 0.3% | 1.3% |  |
 | 40 | 0.1% | 1.0% |  |
 | 41 | 0.1% | 0.9% |  |
