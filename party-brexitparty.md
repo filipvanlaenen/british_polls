@@ -353,7 +353,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 1–3 | 1–3 | 1–5 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 3 | 3–8 | 3–10 | 2–10 | 2–12 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 3 | 2–8 | 2–9 | 2–12 | 2–15 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 15 | 13–25 | 10–29 | 9–34 | 8–39 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 16 | 11–26 | 10–29 | 9–34 | 8–39 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 8 | 5–13 | 5–13 | 4–15 | 2–15 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 43 | 35–57 | 29–61 | 28–64 | 25–75 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 23 | 12–39 | 10–43 | 8–46 | 6–55 |
@@ -364,7 +364,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 27 | 15–30 | 14–33 | 12–35 | 7–43 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 20 | 10–29 | 8–31 | 8–31 | 8–38 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 39 | 20–55 | 19–58 | 17–61 | 14–73 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 12 | 8–23 | 8–26 | 6–26 | 2–32 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 15 | 8–23 | 8–26 | 8–26 | 3–26 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 18–32 | 18–38 | 15–45 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 22 | 9–29 | 8–30 | 6–31 | 6–36 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 24 | 15–31 | 12–33 | 11–35 | 9–42 |
@@ -668,30 +668,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 2% | 40% |  |
 | 11 | 3% | 38% |  |
 | 12 | 2% | 35% |  |
-| 13 | 6% | 34% |  |
+| 13 | 6% | 33% |  |
 | 14 | 4% | 27% |  |
 | 15 | 3% | 23% |  |
-| 16 | 1.2% | 20% |  |
-| 17 | 1.5% | 19% |  |
-| 18 | 1.4% | 17% |  |
+| 16 | 1.4% | 20% |  |
+| 17 | 1.3% | 19% |  |
+| 18 | 2% | 17% |  |
 | 19 | 3% | 16% |  |
 | 20 | 4% | 13% |  |
 | 21 | 0.8% | 9% |  |
-| 22 | 0.4% | 9% |  |
+| 22 | 0.3% | 9% |  |
 | 23 | 0.6% | 8% |  |
 | 24 | 0.5% | 8% |  |
-| 25 | 1.3% | 7% |  |
-| 26 | 0.4% | 6% |  |
-| 27 | 0.9% | 5% |  |
-| 28 | 0.7% | 5% |  |
+| 25 | 1.1% | 7% |  |
+| 26 | 0.5% | 6% |  |
+| 27 | 1.0% | 5% |  |
+| 28 | 0.7% | 4% |  |
 | 29 | 0.4% | 4% |  |
-| 30 | 0.7% | 3% |  |
+| 30 | 0.6% | 3% |  |
 | 31 | 0.1% | 3% |  |
 | 32 | 0.1% | 3% |  |
 | 33 | 0.1% | 3% |  |
-| 34 | 0.2% | 2% |  |
+| 34 | 0.1% | 2% |  |
 | 35 | 0.2% | 2% |  |
-| 36 | 0.2% | 2% |  |
+| 36 | 0.3% | 2% |  |
 | 37 | 0.2% | 2% |  |
 | 38 | 0.3% | 2% |  |
 | 39 | 0.3% | 1.3% |  |

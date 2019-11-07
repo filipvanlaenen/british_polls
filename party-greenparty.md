@@ -29,7 +29,7 @@ Last result: **1.6%** (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 6.9% | 6.1–7.7% | 5.9–8.0% | 5.7–8.2% | 5.4–8.6% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.3% | 1.9–4.8% |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.2–4.8% | 2.9–5.2% |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.1–6.2% | 3.8–6.6% |
@@ -648,7 +648,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% |  |
-| 1 | 86% | 99.7% | Last Result, Median |
+| 1 | 85% | 99.7% | Last Result, Median |
 | 2 | 8% | 14% |  |
 | 3 | 2% | 6% |  |
 | 4 | 4% | 4% |  |

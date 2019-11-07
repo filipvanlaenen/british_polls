@@ -29,7 +29,7 @@ Last result: **3.0%** (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 4.1% | 3.3–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–5.9% |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.2–4.8% | 2.9–5.2% |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
@@ -354,7 +354,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 39 | 34–47 | 33–49 | 31–51 | 28–53 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 51 | 47–54 | 43–54 | 39–54 | 39–54 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 51 | 48–53 | 45–54 | 43–54 | 38–54 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 51 | 39–54 | 39–54 | 39–54 | 35–54 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 45 | 39–54 | 39–54 | 39–54 | 32–54 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 50 | 50–52 | 50–53 | 47–54 | 43–54 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 49 | 48–53 | 46–53 | 43–54 | 38–54 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 50 | 43–54 | 43–54 | 40–54 | 39–54 |
@@ -693,7 +693,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 6% | 51% | Median |
 | 49 | 2% | 45% |  |
 | 50 | 10% | 43% |  |
-| 51 | 13% | 34% |  |
+| 51 | 12% | 34% |  |
 | 52 | 1.0% | 21% |  |
 | 53 | 14% | 20% |  |
 | 54 | 5% | 6% |  |
