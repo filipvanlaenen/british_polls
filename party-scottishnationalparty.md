@@ -346,15 +346,15 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 53 | 53–55 | 51–55 | 51–55 | 50–55 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 51 | 46–53 | 43–53 | 43–53 | 39–54 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 52 | 48–54 | 46–54 | 45–54 | 40–54 |
-| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 51 | 45–54 | 45–54 | 40–54 | 37–54 |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 51 | 46–54 | 45–54 | 41–54 | 39–54 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 51 | 49–54 | 48–54 | 48–54 | 48–54 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 35 | 32–45 | 32–48 | 23–49 | 11–52 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 43 | 38–49 | 32–50 | 31–53 | 28–54 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 54 | 52–54 | 51–54 | 51–55 | 49–55 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 54 | 52–54 | 52–54 | 51–55 | 48–55 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 39 | 34–47 | 33–49 | 31–51 | 28–53 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 51 | 47–54 | 43–54 | 39–54 | 39–54 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 51 | 48–53 | 45–54 | 43–54 | 38–54 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 53 | 43–53 | 39–54 | 39–54 | 39–54 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 53 | 43–54 | 39–54 | 39–54 | 33–54 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 50 | 50–52 | 50–53 | 47–54 | 43–54 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 49 | 48–53 | 46–53 | 43–54 | 38–54 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 50 | 43–54 | 43–54 | 40–54 | 39–54 |
@@ -688,15 +688,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 65% |  |
 | 44 | 0.2% | 63% |  |
 | 45 | 6% | 63% |  |
-| 46 | 2% | 56% |  |
+| 46 | 3% | 57% |  |
 | 47 | 4% | 54% |  |
-| 48 | 6% | 50% | Median |
+| 48 | 7% | 50% | Median |
 | 49 | 2% | 44% |  |
-| 50 | 9% | 42% |  |
-| 51 | 11% | 33% |  |
-| 52 | 1.0% | 22% |  |
-| 53 | 14% | 21% |  |
-| 54 | 5% | 7% |  |
+| 50 | 8% | 41% |  |
+| 51 | 11% | 34% |  |
+| 52 | 0.8% | 23% |  |
+| 53 | 16% | 22% |  |
+| 54 | 5% | 6% |  |
 | 55 | 1.2% | 1.2% |  |
 | 56 | 0% | 0% |  |
 

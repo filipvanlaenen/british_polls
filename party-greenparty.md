@@ -346,7 +346,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1–2 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 1–2 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1–2 | 1–2 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–4 |

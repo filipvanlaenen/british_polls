@@ -347,11 +347,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 7 | 7–8 | 7–8 | 7–9 | 4–10 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 9 | 4–12 | 4–13 | 4–13 | 3–14 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 7 | 4–11 | 4–12 | 4–12 | 4–14 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–13 | 4–13 | 4–13 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 7 | 4–9 | 4–10 | 4–11 | 4–11 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 7 | 4–10 | 4–12 | 4–13 | 3–16 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–5 | 0–7 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–4 | 0–7 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 10 | 4–10 | 4–11 | 4–11 | 4–12 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 7 | 4–8 | 4–9 | 4–10 | 3–12 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–12 | 4–12 | 4–13 |
@@ -647,17 +647,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 10% | 88% |  |
 | 3 | 7% | 78% |  |
 | 4 | 20% | 70% | Last Result |
-| 5 | 6% | 50% | Median |
+| 5 | 6% | 51% | Median |
 | 6 | 2% | 45% |  |
-| 7 | 12% | 43% |  |
-| 8 | 11% | 31% |  |
-| 9 | 5% | 21% |  |
-| 10 | 7% | 16% |  |
+| 7 | 13% | 43% |  |
+| 8 | 11% | 30% |  |
+| 9 | 5% | 20% |  |
+| 10 | 7% | 15% |  |
 | 11 | 6% | 9% |  |
 | 12 | 1.2% | 3% |  |
-| 13 | 1.1% | 1.4% |  |
+| 13 | 1.0% | 1.4% |  |
 | 14 | 0.2% | 0.3% |  |
-| 15 | 0% | 0.1% |  |
+| 15 | 0% | 0.2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
