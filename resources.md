@@ -4,10 +4,10 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page with opinion polls: "[Opinion polling for the United Kingdom general election, 2017](https://en.wikipedia.org/wiki/Opinion_polling_for_the_United_Kingdom_general_election,_2017)"
-+ Downloadable flat file with 2015 election results: "[Historical Data and Plots](http://www.electoralcalculus.co.uk/flatfile.html)"
-+ Detailed 2015 election results on Wikipedia: "[Results of the United Kingdom general election, 2015 by parliamentary constituency](https://en.wikipedia.org/wiki/Results_of_the_United_Kingdom_general_election,_2015_by_parliamentary_constituency)"
-+ Summary of the 2015 election results on Wikipedia: "[United Kingdom general election, 2015 – Results](https://en.wikipedia.org/wiki/United_Kingdom_general_election,_2015#Results)"
++ Wikipedia page with opinion polls: "[Opinion polling for the 2019 United Kingdom general election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_United_Kingdom_general_election)"
++ Downloadable flat file with 2017 election results: "[Historical Data and Plots](http://www.electoralcalculus.co.uk/flatfile.html)"
++ Detailed 2017 election results on Wikipedia: "[Results of the 2017 United Kingdom general election](https://en.wikipedia.org/wiki/Results_of_the_2017_United_Kingdom_general_election)"
++ Wikipedia page on the 2017 election: "[2017 United Kingdom general election](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)"
 + Summary of the election results by the BBC: "[Results of the 2017 General Election](http://www.bbc.com/news/election/2017/results)"
 
 ## Similar Websites
