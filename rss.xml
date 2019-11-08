@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 07 Nov 2019 21:07:39 +0100</pubDate>
+    <pubDate>Fri, 08 Nov 2019 18:45:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times/Sky News, 5–6 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov.html</link>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-31-ComRes.png"
         length="186736"
         type="image/png"/>
-      <pubDate>Thu, 07 Nov 2019 21:07:39 +0100</pubDate>
-      <dc:date>2019-11-07T21:07:39.607535+01:00</dc:date>
+      <pubDate>Thu, 07 Nov 2019 22:47:42 +0100</pubDate>
+      <dc:date>2019-11-07T22:47:42.575667+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 29–30 October 2019 – Voting Intentions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-30-Survation.png"
         length="196992"
         type="image/png"/>
-      <pubDate>Mon, 04 Nov 2019 20:18:20 +0100</pubDate>
-      <dc:date>2019-11-04T20:18:20.887998+01:00</dc:date>
+      <pubDate>Fri, 08 Nov 2019 18:45:59 +0100</pubDate>
+      <dc:date>2019-11-08T18:45:59.498961+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 17–28 October 2019 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.png"
         length="180719"
         type="image/png"/>
-      <pubDate>Sat, 02 Nov 2019 18:31:05 +0100</pubDate>
-      <dc:date>2019-11-02T18:31:05.507337+01:00</dc:date>
+      <pubDate>Fri, 08 Nov 2019 18:31:34 +0100</pubDate>
+      <dc:date>2019-11-08T18:31:34.138977+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 October 2019 – Voting Intentions</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase.png"
         length="195410"
         type="image/png"/>
-      <pubDate>Thu, 07 Nov 2019 20:36:48 +0100</pubDate>
-      <dc:date>2019-11-07T20:36:48.574683+01:00</dc:date>
+      <pubDate>Thu, 07 Nov 2019 22:21:59 +0100</pubDate>
+      <dc:date>2019-11-07T22:21:59.838615+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 15–17 October 2019 – Voting Intentions</title>
@@ -5369,6 +5369,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-07T21:07:39.607535+01:00</dc:date>
+    <dc:date>2019-11-08T18:45:59.498961+01:00</dc:date>
   </channel>
 </rss>
