@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 09 Nov 2019 15:34:52 +0100</pubDate>
+    <pubDate>Sat, 09 Nov 2019 18:33:25 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Panelbase, 6–8 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 300–368 seats&lt;/li&gt;&lt;li&gt;Labour Party: 176–232 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 32–49 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 39–54 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 1–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase-seats.png"
+        length="155766"
+        type="image/png"/>
+      <pubDate>Sat, 09 Nov 2019 16:54:26 +0100</pubDate>
+      <dc:date>2019-11-09T16:54:26.641718+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase, 6–8 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase-coalitions-seats.png"
+        length="593564"
+        type="image/png"/>
+      <pubDate>Sat, 09 Nov 2019 16:54:26 +0100</pubDate>
+      <dc:date>2019-11-09T16:54:26.641718+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase, 6–8 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase.html</link>
@@ -16,28 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase.png"
         length="169126"
         type="image/png"/>
-      <pubDate>Sat, 09 Nov 2019 15:34:52 +0100</pubDate>
-      <dc:date>2019-11-09T15:34:52.438477+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times/Sky News, 5–6 November 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 302–359 seats&lt;/li&gt;&lt;li&gt;Labour Party: 143–197 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 46–61 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 43–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–11 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 8–27 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov-seats.png"
-        length="178218"
-        type="image/png"/>
-      <pubDate>Sat, 09 Nov 2019 12:45:14 +0100</pubDate>
-      <dc:date>2019-11-09T12:45:14.119017+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times/Sky News, 5–6 November 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov-coalitions-seats.png"
-        length="585696"
-        type="image/png"/>
-      <pubDate>Sat, 09 Nov 2019 12:45:14 +0100</pubDate>
-      <dc:date>2019-11-09T12:45:14.119017+01:00</dc:date>
+      <pubDate>Sat, 09 Nov 2019 16:54:26 +0100</pubDate>
+      <dc:date>2019-11-09T16:54:26.641718+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times/Sky News, 5–6 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-06-YouGov.png"
         length="188328"
         type="image/png"/>
-      <pubDate>Sat, 09 Nov 2019 12:45:14 +0100</pubDate>
-      <dc:date>2019-11-09T12:45:14.119017+01:00</dc:date>
+      <pubDate>Sat, 09 Nov 2019 18:33:25 +0100</pubDate>
+      <dc:date>2019-11-09T18:33:25.815643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 1–4 November 2019 – Voting Intentions</title>
@@ -5459,6 +5459,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-09T15:34:52.438477+01:00</dc:date>
+    <dc:date>2019-11-09T18:33:25.815643+01:00</dc:date>
   </channel>
 </rss>
