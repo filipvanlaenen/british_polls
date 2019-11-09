@@ -347,8 +347,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 2–20 | 2–26 | 2–32 | 1–42 |
-| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 2 | 2–3 | 2–4 | 2–5 | 1–8 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 17 | 12–23 | 9–25 | 8–27 | 5–39 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 2 | 2–3 | 2–4 | 1–5 | 1–8 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 17 | 13–25 | 12–25 | 10–27 | 7–40 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 15 | 13–21 | 12–26 | 10–26 | 9–28 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 2 | 2–4 | 2–5 | 2–6 | 2–9 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11 | 5–18 | 4–20 | 4–20 | 3–26 |
@@ -658,8 +658,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 21% | 99.5% |  |
+| 1 | 0.6% | 100% |  |
+| 2 | 21% | 99.4% |  |
 | 3 | 16% | 78% |  |
 | 4 | 4% | 62% |  |
 | 5 | 8% | 58% | Median |
@@ -669,22 +669,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 2% | 41% |  |
 | 10 | 2% | 39% |  |
 | 11 | 2% | 37% |  |
-| 12 | 2% | 35% |  |
-| 13 | 6% | 33% |  |
-| 14 | 4% | 27% |  |
-| 15 | 2% | 24% |  |
-| 16 | 3% | 21% |  |
+| 12 | 1.5% | 35% |  |
+| 13 | 6% | 34% |  |
+| 14 | 5% | 28% |  |
+| 15 | 2% | 23% |  |
+| 16 | 2% | 21% |  |
 | 17 | 1.3% | 19% |  |
 | 18 | 2% | 18% |  |
-| 19 | 2% | 15% |  |
-| 20 | 4% | 13% |  |
-| 21 | 1.2% | 9% |  |
+| 19 | 3% | 16% |  |
+| 20 | 3% | 13% |  |
+| 21 | 1.3% | 10% |  |
 | 22 | 0.6% | 8% |  |
-| 23 | 0.5% | 7% |  |
+| 23 | 0.6% | 8% |  |
 | 24 | 0.3% | 7% |  |
-| 25 | 1.0% | 6% |  |
+| 25 | 1.3% | 7% |  |
 | 26 | 0.5% | 5% |  |
-| 27 | 0.7% | 5% |  |
+| 27 | 0.6% | 5% |  |
 | 28 | 0.5% | 4% |  |
 | 29 | 0.5% | 4% |  |
 | 30 | 0.5% | 3% |  |
@@ -692,13 +692,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.2% | 3% |  |
 | 33 | 0.1% | 2% |  |
 | 34 | 0.2% | 2% |  |
-| 35 | 0.1% | 2% |  |
+| 35 | 0.2% | 2% |  |
 | 36 | 0.3% | 2% |  |
 | 37 | 0.4% | 2% |  |
 | 38 | 0.2% | 1.3% |  |
 | 39 | 0.2% | 1.2% |  |
 | 40 | 0.2% | 1.0% |  |
-| 41 | 0.2% | 0.8% |  |
+| 41 | 0.1% | 0.8% |  |
 | 42 | 0.1% | 0.6% |  |
 | 43 | 0.1% | 0.5% |  |
 | 44 | 0.1% | 0.4% |  |

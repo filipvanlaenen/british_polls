@@ -337,8 +337,8 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 48 | 35–53 | 33–54 | 32–54 | 24–55 |
-| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 50 | 42–53 | 41–53 | 39–54 | 35–55 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 51 | 50–54 | 46–54 | 43–54 | 39–54 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 50 | 42–53 | 40–53 | 39–54 | 34–54 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 53 | 50–53 | 47–54 | 43–54 | 39–54 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 50 | 47–54 | 47–54 | 47–54 | 45–54 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 39 | 35–48 | 32–50 | 28–50 | 18–51 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 33–48 | 33–50 | 29–50 | 17–51 |
@@ -669,7 +669,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.2% | 98% |  |
 | 32 | 2% | 98% |  |
 | 33 | 3% | 96% |  |
-| 34 | 0.8% | 93% |  |
+| 34 | 0.7% | 92% |  |
 | 35 | 2% | 92% | Last Result |
 | 36 | 1.2% | 90% |  |
 | 37 | 0.6% | 89% |  |
@@ -678,18 +678,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 3% | 79% |  |
 | 41 | 3% | 76% |  |
 | 42 | 1.2% | 73% |  |
-| 43 | 2% | 72% |  |
-| 44 | 0.4% | 70% |  |
+| 43 | 2% | 71% |  |
+| 44 | 0.3% | 69% |  |
 | 45 | 8% | 69% |  |
-| 46 | 2% | 62% |  |
+| 46 | 2% | 61% |  |
 | 47 | 4% | 59% |  |
-| 48 | 7% | 56% | Median |
+| 48 | 6% | 55% | Median |
 | 49 | 2% | 49% |  |
-| 50 | 11% | 47% |  |
-| 51 | 12% | 36% |  |
-| 52 | 0.7% | 24% |  |
-| 53 | 16% | 23% |  |
-| 54 | 6% | 7% |  |
+| 50 | 10% | 47% |  |
+| 51 | 13% | 37% |  |
+| 52 | 0.8% | 25% |  |
+| 53 | 17% | 24% |  |
+| 54 | 5% | 7% |  |
 | 55 | 1.3% | 1.3% |  |
 | 56 | 0% | 0% |  |
 
