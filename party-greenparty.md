@@ -10,7 +10,8 @@ Last result: **1.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.5–4.5% | 1.1–5.0% | 0.8–5.4% | 0.6–5.9% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.4–4.6% | 1.0–5.1% | 0.8–5.4% | 0.6–6.0% |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 3.0% | N/A | N/A | N/A | N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.0–6.1% | 3.7–6.5% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 5.0% | 4.5–5.5% | 4.4–5.6% | 4.3–5.8% | 4.1–6.0% |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
@@ -319,11 +320,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% |  |
-| 0.5–1.5% | 10% | 99.7% |  |
-| 1.5–2.5% | 24% | 89% | Last Result |
-| 2.5–3.5% | 38% | 65% | Median |
-| 3.5–4.5% | 17% | 27% |  |
-| 4.5–5.5% | 8% | 10% |  |
+| 0.5–1.5% | 11% | 99.7% |  |
+| 1.5–2.5% | 25% | 88% | Last Result |
+| 2.5–3.5% | 35% | 63% | Median |
+| 3.5–4.5% | 17% | 28% |  |
+| 4.5–5.5% | 9% | 11% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -338,7 +339,8 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–4 | 1–4 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 1 | 1 | 1 | 1 | 1 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |
@@ -648,10 +650,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% |  |
-| 1 | 85% | 99.7% | Last Result, Median |
-| 2 | 9% | 15% |  |
-| 3 | 2% | 6% |  |
-| 4 | 4% | 4% |  |
+| 1 | 84% | 99.7% | Last Result, Median |
+| 2 | 11% | 16% |  |
+| 3 | 2% | 5% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
