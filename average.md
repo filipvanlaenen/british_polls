@@ -8,7 +8,7 @@ The table below lists the polls on which the average is based. They are the most
 
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 33–43% <br> 285–391 | 23–32% <br> 136–230 | 13–21% <br> 33–69 | 2–5% <br> 32–54 | 0–2% <br> 0 | 1–5% <br> 1–4 | 0–2% <br> 0–11 | 6–13% <br> 2–32 | 0–1% <br> 0 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 300–368 | 27–33% <br> 176–232 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 1–5 | N/A <br> N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 34–38% <br> 309–353 | 23–27% <br> 147–194 | 15–19% <br> 46–62 | 3–5% <br> 43–54 | 0–1% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–11 | 10–13% <br> 10–27 | 0–1% <br> 0 |
@@ -20,7 +20,7 @@ The table below lists the polls on which the average is based. They are the most
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 31–37% <br> 264–339 | 23–29% <br> 149–219 | 17–22% <br> 52–76 | 3–5% <br> 41–54 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 4–12 | 10–14% <br> 8–45 | N/A <br> N/A |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 38–44% <br> 340–412 | 21–27% <br> 116–179 | 18–22% <br> 48–71 | 2–4% <br> 26–50 | 0–1% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–13 | 6–9% <br> 1–7 | 0–1% <br> 0 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 37–42% <br> 329–391 | 23–28% <br> 139–190 | 16–20% <br> 46–64 | 2–4% <br> 29–50 | 1–2% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–11 | 7–10% <br> 2–9 | 0–1% <br> 0 |
-| 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -47,12 +47,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party">Conservative Party</a> | 42.4% | 38.1% | 34.6–41.6% |33.7–42.2% | 32.9–42.8% | 31.6–43.8% |
-| <a href="#labour-party">Labour Party</a> | 40.0% | 26.9% | 24.0–30.4% |23.3–31.1% | 22.7–31.7% | 21.7–32.7% |
-| <a href="#liberal-democrats">Liberal Democrats</a> | 7.4% | 16.3% | 13.8–19.7% |13.3–20.4% | 13.0–21.0% | 12.3–22.1% |
-| <a href="#scottish-national-party">Scottish National Party</a> | 3.0% | 3.7% | 2.7–4.8% |2.5–5.2% | 2.4–5.4% | 2.1–5.9% |
-| <a href="#uk-independence-party">UK Independence Party</a> | 1.8% | 0.4% | 0.2–1.2% |0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
-| <a href="#green-party">Green Party</a> | 1.6% | 2.9% | 1.5–4.5% |1.1–5.0% | 0.8–5.4% | 0.6–5.9% |
+| <a href="#conservative-party">Conservative Party</a> | 43.4% | 38.1% | 34.6–41.6% |33.7–42.2% | 32.9–42.8% | 31.6–43.8% |
+| <a href="#labour-party">Labour Party</a> | 41.0% | 26.9% | 24.0–30.4% |23.3–31.1% | 22.7–31.7% | 21.7–32.7% |
+| <a href="#liberal-democrats">Liberal Democrats</a> | 7.6% | 16.3% | 13.8–19.7% |13.3–20.4% | 13.0–21.0% | 12.3–22.1% |
+| <a href="#scottish-national-party">Scottish National Party</a> | 3.1% | 3.7% | 2.7–4.8% |2.5–5.2% | 2.4–5.4% | 2.1–5.9% |
+| <a href="#uk-independence-party">UK Independence Party</a> | 1.9% | 0.4% | 0.2–1.2% |0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
+| <a href="#green-party">Green Party</a> | 1.7% | 2.9% | 1.5–4.5% |1.1–5.0% | 0.8–5.4% | 0.6–5.9% |
 | <a href="#plaid-cymru">Plaid Cymru</a> | 0.5% | 0.9% | 0.2–1.4% |0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
 | <a href="#brexit-party">Brexit Party</a> | 0.0% | 9.6% | 7.3–12.2% |6.8–12.6% | 6.4–13.1% | 5.8–13.9% |
 | <a href="#change-uk">Change UK</a> | 0.0% | 0.3% | 0.2–0.5% |0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
@@ -76,8 +76,8 @@ Only polls for which at least the sample size has been published are included in
 | 38.5–39.5% | 11% | 45% |  |
 | 39.5–40.5% | 12% | 34% |  |
 | 40.5–41.5% | 11% | 22% |  |
-| 41.5–42.5% | 7% | 10% | Last Result |
-| 42.5–43.5% | 3% | 3% |  |
+| 41.5–42.5% | 7% | 10% |  |
+| 42.5–43.5% | 3% | 3% | Last Result |
 | 43.5–44.5% | 0.6% | 0.8% |  |
 | 44.5–45.5% | 0.1% | 0.1% |  |
 | 45.5–46.5% | 0% | 0% |  |
@@ -108,7 +108,8 @@ Only polls for which at least the sample size has been published are included in
 | 36.5–37.5% | 0% | 0% |  |
 | 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
-| 39.5–40.5% | 0% | 0% | Last Result |
+| 39.5–40.5% | 0% | 0% |  |
+| 40.5–41.5% | 0% | 0% | Last Result |
 
 ### Liberal Democrats
 
@@ -116,8 +117,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
