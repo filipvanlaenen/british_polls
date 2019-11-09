@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 301–368 | 27–33% <br> 176–232 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 2–5 | N/A <br> N/A |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 34–38% <br> 302–359 | 23–27% <br> 143–197 | 15–19% <br> 46–61 | 3–5% <br> 43–54 | 0–1% <br> 0 | 4–6% <br> 1–4 | 1–2% <br> 4–11 | 10–13% <br> 8–27 | 0–1% <br> 0 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 300–368 | 27–33% <br> 176–232 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 1–5 | N/A <br> N/A |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 34–38% <br> 309–353 | 23–27% <br> 147–194 | 15–19% <br> 46–62 | 3–5% <br> 43–54 | 0–1% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–11 | 10–13% <br> 10–27 | 0–1% <br> 0 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 36–39% <br> 339–360 | 23–26% <br> 147–175 | 15–17% <br> 41–49 | 3–5% <br> 47–54 | 0% <br> 0 | 4–6% <br> 1–4 | 1% <br> 4–10 | 10–12% <br> 10–26 | 0% <br> 0 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 35–40% <br> 300–351 | 29–33% <br> 198–241 | 13–16% <br> 36–49 | 2–4% <br> 28–50 | 1–2% <br> 0 | 2–4% <br> 1 | 0–1% <br> 0–3 | 8–10% <br> 2–6 | N/A <br> N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37–42% <br> 326–383 | 26–30% <br> 150–210 | 12–16% <br> 30–46 | 2–4% <br> 29–50 | 1–2% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–11 | 10–13% <br> 4–20 | N/A <br> N/A |
