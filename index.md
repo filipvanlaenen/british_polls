@@ -4,7 +4,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 33–43% <br> 285–391 | 23–32% <br> 136–230 | 13–21% <br> 33–69 | 2–5% <br> 32–54 | 0–2% <br> 0 | 1–5% <br> 1–4 | 0–2% <br> 0–11 | 6–13% <br> 2–32 | 0–1% <br> 0 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 300–368 | 27–33% <br> 176–232 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 1–5 | N/A <br> N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 34–38% <br> 309–353 | 23–27% <br> 147–194 | 15–19% <br> 46–62 | 3–5% <br> 43–54 | 0–1% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–11 | 10–13% <br> 10–27 | 0–1% <br> 0 |
@@ -16,7 +16,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 31–37% <br> 264–339 | 23–29% <br> 149–219 | 17–22% <br> 52–76 | 3–5% <br> 41–54 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 4–12 | 10–14% <br> 8–45 | N/A <br> N/A |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 38–44% <br> 340–412 | 21–27% <br> 116–179 | 18–22% <br> 48–71 | 2–4% <br> 26–50 | 0–1% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–13 | 6–9% <br> 1–7 | 0–1% <br> 0 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 37–42% <br> 329–391 | 23–28% <br> 139–190 | 16–20% <br> 46–64 | 2–4% <br> 29–50 | 1–2% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–11 | 7–10% <br> 2–9 | 0–1% <br> 0 |
-| 8 June 2017 | General Election | 42.4% <br> 317 | 40.0% <br> 262 | 7.4% <br> 12 | 3.0% <br> 35 | 1.8% <br> 0 | 1.6% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
