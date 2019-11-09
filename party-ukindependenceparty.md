@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **1.8%** (General Election of 8 June 2017)
+Last result: **1.9%** (General Election of 8 June 2017)
 
 ### Confidence Intervals
 

@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **7.4%** (General Election of 8 June 2017)
+Last result: **7.6%** (General Election of 8 June 2017)
 
 ### Confidence Intervals
 
@@ -319,8 +319,7 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
