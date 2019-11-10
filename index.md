@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 33–43% <br> 284–390 | 23–32% <br> 136–231 | 13–21% <br> 35–69 | 2–6% <br> 32–54 | 0–2% <br> 0 | 1–4% <br> 1–2 | 0–2% <br> 0–11 | 6–13% <br> 0–33 | 0–1% <br> 0 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 37–41% <br> 321–375 | 24–28% <br> 149–194 | 15–19% <br> 41–57 | 3–5% <br> 40–54 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 9–12% <br> 0–8 | N/A <br> N/A |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 37–41% <br> 321–376 | 24–28% <br> 149–198 | 15–19% <br> 42–58 | 3–5% <br> 39–54 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 9–12% <br> 0–8 | N/A <br> N/A |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 305–365 | 27–33% <br> 177–230 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 0–1 | N/A <br> N/A |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 39–43% <br> 322–355 | 27–31% <br> 179–213 | 14–17% <br> 31–45 | 4–6% <br> 51–55 | 0–1% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 | 5–7% <br> 0 | 0–1% <br> 0 |
 | [6–8 November 2019](2019-11-08-Deltapoll.html) | Deltapoll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
