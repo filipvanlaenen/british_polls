@@ -10,10 +10,10 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.5–1.6% | 0.5–1.8% |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [6–8 November 2019](2019-11-08-Deltapoll.html) | Deltapoll | 1.0% | N/A | N/A | N/A | N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.3% | 0.8–1.3% | 0.7–1.4% | 0.6–1.6% |
@@ -322,8 +322,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 33% | 100% |  |
-| 0.5–1.5% | 63% | 67% | Last Result, Median |
+| 0.0–0.5% | 42% | 100% |  |
+| 0.5–1.5% | 54% | 58% | Last Result, Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -336,10 +336,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–10 | 0–11 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 4 | 0–9 | 0–11 | 0–11 | 0–13 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 6 | 6 | 6 | 3–6 | 3–8 |
 | [6–8 November 2019](2019-11-08-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 7 | 5–10 | 4–11 | 4–11 | 4–12 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 7 | 4–9 | 4–9 | 4–10 | 4–11 |
@@ -650,22 +650,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 0.4% | 86% |  |
-| 2 | 11% | 85% |  |
-| 3 | 7% | 74% |  |
-| 4 | 17% | 67% | Last Result |
-| 5 | 6% | 50% | Median |
-| 6 | 1.1% | 44% |  |
-| 7 | 21% | 43% |  |
-| 8 | 8% | 22% |  |
-| 9 | 3% | 14% |  |
-| 10 | 5% | 11% |  |
-| 11 | 5% | 7% |  |
-| 12 | 1.0% | 2% |  |
-| 13 | 0.5% | 0.8% |  |
-| 14 | 0.1% | 0.2% |  |
-| 15 | 0% | 0.1% |  |
+| 0 | 18% | 100% |  |
+| 1 | 0.6% | 82% |  |
+| 2 | 14% | 81% |  |
+| 3 | 9% | 67% |  |
+| 4 | 12% | 58% | Last Result, Median |
+| 5 | 1.1% | 46% |  |
+| 6 | 15% | 45% |  |
+| 7 | 16% | 30% |  |
+| 8 | 2% | 14% |  |
+| 9 | 2% | 12% |  |
+| 10 | 3% | 10% |  |
+| 11 | 4% | 7% |  |
+| 12 | 1.1% | 2% |  |
+| 13 | 0.6% | 0.9% |  |
+| 14 | 0.1% | 0.3% |  |
+| 15 | 0% | 0.2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
