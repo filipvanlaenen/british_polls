@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 37–41% <br> 321–375 | 24–28% <br> 149–194 | 15–19% <br> 41–57 | 3–5% <br> 40–54 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 4–11 | 9–12% <br> 0–8 | N/A <br> N/A |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 37–43% <br> 305–365 | 27–33% <br> 177–230 | 13–17% <br> 32–49 | 3–5% <br> 39–54 | 0–1% <br> 0 | 2–4% <br> 1 | N/A <br> N/A | 6–10% <br> 0–1 | N/A <br> N/A |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 39–43% <br> 333 | 27–31% <br> 199 | 14–17% <br> 40 | 4–6% <br> 53 | 0–1% <br> 0 | 1–3% <br> 1 | 1–2% <br> 6 | 5–7% <br> 0 | 0–1% <br> 0 |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 39–43% <br> 322–355 | 27–31% <br> 179–213 | 14–17% <br> 31–45 | 4–6% <br> 51–55 | 0–1% <br> 0 | 1–3% <br> 1 | 1–2% <br> 4–8 | 5–7% <br> 0 | 0–1% <br> 0 |
 | [6–8 November 2019](2019-11-08-Deltapoll.html) | Deltapoll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 34–38% <br> 308–349 | 23–27% <br> 163–193 | 15–19% <br> 46–59 | 3–5% <br> 49–53 | 0–1% <br> 0 | 4–6% <br> 2–4 | 1–2% <br> 4–11 | 10–13% <br> 4–10 | 0–1% <br> 0 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 36–39% <br> 339–360 | 23–26% <br> 147–175 | 15–17% <br> 41–49 | 3–5% <br> 47–54 | 0% <br> 0 | 4–6% <br> 1–4 | 1% <br> 4–10 | 10–12% <br> 10–26 | 0% <br> 0 |
