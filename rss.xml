@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 10 Nov 2019 10:37:47 +0100</pubDate>
+    <pubDate>Sun, 10 Nov 2019 15:15:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times and Sky News, 7–8 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.6–41.3%&lt;/li&gt;&lt;li&gt;Labour Party: 23.9–28.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 15.2–18.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 8.6–11.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-YouGov.png"
+        length="188447"
+        type="image/png"/>
+      <pubDate>Sun, 10 Nov 2019 15:15:10 +0100</pubDate>
+      <dc:date>2019-11-10T15:15:10.816643+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase, 6–8 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-Panelbase.html</link>
@@ -26,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-Opinium.png"
         length="178440"
         type="image/png"/>
-      <pubDate>Sun, 10 Nov 2019 10:37:47 +0100</pubDate>
-      <dc:date>2019-11-10T10:37:47.947341+01:00</dc:date>
+      <pubDate>Sun, 10 Nov 2019 10:48:08 +0100</pubDate>
+      <dc:date>2019-11-10T10:48:08.772335+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 5–6 November 2019 – Voting Intentions</title>
@@ -5429,6 +5439,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-10T10:37:47.947341+01:00</dc:date>
+    <dc:date>2019-11-10T15:15:10.816643+01:00</dc:date>
   </channel>
 </rss>
