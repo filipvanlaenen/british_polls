@@ -349,20 +349,20 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 37–62 | 36–66 | 35–69 | 31–75 |
+| N/A | [Poll Average](average.html) | 48 | 37–62 | 36–66 | 35–69 | 31–75 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44 | 37–50 | 36–51 | 35–51 | 33–56 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 48 | 48–49 | 48–54 | 48–56 | 41–61 |
-| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 39 | 34–46 | 33–48 | 32–49 | 31–52 |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 40 | 36–40 | 33–41 | 31–45 | 31–48 |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 48 | 46–54 | 43–55 | 43–57 | 39–60 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 41 | 34–45 | 33–48 | 32–49 | 31–53 |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 40 | 36–40 | 31–41 | 31–45 | 31–47 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 57 | 49–59 | 46–59 | 46–59 | 46–63 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 48 | 44–48 | 43–48 | 41–49 | 38–56 |
-| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 36–47 | 36–49 | 36–49 | 35–50 |
-| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 35 | 29–47 | 29–47 | 29–51 | 29–51 |
+| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 37–48 | 36–49 | 36–49 | 35–50 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 38 | 31–43 | 31–43 | 31–44 | 30–50 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 44 | 39–49 | 36–54 | 36–54 | 35–55 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 42 | 37–46 | 37–48 | 36–48 | 33–50 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 36 | 31–44 | 30–46 | 30–48 | 29–51 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–46 | 35–47 | 35–47 | 32–48 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 49 | 47–60 | 46–60 | 46–61 | 42–64 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–47 | 35–48 | 34–49 | 32–49 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 49 | 49 | 49–54 | 49–58 | 47–60 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 59 | 50–64 | 49–66 | 49–67 | 47–69 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 63 | 56–71 | 54–74 | 52–76 | 47–79 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 63 | 59–63 | 57–64 | 57–65 | 56–68 |
@@ -444,7 +444,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 78 | 71–85 | 70–87 | 69–90 | 66–94 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 73 | 69–82 | 68–85 | 67–86 | 67–91 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 91 | 81–100 | 79–101 | 78–104 | 75–108 |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 114 | 108–120 | 104–124 | 100–125 | 95–129 |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 117 | 116–123 | 114–126 | 111–132 | 107–132 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 75 | 69–81 | 69–81 | 67–84 | 64–89 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 69 | 64–74 | 62–79 | 62–80 | 56–84 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 99 | 89–111 | 87–112 | 86–114 | 84–117 |
@@ -681,40 +681,40 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0% | 100% |  |
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
-| 30 | 0.1% | 100% |  |
-| 31 | 0.5% | 99.9% |  |
-| 32 | 0.4% | 99.4% |  |
-| 33 | 0.9% | 99.1% |  |
-| 34 | 0.2% | 98% |  |
-| 35 | 1.1% | 98% |  |
-| 36 | 5% | 97% |  |
-| 37 | 3% | 92% |  |
-| 38 | 2% | 90% |  |
-| 39 | 2% | 87% |  |
-| 40 | 9% | 86% |  |
-| 41 | 6% | 76% |  |
-| 42 | 2% | 70% |  |
-| 43 | 5% | 68% |  |
-| 44 | 3% | 63% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.7% | 100% |  |
+| 32 | 0.4% | 99.3% |  |
+| 33 | 0.9% | 98.9% |  |
+| 34 | 0.3% | 98% |  |
+| 35 | 1.3% | 98% |  |
+| 36 | 5% | 96% |  |
+| 37 | 2% | 91% |  |
+| 38 | 1.2% | 90% |  |
+| 39 | 1.5% | 88% |  |
+| 40 | 8% | 87% |  |
+| 41 | 6% | 78% |  |
+| 42 | 3% | 72% |  |
+| 43 | 5% | 69% |  |
+| 44 | 4% | 64% |  |
 | 45 | 2% | 60% |  |
 | 46 | 3% | 58% |  |
-| 47 | 5% | 54% | Median |
-| 48 | 3% | 50% |  |
-| 49 | 4% | 47% |  |
-| 50 | 8% | 43% |  |
-| 51 | 3% | 36% |  |
-| 52 | 2% | 33% |  |
-| 53 | 0.8% | 31% |  |
-| 54 | 0.8% | 30% |  |
-| 55 | 0.8% | 29% |  |
-| 56 | 2% | 29% |  |
-| 57 | 8% | 27% |  |
-| 58 | 2% | 19% |  |
+| 47 | 3% | 54% |  |
+| 48 | 6% | 51% | Median |
+| 49 | 3% | 45% |  |
+| 50 | 4% | 42% |  |
+| 51 | 4% | 39% |  |
+| 52 | 1.4% | 34% |  |
+| 53 | 0.8% | 33% |  |
+| 54 | 7% | 32% |  |
+| 55 | 0.9% | 25% |  |
+| 56 | 1.3% | 24% |  |
+| 57 | 4% | 23% |  |
+| 58 | 1.2% | 18% |  |
 | 59 | 2% | 17% |  |
-| 60 | 3% | 15% |  |
-| 61 | 1.3% | 12% |  |
-| 62 | 1.4% | 11% |  |
-| 63 | 1.5% | 10% |  |
+| 60 | 2% | 16% |  |
+| 61 | 2% | 13% |  |
+| 62 | 1.5% | 11% |  |
+| 63 | 1.5% | 9% |  |
 | 64 | 1.4% | 8% |  |
 | 65 | 2% | 7% |  |
 | 66 | 2% | 5% |  |
