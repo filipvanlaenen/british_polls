@@ -360,7 +360,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 48 | 39–67 | 36–81 | 35–85 | 31–90 |
-| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 44 | 42–46 | 39–49 | 39–49 | 35–49 |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 44 | 39–48 | 39–49 | 38–49 | 35–50 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44 | 37–50 | 36–51 | 35–51 | 33–56 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 48 | 44–54 | 43–57 | 42–58 | 38–61 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 54 | 46–60 | 46–61 | 45–62 | 44–66 |
@@ -702,18 +702,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0.3% | 98% |  |
 | 35 | 1.2% | 98% |  |
 | 36 | 4% | 97% |  |
-| 37 | 1.4% | 93% |  |
-| 38 | 0.9% | 91% |  |
-| 39 | 0.9% | 91% |  |
-| 40 | 8% | 90% |  |
-| 41 | 4% | 82% |  |
-| 42 | 3% | 78% |  |
-| 43 | 2% | 75% |  |
-| 44 | 3% | 73% |  |
-| 45 | 11% | 70% |  |
-| 46 | 3% | 59% |  |
-| 47 | 4% | 56% |  |
-| 48 | 4% | 52% | Median |
+| 37 | 1.5% | 93% |  |
+| 38 | 1.2% | 91% |  |
+| 39 | 1.5% | 90% |  |
+| 40 | 8% | 89% |  |
+| 41 | 4% | 80% |  |
+| 42 | 5% | 76% |  |
+| 43 | 2% | 71% |  |
+| 44 | 4% | 69% |  |
+| 45 | 3% | 65% |  |
+| 46 | 3% | 61% |  |
+| 47 | 5% | 58% |  |
+| 48 | 5% | 53% | Median |
 | 49 | 12% | 48% |  |
 | 50 | 3% | 36% |  |
 | 51 | 3% | 33% |  |

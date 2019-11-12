@@ -341,7 +341,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0 |  |  |  |  |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation |  |  |  |  |  |
