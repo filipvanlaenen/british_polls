@@ -349,7 +349,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 6 | 4–8 | 4–8 | 4–9 | 3–10 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 7 | 5–10 | 4–11 | 4–11 | 4–12 |
-| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 5 | 5 | 5 | 5–8 | 4–8 |
+| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 5 | 5–8 | 5–8 | 4–8 | 4–9 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 7 | 4–9 | 4–9 | 4–10 | 4–11 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4 | 4–9 | 4–10 | 4–11 | 3–12 |
@@ -662,14 +662,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.5% | 89% |  |
 | 2 | 4% | 88% |  |
 | 3 | 6% | 84% |  |
-| 4 | 25% | 78% | Last Result |
-| 5 | 12% | 53% | Median |
-| 6 | 7% | 41% |  |
-| 7 | 8% | 34% |  |
-| 8 | 11% | 26% |  |
-| 9 | 4% | 14% |  |
+| 4 | 26% | 78% | Last Result |
+| 5 | 8% | 53% | Median |
+| 6 | 7% | 45% |  |
+| 7 | 10% | 37% |  |
+| 8 | 13% | 27% |  |
+| 9 | 4% | 15% |  |
 | 10 | 4% | 10% |  |
-| 11 | 4% | 6% |  |
+| 11 | 4% | 7% |  |
 | 12 | 0.8% | 2% |  |
 | 13 | 1.1% | 1.2% |  |
 | 14 | 0.1% | 0.2% |  |
