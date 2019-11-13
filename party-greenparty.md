@@ -371,7 +371,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–4 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–2 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–6 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
@@ -671,7 +671,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 86% | 99.9% | Last Result, Median |
 | 2 | 5% | 14% |  |
 | 3 | 0.3% | 9% |  |
-| 4 | 0.6% | 9% |  |
+| 4 | 0.5% | 9% |  |
 | 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
