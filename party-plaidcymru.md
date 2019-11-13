@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.3% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.2–1.4% | 0.1–1.6% | 0.1–1.8% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -18,7 +18,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0.3% | N/A | N/A | N/A | N/A |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 1.0% | 0.8–1.2% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.3% | 0.8–1.3% | 0.7–1.4% | 0.6–1.6% |
@@ -327,8 +327,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 22% | 100% |  |
-| 0.5–1.5% | 76% | 78% | Last Result, Median |
+| 0.0–0.5% | 29% | 100% |  |
+| 0.5–1.5% | 69% | 71% | Last Result, Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -341,15 +341,15 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–10 | 0–11 | 0–13 |
-| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 8 | 4–8 | 4–9 | 4–10 | 3–12 |
+| N/A | [Poll Average](average.html) | 4 | 0–9 | 0–10 | 0–11 | 0–13 |
+| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 7 | 4–9 | 4–10 | 4–11 | 3–11 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 4 | 4–8 | 4–8 | 4–8 | 4–10 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 7 | 4–10 | 4–11 | 4–11 | 4–12 |
-| [6–8 November 2019](2019-11-08-Survation.html) | Survation | 4 | 4–8 | 4–8 | 4–9 | 3–11 |
+| [6–8 November 2019](2019-11-08-Survation.html) | Survation | 4 | 4–8 | 4–9 | 4–9 | 3–11 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 6 | 4–8 | 4–8 | 4–9 | 3–10 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 7 | 5–10 | 4–11 | 4–11 | 4–12 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 5 | 5–8 | 5–8 | 4–8 | 4–9 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 7 | 4–9 | 4–9 | 4–10 | 4–11 |
@@ -660,20 +660,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0.5% | 89% |  |
-| 2 | 4% | 88% |  |
-| 3 | 6% | 84% |  |
-| 4 | 25% | 78% | Last Result |
-| 5 | 9% | 53% | Median |
-| 6 | 7% | 44% |  |
-| 7 | 8% | 37% |  |
-| 8 | 18% | 29% |  |
+| 0 | 16% | 100% |  |
+| 1 | 3% | 84% |  |
+| 2 | 5% | 82% |  |
+| 3 | 7% | 77% |  |
+| 4 | 24% | 70% | Last Result, Median |
+| 5 | 8% | 46% |  |
+| 6 | 7% | 39% |  |
+| 7 | 8% | 32% |  |
+| 8 | 14% | 25% |  |
 | 9 | 4% | 11% |  |
-| 10 | 4% | 8% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.6% | 1.4% |  |
-| 13 | 0.7% | 0.8% |  |
+| 10 | 4% | 7% |  |
+| 11 | 2% | 4% |  |
+| 12 | 0.5% | 1.3% |  |
+| 13 | 0.6% | 0.7% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 5.0–11.3% | 4.0–12.0% | 3.7–12.5% | 3.3–13.2% |
+| N/A | [Poll Average](average.html) | 8.0% | 5.2–11.2% | 4.1–11.9% | 3.8–12.4% | 3.3–13.2% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.1% | 5.3–6.9% | 5.1–7.2% | 5.0–7.4% | 4.6–7.8% |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.3% |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 8.9% | N/A | N/A | N/A | N/A |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 8.9% | 8.0–9.9% | 7.8–10.2% | 7.6–10.5% | 7.2–11.0% |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 10.9% | 10.0–12.0% | 9.7–12.3% | 9.5–12.5% | 9.1–13.0% |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 10.8% | 10.3–11.3% | 10.2–11.5% | 10.0–11.6% | 9.8–11.9% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 10.9% | 10.3–11.7% | 10.1–11.9% | 9.9–12.1% | 9.6–12.4% |
@@ -330,16 +330,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 7% | 98.6% |  |
+| 2.5–3.5% | 1.3% | 100% |  |
+| 3.5–4.5% | 6% | 98.7% |  |
 | 4.5–5.5% | 5% | 92% |  |
-| 5.5–6.5% | 16% | 86% |  |
-| 6.5–7.5% | 16% | 71% |  |
-| 7.5–8.5% | 18% | 55% | Median |
-| 8.5–9.5% | 9% | 37% |  |
-| 9.5–10.5% | 9% | 29% |  |
-| 10.5–11.5% | 12% | 20% |  |
-| 11.5–12.5% | 6% | 8% |  |
+| 5.5–6.5% | 14% | 87% |  |
+| 6.5–7.5% | 15% | 73% |  |
+| 7.5–8.5% | 18% | 59% | Median |
+| 8.5–9.5% | 12% | 40% |  |
+| 9.5–10.5% | 10% | 28% |  |
+| 10.5–11.5% | 11% | 18% |  |
+| 11.5–12.5% | 5% | 7% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -361,7 +361,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 8 | 6–9 | 6–9 | 4–10 | 3–15 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 0 | 0 | 0 | 0 | 0 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 15 | 13–21 | 12–26 | 10–26 | 9–28 |
@@ -672,9 +672,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 1.4% | 2% |  |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.5% |  |
+| 2 | 0.1% | 0.2% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
