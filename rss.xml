@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 13 Nov 2019 06:53:32 +0100</pubDate>
+    <pubDate>Wed, 13 Nov 2019 18:46:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for Sky News, 11–12 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-12-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-12-YouGov.png"
         length="183902"
         type="image/png"/>
-      <pubDate>Wed, 13 Nov 2019 06:53:32 +0100</pubDate>
-      <dc:date>2019-11-13T06:53:32.840151+01:00</dc:date>
+      <pubDate>Wed, 13 Nov 2019 18:04:58 +0100</pubDate>
+      <dc:date>2019-11-13T18:04:58.948055+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICM Research, 8–11 November 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-Survation.png"
         length="179656"
         type="image/png"/>
-      <pubDate>Tue, 12 Nov 2019 19:55:31 +0100</pubDate>
-      <dc:date>2019-11-12T19:55:31.99069+01:00</dc:date>
+      <pubDate>Wed, 13 Nov 2019 18:26:49 +0100</pubDate>
+      <dc:date>2019-11-13T18:26:49.021318+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase, 6–8 November 2019 – Voting Intentions</title>
@@ -98,6 +98,16 @@
         type="image/png"/>
       <pubDate>Mon, 11 Nov 2019 18:01:18 +0100</pubDate>
       <dc:date>2019-11-11T18:01:18.34139+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 5–8 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-08-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.2–39.1%&lt;/li&gt;&lt;li&gt;Labour Party: 26.5–31.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.1–17.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 1.4–2.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Green Party: 5.7–8.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 7.6–10.5%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-08-BMGResearch.png"
+        length="189144"
+        type="image/png"/>
+      <pubDate>Wed, 13 Nov 2019 18:46:51 +0100</pubDate>
+      <dc:date>2019-11-13T18:46:51.25864+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 5–6 November 2019 – Voting Intentions</title>
@@ -5489,6 +5499,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-13T06:53:32.840151+01:00</dc:date>
+    <dc:date>2019-11-13T18:46:51.25864+01:00</dc:date>
   </channel>
 </rss>
