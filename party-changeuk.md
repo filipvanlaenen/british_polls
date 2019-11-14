@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–1.1% | 0.1–1.3% | 0.1–1.5% | 0.1–1.8% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 0.0% | N/A | N/A | N/A | N/A |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 0.0% | N/A | N/A | N/A | N/A |
@@ -327,9 +328,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 91% | 100% | Last Result, Median |
-| 0.5–1.5% | 9% | 9% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 74% | 100% | Last Result, Median |
+| 0.5–1.5% | 24% | 26% |  |
+| 1.5–2.5% | 2% | 2% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -342,6 +344,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research |  |  |  |  |  |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |

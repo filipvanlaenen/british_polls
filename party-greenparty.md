@@ -12,6 +12,7 @@ Last result: **1.7%** (General Election of 8 June 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 1.6–4.9% | 1.0–6.9% | 0.9–7.4% | 0.7–8.1% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.2% | 1.9–4.5% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.8% | 2.1–4.1% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.3–3.2% |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
@@ -331,7 +332,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 10% | 100% |  |
 | 1.5–2.5% | 21% | 90% | Last Result |
 | 2.5–3.5% | 38% | 69% | Median |
-| 3.5–4.5% | 19% | 31% |  |
+| 3.5–4.5% | 19% | 30% |  |
 | 4.5–5.5% | 3% | 12% |  |
 | 5.5–6.5% | 2% | 9% |  |
 | 6.5–7.5% | 5% | 7% |  |
@@ -350,6 +351,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–5 | 1–5 | 1–5 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1 | 1 | 1 | 1 |
@@ -371,7 +373,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–4 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–2 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–6 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–5 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
