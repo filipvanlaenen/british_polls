@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 34–43% <br> 294–392 | 23–32% <br> 139–237 | 13–21% <br> 33–64 | 2–6% <br> 15–54 | 0–2% <br> 0 | 1–7% <br> 1–5 | 0–2% <br> 0–11 | 4–12% <br> 0 | 0–2% <br> 0 |
-| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 40–44% <br> 344–400 | 26–30% <br> 152–201 | 13–17% <br> 31–48 | 2–4% <br> 28–50 | N/A <br> N/A | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 3–5% <br> 0 | N/A <br> N/A |
+| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 40–44% <br> 343–400 | 26–30% <br> 152–202 | 13–17% <br> 31–48 | 2–4% <br> 28–50 | N/A <br> N/A | 3–5% <br> 1–2 | 1–2% <br> 4–11 | 3–5% <br> 0 | N/A <br> N/A |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 37–41% <br> 308–359 | 28–32% <br> 183–227 | 14–17% <br> 36–50 | 3–5% <br> 40–53 | 0–1% <br> 0 | 2–4% <br> 1 | 0–1% <br> 0–4 | 6–8% <br> 0 | 0–1% <br> 0 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 34–40% <br> 299–373 | 25–30% <br> 166–222 | 15–19% <br> 43–61 | 2–4% <br> 17–53 | 1–2% <br> 0 | 2–4% <br> 1–2 | 1–2% <br> 4–11 | 7–11% <br> 0 | 1–2% <br> 0 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 36–41% <br> 308–360 | 29–33% <br> 189–235 | 13–16% <br> 35–49 | 2–4% <br> 20–50 | 1–2% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–8 | 7–9% <br> 0 | N/A <br> N/A |
