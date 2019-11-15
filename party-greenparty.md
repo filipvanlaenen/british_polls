@@ -380,7 +380,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–5 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–3 |

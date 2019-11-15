@@ -348,11 +348,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 4–9 | 4–10 | 4–11 | 3–11 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 4–11 | 4–14 |
-| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 4 | 4–8 | 4–8 | 4–8 | 4–10 |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 4 | 4–8 | 4–8 | 4–9 | 4–10 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 7 | 4–10 | 4–11 | 4–11 | 4–12 |
-| [6–8 November 2019](2019-11-08-Survation.html) | Survation | 4 | 4–8 | 4–9 | 4–9 | 3–11 |
+| [6–8 November 2019](2019-11-08-Survation.html) | Survation | 4 | 4–8 | 4–8 | 4–9 | 3–11 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 5 | 4–8 | 4–8 | 4–9 | 3–10 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -373,11 +373,11 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 7 | 6–10 | 4–11 | 4–11 | 4–12 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–13 | 4–13 | 4–13 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 7 | 4–9 | 4–10 | 4–11 | 4–11 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 7 | 4–10 | 4–11 | 4–11 | 4–12 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 7 | 4–10 | 4–12 | 4–13 | 3–16 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–4 | 0–7 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 10 | 4–10 | 4–11 | 4–11 | 4–12 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 7 | 4–8 | 4–9 | 4–10 | 3–12 |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 7 | 4–9 | 4–10 | 4–10 | 3–12 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–12 | 4–12 | 4–13 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 3–13 | 3–14 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |

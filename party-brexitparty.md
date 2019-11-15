@@ -385,11 +385,11 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0 | 0–1 | 0–2 | 0–6 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 14 | 6–20 | 5–20 | 5–25 | 3–27 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 27 | 15–30 | 14–33 | 12–35 | 7–43 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 0 | 0–1 | 0–1 | 0–1 | 0–3 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0–1 | 0–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 39 | 20–55 | 19–58 | 17–61 | 14–73 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 12 | 7–21 | 7–27 | 5–30 | 3–37 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 18–32 | 18–38 | 15–45 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 22 | 9–29 | 8–30 | 6–31 | 6–36 |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 24 | 15–31 | 12–33 | 11–35 | 9–42 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 14 | 10–27 | 9–29 | 8–29 | 6–31 |
