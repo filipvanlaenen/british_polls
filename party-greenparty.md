@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.6–4.9% | 1.0–6.9% | 0.9–7.4% | 0.7–8.1% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.5–4.9% | 1.0–6.9% | 0.9–7.4% | 0.7–8.1% |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.2–3.5% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.2% | 1.9–4.5% |
@@ -331,10 +332,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 22% | 90% | Last Result |
-| 2.5–3.5% | 37% | 68% | Median |
-| 3.5–4.5% | 19% | 31% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 27% | 89% | Last Result |
+| 2.5–3.5% | 33% | 62% | Median |
+| 3.5–4.5% | 18% | 30% |  |
 | 4.5–5.5% | 3% | 12% |  |
 | 5.5–6.5% | 2% | 9% |  |
 | 6.5–7.5% | 5% | 7% |  |
@@ -352,6 +353,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–5 | 1–5 | 1–5 |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
@@ -384,7 +386,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 1 | 1 | 1–2 | 1–2 | 1–2 |

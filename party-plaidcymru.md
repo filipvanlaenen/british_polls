@@ -11,6 +11,7 @@ Last result: **0.5%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.2–1.3% | 0.2–1.4% | 0.1–1.6% | 0.1–1.8% |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
@@ -345,6 +346,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–8 | 0–11 | 0–11 | 0–13 |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 4–9 | 4–10 | 4–11 | 3–11 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 4–11 | 4–14 |
@@ -354,7 +356,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 7 | 4–10 | 4–11 | 4–11 | 4–12 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 4 | 4–8 | 4–8 | 4–9 | 3–11 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 5 | 4–8 | 4–8 | 4–9 | 3–10 |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 6 | 4–8 | 4–8 | 4–9 | 3–11 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 7 | 5–10 | 4–11 | 4–11 | 4–12 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
@@ -377,7 +379,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 7 | 4–10 | 4–12 | 4–13 | 3–16 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–4 | 0–7 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 10 | 4–10 | 4–11 | 4–11 | 4–12 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 7 | 4–9 | 4–10 | 4–10 | 3–12 |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 4 | 4–8 | 4–9 | 4–10 | 3–11 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–12 | 4–12 | 4–13 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 3–13 | 3–14 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
@@ -670,11 +672,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 5% | 81% |  |
 | 2 | 4% | 76% |  |
 | 3 | 8% | 72% |  |
-| 4 | 28% | 63% | Last Result, Median |
+| 4 | 27% | 63% | Last Result, Median |
 | 5 | 3% | 36% |  |
-| 6 | 3% | 32% |  |
-| 7 | 6% | 29% |  |
-| 8 | 13% | 23% |  |
+| 6 | 2% | 33% |  |
+| 7 | 6% | 31% |  |
+| 8 | 15% | 25% |  |
 | 9 | 2% | 10% |  |
 | 10 | 2% | 8% |  |
 | 11 | 5% | 6% |  |

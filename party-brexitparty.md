@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 5.2–10.8% | 4.1–11.9% | 3.8–12.4% | 3.3–13.2% |
+| N/A | [Poll Average](average.html) | 7.3% | 4.6–10.8% | 4.0–11.9% | 3.7–12.4% | 3.3–13.2% |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.9–8.1% | 5.5–8.5% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.5–10.8% | 7.0–11.4% |
@@ -333,13 +334,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 6% | 98.7% |  |
-| 4.5–5.5% | 5% | 92% |  |
-| 5.5–6.5% | 16% | 87% |  |
-| 6.5–7.5% | 18% | 71% |  |
-| 7.5–8.5% | 18% | 53% | Median |
-| 8.5–9.5% | 14% | 35% |  |
+| 2.5–3.5% | 1.4% | 100% |  |
+| 3.5–4.5% | 8% | 98.6% |  |
+| 4.5–5.5% | 10% | 90% |  |
+| 5.5–6.5% | 18% | 81% |  |
+| 6.5–7.5% | 16% | 62% | Median |
+| 7.5–8.5% | 13% | 46% |  |
+| 8.5–9.5% | 12% | 33% |  |
 | 9.5–10.5% | 9% | 21% |  |
 | 10.5–11.5% | 5% | 12% |  |
 | 11.5–12.5% | 5% | 7% |  |
@@ -357,6 +358,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
