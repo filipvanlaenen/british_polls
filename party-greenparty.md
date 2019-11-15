@@ -15,7 +15,7 @@ Last result: **1.7%** (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.2% | 1.9–4.5% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.8% | 2.1–4.1% |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.3–3.2% |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -356,7 +356,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1–2 | 1–2 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 1 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1 | 1 | 1 | 1 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–1 |
@@ -674,7 +674,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 86% | 99.9% | Last Result, Median |
+| 1 | 85% | 99.9% | Last Result, Median |
 | 2 | 5% | 14% |  |
 | 3 | 0.3% | 9% |  |
 | 4 | 0.5% | 9% |  |

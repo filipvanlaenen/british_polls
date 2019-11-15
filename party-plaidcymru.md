@@ -346,7 +346,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–9 | 0–11 | 0–11 | 0–13 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 7 | 4–9 | 4–10 | 4–11 | 3–11 |
-| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 3 | 1–4 | 0–4 | 0–4 | 0–4 |
+| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 4–11 | 4–15 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 4 | 4–8 | 4–8 | 4–8 | 4–10 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
@@ -369,7 +369,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 7 | 4–11 | 4–11 | 4–12 | 3–16 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 7 | 7–8 | 7–8 | 7–9 | 4–10 |
-| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 7 | 4–11 | 4–12 | 3–13 | 3–13 |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 7 | 4–11 | 4–12 | 4–13 | 3–13 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 7 | 6–10 | 4–11 | 4–11 | 4–12 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–13 | 4–13 | 4–13 |
@@ -666,20 +666,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 6% | 86% |  |
-| 2 | 4% | 80% |  |
-| 3 | 9% | 75% |  |
-| 4 | 30% | 66% | Last Result, Median |
-| 5 | 3% | 35% |  |
-| 6 | 3% | 32% |  |
-| 7 | 5% | 29% |  |
-| 8 | 12% | 24% |  |
-| 9 | 2% | 11% |  |
-| 10 | 3% | 9% |  |
+| 0 | 19% | 100% |  |
+| 1 | 5% | 81% |  |
+| 2 | 4% | 76% |  |
+| 3 | 8% | 71% |  |
+| 4 | 28% | 64% | Last Result, Median |
+| 5 | 3% | 36% |  |
+| 6 | 3% | 33% |  |
+| 7 | 6% | 30% |  |
+| 8 | 13% | 23% |  |
+| 9 | 2% | 10% |  |
+| 10 | 2% | 9% |  |
 | 11 | 6% | 7% |  |
-| 12 | 0.4% | 0.9% |  |
-| 13 | 0.4% | 0.5% |  |
+| 12 | 0.6% | 1.2% |  |
+| 13 | 0.5% | 0.6% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0.1% | 0.1% |  |

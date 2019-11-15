@@ -15,7 +15,7 @@ Last result: **7.6%** (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 15.7% | 14.7–16.8% | 14.4–17.1% | 14.2–17.4% | 13.7–17.9% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 17.0% | 15.7–18.5% | 15.3–18.9% | 14.9–19.3% | 14.3–20.0% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 14.8% | 13.8–15.9% | 13.5–16.1% | 13.3–16.4% | 12.9–16.9% |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 17.0% | 15.9–18.1% | 15.6–18.4% | 15.4–18.7% | 14.9–19.3% |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.2% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 16.1% | 15.0–17.4% | 14.6–17.8% | 14.4–18.1% | 13.8–18.7% |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 16.9% | 15.8–18.2% | 15.5–18.5% | 15.2–18.8% | 14.7–19.4% |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.2% |
@@ -357,12 +357,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 36–60 | 35–60 | 33–62 | 31–67 |
+| N/A | [Poll Average](average.html) | 45 | 36–58 | 35–61 | 33–64 | 31–68 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 39 | 33–45 | 32–47 | 31–48 | 30–50 |
-| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 36 | 36–60 | 35–60 | 35–60 | 35–60 |
+| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 44 | 38–48 | 37–49 | 36–50 | 35–54 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 50 | 46–59 | 45–61 | 43–61 | 38–66 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 42 | 37–47 | 36–47 | 35–49 | 32–50 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 49 | 46–58 | 46–59 | 45–60 | 42–62 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44 | 37–50 | 36–51 | 35–51 | 33–56 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 48 | 44–54 | 43–57 | 42–58 | 38–61 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 55 | 47–60 | 46–61 | 46–62 | 44–65 |
@@ -374,19 +374,19 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 48 | 44–48 | 43–48 | 41–49 | 38–56 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 38–48 | 36–49 | 36–49 | 34–51 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 38 | 31–43 | 31–43 | 31–44 | 30–50 |
-| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 47 | 39–49 | 37–52 | 36–54 | 35–55 |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–49 | 39–49 | 37–52 | 35–55 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 42 | 37–46 | 37–48 | 36–48 | 33–50 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 36 | 31–44 | 30–46 | 30–48 | 29–51 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–47 | 35–48 | 34–49 | 32–49 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–46 | 35–47 | 35–48 | 32–49 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 49 | 47–55 | 47–59 | 47–59 | 42–61 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 59 | 50–64 | 49–66 | 49–67 | 47–69 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 64 | 57–72 | 54–74 | 49–77 | 48–79 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 63 | 59–63 | 57–64 | 57–65 | 56–68 |
-| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–65 | 50–67 | 48–72 | 46–75 |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 50–68 | 49–72 | 46–75 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 53 | 52–61 | 50–63 | 50–67 | 49–71 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 43 | 37–46 | 36–47 | 34–48 | 33–49 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 62 | 51–67 | 49–69 | 49–70 | 45–75 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 56 | 49–65 | 49–65 | 48–67 | 47–70 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 56 | 50–65 | 49–65 | 48–68 | 48–70 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 71 | 69–82 | 67–82 | 59–83 | 58–90 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 54 | 46–61 | 46–64 | 40–66 | 37–71 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 46 | 45–48 | 43–48 | 43–52 | 39–58 |
@@ -699,47 +699,47 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% |  |
 | 30 | 0.1% | 100% |  |
 | 31 | 0.6% | 99.9% |  |
-| 32 | 1.1% | 99.3% |  |
+| 32 | 1.0% | 99.3% |  |
 | 33 | 1.2% | 98% |  |
 | 34 | 2% | 97% |  |
-| 35 | 3% | 95% |  |
-| 36 | 8% | 92% |  |
-| 37 | 4% | 84% |  |
-| 38 | 4% | 80% |  |
-| 39 | 5% | 76% |  |
-| 40 | 5% | 72% |  |
-| 41 | 4% | 66% |  |
-| 42 | 4% | 62% |  |
-| 43 | 4% | 59% |  |
-| 44 | 4% | 54% |  |
+| 35 | 2% | 96% |  |
+| 36 | 4% | 93% |  |
+| 37 | 5% | 89% |  |
+| 38 | 4% | 84% |  |
+| 39 | 5% | 80% |  |
+| 40 | 5% | 75% |  |
+| 41 | 5% | 70% |  |
+| 42 | 5% | 65% |  |
+| 43 | 5% | 60% |  |
+| 44 | 4% | 55% |  |
 | 45 | 4% | 51% | Median |
-| 46 | 4% | 47% |  |
-| 47 | 3% | 43% |  |
-| 48 | 6% | 40% |  |
-| 49 | 4% | 34% |  |
-| 50 | 5% | 29% |  |
-| 51 | 2% | 24% |  |
-| 52 | 2% | 22% |  |
-| 53 | 1.0% | 20% |  |
-| 54 | 1.2% | 19% |  |
-| 55 | 2% | 17% |  |
-| 56 | 1.3% | 15% |  |
-| 57 | 1.3% | 14% |  |
-| 58 | 2% | 13% |  |
-| 59 | 1.1% | 11% |  |
-| 60 | 6% | 10% |  |
-| 61 | 1.0% | 4% |  |
-| 62 | 1.1% | 3% |  |
-| 63 | 0.5% | 2% |  |
-| 64 | 0.3% | 2% |  |
-| 65 | 0.7% | 1.4% |  |
-| 66 | 0.1% | 0.7% |  |
-| 67 | 0.1% | 0.5% |  |
-| 68 | 0% | 0.4% |  |
-| 69 | 0.1% | 0.4% |  |
-| 70 | 0% | 0.3% |  |
+| 46 | 6% | 47% |  |
+| 47 | 5% | 41% |  |
+| 48 | 6% | 37% |  |
+| 49 | 4% | 30% |  |
+| 50 | 5% | 27% |  |
+| 51 | 3% | 22% |  |
+| 52 | 2% | 19% |  |
+| 53 | 0.8% | 17% |  |
+| 54 | 1.2% | 16% |  |
+| 55 | 2% | 15% |  |
+| 56 | 1.3% | 13% |  |
+| 57 | 1.1% | 11% |  |
+| 58 | 2% | 10% |  |
+| 59 | 1.2% | 9% |  |
+| 60 | 2% | 7% |  |
+| 61 | 0.9% | 5% |  |
+| 62 | 0.7% | 4% |  |
+| 63 | 0.5% | 4% |  |
+| 64 | 0.8% | 3% |  |
+| 65 | 1.0% | 2% |  |
+| 66 | 0.8% | 1.4% |  |
+| 67 | 0.1% | 0.6% |  |
+| 68 | 0% | 0.5% |  |
+| 69 | 0.1% | 0.5% |  |
+| 70 | 0.1% | 0.3% |  |
 | 71 | 0% | 0.3% |  |
-| 72 | 0.2% | 0.3% |  |
+| 72 | 0.1% | 0.2% |  |
 | 73 | 0% | 0.1% |  |
 | 74 | 0% | 0.1% |  |
 | 75 | 0% | 0.1% |  |

@@ -15,7 +15,7 @@ Last result: **1.9%** (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
@@ -349,7 +349,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0 | 0 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation |  |  |  |  |  |

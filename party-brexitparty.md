@@ -361,7 +361,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0 | 0 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
@@ -376,7 +376,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 3 | 3–8 | 3–10 | 2–10 | 2–12 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 3 | 2–8 | 2–9 | 2–12 | 2–15 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0–1 | 0–1 | 0–1 | 0–3 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 43 | 35–57 | 29–61 | 28–64 | 25–75 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 0 | 0–3 | 0–4 | 0–6 | 0–7 |
@@ -385,7 +385,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0 | 0–1 | 0–2 | 0–6 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 14 | 6–20 | 5–20 | 5–25 | 3–27 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 27 | 15–30 | 14–33 | 12–35 | 7–43 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 20 | 10–29 | 8–31 | 8–31 | 8–38 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 0 | 0–1 | 0–1 | 0–1 | 0–3 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 39 | 20–55 | 19–58 | 17–61 | 14–73 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 12 | 7–21 | 7–27 | 5–30 | 3–37 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 27 | 18–29 | 18–32 | 18–38 | 15–45 |
@@ -678,10 +678,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.5% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.5% |  |
-| 2 | 0.1% | 0.2% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.4% |  |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
