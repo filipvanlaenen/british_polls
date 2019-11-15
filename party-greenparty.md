@@ -354,7 +354,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–5 | 1–5 | 1–5 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
-| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1–2 | 1–2 |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 1 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |

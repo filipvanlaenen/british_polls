@@ -344,10 +344,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–9 | 0–11 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–11 | 0–11 | 0–13 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 4–9 | 4–10 | 4–11 | 3–11 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 4–11 | 4–15 |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 4–11 | 4–14 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 4 | 4–8 | 4–8 | 4–8 | 4–10 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -669,20 +669,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 19% | 100% |  |
 | 1 | 5% | 81% |  |
 | 2 | 4% | 76% |  |
-| 3 | 8% | 71% |  |
-| 4 | 28% | 64% | Last Result, Median |
+| 3 | 8% | 72% |  |
+| 4 | 28% | 63% | Last Result, Median |
 | 5 | 3% | 36% |  |
 | 6 | 3% | 32% |  |
 | 7 | 6% | 29% |  |
 | 8 | 13% | 23% |  |
 | 9 | 2% | 10% |  |
-| 10 | 2% | 9% |  |
-| 11 | 6% | 7% |  |
+| 10 | 2% | 8% |  |
+| 11 | 5% | 6% |  |
 | 12 | 0.6% | 1.2% |  |
 | 13 | 0.5% | 0.6% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
-| 16 | 0.1% | 0.1% |  |
+| 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
 
