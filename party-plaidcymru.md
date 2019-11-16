@@ -345,7 +345,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–11 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 4 | 0–9 | 0–11 | 0–11 | 0–12 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 4–9 | 4–10 | 4–11 | 3–11 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -674,14 +674,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 8% | 72% |  |
 | 4 | 27% | 63% | Last Result, Median |
 | 5 | 3% | 36% |  |
-| 6 | 2% | 33% |  |
-| 7 | 6% | 31% |  |
+| 6 | 3% | 33% |  |
+| 7 | 6% | 30% |  |
 | 8 | 15% | 25% |  |
 | 9 | 2% | 10% |  |
 | 10 | 2% | 8% |  |
 | 11 | 5% | 6% |  |
-| 12 | 0.6% | 1.2% |  |
-| 13 | 0.5% | 0.6% |  |
+| 12 | 0.6% | 1.1% |  |
+| 13 | 0.4% | 0.5% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0% | 0.1% |  |
