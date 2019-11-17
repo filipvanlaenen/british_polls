@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 16 Nov 2019 10:48:29 +0100</pubDate>
+    <pubDate>Sun, 17 Nov 2019 11:33:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times, 14–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-15-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.1–46.8%&lt;/li&gt;&lt;li&gt;Labour Party: 25.6–29.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.2–16.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 3.1–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-15-YouGov.png"
+        length="180419"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 11:33:38 +0100</pubDate>
+      <dc:date>2019-11-17T11:33:38.23193+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase, 13–14 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-14-Panelbase.html#seats</link>
@@ -5819,6 +5829,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-16T10:48:29.431832+01:00</dc:date>
+    <dc:date>2019-11-17T11:33:38.23193+01:00</dc:date>
   </channel>
 </rss>
