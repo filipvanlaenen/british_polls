@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 17 Nov 2019 14:18:53 +0100</pubDate>
+    <pubDate>Sun, 17 Nov 2019 17:17:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 11–16 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-16-Opinium.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-16-Opinium.png"
         length="177563"
         type="image/png"/>
-      <pubDate>Sun, 17 Nov 2019 14:18:53 +0100</pubDate>
-      <dc:date>2019-11-17T14:18:53.576975+01:00</dc:date>
+      <pubDate>Sun, 17 Nov 2019 17:17:52 +0100</pubDate>
+      <dc:date>2019-11-17T17:17:52.235432+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 10–16 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-16-Deltapoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.5–47.5%&lt;/li&gt;&lt;li&gt;Labour Party: 27.8–32.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.5–12.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 4.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-16-Deltapoll.png"
+        length="165903"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 15:07:45 +0100</pubDate>
+      <dc:date>2019-11-17T15:07:45.719771+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 14–15 November 2019 – Seat Projections for the Parties</title>
@@ -50,6 +60,16 @@
       <dc:date>2019-11-17T13:46:52.210521+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BMG Research, 9–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-15-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.6–39.4%&lt;/li&gt;&lt;li&gt;Labour Party: 26.8–31.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.3–17.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 7.7–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-15-BMGResearch.png"
+        length="173161"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 15:36:26 +0100</pubDate>
+      <dc:date>2019-11-17T15:36:26.770975+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase, 13–14 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-14-Panelbase.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 318–387 seats&lt;/li&gt;&lt;li&gt;Labour Party: 159–222 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 30–47 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 33–53 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -78,6 +98,16 @@
         type="image/png"/>
       <pubDate>Fri, 15 Nov 2019 22:01:50 +0100</pubDate>
       <dc:date>2019-11-15T22:01:50.949134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for The Sunday Telegraph, 13–14 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-14-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.1–43.0%&lt;/li&gt;&lt;li&gt;Labour Party: 31.1–34.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.4–3.8%&lt;/li&gt;&lt;li&gt;Green Party: 4.2–5.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.5–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-14-ComRes.png"
+        length="164689"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 16:08:33 +0100</pubDate>
+      <dc:date>2019-11-17T16:08:33.308109+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 11–12 November 2019 – Seat Projections for the Parties</title>
@@ -5859,6 +5889,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-17T14:18:53.576975+01:00</dc:date>
+    <dc:date>2019-11-17T17:17:52.235432+01:00</dc:date>
   </channel>
 </rss>
