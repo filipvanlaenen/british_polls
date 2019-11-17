@@ -351,7 +351,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–10 | 0–11 | 0–11 | 0–13 |
-| [11–16 November 2019](2019-11-16-Opinium.html) | Opinium <br> The Observer | 9 | 8–9 | 5–9 | 5–9 | 5–10 |
+| [11–16 November 2019](2019-11-16-Opinium.html) | Opinium <br> The Observer | 8 | 4–9 | 4–10 | 4–10 | 3–11 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research |  |  |  |  |  |
@@ -681,16 +681,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 17% | 100% |  |
 | 1 | 0.9% | 83% |  |
 | 2 | 3% | 83% |  |
-| 3 | 7% | 80% |  |
-| 4 | 24% | 72% | Last Result, Median |
-| 5 | 2% | 48% |  |
-| 6 | 0.9% | 46% |  |
-| 7 | 7% | 45% |  |
-| 8 | 13% | 37% |  |
-| 9 | 14% | 24% |  |
-| 10 | 2% | 10% |  |
-| 11 | 7% | 8% |  |
-| 12 | 0.8% | 1.5% |  |
+| 3 | 8% | 80% |  |
+| 4 | 26% | 72% | Last Result, Median |
+| 5 | 3% | 46% |  |
+| 6 | 1.5% | 43% |  |
+| 7 | 8% | 42% |  |
+| 8 | 16% | 34% |  |
+| 9 | 7% | 18% |  |
+| 10 | 2% | 11% |  |
+| 11 | 7% | 9% |  |
+| 12 | 0.8% | 2% |  |
 | 13 | 0.5% | 0.7% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0.1% |  |
