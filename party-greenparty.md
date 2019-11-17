@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.5–4.9% | 1.0–6.9% | 0.9–7.4% | 0.7–8.1% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.5–4.6% | 1.0–6.9% | 0.9–7.4% | 0.7–8.1% |
+| [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 2.9% | 2.5–3.5% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.2–3.5% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
@@ -333,10 +334,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 27% | 89% | Last Result |
-| 2.5–3.5% | 33% | 62% | Median |
-| 3.5–4.5% | 18% | 30% |  |
-| 4.5–5.5% | 3% | 12% |  |
+| 1.5–2.5% | 28% | 89% | Last Result |
+| 2.5–3.5% | 38% | 61% | Median |
+| 3.5–4.5% | 12% | 23% |  |
+| 4.5–5.5% | 1.3% | 10% |  |
 | 5.5–6.5% | 2% | 9% |  |
 | 6.5–7.5% | 5% | 7% |  |
 | 7.5–8.5% | 2% | 2% |  |
@@ -353,6 +354,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–5 | 1–5 | 1–5 |
+| [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1 | 1 | 1 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
@@ -676,8 +678,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 85% | 99.9% | Last Result, Median |
-| 2 | 5% | 15% |  |
+| 1 | 86% | 99.9% | Last Result, Median |
+| 2 | 4% | 14% |  |
 | 3 | 0.3% | 9% |  |
 | 4 | 0.5% | 9% |  |
 | 5 | 8% | 8% |  |
