@@ -10,10 +10,11 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
-| [11–16 November 2019](2019-11-16-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–1.9% |
+| [14–16 November 2019](2019-11-16-Survation.html) | Survation | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 0.0% | N/A | N/A | N/A | N/A |
@@ -337,8 +338,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 28% | 100% |  |
-| 0.5–1.5% | 69% | 72% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.5–1.5% | 67% | 72% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -351,9 +352,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–10 | 0–11 | 0–11 | 0–13 |
-| [11–16 November 2019](2019-11-16-Opinium.html) | Opinium <br> The Observer | 8 | 4–9 | 4–10 | 4–10 | 3–11 |
+| [14–16 November 2019](2019-11-16-Survation.html) | Survation | 8 | 4–10 | 4–11 | 4–11 | 3–12 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 4 | 4–8 | 4–8 | 4–10 | 4–11 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
@@ -684,15 +686,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 8% | 80% |  |
 | 4 | 26% | 72% | Last Result, Median |
 | 5 | 3% | 46% |  |
-| 6 | 1.5% | 43% |  |
-| 7 | 8% | 42% |  |
-| 8 | 16% | 34% |  |
-| 9 | 7% | 18% |  |
-| 10 | 2% | 11% |  |
-| 11 | 7% | 9% |  |
-| 12 | 0.8% | 2% |  |
-| 13 | 0.5% | 0.7% |  |
-| 14 | 0% | 0.1% |  |
+| 6 | 3% | 43% |  |
+| 7 | 7% | 40% |  |
+| 8 | 17% | 32% |  |
+| 9 | 2% | 15% |  |
+| 10 | 3% | 13% |  |
+| 11 | 8% | 10% |  |
+| 12 | 1.0% | 2% |  |
+| 13 | 0.6% | 0.7% |  |
+| 14 | 0.1% | 0.2% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
