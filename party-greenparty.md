@@ -367,7 +367,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 1 |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 1–2 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1 | 1 | 1 | 1 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–1 |
