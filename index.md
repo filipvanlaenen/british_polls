@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–46% <br> 306–400 | 23–34% <br> 139–232 | 11–21% <br> 25–65 | 2–5% <br> 26–54 | 0–2% <br> 0 | 2–5% <br> 1–2 | 0–2% <br> 0–11 | 2–12% <br> 0 | 0–2% <br> 0 |
-| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 40–44% <br> 326–371 | 28–32% <br> 185–215 | 13–17% <br> 37–46 | 3–5% <br> 35–45 | N/A <br> N/A | 3–5% <br> 1–2 | 0–1% <br> 0–3 | 3–5% <br> 0 | N/A <br> N/A |
-| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 40–44% <br> N/A | 30–34% <br> N/A | 12–15% <br> N/A | 2–4% <br> N/A | N/A <br> N/A | 2–4% <br> N/A | 0–1% <br> N/A | 4–6% <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 35–46% <br> 307–400 | 23–34% <br> 139–232 | 11–21% <br> 26–64 | 2–5% <br> 26–54 | 0–2% <br> 0 | 2–5% <br> 1–2 | 0–2% <br> 0–11 | 2–12% <br> 0 | 0–2% <br> 0 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 40–44% <br> 320–374 | 28–32% <br> 176–218 | 13–17% <br> 32–46 | 3–5% <br> 38–53 | N/A <br> N/A | 3–5% <br> 1–2 | 0–1% <br> 0–4 | 3–5% <br> 0 | N/A <br> N/A |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 40–44% <br> 325–375 | 30–34% <br> 187–231 | 12–15% <br> 30–38 | 2–4% <br> 20–48 | N/A <br> N/A | 2–4% <br> 1 | 0–1% <br> 0–3 | 4–6% <br> 0 | N/A <br> N/A |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 39–45% <br> 339–408 | 26–31% <br> 149–210 | 11–15% <br> 28–42 | 2–4% <br> 21–50 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 3–11 | 4–7% <br> 0 | N/A <br> N/A |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 43–48% <br> 353–409 | 28–32% <br> 156–206 | 10–13% <br> 20–31 | 2–4% <br> 15–42 | N/A <br> N/A | 2–4% <br> 1 | N/A <br> N/A | 5–7% <br> 0 | N/A <br> N/A |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 42–46% <br> 356–396 | 26–30% <br> 149–190 | 12–16% <br> 30–39 | 3–5% <br> 41–51 | 0–1% <br> 0 | 2–4% <br> 1 | 1–2% <br> 4–10 | 5–7% <br> 0 | 0–1% <br> 0 |
