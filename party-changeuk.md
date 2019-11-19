@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–1.3% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -352,6 +354,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research |  |  |  |  |  |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation |  |  |  |  |  |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |

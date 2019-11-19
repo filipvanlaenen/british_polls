@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 3.4–10.4% | 2.1–11.9% | 1.9–12.4% | 1.6–13.2% |
+| N/A | [Poll Average](average.html) | 5.9% | 3.4–10.4% | 2.1–11.9% | 1.9–12.4% | 1.6–13.2% |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 5.0% | 4.3–6.1% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% |
@@ -341,12 +343,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0.4% | 100% |  |
 | 1.5–2.5% | 8% | 99.6% |  |
 | 2.5–3.5% | 2% | 91% |  |
-| 3.5–4.5% | 10% | 89% |  |
-| 4.5–5.5% | 15% | 79% |  |
-| 5.5–6.5% | 18% | 64% | Median |
-| 6.5–7.5% | 10% | 47% |  |
-| 7.5–8.5% | 12% | 36% |  |
-| 8.5–9.5% | 11% | 24% |  |
+| 3.5–4.5% | 12% | 89% |  |
+| 4.5–5.5% | 21% | 78% |  |
+| 5.5–6.5% | 19% | 57% | Median |
+| 6.5–7.5% | 8% | 38% |  |
+| 7.5–8.5% | 6% | 29% |  |
+| 8.5–9.5% | 9% | 23% |  |
 | 9.5–10.5% | 4% | 14% |  |
 | 10.5–11.5% | 3% | 10% |  |
 | 11.5–12.5% | 5% | 7% |  |
@@ -364,6 +366,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
@@ -384,7 +388,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 8 | 6–9 | 6–9 | 4–10 | 3–15 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 0 | 0 | 0 | 0 | 0 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 15 | 13–21 | 12–26 | 10–26 | 9–28 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0 | 0 | 0 | 0 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
@@ -692,8 +696,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.4% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 1.4% | 2% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
