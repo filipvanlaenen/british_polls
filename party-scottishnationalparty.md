@@ -47,7 +47,7 @@ Last result: **3.1%** (General Election of 8 June 2017)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
@@ -357,7 +357,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 33–52 | 31–53 | 26–54 | 14–55 |
-| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 50 | 41–51 | 39–51 | 38–53 | 35–54 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 50 | 41–51 | 39–51 | 39–53 | 35–54 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 38 | 31–42 | 28–45 | 20–48 | 10–50 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 41 | 30–48 | 27–50 | 21–50 | 10–51 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 37–41 | 34–42 | 15–42 | 6–47 |
@@ -379,7 +379,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 22 | 0–35 | 0–38 | 0–38 | 0–42 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 53 | 51–53 | 50–53 | 49–53 | 46–54 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 51 | 50–53 | 49–53 | 46–53 | 46–53 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 51 | 47–51 | 47–54 | 45–54 | 41–54 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 51 | 47–52 | 47–53 | 47–54 | 43–54 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 39 | 35–48 | 32–50 | 28–50 | 18–51 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 33–48 | 33–48 | 33–50 | 18–51 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 54 | 51–54 | 51–54 | 50–54 | 48–55 |
@@ -393,7 +393,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 39 | 31–46 | 28–49 | 26–50 | 15–52 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 43 | 39–46 | 38–48 | 34–49 | 31–54 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 54 | 51–54 | 50–54 | 50–55 | 48–55 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 39 | 34–47 | 33–49 | 31–51 | 28–53 |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 40 | 34–49 | 32–50 | 28–52 | 28–54 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 50 | 48–54 | 43–54 | 43–54 | 39–54 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 51 | 48–53 | 45–54 | 43–54 | 38–54 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 53 | 43–54 | 39–54 | 39–54 | 33–54 |
@@ -730,7 +730,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 44% |  |
 | 44 | 0.3% | 42% |  |
 | 45 | 6% | 41% |  |
-| 46 | 1.0% | 35% |  |
+| 46 | 1.0% | 36% |  |
 | 47 | 6% | 34% |  |
 | 48 | 4% | 28% |  |
 | 49 | 0.4% | 24% |  |

@@ -389,7 +389,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 48 | 44–54 | 43–59 | 43–60 | 38–61 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 57 | 49–59 | 46–59 | 46–59 | 46–63 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 51 | 47–56 | 47–57 | 46–58 | 46–60 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 48 | 45–49 | 45–49 | 43–50 | 41–55 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 48 | 46–49 | 45–49 | 44–50 | 41–54 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 38–48 | 36–49 | 36–49 | 34–51 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 38 | 31–43 | 31–43 | 31–44 | 30–50 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–49 | 39–49 | 37–52 | 35–55 |
@@ -403,7 +403,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 49–68 | 48–71 | 45–75 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 53 | 52–61 | 50–63 | 50–67 | 49–71 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 43 | 37–46 | 36–47 | 34–48 | 33–49 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 62 | 51–67 | 49–69 | 49–70 | 45–75 |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 63 | 53–69 | 52–70 | 50–73 | 49–76 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 60 | 53–65 | 50–69 | 49–69 | 48–73 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 71 | 69–82 | 67–82 | 59–83 | 58–90 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 54 | 46–61 | 46–64 | 40–66 | 37–71 |
@@ -718,13 +718,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 7% | 91% |  |
 | 31 | 6% | 85% |  |
 | 32 | 8% | 79% |  |
-| 33 | 5% | 70% |  |
+| 33 | 6% | 70% |  |
 | 34 | 1.2% | 65% |  |
-| 35 | 4% | 64% |  |
-| 36 | 9% | 60% |  |
+| 35 | 4% | 63% |  |
+| 36 | 8% | 59% |  |
 | 37 | 5% | 51% | Median |
-| 38 | 3% | 45% |  |
-| 39 | 2% | 42% |  |
+| 38 | 3% | 46% |  |
+| 39 | 2% | 43% |  |
 | 40 | 2% | 40% |  |
 | 41 | 3% | 39% |  |
 | 42 | 3% | 36% |  |

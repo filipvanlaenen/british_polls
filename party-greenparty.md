@@ -47,7 +47,7 @@ Last result: **1.7%** (General Election of 8 June 2017)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 6.0% | 5.3–6.8% | 5.1–7.0% | 4.9–7.2% | 4.6–7.6% |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 6.9% | N/A | N/A | N/A | N/A |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 6.9% | 6.1–7.7% | 5.9–8.0% | 5.7–8.2% | 5.4–8.6% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
@@ -394,7 +394,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–2 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–5 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
