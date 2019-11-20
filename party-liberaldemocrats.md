@@ -367,8 +367,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37 | 30–55 | 28–60 | 26–64 | 22–67 |
-| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 37 | 33–43 | 32–44 | 32–46 | 31–49 |
-| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 32 | 30–36 | 30–37 | 30–38 | 29–40 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 37 | 33–43 | 32–44 | 32–46 | 31–48 |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 32 | 30–36 | 30–38 | 30–38 | 29–40 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 32 | 29–38 | 29–40 | 28–42 | 26–46 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28 | 23–30 | 21–30 | 20–31 | 19–32 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 35 | 32–40 | 31–42 | 30–44 | 30–46 |
@@ -391,7 +391,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 51 | 47–56 | 47–57 | 46–58 | 46–60 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 48 | 46–49 | 45–49 | 44–50 | 41–54 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 38–48 | 36–49 | 36–49 | 34–51 |
-| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 38 | 31–43 | 31–43 | 31–44 | 30–50 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 32–43 | 31–44 | 30–46 | 29–49 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–49 | 39–49 | 37–52 | 35–55 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 42 | 37–46 | 37–48 | 36–48 | 33–50 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 36 | 31–44 | 30–46 | 30–48 | 29–51 |
@@ -718,9 +718,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 7% | 91% |  |
 | 31 | 6% | 85% |  |
 | 32 | 8% | 79% |  |
-| 33 | 6% | 70% |  |
-| 34 | 1.2% | 65% |  |
-| 35 | 4% | 63% |  |
+| 33 | 6% | 71% |  |
+| 34 | 1.3% | 65% |  |
+| 35 | 4% | 64% |  |
 | 36 | 8% | 59% |  |
 | 37 | 5% | 51% | Median |
 | 38 | 3% | 46% |  |
@@ -730,7 +730,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 36% |  |
 | 43 | 2% | 33% |  |
 | 44 | 2% | 31% |  |
-| 45 | 1.3% | 28% |  |
+| 45 | 1.3% | 29% |  |
 | 46 | 3% | 27% |  |
 | 47 | 2% | 25% |  |
 | 48 | 3% | 23% |  |
