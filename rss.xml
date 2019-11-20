@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 20 Nov 2019 19:31:02 +0100</pubDate>
+    <pubDate>Wed, 20 Nov 2019 20:09:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 18–19 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-19-YouGov.html#seats</link>
@@ -736,8 +736,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-YouGov.png"
         length="184515"
         type="image/png"/>
-      <pubDate>Wed, 13 Nov 2019 22:51:43 +0100</pubDate>
-      <dc:date>2019-11-13T22:51:43.416186+01:00</dc:date>
+      <pubDate>Wed, 20 Nov 2019 20:09:39 +0100</pubDate>
+      <dc:date>2019-11-20T20:09:39.146427+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Seat Projections for the Parties</title>
@@ -5999,6 +5999,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-20T19:31:02.777252+01:00</dc:date>
+    <dc:date>2019-11-20T20:09:39.146427+01:00</dc:date>
   </channel>
 </rss>
