@@ -401,7 +401,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 64 | 57–72 | 55–74 | 51–76 | 48–79 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 63 | 59–63 | 57–64 | 57–65 | 56–68 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 49–68 | 48–71 | 45–75 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 53 | 52–61 | 50–63 | 50–67 | 49–71 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 53 | 51–62 | 50–65 | 50–68 | 49–71 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 43 | 37–46 | 36–47 | 34–48 | 33–49 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 63 | 53–69 | 52–70 | 50–73 | 49–76 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 60 | 53–65 | 50–69 | 49–69 | 48–73 |
