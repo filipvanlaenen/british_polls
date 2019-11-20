@@ -356,9 +356,9 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 33–52 | 31–53 | 26–54 | 14–55 |
+| N/A | [Poll Average](average.html) | 41 | 33–52 | 31–53 | 25–54 | 14–55 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 50 | 41–51 | 39–51 | 39–53 | 35–54 |
-| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 39 | 31–45 | 26–47 | 20–48 | 13–50 |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 40 | 31–45 | 25–47 | 20–48 | 14–50 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 41 | 30–48 | 27–50 | 21–50 | 10–51 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 37–41 | 34–42 | 15–42 | 6–47 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–50 | 39–51 | 36–52 | 33–54 |
@@ -694,7 +694,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 99.9% |  |
 | 8 | 0% | 99.8% |  |
 | 9 | 0% | 99.8% |  |
-| 10 | 0.1% | 99.8% |  |
+| 10 | 0% | 99.8% |  |
 | 11 | 0.1% | 99.7% |  |
 | 12 | 0.1% | 99.7% |  |
 | 13 | 0.1% | 99.6% |  |
@@ -707,10 +707,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.1% | 98.7% |  |
 | 21 | 0.2% | 98.6% |  |
 | 22 | 0.2% | 98% |  |
-| 23 | 0.2% | 98% |  |
+| 23 | 0.3% | 98% |  |
 | 24 | 0.2% | 98% |  |
 | 25 | 0.2% | 98% |  |
-| 26 | 0.3% | 98% |  |
+| 26 | 0.3% | 97% |  |
 | 27 | 0.4% | 97% |  |
 | 28 | 0.5% | 97% |  |
 | 29 | 0.5% | 96% |  |
