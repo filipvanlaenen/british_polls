@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 3.4–10.4% | 2.1–11.9% | 1.9–12.4% | 1.6–13.2% |
+| N/A | [Poll Average](average.html) | 5.2% | 2.7–10.0% | 2.1–11.9% | 1.9–12.4% | 1.5–13.2% |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
+| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 5.0% | 4.3–5.7% | 4.2–6.0% | 4.0–6.2% | 3.7–6.5% |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 5.0% | 4.3–6.1% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
@@ -340,17 +343,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 8% | 99.6% |  |
-| 2.5–3.5% | 2% | 91% |  |
-| 3.5–4.5% | 12% | 89% |  |
-| 4.5–5.5% | 21% | 78% |  |
-| 5.5–6.5% | 19% | 57% | Median |
-| 6.5–7.5% | 8% | 38% |  |
-| 7.5–8.5% | 6% | 29% |  |
-| 8.5–9.5% | 9% | 23% |  |
-| 9.5–10.5% | 4% | 14% |  |
-| 10.5–11.5% | 3% | 10% |  |
+| 0.5–1.5% | 0.7% | 100% |  |
+| 1.5–2.5% | 8% | 99.3% |  |
+| 2.5–3.5% | 9% | 91% |  |
+| 3.5–4.5% | 15% | 82% |  |
+| 4.5–5.5% | 27% | 67% | Median |
+| 5.5–6.5% | 18% | 40% |  |
+| 6.5–7.5% | 4% | 22% |  |
+| 7.5–8.5% | 2% | 18% |  |
+| 8.5–9.5% | 5% | 16% |  |
+| 9.5–10.5% | 2% | 11% |  |
+| 10.5–11.5% | 3% | 9% |  |
 | 11.5–12.5% | 5% | 7% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% |  |
@@ -367,6 +370,9 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
+| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
@@ -398,9 +404,9 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 43 | 35–57 | 29–61 | 28–64 | 25–75 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 0 | 0–2 | 0–3 | 0–5 | 0–7 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 32 | 26–33 | 26–34 | 26–36 | 26–37 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0–1 | 0–2 | 0–3 | 0–6 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0–1 | 0–2 | 0–4 | 0–6 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 14 | 6–20 | 5–20 | 5–25 | 3–27 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0–1 | 0–2 |
