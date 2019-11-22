@@ -392,7 +392,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 7 | 4–11 | 4–11 | 4–12 | 3–16 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 7 | 7–9 | 7–9 | 6–9 | 4–10 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 7 | 7–8 | 7–9 | 7–9 | 4–9 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 7 | 4–11 | 4–12 | 4–13 | 3–13 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 7 | 5–11 | 4–11 | 4–12 | 4–13 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
