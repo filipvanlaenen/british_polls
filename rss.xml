@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 21 Nov 2019 19:51:20 +0100</pubDate>
+    <pubDate>Thu, 21 Nov 2019 23:00:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 18–19 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-19-YouGov.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI.png"
         length="175659"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2019 19:51:20 +0100</pubDate>
-      <dc:date>2019-11-21T19:51:20.380655+01:00</dc:date>
+      <pubDate>Thu, 21 Nov 2019 20:35:30 +0100</pubDate>
+      <dc:date>2019-11-21T20:35:30.299197+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 18–19 November 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-19-ComRes.png"
         length="170974"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2019 19:03:14 +0100</pubDate>
-      <dc:date>2019-11-21T19:03:14.400652+01:00</dc:date>
+      <pubDate>Thu, 21 Nov 2019 22:55:12 +0100</pubDate>
+      <dc:date>2019-11-21T22:55:12.648707+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 14–18 November 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-18-KantarPublic.png"
         length="154118"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2019 19:28:13 +0100</pubDate>
-      <dc:date>2019-11-21T19:28:13.119824+01:00</dc:date>
+      <pubDate>Thu, 21 Nov 2019 23:00:55 +0100</pubDate>
+      <dc:date>2019-11-21T23:00:55.460716+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICM Research, 15–18 November 2019 – Seat Projections for the Parties</title>
@@ -746,8 +746,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-28-YouGov.png"
         length="161553"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2019 19:47:45 +0100</pubDate>
-      <dc:date>2019-11-21T19:47:45.182624+01:00</dc:date>
+      <pubDate>Thu, 21 Nov 2019 20:44:12 +0100</pubDate>
+      <dc:date>2019-11-21T20:44:12.47388+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI, 25–28 October 2019 – Seat Projections for the Parties</title>
@@ -6069,6 +6069,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-21T19:51:20.380655+01:00</dc:date>
+    <dc:date>2019-11-21T23:00:55.460716+01:00</dc:date>
   </channel>
 </rss>
