@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-11-23T15:24:27.583213+01:00</updated>
+  <updated>2019-11-23T16:56:41.791282+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.7–43.5%, 354–369 seats</li><li>Labour Party: 27.9–29.6%, 174–186 seats</li><li>Liberal Democrats: 14.2–15.5%, 33–39 seats</li><li>Scottish National Party: 3.6–4.3%, 45–50 seats</li><li>Plaid Cymru: 0.8–1.2%, 4–8 seats</li><li>Green Party: 2.7–3.3%, 1 seats</li><li>Brexit Party: 3.6–4.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-11-20-YouGov.html</id>
@@ -80,6 +80,14 @@
     <dc:date>2019-11-17T13:46:52.210521+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.7–46.0%, 357–400 seats</li><li>Labour Party: 25.9–29.9%, 146–185 seats</li><li>Liberal Democrats: 12.5–15.5%, 30–37 seats</li><li>Scottish National Party: 3.2–4.9%, 41–53 seats</li><li>Plaid Cymru: 0.6–1.5%, 4–10 seats</li><li>UK Independence Party: 0.1–0.6%, 0 seats</li><li>Green Party: 2.3–3.8%, 1 seats</li><li>Brexit Party: 5.0–7.1%, 0 seats</li><li>Change UK: 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-11-15-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-11-15-Opinium.html"/>
+    <title>Opinion Poll by Opinium for The Observer, 13–15 November 2019</title>
+    <updated>2019-11-23T16:56:41.791282+01:00</updated>
+    <dc:date>2019-11-23T16:56:41.791282+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 40.2–46.3%, 318–387 seats</li><li>Labour Party: 27.4–33.1%, 159–222 seats</li><li>Liberal Democrats: 13.0–17.4%, 30–47 seats</li><li>Scottish National Party: 3.0–5.4%, 33–53 seats</li><li>UK Independence Party: 0.1–0.9%, 0 seats</li><li>Green Party: 1.3–3.1%, 1 seats</li><li>Brexit Party: 3.8–6.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-11-14-Panelbase.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2019-11-14-Panelbase.html"/>
@@ -118,6 +126,14 @@
     <title>Opinion Poll by ICM Research, 8–11 November 2019</title>
     <updated>2019-11-15T15:17:00.098408+01:00</updated>
     <dc:date>2019-11-15T15:17:00.098408+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 34.8–39.0%, 291–345 seats</li><li>Labour Party: 27.0–31.0%, 184–232 seats</li><li>Liberal Democrats: 15.4–18.7%, 44–60 seats</li><li>Scottish National Party: 3.2–4.9%, 43–53 seats</li><li>UK Independence Party: 0.1–0.6%, 0 seats</li><li>Green Party: 2.3–3.8%, 1 seats</li><li>Brexit Party: 7.8–10.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-11-10-ComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-11-10-ComRes.html"/>
+    <title>Opinion Poll by ComRes for Britain Elects, 8–10 November 2019</title>
+    <updated>2019-11-23T15:56:21.099767+01:00</updated>
+    <dc:date>2019-11-23T15:56:21.099767+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.9–43.8%, 321–385 seats</li><li>Labour Party: 27.0–31.6%, 169–221 seats</li><li>Liberal Democrats: 14.4–18.1%, 35–51 seats</li><li>Scottish National Party: 2.3–4.0%, 24–50 seats</li><li>Plaid Cymru: 0.1–0.7%, 0–4 seats</li><li>UK Independence Party: 0.6–1.6%, 0 seats</li><li>Green Party: 1.4–2.9%, 1 seats</li><li>Brexit Party: 5.0–7.4%, 0 seats</li></ul></div></content>
@@ -1191,5 +1207,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-11-23T15:24:27.583213+01:00</dc:date>
+  <dc:date>2019-11-23T16:56:41.791282+01:00</dc:date>
 </feed>
