@@ -382,7 +382,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 179 | 159–198 | 153–204 | 149–210 | 141–222 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 184 | 166–194 | 162–202 | 156–206 | 151–215 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 170 | 153–183 | 149–186 | 146–188 | 141–195 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 171 | 158–180 | 153–184 | 149–190 | 146–191 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 171 | 156–181 | 152–183 | 146–185 | 142–190 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 213 | 193–228 | 187–233 | 184–235 | 179–244 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 187 | 173–207 | 164–216 | 159–222 | 153–227 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 222 | 205–235 | 201–237 | 196–241 | 187–250 |
@@ -390,7 +390,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 203 | 187–219 | 184–224 | 181–226 | 176–231 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 187 | 175–213 | 169–219 | 166–224 | 153–233 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 214 | 199–230 | 193–234 | 189–235 | 182–243 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 212 | 195–225 | 189–229 | 184–232 | 182–235 |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 211 | 195–224 | 188–228 | 184–232 | 182–235 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 188 | 179–207 | 173–213 | 169–221 | 161–227 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 176 | 161–188 | 153–193 | 150–196 | 145–208 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 220 | 204–232 | 200–234 | 197–240 | 187–251 |
@@ -404,7 +404,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 185 | 173–203 | 169–207 | 165–215 | 153–222 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 175 | 170–199 | 167–205 | 163–206 | 151–216 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 156 | 147–174 | 144–176 | 140–178 | 131–181 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 192 | 174–213 | 168–218 | 162–223 | 149–233 |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 194 | 177–216 | 172–222 | 166–226 | 152–236 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 208 | 193–228 | 188–231 | 186–235 | 183–237 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 215 | 194–223 | 187–229 | 184–233 | 178–237 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 147 | 136–168 | 132–174 | 129–176 | 119–181 |
@@ -726,33 +726,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.3% | 98% |  |
 | 144 | 0.2% | 98% |  |
 | 145 | 0.3% | 98% |  |
-| 146 | 0.5% | 98% |  |
+| 146 | 0.6% | 98% |  |
 | 147 | 0.3% | 97% |  |
 | 148 | 0.5% | 97% |  |
-| 149 | 0.6% | 96% |  |
+| 149 | 0.4% | 96% |  |
 | 150 | 0.7% | 96% |  |
 | 151 | 0.7% | 95% |  |
-| 152 | 0.6% | 94% |  |
-| 153 | 0.5% | 94% |  |
-| 154 | 0.9% | 93% |  |
+| 152 | 0.8% | 94% |  |
+| 153 | 0.4% | 94% |  |
+| 154 | 0.8% | 93% |  |
 | 155 | 0.6% | 92% |  |
-| 156 | 0.4% | 92% |  |
+| 156 | 0.5% | 92% |  |
 | 157 | 0.6% | 91% |  |
-| 158 | 2% | 91% |  |
-| 159 | 0.5% | 89% |  |
+| 158 | 1.0% | 91% |  |
+| 159 | 0.5% | 90% |  |
 | 160 | 0.4% | 89% |  |
-| 161 | 0.7% | 88% |  |
+| 161 | 0.7% | 89% |  |
 | 162 | 0.7% | 88% |  |
 | 163 | 0.6% | 87% |  |
-| 164 | 0.5% | 86% |  |
-| 165 | 0.6% | 86% |  |
-| 166 | 0.7% | 85% |  |
+| 164 | 0.5% | 87% |  |
+| 165 | 0.5% | 86% |  |
+| 166 | 0.7% | 86% |  |
 | 167 | 0.5% | 85% |  |
-| 168 | 1.0% | 84% |  |
-| 169 | 0.7% | 83% |  |
-| 170 | 2% | 82% |  |
-| 171 | 3% | 80% |  |
-| 172 | 0.9% | 77% |  |
+| 168 | 3% | 85% |  |
+| 169 | 0.8% | 82% |  |
+| 170 | 1.5% | 81% |  |
+| 171 | 2% | 80% |  |
+| 172 | 0.9% | 78% |  |
 | 173 | 0.7% | 77% |  |
 | 174 | 2% | 76% |  |
 | 175 | 1.4% | 74% |  |
@@ -762,15 +762,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 2% | 67% |  |
 | 180 | 3% | 64% |  |
 | 181 | 3% | 61% |  |
-| 182 | 2% | 59% |  |
+| 182 | 2% | 58% |  |
 | 183 | 2% | 56% |  |
 | 184 | 3% | 54% |  |
 | 185 | 4% | 51% | Median |
-| 186 | 3% | 48% |  |
+| 186 | 3% | 47% |  |
 | 187 | 2% | 45% |  |
 | 188 | 0.8% | 42% |  |
 | 189 | 0.7% | 41% |  |
-| 190 | 2% | 41% |  |
+| 190 | 1.4% | 41% |  |
 | 191 | 1.1% | 39% |  |
 | 192 | 1.0% | 38% |  |
 | 193 | 0.9% | 37% |  |

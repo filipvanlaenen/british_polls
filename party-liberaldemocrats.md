@@ -376,7 +376,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 32 | 29–38 | 29–40 | 28–42 | 26–46 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28 | 23–30 | 21–30 | 20–31 | 19–32 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 35 | 32–40 | 31–42 | 30–44 | 30–46 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 32 | 30–36 | 30–37 | 30–39 | 29–40 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 32 | 30–36 | 30–37 | 30–37 | 29–39 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 49 | 43–55 | 42–57 | 41–59 | 37–61 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 36 | 32–43 | 31–45 | 30–47 | 30–50 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 36 | 32–40 | 32–42 | 31–43 | 30–45 |
@@ -721,18 +721,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 94% |  |
 | 30 | 7% | 91% |  |
 | 31 | 6% | 85% |  |
-| 32 | 8% | 78% |  |
-| 33 | 6% | 71% |  |
-| 34 | 2% | 64% |  |
+| 32 | 7% | 79% |  |
+| 33 | 7% | 72% |  |
+| 34 | 2% | 65% |  |
 | 35 | 6% | 62% |  |
 | 36 | 11% | 56% | Median |
-| 37 | 8% | 46% |  |
+| 37 | 8% | 45% |  |
 | 38 | 5% | 37% |  |
 | 39 | 3% | 32% |  |
 | 40 | 2% | 29% |  |
 | 41 | 4% | 27% |  |
 | 42 | 4% | 23% |  |
-| 43 | 3% | 20% |  |
+| 43 | 3% | 19% |  |
 | 44 | 3% | 17% |  |
 | 45 | 2% | 14% |  |
 | 46 | 3% | 12% |  |

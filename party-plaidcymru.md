@@ -357,7 +357,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 4 | 0–9 | 0–10 | 0–11 | 0–12 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 5 | 4–8 | 4–8 | 4–8 | 4–8 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 4–10 | 4–11 | 3–11 | 3–12 |
@@ -367,7 +367,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 7 | 4–10 | 4–11 | 3–11 | 3–12 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 6 | 4–8 | 4–9 | 4–10 | 3–11 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 6 | 4–9 | 4–10 | 4–10 | 3–11 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
@@ -696,14 +696,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.7% | 84% |  |
 | 2 | 5% | 83% |  |
 | 3 | 7% | 78% |  |
-| 4 | 24% | 71% | Last Result, Median |
-| 5 | 7% | 47% |  |
-| 6 | 7% | 40% |  |
-| 7 | 8% | 34% |  |
-| 8 | 16% | 26% |  |
+| 4 | 27% | 71% | Last Result, Median |
+| 5 | 6% | 44% |  |
+| 6 | 5% | 38% |  |
+| 7 | 6% | 33% |  |
+| 8 | 16% | 27% |  |
 | 9 | 4% | 10% |  |
-| 10 | 3% | 6% |  |
-| 11 | 3% | 4% |  |
+| 10 | 3% | 7% |  |
+| 11 | 3% | 3% |  |
 | 12 | 0.4% | 0.6% |  |
 | 13 | 0.1% | 0.2% |  |
 | 14 | 0% | 0% |  |
