@@ -383,7 +383,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 378 | 366–398 | 360–404 | 354–408 | 345–417 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 379 | 362–399 | 358–403 | 355–407 | 347–414 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 374 | 363–387 | 358–394 | 357–400 | 350–407 |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 326 | 307–348 | 302–354 | 297–358 | 288–365 |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 326 | 307–348 | 302–354 | 298–359 | 288–366 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 355 | 332–375 | 324–381 | 318–387 | 309–400 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 332 | 317–351 | 313–355 | 310–360 | 302–370 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 370 | 353–388 | 347–392 | 343–400 | 332–407 |
@@ -397,14 +397,14 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 335 | 312–359 | 307–363 | 301–369 | 293–379 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 346 | 333–356 | 326–360 | 323–367 | 308–375 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 332 | 316–354 | 309–362 | 306–364 | 300–373 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 323 | 308–348 | 308–348 | 308–349 | 303–364 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 329 | 313–355 | 313–355 | 313–355 | 308–366 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 309 | 301–324 | 297–324 | 297–325 | 289–330 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 348 | 342–360 | 337–361 | 337–366 | 328–373 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 323 | 308–339 | 304–346 | 301–352 | 291–361 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 363 | 343–378 | 336–381 | 330–386 | 318–399 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 348 | 328–359 | 323–362 | 320–367 | 308–376 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 370 | 355–384 | 351–387 | 349–392 | 342–404 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 354 | 330–375 | 323–380 | 317–386 | 307–401 |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 355 | 329–376 | 321–382 | 316–388 | 306–400 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 324 | 306–343 | 301–348 | 298–351 | 293–357 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 310 | 298–334 | 296–343 | 290–347 | 282–355 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 366 | 343–382 | 338–388 | 333–391 | 328–402 |
@@ -714,43 +714,43 @@ The following table shows the probability mass function per seat for the [poll a
 | 291 | 0% | 99.9% |  |
 | 292 | 0% | 99.9% |  |
 | 293 | 0% | 99.9% |  |
-| 294 | 0.1% | 99.8% |  |
+| 294 | 0% | 99.8% |  |
 | 295 | 0.1% | 99.8% |  |
 | 296 | 0.1% | 99.7% |  |
 | 297 | 0.1% | 99.6% |  |
-| 298 | 0.1% | 99.5% |  |
+| 298 | 0.1% | 99.6% |  |
 | 299 | 0.1% | 99.4% |  |
 | 300 | 0.1% | 99.3% |  |
 | 301 | 0.2% | 99.2% |  |
 | 302 | 0.1% | 99.0% |  |
 | 303 | 0.2% | 98.9% |  |
 | 304 | 0.2% | 98.7% |  |
-| 305 | 0.2% | 98.5% |  |
-| 306 | 0.3% | 98% |  |
+| 305 | 0.2% | 98% |  |
+| 306 | 0.4% | 98% |  |
 | 307 | 0.3% | 98% |  |
 | 308 | 0.3% | 98% |  |
 | 309 | 0.3% | 97% |  |
-| 310 | 0.5% | 97% |  |
+| 310 | 0.4% | 97% |  |
 | 311 | 0.4% | 97% |  |
 | 312 | 0.4% | 96% |  |
-| 313 | 0.5% | 96% |  |
+| 313 | 0.4% | 96% |  |
 | 314 | 0.5% | 95% |  |
 | 315 | 0.4% | 95% |  |
-| 316 | 0.4% | 94% |  |
-| 317 | 0.6% | 94% | Last Result |
+| 316 | 0.3% | 94% |  |
+| 317 | 0.7% | 94% | Last Result |
 | 318 | 0.7% | 93% |  |
-| 319 | 0.4% | 93% |  |
+| 319 | 0.5% | 93% |  |
 | 320 | 0.4% | 92% |  |
-| 321 | 0.4% | 92% |  |
+| 321 | 0.5% | 92% |  |
 | 322 | 0.6% | 91% |  |
-| 323 | 1.0% | 91% |  |
+| 323 | 0.8% | 91% |  |
 | 324 | 0.6% | 90% |  |
 | 325 | 0.7% | 89% |  |
 | 326 | 0.7% | 89% | Majority |
 | 327 | 0.7% | 88% |  |
-| 328 | 0.8% | 87% |  |
-| 329 | 0.8% | 86% |  |
-| 330 | 0.8% | 86% |  |
+| 328 | 0.7% | 87% |  |
+| 329 | 0.7% | 87% |  |
+| 330 | 0.9% | 86% |  |
 | 331 | 0.7% | 85% |  |
 | 332 | 1.0% | 84% |  |
 | 333 | 1.0% | 83% |  |

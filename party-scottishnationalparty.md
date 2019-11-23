@@ -371,7 +371,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 37–41 | 34–42 | 15–42 | 6–47 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–50 | 39–51 | 36–52 | 33–54 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 47 | 41–50 | 41–51 | 41–53 | 37–54 |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 40 | 34–50 | 32–50 | 30–51 | 18–53 |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 40 | 34–50 | 32–50 | 29–51 | 18–53 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 47 | 40–51 | 39–53 | 33–53 | 33–54 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 40 | 31–46 | 23–48 | 20–48 | 14–50 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 39 | 33–45 | 30–48 | 28–50 | 17–50 |
@@ -392,7 +392,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 33–47 | 33–48 | 28–50 | 18–51 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 54 | 51–54 | 51–54 | 50–54 | 48–55 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 50 | 45–51 | 42–52 | 40–53 | 37–54 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 40 | 32–48 | 23–50 | 18–51 | 5–53 |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 40 | 32–48 | 23–50 | 18–51 | 6–53 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 53 | 53–55 | 51–55 | 51–55 | 50–55 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 51 | 46–53 | 45–53 | 43–54 | 39–54 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 52 | 48–54 | 45–54 | 44–54 | 39–54 |
@@ -717,7 +717,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.1% | 99.0% |  |
 | 23 | 0.1% | 99.0% |  |
 | 24 | 0.1% | 98.8% |  |
-| 25 | 0.1% | 98.7% |  |
+| 25 | 0.1% | 98.8% |  |
 | 26 | 0.1% | 98.6% |  |
 | 27 | 0.2% | 98.5% |  |
 | 28 | 0.3% | 98% |  |
@@ -727,21 +727,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.6% | 97% |  |
 | 33 | 3% | 97% |  |
 | 34 | 1.3% | 94% |  |
-| 35 | 1.2% | 93% | Last Result |
-| 36 | 1.1% | 91% |  |
+| 35 | 1.1% | 93% | Last Result |
+| 36 | 1.2% | 91% |  |
 | 37 | 2% | 90% |  |
 | 38 | 2% | 88% |  |
 | 39 | 5% | 87% |  |
 | 40 | 3% | 82% |  |
 | 41 | 16% | 79% |  |
 | 42 | 3% | 63% |  |
-| 43 | 1.3% | 60% |  |
+| 43 | 1.4% | 60% |  |
 | 44 | 0.3% | 59% |  |
 | 45 | 8% | 58% |  |
 | 46 | 0.6% | 51% |  |
 | 47 | 10% | 50% | Median |
 | 48 | 9% | 41% |  |
-| 49 | 0.4% | 31% |  |
+| 49 | 0.5% | 32% |  |
 | 50 | 13% | 31% |  |
 | 51 | 7% | 18% |  |
 | 52 | 0.6% | 12% |  |
