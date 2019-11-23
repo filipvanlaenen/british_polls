@@ -401,7 +401,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 36 | 31–44 | 30–46 | 30–48 | 29–51 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–46 | 35–47 | 35–48 | 32–49 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 50 | 47–60 | 46–60 | 46–61 | 42–65 |
-| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 55 | 52–63 | 52–65 | 50–67 | 49–71 |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 60 | 50–65 | 50–67 | 49–68 | 48–71 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 64 | 57–72 | 55–74 | 51–76 | 48–79 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 62 | 61–64 | 59–65 | 59–65 | 58–68 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 49–68 | 48–71 | 45–75 |
@@ -721,7 +721,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 94% |  |
 | 30 | 7% | 91% |  |
 | 31 | 6% | 85% |  |
-| 32 | 8% | 78% |  |
+| 32 | 8% | 79% |  |
 | 33 | 6% | 71% |  |
 | 34 | 3% | 64% |  |
 | 35 | 6% | 62% |  |
