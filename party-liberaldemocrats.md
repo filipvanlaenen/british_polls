@@ -369,7 +369,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 36 | 30–46 | 28–49 | 26–50 | 22–57 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 36 | 34–38 | 34–38 | 33–39 | 32–40 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 37 | 33–43 | 32–44 | 32–46 | 31–48 |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 41 | 33–46 | 32–48 | 31–49 | 30–51 |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 40 | 33–46 | 32–48 | 31–49 | 30–51 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 37 | 33–42 | 32–44 | 32–46 | 31–48 |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 38 | 33–45 | 32–47 | 31–48 | 30–50 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 32 | 30–36 | 30–38 | 30–38 | 29–40 |
@@ -401,7 +401,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 36 | 31–44 | 30–46 | 30–48 | 29–51 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–46 | 35–47 | 35–48 | 32–49 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 50 | 47–60 | 46–60 | 46–61 | 42–65 |
-| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 59 | 50–64 | 49–66 | 49–67 | 47–69 |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 55 | 52–63 | 52–65 | 50–67 | 49–71 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 64 | 57–72 | 55–74 | 51–76 | 48–79 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 62 | 61–64 | 59–65 | 59–65 | 58–68 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 49–68 | 48–71 | 45–75 |
@@ -725,13 +725,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 6% | 71% |  |
 | 34 | 3% | 64% |  |
 | 35 | 6% | 62% |  |
-| 36 | 10% | 56% | Median |
-| 37 | 8% | 46% |  |
+| 36 | 11% | 56% | Median |
+| 37 | 8% | 45% |  |
 | 38 | 5% | 37% |  |
-| 39 | 3% | 33% |  |
-| 40 | 2% | 30% |  |
-| 41 | 4% | 28% |  |
-| 42 | 4% | 24% |  |
+| 39 | 3% | 32% |  |
+| 40 | 2% | 29% |  |
+| 41 | 4% | 27% |  |
+| 42 | 4% | 23% |  |
 | 43 | 3% | 20% |  |
 | 44 | 3% | 17% |  |
 | 45 | 2% | 14% |  |

@@ -404,7 +404,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 3 | 2–8 | 2–9 | 2–12 | 2–15 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
-| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 43 | 35–57 | 29–61 | 28–64 | 25–75 |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 2 | 1–6 | 1–6 | 1–6 | 0–7 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 0 | 0–2 | 0–3 | 0–5 | 0–7 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
