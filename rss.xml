@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 23 Nov 2019 11:15:54 +0100</pubDate>
+    <pubDate>Sat, 23 Nov 2019 11:50:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 12–20 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-20-YouGov.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-11-20T19:31:02.777252+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 15–19 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 342–402 seats&lt;/li&gt;&lt;li&gt;Labour Party: 142–194 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 31–49 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 35–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 3–11 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI-seats.png"
+        length="151758"
+        type="image/png"/>
+      <pubDate>Sat, 23 Nov 2019 11:33:58 +0100</pubDate>
+      <dc:date>2019-11-23T11:33:58.90586+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 15–19 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI-coalitions-seats.png"
+        length="541177"
+        type="image/png"/>
+      <pubDate>Sat, 23 Nov 2019 11:33:58 +0100</pubDate>
+      <dc:date>2019-11-23T11:33:58.90586+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 15–19 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.1–46.9%&lt;/li&gt;&lt;li&gt;Labour Party: 25.5–30.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.9–18.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 2.2–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-19-IpsosMORI.png"
         length="188040"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2019 10:10:58 +0100</pubDate>
-      <dc:date>2019-11-23T10:10:58.169489+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2019 11:33:58 +0100</pubDate>
+      <dc:date>2019-11-23T11:33:58.90586+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 18–19 November 2019 – Voting Intentions</title>
@@ -754,10 +774,10 @@
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-30-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.1–38.6%&lt;/li&gt;&lt;li&gt;Labour Party: 19.3–23.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.4–20.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 5.0–7.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 11.6–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-30-YouGov.png"
-        length="190178"
+        length="188151"
         type="image/png"/>
-      <pubDate>Sun, 03 Nov 2019 15:45:16 +0100</pubDate>
-      <dc:date>2019-11-03T15:45:16.148037+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2019 11:50:42 +0100</pubDate>
+      <dc:date>2019-11-23T11:50:42.599289+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 29–30 October 2019 – Seat Projections for the Parties</title>
@@ -6119,6 +6139,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-23T11:15:54.844383+01:00</dc:date>
+    <dc:date>2019-11-23T11:50:42.599289+01:00</dc:date>
   </channel>
 </rss>
