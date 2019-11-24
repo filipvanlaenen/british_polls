@@ -10,7 +10,10 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.8% | 1.7–4.1% | 1.6–4.4% | 1.4–4.8% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.9–4.1% | 1.7–4.4% | 1.6–4.6% | 1.4–5.0% |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.0% | 2.9–5.4% |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 3.0% | 2.8–3.2% | 2.7–3.3% | 2.7–3.3% | 2.6–3.4% |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
@@ -346,9 +349,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
 | 1.5–2.5% | 29% | 98% | Last Result |
-| 2.5–3.5% | 53% | 70% | Median |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 1.3% | 1.3% |  |
+| 2.5–3.5% | 45% | 69% | Median |
+| 3.5–4.5% | 21% | 24% |  |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -360,7 +363,10 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 1 | 1 | 1 | 1 | 1 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1 |
@@ -385,7 +391,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1–2 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 5 | 5 | 4–5 | 4–5 | 3–6 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 1 | 1 | 1 | 1 | 1 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 1 | 1 | 1 | 1 | 1 |
@@ -695,8 +701,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 96% | 100% | Last Result, Median |
-| 2 | 4% | 4% |  |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
