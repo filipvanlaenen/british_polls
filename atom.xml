@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-11-24T15:54:49.585227+01:00</updated>
+  <updated>2019-11-24T21:48:37.167973+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.6–44.3%, 318–372 seats</li><li>Labour Party: 27.8–32.2%, 174–218 seats</li><li>Liberal Democrats: 14.3–17.8%, 34–49 seats</li><li>Scottish National Party: 3.2–5.0%, 39–53 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>Green Party: 3.2–5.0%, 1–2 seats</li><li>Brexit Party: 2.3–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-11-22-YouGov.html</id>
@@ -14,6 +14,22 @@
     <title>Opinion Poll by YouGov for The Sunday Times, 21–22 November 2019</title>
     <updated>2019-11-24T15:54:49.585227+01:00</updated>
     <dc:date>2019-11-24T15:54:49.585227+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.1–45.0%, 313–381 seats</li><li>Labour Party: 29.2–34.8%, 178–238 seats</li><li>Liberal Democrats: 12.0–16.2%, 29–44 seats</li><li>Scottish National Party: 2.1–4.2%, 14–50 seats</li><li>Plaid Cymru: 0.6–1.8%, 4–10 seats</li><li>Green Party: 2.1–4.2%, 1 seats</li><li>Brexit Party: 2.1–4.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-11-22-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-11-22-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase, 20–22 November 2019</title>
+    <updated>2019-11-24T19:34:20.563224+01:00</updated>
+    <dc:date>2019-11-24T19:34:20.563224+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.4–44.1%, 338–395 seats</li><li>Labour Party: 26.4–30.7%, 165–226 seats</li><li>Liberal Democrats: 16.6–20.3%, 44–61 seats</li><li>Scottish National Party: 1.5–2.9%, 0–35 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>Green Party: 4.1–6.3%, 1–4 seats</li><li>Brexit Party: 2.3–4.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-11-21-BMGResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-11-21-BMGResearch.html"/>
+    <title>Opinion Poll by BMG Research, 19–21 November 2019</title>
+    <updated>2019-11-24T21:48:37.167973+01:00</updated>
+    <dc:date>2019-11-24T21:48:37.167973+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.7–43.5%, 354–369 seats</li><li>Labour Party: 27.9–29.6%, 174–186 seats</li><li>Liberal Democrats: 14.2–15.5%, 33–39 seats</li><li>Scottish National Party: 3.6–4.3%, 45–50 seats</li><li>Plaid Cymru: 0.8–1.2%, 4–8 seats</li><li>Green Party: 2.7–3.3%, 1 seats</li><li>Brexit Party: 3.6–4.3%, 0 seats</li></ul></div></content>
@@ -1239,5 +1255,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-11-24T15:54:49.585227+01:00</dc:date>
+  <dc:date>2019-11-24T21:48:37.167973+01:00</dc:date>
 </feed>
