@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.4–11.1% | 2.0–12.1% | 1.8–12.5% | 1.5–13.2% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.4–6.2% | 2.1–11.9% | 1.9–12.4% | 1.5–13.2% |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.4% |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 3.0% | N/A | N/A | N/A | N/A |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 3.1% | N/A | N/A | N/A | N/A |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 3.1% | 2.6–3.7% | 2.5–3.9% | 2.3–4.0% | 2.1–4.3% |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 4.0% | 3.7–4.2% | 3.7–4.3% | 3.6–4.3% | 3.5–4.5% |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
@@ -350,18 +350,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 14% | 99.1% |  |
-| 2.5–3.5% | 35% | 86% |  |
-| 3.5–4.5% | 12% | 50% | Median |
-| 4.5–5.5% | 21% | 39% |  |
-| 5.5–6.5% | 6% | 17% |  |
-| 6.5–7.5% | 0.3% | 11% |  |
-| 7.5–8.5% | 0% | 11% |  |
-| 8.5–9.5% | 0% | 11% |  |
-| 9.5–10.5% | 0.2% | 11% |  |
-| 10.5–11.5% | 3% | 11% |  |
-| 11.5–12.5% | 6% | 8% |  |
+| 0.5–1.5% | 0.7% | 100% |  |
+| 1.5–2.5% | 13% | 99.3% |  |
+| 2.5–3.5% | 42% | 86% | Median |
+| 3.5–4.5% | 13% | 44% |  |
+| 4.5–5.5% | 18% | 32% |  |
+| 5.5–6.5% | 5% | 14% |  |
+| 6.5–7.5% | 0.3% | 9% |  |
+| 7.5–8.5% | 0% | 9% |  |
+| 8.5–9.5% | 0% | 9% |  |
+| 9.5–10.5% | 0.2% | 9% |  |
+| 10.5–11.5% | 2% | 9% |  |
+| 11.5–12.5% | 5% | 7% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -378,10 +378,10 @@ Last result: **0** seats (General Election of 8 June 2017)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 0 | 0 | 0 | 0 | 0 |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 0 | 0 | 0 | 0 | 0 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
@@ -716,9 +716,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
-| 2 | 0.2% | 0.3% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.4% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
