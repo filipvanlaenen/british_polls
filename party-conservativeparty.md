@@ -426,7 +426,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 323 | 308–339 | 304–346 | 301–352 | 291–361 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 363 | 343–378 | 336–381 | 330–386 | 318–399 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 348 | 328–359 | 323–362 | 320–367 | 308–376 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 370 | 355–384 | 351–387 | 349–392 | 342–404 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 370 | 356–386 | 352–392 | 349–394 | 344–405 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 355 | 329–376 | 321–382 | 316–388 | 306–400 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 324 | 306–343 | 301–348 | 298–351 | 293–357 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 310 | 298–334 | 296–343 | 290–347 | 282–355 |
@@ -435,16 +435,16 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 353 | 344–361 | 343–362 | 339–363 | 337–366 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 378 | 351–399 | 346–405 | 341–414 | 332–431 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 354 | 341–371 | 335–375 | 330–382 | 319–389 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 369 | 349–384 | 348–388 | 347–393 | 341–398 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 375 | 354–388 | 353–393 | 352–397 | 345–402 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 372 | 344–390 | 340–393 | 335–395 | 323–399 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 344 | 332–358 | 327–366 | 320–373 | 313–378 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 300 | 277–330 | 270–335 | 264–341 | 253–351 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 319 | 296–340 | 287–349 | 285–357 | 266–359 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 322 | 302–347 | 296–350 | 288–358 | 278–365 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 353 | 341–374 | 336–376 | 333–380 | 324–387 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 279 | 259–294 | 243–299 | 243–299 | 235–309 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 359 | 332–375 | 332–375 | 330–382 | 322–391 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 367 | 345–383 | 338–385 | 335–387 | 327–400 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 362 | 345–389 | 337–397 | 335–400 | 322–411 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 284 | 251–295 | 235–298 | 235–305 | 221–311 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 281 | 255–297 | 248–300 | 241–305 | 230–314 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 285 | 271–309 | 267–313 | 263–319 | 250–329 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 331 | 314–357 | 308–358 | 303–360 | 288–375 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 276 | 266–307 | 265–310 | 258–317 | 248–328 |

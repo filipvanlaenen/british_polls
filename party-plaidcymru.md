@@ -410,7 +410,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6 | 4–10 | 4–10 | 4–11 | 3–11 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 7 | 4–9 | 4–10 | 4–11 | 3–11 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 7 | 4–9 | 4–9 | 4–10 | 4–11 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 7 | 4–9 | 4–10 | 4–11 | 4–11 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 6 | 4–10 | 4–11 | 3–11 | 3–12 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -423,10 +423,10 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 9 | 4–11 | 4–12 | 4–13 | 4–13 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 7 | 4–10 | 4–11 | 4–11 | 4–12 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 7 | 4–11 | 4–12 | 4–13 | 3–16 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–4 | 0–7 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 0–4 | 0–4 | 0–5 | 0–7 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 8 | 4–10 | 4–11 | 4–11 | 4–12 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 5 | 4–8 | 4–9 | 4–10 | 3–11 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–12 | 4–12 | 4–13 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–11 | 4–12 | 4–13 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 8 | 4–11 | 4–11 | 3–13 | 3–14 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |

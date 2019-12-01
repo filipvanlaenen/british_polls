@@ -428,10 +428,10 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 40 | 34–49 | 32–50 | 28–52 | 28–54 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 50 | 48–54 | 43–54 | 43–54 | 39–54 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 51 | 46–54 | 45–54 | 44–54 | 38–54 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 53 | 43–54 | 39–54 | 39–54 | 33–54 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 51 | 47–54 | 43–54 | 39–54 | 36–54 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 50 | 49–53 | 47–54 | 45–54 | 40–54 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 53 | 49–53 | 48–53 | 48–53 | 48–54 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 50 | 43–54 | 43–54 | 40–54 | 39–54 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 49 | 43–54 | 43–54 | 41–54 | 39–54 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 39 | 32–48 | 30–51 | 26–51 | 15–53 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 49–53 | 48–53 | 48–53 | 45–53 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 53 | 48–53 | 48–53 | 46–54 | 45–54 |

@@ -433,7 +433,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1–2 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1–2 | 1–2 |

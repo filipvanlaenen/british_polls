@@ -421,7 +421,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 43 | 38–48 | 36–49 | 36–49 | 34–51 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 32–43 | 31–44 | 30–46 | 29–49 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 47 | 41–49 | 39–49 | 37–52 | 35–55 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 42 | 37–46 | 37–48 | 36–48 | 33–50 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 43 | 37–46 | 36–48 | 36–48 | 32–50 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 37 | 31–44 | 30–46 | 30–48 | 29–51 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 42 | 36–46 | 35–47 | 35–48 | 32–49 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 50 | 47–60 | 46–60 | 46–61 | 42–65 |
@@ -430,16 +430,16 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 62 | 61–64 | 59–65 | 59–65 | 58–68 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 60 | 51–66 | 49–68 | 48–71 | 45–75 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 56 | 51–63 | 50–65 | 50–68 | 49–71 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 43 | 37–46 | 36–47 | 34–48 | 33–49 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 44 | 37–46 | 36–48 | 34–49 | 33–49 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 63 | 53–69 | 52–70 | 50–73 | 49–76 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 60 | 53–65 | 50–69 | 49–69 | 48–73 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 74 | 67–84 | 65–86 | 62–88 | 59–94 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 54 | 46–61 | 46–64 | 40–66 | 37–71 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 50 | 46–61 | 46–62 | 44–65 | 37–71 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 47 | 45–50 | 43–52 | 42–56 | 38–60 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 62 | 57–67 | 56–68 | 55–69 | 51–72 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 58 | 48–64 | 47–64 | 47–65 | 45–69 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 58 | 49–63 | 48–64 | 48–66 | 46–69 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 55 | 47–63 | 46–63 | 45–63 | 42–68 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 57 | 51–61 | 47–63 | 47–65 | 46–67 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 57 | 52–63 | 47–64 | 46–66 | 46–69 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 60 | 57–67 | 54–68 | 53–70 | 47–72 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 68 | 62–78 | 60–79 | 58–80 | 54–80 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 66 | 58–71 | 58–72 | 57–73 | 55–75 |
