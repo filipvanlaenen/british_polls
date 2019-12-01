@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 30 Nov 2019 22:56:02 +0100</pubDate>
+    <pubDate>Sun, 01 Dec 2019 18:37:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 25–26 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-26-YouGov.html#seats</link>
@@ -1120,14 +1120,34 @@
       <dc:date>2019-11-14T21:54:49.919169+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 30 October–1 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 349–394 seats&lt;/li&gt;&lt;li&gt;Labour Party: 142–180 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 36–48 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 40–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–11 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium-seats.png"
+        length="159808"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 15:37:20 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:20.622431+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 30 October–1 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium-coalitions-seats.png"
+        length="472469"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 15:37:20 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:20.622431+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 30 October–1 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.2–43.5%&lt;/li&gt;&lt;li&gt;Labour Party: 23.7–27.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 14.2–17.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.4–2.7%&lt;/li&gt;&lt;li&gt;Brexit Party: 7.7–10.2%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-01-Opinium.png"
-        length="181299"
+        length="181442"
         type="image/png"/>
-      <pubDate>Wed, 06 Nov 2019 21:39:00 +0100</pubDate>
-      <dc:date>2019-11-06T21:39:00.861232+01:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 15:37:20 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:20.622431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase, 30–31 October 2019 – Seat Projections for the Parties</title>
@@ -1352,32 +1372,32 @@
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 347–393 seats&lt;/li&gt;&lt;li&gt;Labour Party: 131–175 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 34–48 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 50–55 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 5–25 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 352–397 seats&lt;/li&gt;&lt;li&gt;Labour Party: 142–182 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 34–49 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 50–55 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium-seats.png"
-        length="162341"
+        length="155933"
         type="image/png"/>
-      <pubDate>Fri, 08 Nov 2019 20:38:42 +0100</pubDate>
-      <dc:date>2019-11-08T20:38:42.615483+01:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 16:31:24 +0100</pubDate>
+      <dc:date>2019-12-01T16:31:24.168525+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium-coalitions-seats.png"
-        length="503159"
+        length="478213"
         type="image/png"/>
-      <pubDate>Fri, 08 Nov 2019 20:38:42 +0100</pubDate>
-      <dc:date>2019-11-08T20:38:42.615483+01:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 16:31:24 +0100</pubDate>
+      <dc:date>2019-12-01T16:31:24.168525+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 22.3–26.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 13.6–16.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 8.8–11.4%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-25-Opinium.png"
-        length="180719"
+        length="179537"
         type="image/png"/>
-      <pubDate>Fri, 08 Nov 2019 20:38:42 +0100</pubDate>
-      <dc:date>2019-11-08T20:38:42.615483+01:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 16:31:24 +0100</pubDate>
+      <dc:date>2019-12-01T16:31:24.168525+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 October 2019 – Voting Intentions</title>
@@ -1450,14 +1470,34 @@
       <dc:date>2019-11-30T17:57:33.99105+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase, 17–18 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 288–358 seats&lt;/li&gt;&lt;li&gt;Labour Party: 175–233 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 44–65 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 39–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–5 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase-seats.png"
+        length="172184"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 15:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:13.690238+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase, 17–18 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase-coalitions-seats.png"
+        length="601285"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 15:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:13.690238+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase, 17–18 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 33.5–39.4%&lt;/li&gt;&lt;li&gt;Labour Party: 24.6–30.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 15.0–19.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.3–13.2%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-18-Panelbase.png"
-        length="195410"
+        length="193669"
         type="image/png"/>
-      <pubDate>Thu, 07 Nov 2019 22:21:59 +0100</pubDate>
-      <dc:date>2019-11-07T22:21:59.838615+01:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 15:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T15:37:13.690238+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 15–17 October 2019 – Seat Projections for the Parties</title>
@@ -1520,14 +1560,34 @@
       <dc:date>2019-11-15T20:32:47.136201+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 335–387 seats&lt;/li&gt;&lt;li&gt;Labour Party: 129–176 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 48–66 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 41–54 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0–1 seats&lt;/li&gt;&lt;li&gt;Change UK: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov-seats.png"
+        length="167302"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 18:37:10 +0100</pubDate>
+      <dc:date>2019-12-01T18:37:10.051292+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov-coalitions-seats.png"
+        length="517789"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 18:37:10 +0100</pubDate>
+      <dc:date>2019-12-01T18:37:10.051292+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 34.8–39.6%&lt;/li&gt;&lt;li&gt;Labour Party: 20.1–24.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 16.3–20.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 9.6–12.7%&lt;/li&gt;&lt;li&gt;Change UK: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-15-YouGov.png"
-        length="189149"
+        length="187983"
         type="image/png"/>
-      <pubDate>Sat, 26 Oct 2019 12:54:08 +0200</pubDate>
-      <dc:date>2019-10-26T12:54:08.01333+02:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 18:37:10 +0100</pubDate>
+      <dc:date>2019-12-01T18:37:10.051292+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 10–15 October 2019 – Voting Intentions</title>
@@ -1540,14 +1600,34 @@
       <dc:date>2019-11-11T20:57:08.72004+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 9–11 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 241–305 seats&lt;/li&gt;&lt;li&gt;Labour Party: 219–275 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 46–66 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 48–53 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase-seats.png"
+        length="156930"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 13:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T13:37:13.253232+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase for The Sunday Times, 9–11 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase-coalitions-seats.png"
+        length="597500"
+        type="image/png"/>
+      <pubDate>Sun, 01 Dec 2019 13:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T13:37:13.253232+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 9–11 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 31.2–35.3%&lt;/li&gt;&lt;li&gt;Labour Party: 28.2–32.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 15.5–18.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 10.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-10-11-Panelbase.png"
-        length="159235"
+        length="158529"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2019 16:33:24 +0200</pubDate>
-      <dc:date>2019-10-20T16:33:24.285252+02:00</dc:date>
+      <pubDate>Sun, 01 Dec 2019 13:37:13 +0100</pubDate>
+      <dc:date>2019-12-01T13:37:13.253232+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019 – Voting Intentions</title>
@@ -6649,6 +6729,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-11-30T22:56:02.314722+01:00</dc:date>
+    <dc:date>2019-12-01T18:37:10.051292+01:00</dc:date>
   </channel>
 </rss>
