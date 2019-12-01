@@ -14,7 +14,7 @@ Last result: **1.9%** (General Election of 8 June 2017)
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0.2% | N/A | N/A | N/A | N/A |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -371,7 +371,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News |  |  |  |  |  |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
