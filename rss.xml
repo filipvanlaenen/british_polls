@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 02 Dec 2019 17:06:46 +0100</pubDate>
+    <pubDate>Mon, 02 Dec 2019 20:06:57 +0100</pubDate>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 28–30 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-30-Deltapoll.html#seats</link>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-27-BMGResearch.png"
         length="181968"
         type="image/png"/>
-      <pubDate>Mon, 02 Dec 2019 06:53:15 +0100</pubDate>
-      <dc:date>2019-12-02T06:53:15.149248+01:00</dc:date>
+      <pubDate>Mon, 02 Dec 2019 20:06:57 +0100</pubDate>
+      <dc:date>2019-12-02T20:06:57.286894+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 25–26 November 2019 – Seat Projections for the Parties</title>
@@ -6899,6 +6899,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-12-02T17:06:46.034625+01:00</dc:date>
+    <dc:date>2019-12-02T20:06:57.286894+01:00</dc:date>
   </channel>
 </rss>
