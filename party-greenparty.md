@@ -383,7 +383,7 @@ Last result: **1** seats (General Election of 8 June 2017)
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1 | 1 | 1 |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 1 | 1 | 1 | 1 | 1 |
-| [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2 | 2 | 1–2 | 1–3 |
+| [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1 | 1 | 1 | 1 |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -730,9 +730,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% |  |
-| 1 | 85% | 99.5% | Last Result, Median |
-| 2 | 14% | 14% |  |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 86% | 99.5% | Last Result, Median |
+| 2 | 13% | 14% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
