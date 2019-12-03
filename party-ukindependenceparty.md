@@ -11,6 +11,8 @@ Last result: **1.9%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 0.0% | N/A | N/A | N/A | N/A |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
@@ -359,8 +361,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 95% | 100% | Median |
-| 0.5–1.5% | 5% | 5% |  |
+| 0.0–0.5% | 94% | 100% | Median |
+| 0.5–1.5% | 6% | 6% |  |
 | 1.5–2.5% | 0% | 0% | Last Result |
 
 
@@ -373,6 +375,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase |  |  |  |  |  |
