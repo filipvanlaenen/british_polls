@@ -8,7 +8,67 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 02 Dec 2019 21:50:24 +0100</pubDate>
+    <pubDate>Tue, 03 Dec 2019 19:18:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ICM Research, 29 November–2 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 310–358 seats&lt;/li&gt;&lt;li&gt;Labour Party: 207–255 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 29–38 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 16–48 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–3 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch-seats.png"
+        length="152020"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:59 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:59.226307+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research, 29 November–2 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch-coalitions-seats.png"
+        length="528531"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:59 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:59.226307+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research, 29 November–2 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.2–44.5%&lt;/li&gt;&lt;li&gt;Labour Party: 33.2–37.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.7–14.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Brexit Party: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-12-02-ICMResearch.png"
+        length="175385"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:59 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:59.226307+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 26–30 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 315–381 seats&lt;/li&gt;&lt;li&gt;Labour Party: 183–248 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 20–32 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 11–50 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 3–10 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation-seats.png"
+        length="165046"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:53 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:53.618179+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 26–30 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation-coalitions-seats.png"
+        length="602895"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:53 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:53.618179+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 26–30 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.0–45.0%&lt;/li&gt;&lt;li&gt;Labour Party: 30.2–35.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.2–13.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2019-11-30-Survation.png"
+        length="192558"
+        type="image/png"/>
+      <pubDate>Tue, 03 Dec 2019 19:18:53 +0100</pubDate>
+      <dc:date>2019-12-03T19:18:53.618179+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 28–30 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2019-11-30-Deltapoll.html#seats</link>
@@ -6919,6 +6979,6 @@
       <pubDate>Wed, 23 Jan 2019 17:23:33 +0100</pubDate>
       <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
     </item>
-    <dc:date>2019-12-02T21:50:24.891621+01:00</dc:date>
+    <dc:date>2019-12-03T19:18:59.226307+01:00</dc:date>
   </channel>
 </rss>
