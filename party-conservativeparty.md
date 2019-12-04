@@ -406,7 +406,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 347 | 322–367 | 319–372 | 313–376 | 304–385 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 331 | 317–345 | 311–352 | 307–355 | 299–366 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 351 | 323–373 | 318–378 | 313–383 | 302–397 |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 351 | 339–364 | 333–370 | 328–380 | 313–392 |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 355 | 339–366 | 331–370 | 325–376 | 313–391 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 350 | 329–364 | 324–368 | 318–372 | 309–383 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 348 | 329–366 | 326–371 | 322–373 | 315–380 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 394 | 373–404 | 369–407 | 366–411 | 362–418 |
@@ -424,7 +424,7 @@ Last result: **317** seats (General Election of 8 June 2017)
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 374 | 363–387 | 358–394 | 357–400 | 350–407 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 326 | 307–348 | 302–354 | 298–359 | 288–366 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 355 | 332–375 | 324–381 | 318–387 | 309–400 |
-| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 332 | 317–351 | 313–355 | 310–360 | 302–370 |
+| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 332 | 317–351 | 313–355 | 310–361 | 302–369 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 370 | 353–388 | 347–392 | 343–400 | 332–407 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 334 | 315–354 | 311–358 | 308–362 | 301–366 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 345 | 317–365 | 310–370 | 300–372 | 293–386 |

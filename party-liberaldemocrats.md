@@ -403,7 +403,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 33 | 31–38 | 30–41 | 30–42 | 28–46 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 32 | 30–36 | 29–37 | 29–38 | 28–41 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 39 | 33–47 | 32–48 | 31–50 | 30–52 |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 42 | 36–46 | 34–48 | 33–48 | 32–50 |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41 | 36–47 | 33–48 | 33–49 | 32–51 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 42 | 36–47 | 36–48 | 34–49 | 32–51 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 35 | 31–38 | 30–40 | 30–42 | 29–44 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 28 | 24–30 | 22–30 | 22–31 | 20–32 |
