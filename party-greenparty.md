@@ -10,11 +10,14 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.5–4.7% | 1.0–5.2% | 0.9–5.5% | 0.7–6.0% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.5–4.7% | 1.0–5.1% | 0.9–5.4% | 0.7–6.0% |
+| [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% |
+| [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
+| [27–29 November 2019](2019-11-29-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 5.0% | 4.4–5.7% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% |
@@ -364,9 +367,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0.1% | 100% |  |
 | 0.5–1.5% | 10% | 99.9% |  |
 | 1.5–2.5% | 15% | 90% | Last Result |
-| 2.5–3.5% | 43% | 75% | Median |
-| 3.5–4.5% | 20% | 32% |  |
-| 4.5–5.5% | 11% | 13% |  |
+| 2.5–3.5% | 42% | 75% | Median |
+| 3.5–4.5% | 21% | 33% |  |
+| 4.5–5.5% | 10% | 12% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -381,10 +384,13 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1 | 1 | 1 |
+| [27–29 November 2019](2019-11-29-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
