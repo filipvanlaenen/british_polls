@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 39–44% <br> 309–361 | 30–35% <br> 188–237 | 10–13% <br> 24–35 | 4–6% <br> 48–57 | N/A <br> N/A | 3–5% <br> 1–2 | 0–1% <br> 0–3 | 3–5% <br> 0 | N/A <br> N/A |
-| [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 40–44% <br> 319–367 | 30–34% <br> 186–228 | 11–13% <br> 27–33 | 3–5% <br> 41–53 | N/A <br> N/A | 1–3% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 41–46% <br> 321–386 | 29–34% <br> 170–229 | 13–17% <br> 30–46 | 2–4% <br> 13–50 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 3–11 | 1–3% <br> 0 | N/A <br> N/A |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 40–45% <br> 310–358 | 33–37% <br> 207–255 | 12–15% <br> 29–38 | 2–4% <br> 16–48 | N/A <br> N/A | 1–3% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 39–45% <br> 315–381 | 30–36% <br> 183–248 | 9–13% <br> 20–32 | 2–4% <br> 11–50 | N/A <br> N/A | 3–5% <br> 1–2 | 1–2% <br> 3–10 | 2–4% <br> 0 | N/A <br> N/A |
