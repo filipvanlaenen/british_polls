@@ -11,6 +11,8 @@ Last result: **1.9%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
@@ -379,6 +381,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News |  |  |  |  |  |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public |  |  |  |  |  |
