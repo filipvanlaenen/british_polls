@@ -10,8 +10,8 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
-| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -371,8 +371,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 49% | 100% |  |
-| 0.5–1.5% | 49% | 51% | Last Result, Median |
+| 0.0–0.5% | 53% | 100% | Median |
+| 0.5–1.5% | 44% | 47% | Last Result |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -386,7 +386,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–8 | 0–8 | 0–9 | 0–11 |
-| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 5 | 4–8 | 4–8 | 3–8 | 3–9 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -748,17 +748,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 3% | 69% |  |
-| 2 | 5% | 66% |  |
-| 3 | 12% | 61% | Median |
-| 4 | 14% | 49% | Last Result |
-| 5 | 18% | 35% |  |
-| 6 | 3% | 17% |  |
-| 7 | 1.4% | 15% |  |
-| 8 | 10% | 13% |  |
-| 9 | 1.3% | 3% |  |
-| 10 | 0.8% | 2% |  |
+| 0 | 35% | 100% |  |
+| 1 | 3% | 65% |  |
+| 2 | 6% | 63% |  |
+| 3 | 12% | 56% | Median |
+| 4 | 13% | 44% | Last Result |
+| 5 | 16% | 31% |  |
+| 6 | 2% | 16% |  |
+| 7 | 1.3% | 13% |  |
+| 8 | 9% | 12% |  |
+| 9 | 1.2% | 3% |  |
+| 10 | 0.7% | 1.4% |  |
 | 11 | 0.6% | 0.7% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
