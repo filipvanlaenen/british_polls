@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 42–47% <br> 325–377 | 31–36% <br> 183–227 | 10–13% <br> 19–31 | 3–5% <br> 39–54 | 1–2% <br> 0 | 1–3% <br> 1 | 0–1% <br> 0–4 | 2–4% <br> 0 | N/A <br> N/A |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 41–45% <br> 316–370 | 31–35% <br> 186–232 | 11–15% <br> 29–36 | 3–5% <br> 40–53 | N/A <br> N/A | 2–4% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 41–45% <br> 312–362 | 32–36% <br> 190–233 | 12–15% <br> 28–35 | 3–5% <br> 41–51 | N/A <br> N/A | 1–3% <br> 1 | 1–2% <br> 3–8 | 2–4% <br> 0 | N/A <br> N/A |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 44–48% <br> 348–394 | 29–33% <br> 163–204 | 12–15% <br> 28–33 | 3–5% <br> 38–51 | N/A <br> N/A | 1–3% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
