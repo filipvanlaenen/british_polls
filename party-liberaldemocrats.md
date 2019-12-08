@@ -10,11 +10,12 @@ Last result: **7.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 11.6–15.2% | 10.9–15.8% | 10.3–16.2% | 9.5–17.1% |
+| N/A | [Poll Average](average.html) | 12.9% | 11.4–14.5% | 10.8–15.1% | 10.3–15.8% | 9.5–16.8% |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11.1% | N/A | N/A | N/A | N/A |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 13.0% | 12.0–14.1% | 11.7–14.4% | 11.4–14.7% | 11.0–15.2% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
-| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 12.0% | N/A | N/A | N/A | N/A |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.2–14.0% |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 11.8% | 10.9–12.9% | 10.6–13.2% | 10.4–13.5% | 9.9–14.0% |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.7–13.5% | 10.3–14.0% |
@@ -373,14 +374,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0.6% | 100% |  |
 | 9.5–10.5% | 3% | 99.4% |  |
-| 10.5–11.5% | 6% | 97% |  |
-| 11.5–12.5% | 18% | 90% |  |
-| 12.5–13.5% | 34% | 72% | Median |
-| 13.5–14.5% | 21% | 38% |  |
-| 14.5–15.5% | 11% | 17% |  |
-| 15.5–16.5% | 5% | 7% |  |
-| 16.5–17.5% | 1.3% | 1.4% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 9% | 96% |  |
+| 11.5–12.5% | 24% | 88% |  |
+| 12.5–13.5% | 36% | 64% | Median |
+| 13.5–14.5% | 19% | 28% |  |
+| 14.5–15.5% | 6% | 9% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.7% | 0.8% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -392,11 +393,12 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 29–37 | 27–39 | 25–41 | 21–45 |
+| N/A | [Poll Average](average.html) | 31 | 29–36 | 27–38 | 25–40 | 21–45 |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 31 | 30–35 | 30–36 | 29–36 | 27–38 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 31 | 29–33 | 29–35 | 28–35 | 27–37 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 30 | 29–32 | 29–32 | 28–33 | 26–36 |
-| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 31 | 29–33 | 28–33 | 27–35 | 25–36 |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30 | 29–33 | 28–35 | 27–35 | 26–37 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 30 | 26–32 | 25–33 | 24–35 | 22–36 |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 30 | 29–32 | 28–33 | 27–33 | 25–36 |
@@ -765,32 +767,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 99.7% |  |
 | 21 | 0.6% | 99.5% |  |
 | 22 | 0.2% | 98.9% |  |
-| 23 | 0.6% | 98.8% |  |
+| 23 | 0.6% | 98.7% |  |
 | 24 | 0.3% | 98% |  |
-| 25 | 1.1% | 98% |  |
-| 26 | 0.8% | 97% |  |
+| 25 | 1.2% | 98% |  |
+| 26 | 0.9% | 97% |  |
 | 27 | 2% | 96% |  |
-| 28 | 2% | 94% |  |
-| 29 | 8% | 92% |  |
-| 30 | 17% | 84% |  |
-| 31 | 16% | 68% |  |
-| 32 | 15% | 52% | Median |
-| 33 | 10% | 37% |  |
-| 34 | 2% | 27% |  |
-| 35 | 7% | 24% |  |
-| 36 | 4% | 18% |  |
-| 37 | 4% | 13% |  |
-| 38 | 3% | 10% |  |
-| 39 | 2% | 6% |  |
-| 40 | 1.2% | 4% |  |
-| 41 | 0.8% | 3% |  |
-| 42 | 0.6% | 2% |  |
-| 43 | 0.5% | 2% |  |
-| 44 | 0.5% | 1.2% |  |
-| 45 | 0.3% | 0.7% |  |
-| 46 | 0.2% | 0.5% |  |
-| 47 | 0.1% | 0.3% |  |
-| 48 | 0.1% | 0.2% |  |
+| 28 | 3% | 94% |  |
+| 29 | 9% | 92% |  |
+| 30 | 20% | 83% |  |
+| 31 | 18% | 63% | Median |
+| 32 | 15% | 45% |  |
+| 33 | 10% | 29% |  |
+| 34 | 2% | 19% |  |
+| 35 | 6% | 17% |  |
+| 36 | 4% | 12% |  |
+| 37 | 2% | 8% |  |
+| 38 | 2% | 6% |  |
+| 39 | 1.0% | 4% |  |
+| 40 | 0.8% | 3% |  |
+| 41 | 0.6% | 2% |  |
+| 42 | 0.4% | 2% |  |
+| 43 | 0.3% | 1.1% |  |
+| 44 | 0.3% | 0.8% |  |
+| 45 | 0.2% | 0.5% |  |
+| 46 | 0.2% | 0.4% |  |
+| 47 | 0.1% | 0.2% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 

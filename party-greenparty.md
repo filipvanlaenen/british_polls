@@ -10,11 +10,12 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.4–4.7% | 1.0–5.2% | 0.8–5.5% | 0.6–6.0% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.8–4.7% | 1.7–5.2% | 1.6–5.5% | 1.4–6.0% |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2.0% | N/A | N/A | N/A | N/A |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 2.0% | N/A | N/A | N/A | N/A |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
@@ -370,9 +371,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 12% | 99.9% |  |
-| 1.5–2.5% | 34% | 88% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 44% | 98% | Last Result |
 | 2.5–3.5% | 29% | 54% | Median |
 | 3.5–4.5% | 13% | 25% |  |
 | 4.5–5.5% | 10% | 12% |  |
@@ -389,11 +390,12 @@ Last result: **1** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1 | 1 | 1 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
@@ -751,8 +753,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 89% | 99.4% | Last Result, Median |
+| 1 | 89% | 100% | Last Result, Median |
 | 2 | 10% | 11% |  |
 | 3 | 0.7% | 0.8% |  |
 | 4 | 0% | 0% |  |
