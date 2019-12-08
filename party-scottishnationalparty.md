@@ -10,8 +10,11 @@ Last result: **3.1%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.8% | 2.6–5.1% | 2.4–5.4% | 2.1–5.9% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.7–4.5% | 2.5–4.7% | 2.4–4.9% | 2.1–5.3% |
+| [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.0% | 2.9–5.4% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
+| [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 4.0% | N/A | N/A | N/A | N/A |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -161,7 +164,7 @@ Last result: **3.1%** (General Election of 8 June 2017)
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 4.3% | 4.0–4.6% | 3.9–4.6% | 3.9–4.7% | 3.7–4.8% |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 4.3% | 4.0–4.6% | 3.9–4.6% | 3.9–4.7% | 3.7–4.8% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.3% | 3.1–5.7% |
@@ -192,7 +195,7 @@ Last result: **3.1%** (General Election of 8 June 2017)
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 3.1% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% | 2.1–4.3% |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> People’s Vote | 3.0% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% | 2.1–4.3% |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.6–6.9% |
@@ -369,10 +372,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 36% | 95% | Last Result |
-| 3.5–4.5% | 44% | 59% | Median |
-| 4.5–5.5% | 13% | 15% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 2.5–3.5% | 40% | 95% | Last Result |
+| 3.5–4.5% | 47% | 55% | Median |
+| 4.5–5.5% | 8% | 8% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -384,8 +387,11 @@ Last result: **35** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 33–51 | 25–54 | 18–54 | 10–56 |
+| N/A | [Poll Average](average.html) | 43 | 32–51 | 23–51 | 18–52 | 8–53 |
+| [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 48 | 41–51 | 41–51 | 40–53 | 35–54 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 48 | 41–51 | 41–51 | 41–51 | 37–53 |
+| [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 45 | 41–50 | 40–51 | 38–51 | 34–52 |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 48 | 41–51 | 41–51 | 39–53 | 34–54 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 53 | 50–56 | 50–56 | 48–57 | 47–58 |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 50 | 42–51 | 41–52 | 41–53 | 39–54 |
@@ -535,7 +541,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [22 May 2019](2019-05-22-Survation.html) | Survation <br> Daily Mail | 51 | 49–53 | 39–53 | 35–53 | 21–53 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 53 | 53 | 53 | 53 | 53–54 |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 53 | 53 | 53–54 | 53–54 | 53–55 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best for Britain and Hope Not Hate | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 53 | 53–54 | 53–54 | 52–54 | 51–54 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 53 | 53–55 | 53–56 | 53–57 | 53–58 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 53 | 53–54 | 53–54 | 53–54 | 53–56 |
 | [13–14 May 2019](2019-05-14-YouGov.html) | YouGov <br> The Times | 53 | 53–54 | 52–54 | 51–54 | 50–54 |
@@ -566,7 +572,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [24–25 March 2019](2019-03-25-YouGov.html) | YouGov <br> The Times | 51 | 48–54 | 47–54 | 45–54 | 42–55 |
 | [20–22 March 2019](2019-03-22-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 55–58 | 53–59 |
 | [15–19 March 2019](2019-03-19-IpsosMORI.html) | Ipsos MORI | 57 | 53–58 | 52–59 | 51–59 | 48–59 |
-| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> The Times | 48 | 37–51 | 33–51 | 22–53 | 8–53 |
+| [14–15 March 2019](2019-03-15-YouGov.html) | YouGov <br> People’s Vote | 48 | 37–51 | 33–51 | 22–53 | 8–53 |
 | [15 March 2019](2019-03-15-Survation.html) | Survation <br> Daily Mail | 38 | 10–51 | 6–52 | 3–53 | 1–54 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 57 | 55–58 | 54–58 | 52–58 | 51–59 |
 | [7–11 March 2019](2019-03-11-KantarPublic.html) | Kantar Public | 57 | 53–59 | 51–59 | 49–59 | 45–59 |
@@ -747,60 +753,56 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 99.9% |  |
 | 3 | 0.1% | 99.9% |  |
 | 4 | 0.1% | 99.8% |  |
-| 5 | 0.1% | 99.8% |  |
+| 5 | 0.1% | 99.7% |  |
 | 6 | 0.1% | 99.7% |  |
-| 7 | 0% | 99.6% |  |
-| 8 | 0% | 99.6% |  |
+| 7 | 0% | 99.5% |  |
+| 8 | 0% | 99.5% |  |
 | 9 | 0% | 99.5% |  |
 | 10 | 0.1% | 99.5% |  |
-| 11 | 0.1% | 99.4% |  |
-| 12 | 0.1% | 99.3% |  |
-| 13 | 0.2% | 99.2% |  |
-| 14 | 0.1% | 99.0% |  |
-| 15 | 0.2% | 98.9% |  |
-| 16 | 0.4% | 98.7% |  |
+| 11 | 0.1% | 99.3% |  |
+| 12 | 0.1% | 99.2% |  |
+| 13 | 0.2% | 99.1% |  |
+| 14 | 0.1% | 98.9% |  |
+| 15 | 0.2% | 98.8% |  |
+| 16 | 0.4% | 98.6% |  |
 | 17 | 0.5% | 98% |  |
 | 18 | 0.7% | 98% |  |
-| 19 | 0.3% | 97% |  |
+| 19 | 0.4% | 97% |  |
 | 20 | 0.3% | 97% |  |
-| 21 | 0.2% | 97% |  |
-| 22 | 0.6% | 97% |  |
-| 23 | 0.5% | 96% |  |
+| 21 | 0.2% | 96% |  |
+| 22 | 0.7% | 96% |  |
+| 23 | 0.5% | 95% |  |
 | 24 | 0.3% | 95% |  |
 | 25 | 0.3% | 95% |  |
-| 26 | 0.3% | 95% |  |
-| 27 | 0.2% | 95% |  |
-| 28 | 0.9% | 94% |  |
-| 29 | 0.5% | 93% |  |
-| 30 | 0.3% | 93% |  |
-| 31 | 0.9% | 93% |  |
-| 32 | 0.9% | 92% |  |
-| 33 | 3% | 91% |  |
-| 34 | 2% | 88% |  |
-| 35 | 1.4% | 87% | Last Result |
-| 36 | 1.5% | 85% |  |
-| 37 | 2% | 84% |  |
-| 38 | 2% | 81% |  |
-| 39 | 3% | 79% |  |
-| 40 | 3% | 76% |  |
-| 41 | 13% | 73% |  |
-| 42 | 4% | 60% |  |
-| 43 | 0.7% | 56% |  |
-| 44 | 0% | 56% |  |
-| 45 | 6% | 55% | Median |
-| 46 | 0.1% | 49% |  |
-| 47 | 7% | 49% |  |
-| 48 | 8% | 42% |  |
-| 49 | 0.3% | 34% |  |
-| 50 | 15% | 34% |  |
-| 51 | 9% | 18% |  |
-| 52 | 2% | 10% |  |
-| 53 | 3% | 8% |  |
-| 54 | 4% | 5% |  |
-| 55 | 0.6% | 2% |  |
-| 56 | 0.7% | 1.1% |  |
-| 57 | 0.3% | 0.4% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 26 | 0.3% | 94% |  |
+| 27 | 0.3% | 94% |  |
+| 28 | 1.0% | 94% |  |
+| 29 | 0.6% | 93% |  |
+| 30 | 0.3% | 92% |  |
+| 31 | 1.0% | 92% |  |
+| 32 | 1.0% | 91% |  |
+| 33 | 3% | 90% |  |
+| 34 | 2% | 87% |  |
+| 35 | 2% | 85% | Last Result |
+| 36 | 2% | 84% |  |
+| 37 | 3% | 82% |  |
+| 38 | 2% | 79% |  |
+| 39 | 3% | 77% |  |
+| 40 | 3% | 74% |  |
+| 41 | 15% | 70% |  |
+| 42 | 4% | 55% |  |
+| 43 | 1.0% | 51% | Median |
+| 44 | 0% | 50% |  |
+| 45 | 7% | 50% |  |
+| 46 | 0.3% | 43% |  |
+| 47 | 8% | 42% |  |
+| 48 | 8% | 34% |  |
+| 49 | 0.2% | 26% |  |
+| 50 | 15% | 25% |  |
+| 51 | 7% | 10% |  |
+| 52 | 0.4% | 3% |  |
+| 53 | 2% | 2% |  |
+| 54 | 0.4% | 0.5% |  |
+| 55 | 0% | 0% |  |
 
 
