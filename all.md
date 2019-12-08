@@ -5,10 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 41–45% <br> 316–370 | 31–35% <br> 186–232 | 11–15% <br> 29–36 | 3–5% <br> 40–53 | N/A <br> N/A | 2–4% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 41–45% <br> 312–362 | 32–36% <br> 190–233 | 12–15% <br> 28–35 | 3–5% <br> 41–51 | N/A <br> N/A | 1–3% <br> 1 | 1–2% <br> 3–8 | 2–4% <br> 0 | N/A <br> N/A |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 44–48% <br> 348–394 | 29–33% <br> 163–204 | 12–15% <br> 28–33 | 3–5% <br> 38–51 | N/A <br> N/A | 1–3% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
-| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 39–43% <br> 309–356 | 31–35% <br> 195–236 | 11–13% <br> 27–35 | 3–5% <br> 41–54 | N/A <br> N/A | 1–3% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 42–47% <br> 324–377 | 30–34% <br> 176–221 | 11–15% <br> 27–35 | 3–5% <br> 39–53 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 3–9 | 1–3% <br> 0 | N/A <br> N/A |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 39–44% <br> 309–361 | 30–35% <br> 188–237 | 10–13% <br> 24–35 | 4–6% <br> 48–57 | N/A <br> N/A | 3–5% <br> 1–2 | 0–1% <br> 0–3 | 3–5% <br> 0 | N/A <br> N/A |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 40–44% <br> 319–367 | 30–34% <br> 186–228 | 11–13% <br> 27–33 | 3–5% <br> 41–53 | N/A <br> N/A | 1–3% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
