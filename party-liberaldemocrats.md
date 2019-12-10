@@ -10,11 +10,15 @@ Last result: **7.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.0–14.4% | 10.5–15.1% | 10.1–15.7% | 9.4–16.7% |
+| N/A | [Poll Average](average.html) | 12.6% | 10.9–14.6% | 10.4–15.2% | 10.0–15.8% | 9.3–16.8% |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 12.0% | 11.1–13.0% | 10.8–13.2% | 10.6–13.5% | 10.2–14.0% |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 11.9% | 11.3–12.4% | 11.2–12.6% | 11.1–12.7% | 10.8–13.0% |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.6–13.6% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11.1% | 10.1–12.2% | 9.8–12.5% | 9.6–12.8% | 9.2–13.3% |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 13.0% | 12.0–14.1% | 11.7–14.4% | 11.4–14.7% | 11.0–15.2% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.4% |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.2–14.0% |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 11.8% | 10.9–12.9% | 10.6–13.2% | 10.4–13.5% | 9.9–14.0% |
@@ -372,14 +376,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
-| 8.5–9.5% | 0.7% | 100% |  |
-| 9.5–10.5% | 5% | 99.3% |  |
-| 10.5–11.5% | 13% | 94% |  |
-| 11.5–12.5% | 24% | 82% |  |
-| 12.5–13.5% | 33% | 58% | Median |
-| 13.5–14.5% | 17% | 25% |  |
-| 14.5–15.5% | 5% | 8% |  |
-| 15.5–16.5% | 2% | 3% |  |
+| 8.5–9.5% | 0.9% | 100% |  |
+| 9.5–10.5% | 5% | 99.1% |  |
+| 10.5–11.5% | 14% | 94% |  |
+| 11.5–12.5% | 27% | 80% |  |
+| 12.5–13.5% | 26% | 52% | Median |
+| 13.5–14.5% | 16% | 27% |  |
+| 14.5–15.5% | 7% | 10% |  |
+| 15.5–16.5% | 3% | 3% |  |
 | 16.5–17.5% | 0.6% | 0.7% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -393,11 +397,15 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–36 | 25–38 | 22–40 | 19–44 |
+| N/A | [Poll Average](average.html) | 30 | 27–36 | 24–38 | 21–40 | 18–45 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 30 | 28–33 | 27–35 | 26–35 | 24–38 |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 30 | 28–31 | 28–31 | 27–31 | 26–32 |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 27 | 20–30 | 18–30 | 18–31 | 17–33 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 27 | 21–30 | 20–30 | 19–31 | 18–32 |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 31 | 30–35 | 30–36 | 29–36 | 27–38 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 31 | 29–33 | 29–35 | 28–35 | 27–37 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 30 | 29–32 | 29–32 | 28–33 | 26–36 |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 35 | 32–38 | 31–41 | 31–43 | 30–47 |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 31 | 29–33 | 28–33 | 27–35 | 25–36 |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30 | 29–33 | 28–35 | 27–35 | 26–37 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 30 | 26–32 | 25–33 | 24–35 | 22–36 |
@@ -761,37 +769,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.3% | 99.9% |  |
-| 19 | 0.2% | 99.6% |  |
-| 20 | 0.4% | 99.4% |  |
-| 21 | 1.0% | 99.0% |  |
-| 22 | 0.8% | 98% |  |
-| 23 | 0.8% | 97% |  |
-| 24 | 0.6% | 96% |  |
-| 25 | 1.4% | 96% |  |
-| 26 | 2% | 94% |  |
-| 27 | 3% | 92% |  |
-| 28 | 3% | 89% |  |
-| 29 | 9% | 86% |  |
-| 30 | 20% | 77% |  |
-| 31 | 17% | 57% | Median |
-| 32 | 14% | 40% |  |
-| 33 | 9% | 26% |  |
+| 17 | 0.1% | 99.9% |  |
+| 18 | 0.5% | 99.8% |  |
+| 19 | 0.4% | 99.3% |  |
+| 20 | 0.7% | 98.9% |  |
+| 21 | 0.9% | 98% |  |
+| 22 | 1.1% | 97% |  |
+| 23 | 1.3% | 96% |  |
+| 24 | 0.8% | 95% |  |
+| 25 | 1.3% | 94% |  |
+| 26 | 2% | 93% |  |
+| 27 | 4% | 91% |  |
+| 28 | 5% | 87% |  |
+| 29 | 11% | 82% |  |
+| 30 | 23% | 71% | Median |
+| 31 | 15% | 48% |  |
+| 32 | 11% | 33% |  |
+| 33 | 6% | 23% |  |
 | 34 | 2% | 17% |  |
-| 35 | 5% | 16% |  |
-| 36 | 3% | 11% |  |
-| 37 | 2% | 7% |  |
+| 35 | 3% | 15% |  |
+| 36 | 3% | 12% |  |
+| 37 | 3% | 8% |  |
 | 38 | 2% | 5% |  |
 | 39 | 0.9% | 4% |  |
-| 40 | 0.7% | 3% |  |
-| 41 | 0.6% | 2% |  |
-| 42 | 0.4% | 1.4% |  |
-| 43 | 0.3% | 1.0% |  |
-| 44 | 0.3% | 0.7% |  |
-| 45 | 0.2% | 0.5% |  |
-| 46 | 0.1% | 0.3% |  |
-| 47 | 0.1% | 0.2% |  |
+| 40 | 0.6% | 3% |  |
+| 41 | 0.5% | 2% |  |
+| 42 | 0.5% | 2% |  |
+| 43 | 0.3% | 1.2% |  |
+| 44 | 0.3% | 0.9% |  |
+| 45 | 0.2% | 0.6% |  |
+| 46 | 0.2% | 0.4% |  |
+| 47 | 0.1% | 0.3% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |

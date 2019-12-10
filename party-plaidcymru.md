@@ -10,11 +10,15 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.8% |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0.2% | 0.2–0.4% | 0.2–0.4% | 0.1–0.4% | 0.1–0.5% |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -371,9 +375,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 53% | 100% | Median |
-| 0.5–1.5% | 44% | 47% | Last Result |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 54% | 100% | Median |
+| 0.5–1.5% | 44% | 46% | Last Result |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -386,10 +390,14 @@ Last result: **4** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–8 | 0–8 | 0–9 | 0–11 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 5 | 4–9 | 3–10 | 3–11 | 3–12 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 5 | 4–8 | 4–8 | 3–8 | 3–9 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 4–8 | 4–8 | 3–9 | 3–11 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -748,18 +756,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 3% | 65% |  |
-| 2 | 6% | 63% |  |
-| 3 | 12% | 56% | Median |
+| 0 | 40% | 100% |  |
+| 1 | 2% | 60% |  |
+| 2 | 5% | 58% |  |
+| 3 | 9% | 53% | Median |
 | 4 | 13% | 44% | Last Result |
-| 5 | 16% | 31% |  |
+| 5 | 15% | 31% |  |
 | 6 | 2% | 16% |  |
-| 7 | 1.3% | 13% |  |
+| 7 | 2% | 14% |  |
 | 8 | 9% | 12% |  |
 | 9 | 1.2% | 3% |  |
-| 10 | 0.7% | 1.4% |  |
-| 11 | 0.6% | 0.7% |  |
+| 10 | 0.9% | 2% |  |
+| 11 | 0.7% | 0.9% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
