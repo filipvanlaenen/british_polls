@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-12-08T21:37:12.405443+01:00</updated>
+  <updated>2019-12-10T19:07:28.398021+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.9–44.2%, 306–354 seats</li><li>Labour Party: 33.9–38.1%, 212–267 seats</li><li>Liberal Democrats: 10.6–13.5%, 26–35 seats</li><li>Brexit Party: 2.3–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-12-09-ICMResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-12-09-ICMResearch.html"/>
+    <title>Opinion Poll by ICM Research, 6–9 December 2019</title>
+    <updated>2019-12-10T06:38:26.742781+01:00</updated>
+    <dc:date>2019-12-10T06:38:26.742781+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.2–43.7%, 313–339 seats</li><li>Labour Party: 34.4–36.8%, 216–239 seats</li><li>Liberal Democrats: 11.1–12.7%, 27–31 seats</li><li>Scottish National Party: 3.5–4.5%, 42–51 seats</li><li>Plaid Cymru: 0.1–0.4%, 0–2 seats</li><li>Green Party: 1.6–2.4%, 1 seats</li><li>Brexit Party: 2.6–3.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-12-08-ComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-12-08-ComRes.html"/>
+    <title>Opinion Poll by ComRes for Remain United, 6–8 December 2019</title>
+    <updated>2019-12-10T06:38:20.55467+01:00</updated>
+    <dc:date>2019-12-10T06:38:20.55467+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.5–47.6%, 341–411 seats</li><li>Labour Party: 28.0–33.7%, 156–220 seats</li><li>Liberal Democrats: 9.1–12.9%, 18–31 seats</li><li>Scottish National Party: 2.1–4.2%, 13–50 seats</li><li>Plaid Cymru: 0.5–1.8%, 3–11 seats</li><li>Green Party: 1.3–3.0%, 1 seats</li><li>Brexit Party: 2.9–5.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-12-07-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-12-07-Survation.html"/>
+    <title>Opinion Poll by Survation for Good Morning Britain, 5–7 December 2019</title>
+    <updated>2019-12-10T06:38:15.030571+01:00</updated>
+    <dc:date>2019-12-10T06:38:15.030571+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.9–46.9%, 325–377 seats</li><li>Labour Party: 30.9–35.7%, 183–227 seats</li><li>Liberal Democrats: 9.6–12.8%, 19–31 seats</li><li>Scottish National Party: 3.2–5.2%, 39–54 seats</li><li>Plaid Cymru: 0.1–0.7%, 0–4 seats</li><li>UK Independence Party: 0.6–1.6%, 0 seats</li><li>Green Party: 1.4–2.9%, 1 seats</li><li>Brexit Party: 2.3–4.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-12-07-Deltapoll.html</id>
@@ -38,6 +62,14 @@
     <title>Opinion Poll by Opinium for The Observer, 4–6 December 2019</title>
     <updated>2019-12-08T17:26:28.201717+01:00</updated>
     <dc:date>2019-12-08T17:26:28.201717+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.7–43.6%, 314–371 seats</li><li>Labour Party: 29.8–34.5%, 187–240 seats</li><li>Liberal Democrats: 12.4–15.8%, 31–43 seats</li><li>Scottish National Party: 2.2–4.0%, 17–50 seats</li><li>Plaid Cymru: 0.1–0.7%, 0–4 seats</li><li>UK Independence Party: 0.1–0.7%, 0 seats</li><li>Green Party: 3.1–5.1%, 1–2 seats</li><li>Brexit Party: 3.1–5.1%, 0 seats</li><li>Change UK: 0.1–0.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-12-06-BMGResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-12-06-BMGResearch.html"/>
+    <title>Opinion Poll by BMG Research for The Independent, 4–6 December 2019</title>
+    <updated>2019-12-10T19:07:28.398021+01:00</updated>
+    <dc:date>2019-12-10T19:07:28.398021+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.9–43.2%, 309–356 seats</li><li>Labour Party: 31.0–35.1%, 195–236 seats</li><li>Liberal Democrats: 10.7–13.5%, 27–35 seats</li><li>Scottish National Party: 3.2–4.9%, 41–54 seats</li><li>Green Party: 1.5–2.7%, 1 seats</li><li>Brexit Party: 2.3–3.8%, 0 seats</li></ul></div></content>
@@ -1559,5 +1591,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-08T21:37:12.405443+01:00</dc:date>
+  <dc:date>2019-12-10T19:07:28.398021+01:00</dc:date>
 </feed>
