@@ -6,14 +6,22 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2019-12-10T19:07:28.398021+01:00</updated>
+  <updated>2019-12-11T19:37:13.596774+01:00</updated>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 39.9–44.2%, 306–354 seats</li><li>Labour Party: 33.9–38.1%, 212–267 seats</li><li>Liberal Democrats: 10.6–13.5%, 26–35 seats</li><li>Brexit Party: 2.3–3.8%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 40.1–44.4%, 303–351 seats</li><li>Labour Party: 34.1–38.3%, 214–264 seats</li><li>Liberal Democrats: 10.7–13.6%, 26–35 seats</li><li>Scottish National Party: 2.4–3.9%, 17–48 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–3 seats</li><li>UK Independence Party: 0.1–0.6%, 0 seats</li><li>Green Party: 1.5–2.7%, 1 seats</li><li>Brexit Party: 2.4–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2019-12-09-ICMResearch.html</id>
     <link href="https://filipvanlaenen.github.io/british_polls/2019-12-09-ICMResearch.html"/>
     <title>Opinion Poll by ICM Research, 6–9 December 2019</title>
-    <updated>2019-12-10T06:38:26.742781+01:00</updated>
-    <dc:date>2019-12-10T06:38:26.742781+01:00</dc:date>
+    <updated>2019-12-11T06:57:58.15416+01:00</updated>
+    <dc:date>2019-12-11T06:57:58.15416+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.4–45.5%, 358–401 seats</li><li>Labour Party: 28.4–32.2%, 179–229 seats</li><li>Liberal Democrats: 10.8–13.5%, 28–35 seats</li><li>Scottish National Party: 1.5–2.7%, 0–34 seats</li><li>Green Party: 3.3–5.0%, 1–3 seats</li><li>Brexit Party: 2.4–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2019-12-08-Qriously.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2019-12-08-Qriously.html"/>
+    <title>Opinion Poll by Qriously, 5–8 December 2019</title>
+    <updated>2019-12-11T19:37:13.596774+01:00</updated>
+    <dc:date>2019-12-11T19:37:13.596774+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.2–43.7%, 313–339 seats</li><li>Labour Party: 34.4–36.8%, 216–239 seats</li><li>Liberal Democrats: 11.1–12.7%, 27–31 seats</li><li>Scottish National Party: 3.5–4.5%, 42–51 seats</li><li>Plaid Cymru: 0.1–0.4%, 0–2 seats</li><li>Green Party: 1.6–2.4%, 1 seats</li><li>Brexit Party: 2.6–3.4%, 0 seats</li></ul></div></content>
@@ -1591,5 +1599,5 @@
     <updated>2019-01-23T17:23:33.730236+01:00</updated>
     <dc:date>2019-01-23T17:23:33.730236+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-10T19:07:28.398021+01:00</dc:date>
+  <dc:date>2019-12-11T19:37:13.596774+01:00</dc:date>
 </feed>
