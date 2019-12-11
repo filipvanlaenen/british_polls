@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 40–47% <br> 315–390 | 29–37% <br> 172–248 | 10–16% <br> 21–40 | 2–5% <br> 23–51 | 0–2% <br> 0 | 2–4% <br> 1 | 0–2% <br> 0–9 | 2–5% <br> 0 | 0–1% <br> 0 |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 40–44% <br> 306–354 | 34–38% <br> 212–267 | 11–13% <br> 26–35 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 40–47% <br> 315–394 | 29–37% <br> 173–241 | 10–16% <br> 22–40 | 2–5% <br> 4–51 | 0–1% <br> 0 | 2–5% <br> 1–2 | 0–2% <br> 0–9 | 2–5% <br> 0 | 0–1% <br> 0 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 40–44% <br> 303–351 | 34–38% <br> 214–264 | 11–14% <br> 26–35 | 2–4% <br> 17–48 | 0–1% <br> 0 | 1–3% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 41–46% <br> 358–401 | 28–32% <br> 179–229 | 11–14% <br> 28–35 | 2–3% <br> 0–34 | N/A <br> N/A | 3–5% <br> 1–3 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 41–44% <br> 313–339 | 34–37% <br> 216–239 | 11–13% <br> 27–31 | 3–4% <br> 42–51 | N/A <br> N/A | 2% <br> 1 | 0% <br> 0–2 | 3% <br> 0 | N/A <br> N/A |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 42–48% <br> 341–411 | 28–34% <br> 156–220 | 9–13% <br> 18–31 | 2–4% <br> 13–50 | N/A <br> N/A | 1–3% <br> 1 | 1–2% <br> 3–11 | 3–5% <br> 0 | N/A <br> N/A |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 42–47% <br> 325–377 | 31–36% <br> 183–227 | 10–13% <br> 19–31 | 3–5% <br> 39–54 | 1–2% <br> 0 | 1–3% <br> 1 | 0–1% <br> 0–4 | 2–4% <br> 0 | N/A <br> N/A |
