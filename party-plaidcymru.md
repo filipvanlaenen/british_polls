@@ -10,8 +10,9 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.8% |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0.2% | 0.2–0.4% | 0.2–0.4% | 0.1–0.4% | 0.1–0.5% |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -375,8 +376,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 54% | 100% | Median |
-| 0.5–1.5% | 44% | 46% | Last Result |
+| 0.0–0.5% | 58% | 100% | Median |
+| 0.5–1.5% | 40% | 42% | Last Result |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -389,8 +390,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–8 | 0–8 | 0–9 | 0–11 |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 0–8 | 0–8 | 0–9 | 0–11 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously |  |  |  |  |  |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 5 | 4–9 | 3–10 | 3–11 | 3–12 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
@@ -756,18 +758,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 2% | 60% |  |
-| 2 | 5% | 58% |  |
-| 3 | 9% | 53% | Median |
-| 4 | 13% | 44% | Last Result |
-| 5 | 15% | 31% |  |
-| 6 | 2% | 16% |  |
-| 7 | 2% | 14% |  |
-| 8 | 9% | 12% |  |
-| 9 | 1.2% | 3% |  |
-| 10 | 0.9% | 2% |  |
-| 11 | 0.7% | 0.9% |  |
+| 0 | 43% | 100% |  |
+| 1 | 2% | 57% |  |
+| 2 | 7% | 55% | Median |
+| 3 | 9% | 48% |  |
+| 4 | 12% | 39% | Last Result |
+| 5 | 13% | 28% |  |
+| 6 | 2% | 14% |  |
+| 7 | 1.4% | 12% |  |
+| 8 | 8% | 11% |  |
+| 9 | 1.1% | 3% |  |
+| 10 | 0.8% | 2% |  |
+| 11 | 0.7% | 0.8% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

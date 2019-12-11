@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 8 June 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
@@ -390,6 +391,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously |  |  |  |  |  |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
