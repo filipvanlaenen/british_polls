@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | UKIP | GREEN | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2017 | General Election | 43.4% <br> 317 | 41.0% <br> 262 | 7.6% <br> 12 | 3.1% <br> 35 | 1.9% <br> 0 | 1.7% <br> 1 | 0.5% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 44–47% <br> 336–375 | 32–35% <br> 185–217 | 11–13% <br> 26–31 | 3–5% <br> 41–51 | N/A <br> N/A | 2–3% <br> 1 | 0–1% <br> 0–3 | 2–3% <br> 0 | N/A <br> N/A |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 40–46% <br> 311–376 | 30–36% <br> 179–235 | 10–14% <br> 21–35 | 3–5% <br> 36–54 | N/A <br> N/A | 2–4% <br> 1 | 1–2% <br> 3–10 | 2–4% <br> 0 | N/A <br> N/A |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 39–43% <br> 286–335 | 34–38% <br> 217–262 | 11–13% <br> 26–35 | 3–5% <br> 40–54 | N/A <br> N/A | 1–3% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 40–44% <br> 303–351 | 34–38% <br> 214–264 | 11–14% <br> 26–35 | 2–4% <br> 17–48 | 0–1% <br> 0 | 1–3% <br> 1 | 0–1% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 41–46% <br> 358–401 | 28–32% <br> 179–229 | 11–14% <br> 28–35 | 2–3% <br> 0–34 | N/A <br> N/A | 3–5% <br> 1–3 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 41–44% <br> 313–339 | 34–37% <br> 216–239 | 11–13% <br> 27–31 | 3–4% <br> 42–51 | N/A <br> N/A | 2% <br> 1 | 0% <br> 0–2 | 3% <br> 0 | N/A <br> N/A |
