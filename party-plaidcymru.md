@@ -10,8 +10,12 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–1.2% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.3% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -379,9 +383,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% |  |
-| 0.5–1.5% | 49% | 52% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 68% | 100% | Median |
+| 0.5–1.5% | 31% | 32% | Last Result |
+| 1.5–2.5% | 1.3% | 1.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -393,8 +397,12 @@ Last result: **4** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–8 | 0–8 | 0–9 | 0–11 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–8 | 0–8 | 0–10 |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 5 | 5–8 | 5–8 | 5–8 | 3–9 |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0 | 0–2 | 0–3 | 0–3 | 0–5 |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 5 | 4–8 | 3–9 | 3–10 | 3–11 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -764,19 +772,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 2% | 65% |  |
-| 2 | 7% | 64% |  |
-| 3 | 9% | 57% | Median |
-| 4 | 13% | 49% | Last Result |
-| 5 | 17% | 35% |  |
-| 6 | 3% | 18% |  |
-| 7 | 2% | 16% |  |
-| 8 | 11% | 14% |  |
-| 9 | 1.3% | 3% |  |
-| 10 | 1.0% | 2% |  |
-| 11 | 0.8% | 1.0% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 0 | 50% | 100% | Median |
+| 1 | 2% | 50% |  |
+| 2 | 9% | 47% |  |
+| 3 | 9% | 38% |  |
+| 4 | 5% | 30% | Last Result |
+| 5 | 15% | 24% |  |
+| 6 | 2% | 10% |  |
+| 7 | 1.2% | 8% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.5% | 1.2% |  |
+| 10 | 0.4% | 0.7% |  |
+| 11 | 0.2% | 0.3% |  |
+| 12 | 0% | 0% |  |
 
 

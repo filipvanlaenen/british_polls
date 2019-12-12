@@ -10,8 +10,12 @@ Last result: **1.7%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–4.0% | 1.6–4.3% | 1.5–4.6% | 1.3–5.0% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.0–4.0% | 1.8–4.3% | 1.7–4.6% | 1.5–5.0% |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.5–3.7% | 2.3–3.9% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.4–3.7% | 2.2–3.9% |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
@@ -380,10 +384,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 48% | 97% | Last Result |
-| 2.5–3.5% | 30% | 49% | Median |
-| 3.5–4.5% | 17% | 20% |  |
+| 0.5–1.5% | 1.0% | 100% |  |
+| 1.5–2.5% | 29% | 99.0% | Last Result |
+| 2.5–3.5% | 50% | 70% | Median |
+| 3.5–4.5% | 18% | 20% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -397,7 +401,11 @@ Last result: **1** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 1 | 1 | 1 | 1 | 1 |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1 | 1 | 1 | 1 | 1 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 1 | 1 |
