@@ -11,6 +11,9 @@ Last result: **1.9%** (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0.0% | N/A | N/A | N/A | N/A |
@@ -391,6 +394,9 @@ Last result: **0** seats (General Election of 8 June 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously |  |  |  |  |  |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
