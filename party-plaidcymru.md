@@ -10,12 +10,14 @@ Last result: **0.5%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–1.2% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–1.1% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.3% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -383,9 +385,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 68% | 100% | Median |
-| 0.5–1.5% | 31% | 32% | Last Result |
-| 1.5–2.5% | 1.3% | 1.3% |  |
+| 0.0–0.5% | 73% | 100% | Median |
+| 0.5–1.5% | 25% | 27% | Last Result |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -402,7 +404,9 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0 | 0–2 | 0–3 | 0–3 | 0–5 |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 5 | 4–8 | 3–9 | 3–10 | 3–11 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -511,7 +515,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4 | 4–9 | 4–9 | 4–10 | 3–11 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 7 | 4–12 | 4–13 | 4–15 | 3–16 |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0 | 0–3 | 0–3 | 0–5 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0–3 | 0–4 | 0–5 | 0–7 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 4 | 4–9 | 4–9 | 4–9 | 3–12 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 0–3 | 0–4 | 0–5 |
@@ -772,18 +776,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 2% | 50% |  |
-| 2 | 9% | 47% |  |
-| 3 | 9% | 38% |  |
-| 4 | 5% | 30% | Last Result |
-| 5 | 15% | 24% |  |
-| 6 | 2% | 10% |  |
-| 7 | 1.2% | 8% |  |
-| 8 | 6% | 7% |  |
-| 9 | 0.5% | 1.2% |  |
-| 10 | 0.4% | 0.7% |  |
-| 11 | 0.2% | 0.3% |  |
+| 0 | 54% | 100% | Median |
+| 1 | 2% | 46% |  |
+| 2 | 11% | 44% |  |
+| 3 | 9% | 33% |  |
+| 4 | 3% | 24% | Last Result |
+| 5 | 14% | 22% |  |
+| 6 | 1.3% | 8% |  |
+| 7 | 0.9% | 6% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.4% | 1.0% |  |
+| 10 | 0.3% | 0.6% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

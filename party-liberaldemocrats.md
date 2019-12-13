@@ -10,12 +10,14 @@ Last result: **7.6%** (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 9.6–13.8% | 9.0–14.3% | 8.7–14.7% | 8.1–15.5% |
+| N/A | [Poll Average](average.html) | 11.9% | 9.4–13.3% | 8.9–13.6% | 8.6–14.0% | 8.1–14.6% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 11.0% | 10.3–11.8% | 10.1–11.9% | 10.0–12.1% | 9.6–12.5% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 12.1% | 11.3–12.9% | 11.1–13.1% | 11.0–13.3% | 10.6–13.7% |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 13.0% | 12.2–13.8% | 12.0–14.1% | 11.8–14.3% | 11.4–14.7% |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 12.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 9.8% | 9.0–10.8% | 8.8–11.1% | 8.6–11.3% | 8.2–11.8% |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 14.0% | N/A | N/A | N/A | N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.2–14.0% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 12.1% | 11.2–13.1% | 10.9–13.4% | 10.7–13.6% | 10.3–14.1% |
@@ -385,15 +387,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 2% | 100% | Last Result |
-| 8.5–9.5% | 8% | 98% |  |
-| 9.5–10.5% | 8% | 91% |  |
-| 10.5–11.5% | 16% | 82% |  |
-| 11.5–12.5% | 29% | 66% | Median |
-| 12.5–13.5% | 24% | 37% |  |
-| 13.5–14.5% | 10% | 13% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.4% | 0.4% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 9% | 98% |  |
+| 9.5–10.5% | 10% | 89% |  |
+| 10.5–11.5% | 19% | 79% |  |
+| 11.5–12.5% | 32% | 60% | Median |
+| 12.5–13.5% | 22% | 28% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 0.5% | 0.5% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -404,12 +405,14 @@ Last result: **12** seats (General Election of 8 June 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 20–33 | 17–36 | 16–37 | 14–41 |
+| N/A | [Poll Average](average.html) | 30 | 19–32 | 17–33 | 16–35 | 14–36 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 17 | 15–20 | 14–21 | 13–22 | 10–25 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 28 | 24–30 | 23–30 | 22–30 | 21–31 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 30 | 28–30 | 27–31 | 26–31 | 23–32 |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 31 | 30–33 | 30–33 | 30–34 | 28–36 |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 21 | 18–26 | 17–28 | 16–29 | 14–30 |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 29 | 26–32 | 23–33 | 21–35 | 19–37 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 30 | 28–33 | 27–33 | 26–35 | 25–36 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 30 | 28–32 | 27–33 | 26–35 | 24–37 |
@@ -518,7 +521,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 58 | 54–66 | 53–67 | 52–68 | 47–71 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 61 | 58–72 | 57–72 | 50–73 | 49–76 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 69 | 58–76 | 57–80 | 57–82 | 53–86 |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 69 | 62–69 | 60–70 | 60–74 | 58–77 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 70 | 65–75 | 62–76 | 60–78 | 58–83 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 54 | 48–58 | 47–59 | 45–59 | 45–63 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 74 | 67–77 | 65–78 | 64–81 | 61–85 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 70 | 62–75 | 61–75 | 61–76 | 59–81 |
@@ -780,43 +783,35 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% |  |
-| 11 | 0% | 99.9% |  |
+| 11 | 0.1% | 99.9% |  |
 | 12 | 0.1% | 99.9% | Last Result |
 | 13 | 0.2% | 99.8% |  |
-| 14 | 0.3% | 99.6% |  |
-| 15 | 0.5% | 99.3% |  |
-| 16 | 2% | 98.8% |  |
-| 17 | 3% | 97% |  |
-| 18 | 2% | 94% |  |
-| 19 | 2% | 92% |  |
-| 20 | 2% | 90% |  |
-| 21 | 2% | 89% |  |
-| 22 | 1.4% | 87% |  |
-| 23 | 0.7% | 86% |  |
-| 24 | 2% | 85% |  |
-| 25 | 1.0% | 83% |  |
-| 26 | 3% | 82% |  |
-| 27 | 3% | 79% |  |
-| 28 | 5% | 76% |  |
-| 29 | 9% | 71% |  |
-| 30 | 21% | 62% | Median |
-| 31 | 17% | 41% |  |
-| 32 | 10% | 24% |  |
-| 33 | 6% | 14% |  |
-| 34 | 0.5% | 8% |  |
-| 35 | 2% | 7% |  |
-| 36 | 2% | 5% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.5% | 1.4% |  |
-| 39 | 0.3% | 0.9% |  |
-| 40 | 0.1% | 0.7% |  |
-| 41 | 0.2% | 0.6% |  |
-| 42 | 0.1% | 0.4% |  |
-| 43 | 0.1% | 0.3% |  |
-| 44 | 0.1% | 0.2% |  |
-| 45 | 0% | 0.1% |  |
-| 46 | 0% | 0.1% |  |
-| 47 | 0.1% | 0.1% |  |
-| 48 | 0% | 0% |  |
+| 14 | 0.4% | 99.6% |  |
+| 15 | 0.6% | 99.2% |  |
+| 16 | 2% | 98.6% |  |
+| 17 | 4% | 96% |  |
+| 18 | 2% | 93% |  |
+| 19 | 2% | 90% |  |
+| 20 | 2% | 88% |  |
+| 21 | 2% | 87% |  |
+| 22 | 2% | 84% |  |
+| 23 | 0.8% | 83% |  |
+| 24 | 2% | 82% |  |
+| 25 | 1.2% | 80% |  |
+| 26 | 3% | 79% |  |
+| 27 | 4% | 75% |  |
+| 28 | 6% | 72% |  |
+| 29 | 9% | 66% |  |
+| 30 | 22% | 57% | Median |
+| 31 | 18% | 35% |  |
+| 32 | 9% | 17% |  |
+| 33 | 5% | 7% |  |
+| 34 | 0.3% | 3% |  |
+| 35 | 1.4% | 3% |  |
+| 36 | 0.9% | 1.2% |  |
+| 37 | 0.2% | 0.4% |  |
+| 38 | 0.1% | 0.2% |  |
+| 39 | 0% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 
