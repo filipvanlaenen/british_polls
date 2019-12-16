@@ -505,8 +505,8 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 220 | 203–231 | 199–233 | 194–237 | 184–250 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 161 | 137–174 | 135–178 | 134–183 | 124–194 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 219 | 197–229 | 192–231 | 187–232 | 179–243 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 145 | 129–164 | 126–168 | 123–168 | 117–169 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 209 | 189–223 | 181–241 | 172–241 | 159–265 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 165 | 146–178 | 143–182 | 140–182 | 136–185 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 219 | 199–231 | 192–242 | 189–249 | 178–260 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 123 | 109–149 | 109–149 | 109–149 | 101–166 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 142 | 115–162 | 109–172 | 106–172 | 96–191 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 159 | 151–167 | 151–181 | 149–188 | 131–190 |
@@ -618,7 +618,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 207 | 192–223 | 192–225 | 188–231 | 182–235 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 231 | 216–239 | 208–247 | 207–253 | 201–262 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 195 | 182–214 | 179–222 | 177–224 | 170–229 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 234 | 210–248 | 203–259 | 202–260 | 192–275 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 231 | 212–248 | 208–258 | 200–263 | 191–277 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 218 | 204–232 | 195–236 | 193–237 | 187–244 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 246 | 226–276 | 220–288 | 217–297 | 207–312 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 275 | 256–295 | 244–297 | 240–299 | 238–308 |

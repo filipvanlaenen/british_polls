@@ -494,8 +494,8 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 7 | 4–11 | 4–12 | 4–13 | 4–14 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 4 | 4–9 | 4–10 | 4–10 | 3–12 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 4–10 | 4–10 | 4–11 | 4–14 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 4–10 | 4–11 | 4–11 | 3–15 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 8 | 4–11 | 4–12 | 4–13 | 4–16 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 7 | 4–8 | 4–10 | 4–11 | 4–12 |
@@ -607,7 +607,7 @@ Last result: **4** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 6 | 5–8 | 4–8 | 4–9 | 3–11 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–8 | 4–8 | 3–8 | 3–9 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 5 | 5–9 | 5–10 | 4–10 | 3–11 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 5 | 3–5 | 3–6 | 3–7 | 2–8 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–3 | 0–3 | 0–4 | 0–4 |

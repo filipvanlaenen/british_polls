@@ -501,8 +501,8 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 61 | 58–67 | 56–69 | 54–70 | 49–72 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 69 | 63–76 | 61–78 | 59–80 | 55–81 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 65 | 60–72 | 59–74 | 58–75 | 55–76 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 47 | 40–47 | 38–48 | 37–48 | 34–49 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 73 | 66–84 | 65–86 | 61–86 | 60–90 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 48 | 40–49 | 38–49 | 37–50 | 34–52 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 73 | 66–79 | 65–81 | 64–84 | 61–88 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 80 | 79–83 | 74–90 | 73–90 | 68–93 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 74 | 67–80 | 64–81 | 63–83 | 59–88 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 61 | 59–66 | 59–68 | 59–72 | 55–75 |
@@ -614,7 +614,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 25–31 | 24–31 | 21–34 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 20 | 15–25 | 14–26 | 13–27 | 13–29 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 26 | 19–29 | 17–30 | 16–30 | 15–31 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 1–11 | 0–13 | 0–14 | 0–16 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 1–9 | 0–12 | 0–14 | 0–17 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 24 | 20–29 | 18–29 | 17–30 | 14–31 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 26 | 21–29 | 19–31 | 18–32 | 16–35 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 19 | 13–25 | 12–25 | 12–26 | 11–28 |

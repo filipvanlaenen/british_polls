@@ -499,7 +499,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 50 | 48–54 | 45–54 | 39–54 | 38–54 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 52 | 48–53 | 48–53 | 48–54 | 45–54 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 54 | 51–54 | 51–55 | 51–55 | 50–55 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 45 | 37–50 | 37–51 | 30–53 | 29–53 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 47 | 37–49 | 37–51 | 36–51 | 29–53 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 48 | 35–48 | 35–50 | 35–50 | 32–52 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 49 | 46–54 | 45–54 | 45–54 | 43–54 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 54 | 53–54 | 51–54 | 51–54 | 50–54 |
@@ -611,7 +611,7 @@ Last result: **35** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 50 | 45–53 | 43–54 | 41–54 | 40–54 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 51 | 42–56 | 41–57 | 41–57 | 40–57 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 50 | 45–53 | 41–54 | 41–56 | 38–57 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 52 | 43–57 | 38–58 | 35–58 | 28–58 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 52 | 43–56 | 40–58 | 36–58 | 24–58 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 50 | 47–54 | 45–56 | 42–56 | 41–57 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 39 | 17–49 | 8–51 | 4–51 | 0–54 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 52 | 48–57 | 45–57 | 44–57 | 39–58 |

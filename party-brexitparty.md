@@ -497,8 +497,8 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 1 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 1–3 | 0–4 | 0–5 | 0–7 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 27 | 20–33 | 19–34 | 18–40 | 15–48 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 19 | 10–29 | 8–29 | 6–37 | 5–41 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–3 | 0–4 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 35 | 29–46 | 19–52 | 19–53 | 19–62 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 47 | 27–63 | 20–69 | 19–70 | 19–72 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 18 | 13–24 | 12–24 | 10–27 | 10–33 |
