@@ -529,7 +529,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 238 | 211–261 | 210–273 | 205–279 | 199–295 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 177 | 151–189 | 149–189 | 143–193 | 140–204 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 203 | 194–219 | 181–227 | 180–243 | 172–252 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 206 | 200–231 | 186–231 | 174–250 | 165–252 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 232 | 220–249 | 208–249 | 200–262 | 191–265 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 189 | 167–230 | 154–230 | 134–230 | 134–233 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 175 | 154–201 | 150–201 | 142–201 | 134–211 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 149 | 136–165 | 134–165 | 128–165 | 119–180 |
@@ -618,7 +618,7 @@ Last result: **262** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 207 | 192–223 | 192–225 | 188–231 | 182–235 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 231 | 216–239 | 208–247 | 207–253 | 201–262 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 195 | 182–214 | 179–222 | 177–224 | 170–229 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 231 | 212–248 | 208–258 | 200–263 | 191–277 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 231 | 212–248 | 208–257 | 203–263 | 191–277 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 218 | 204–232 | 195–236 | 193–237 | 187–244 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 246 | 226–276 | 220–288 | 217–297 | 207–312 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 275 | 256–295 | 244–297 | 240–299 | 238–308 |

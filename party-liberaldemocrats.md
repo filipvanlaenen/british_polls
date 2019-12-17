@@ -525,7 +525,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 70 | 65–75 | 62–76 | 60–78 | 58–83 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 54 | 48–58 | 47–59 | 45–59 | 45–63 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 74 | 67–77 | 65–78 | 64–81 | 61–85 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 70 | 62–75 | 61–75 | 61–76 | 59–81 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 71 | 63–76 | 62–76 | 62–77 | 59–82 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 59 | 55–64 | 52–65 | 47–69 | 45–72 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 48 | 46–57 | 46–59 | 44–60 | 41–60 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 58 | 54–64 | 47–65 | 47–67 | 47–70 |
@@ -614,7 +614,7 @@ Last result: **12** seats (General Election of 8 June 2017)
 | [3–4 March 2019](2019-03-04-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 25–31 | 24–31 | 21–34 |
 | [26 February–1 March 2019](2019-03-01-Opinium.html) | Opinium <br> The Observer | 20 | 15–25 | 14–26 | 13–27 | 13–29 |
 | [22–23 February 2019](2019-02-23-YouGov.html) | YouGov <br> The Times | 26 | 19–29 | 17–30 | 16–30 | 15–31 |
-| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 1–9 | 0–12 | 0–14 | 0–17 |
+| [21–23 February 2019](2019-02-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4 | 1–9 | 0–12 | 0–14 | 0–17 |
 | [18–19 February 2019](2019-02-19-YouGov.html) | YouGov <br> The Times | 24 | 20–29 | 18–29 | 17–30 | 14–31 |
 | [18 February 2019](2019-02-18-Survation.html) | Survation <br> Daily Mail | 26 | 21–29 | 19–31 | 18–32 | 16–35 |
 | [13–15 February 2019](2019-02-15-Opinium.html) | Opinium <br> The Observer | 19 | 13–25 | 12–25 | 12–26 | 11–28 |

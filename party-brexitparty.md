@@ -521,7 +521,7 @@ Last result: **0** seats (General Election of 8 June 2017)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 4 | 2–7 | 2–9 | 2–10 | 1–15 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 35 | 17–41 | 17–45 | 17–50 | 15–59 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 31 | 23–43 | 22–44 | 20–47 | 13–50 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 40 | 26–40 | 21–40 | 18–49 | 12–61 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 4 | 2–4 | 1–4 | 0–6 | 0–8 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 44 | 32–50 | 31–58 | 29–60 | 23–67 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 13 | 9–21 | 9–28 | 9–33 | 8–36 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 50 | 38–58 | 37–60 | 34–65 | 22–65 |
