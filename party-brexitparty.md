@@ -10,18 +10,18 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.1–1.1% | 0.1–1.2% | 0.0–1.3% | 0.0–1.6% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.1–1.1% | 0.1–1.2% | 0.1–1.3% | 0.0–1.6% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [0–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
 | [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [29 July 2020](2020-07-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 July 2020](2020-07-24-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 1.3% | N/A | N/A | N/A | N/A |
+| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.2% |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 0.9% | N/A | N/A | N/A | N/A |
+| [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 0.9% | N/A | N/A | N/A | N/A |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% | Median |
-| 0.5–1.5% | 45% | 45% |  |
-| 1.5–2.5% | 0.6% | 0.6% | Last Result |
+| 0.0–0.5% | 42% | 100% |  |
+| 0.5–1.5% | 58% | 58% | Median |
+| 1.5–2.5% | 0.5% | 0.5% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -116,16 +116,16 @@ Last result: **0** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [0–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [29 July 2020](2020-07-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [23–24 July 2020](2020-07-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar |  |  |  |  |  |
