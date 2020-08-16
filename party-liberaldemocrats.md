@@ -132,7 +132,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–6 | 1–6 | 1–7 | 0–8 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar |  |  |  |  |  |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation |  |  |  |  |  |
@@ -214,14 +214,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 38% | 100% |  |
 | 1 | 10% | 62% |  |
-| 2 | 10% | 52% | Median |
-| 3 | 9% | 42% |  |
-| 4 | 14% | 33% |  |
-| 5 | 3% | 19% |  |
-| 6 | 8% | 16% |  |
-| 7 | 4% | 8% |  |
+| 2 | 11% | 52% | Median |
+| 3 | 11% | 41% |  |
+| 4 | 13% | 31% |  |
+| 5 | 3% | 18% |  |
+| 6 | 8% | 15% |  |
+| 7 | 3% | 7% |  |
 | 8 | 3% | 4% |  |
-| 9 | 0.6% | 1.1% |  |
+| 9 | 0.6% | 1.0% |  |
 | 10 | 0.2% | 0.5% |  |
 | 11 | 0.2% | 0.3% | Last Result |
 | 12 | 0.1% | 0.1% |  |
