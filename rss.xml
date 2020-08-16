@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 16 Aug 2020 14:27:20 +0200</pubDate>
+    <pubDate>Sun, 16 Aug 2020 20:16:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 12 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-12-RedfieldWiltonStrategies.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-12-RedfieldWiltonStrategies.png"
         length="182517"
         type="image/png"/>
-      <pubDate>Sat, 15 Aug 2020 17:51:33 +0200</pubDate>
-      <dc:date>2020-08-15T17:51:33.823614+02:00</dc:date>
+      <pubDate>Sun, 16 Aug 2020 20:16:08 +0200</pubDate>
+      <dc:date>2020-08-16T20:16:08.691171+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 4–5 August 2020 – Seat Projections for the Parties</title>
@@ -50,14 +50,34 @@
       <dc:date>2020-08-16T12:02:20.087445+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 30 July–4 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 311–374 seats&lt;/li&gt;&lt;li&gt;Labour Party: 198–260 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–2 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 50–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–5 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI-seats.png"
+        length="176843"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 17:52:18 +0200</pubDate>
+      <dc:date>2020-08-16T17:52:18.395564+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 30 July–4 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI-coalitions-seats.png"
+        length="534917"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 17:52:18 +0200</pubDate>
+      <dc:date>2020-08-16T17:52:18.395564+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 30 July–4 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.5–48.7%&lt;/li&gt;&lt;li&gt;Labour Party: 34.6–40.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-04-IpsosMORI.png"
         length="203688"
         type="image/png"/>
-      <pubDate>Sat, 15 Aug 2020 18:45:07 +0200</pubDate>
-      <dc:date>2020-08-15T18:45:07.033376+02:00</dc:date>
+      <pubDate>Sun, 16 Aug 2020 17:52:18 +0200</pubDate>
+      <dc:date>2020-08-16T17:52:18.395564+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 31 July–3 August 2020 – Seat Projections for the Parties</title>
@@ -90,14 +110,34 @@
       <dc:date>2020-08-16T09:33:21.94597+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 31 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 318–368 seats&lt;/li&gt;&lt;li&gt;Labour Party: 200–249 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–2 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov-seats.png"
+        length="165732"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 19:32:08 +0200</pubDate>
+      <dc:date>2020-08-16T19:32:08.040564+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 31 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov-coalitions-seats.png"
+        length="485932"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 19:32:08 +0200</pubDate>
+      <dc:date>2020-08-16T19:32:08.040564+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 31 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.2–47.2%&lt;/li&gt;&lt;li&gt;Labour Party: 34.0–38.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-31-YouGov.png"
         length="185083"
         type="image/png"/>
-      <pubDate>Sat, 15 Aug 2020 19:22:51 +0200</pubDate>
-      <dc:date>2020-08-15T19:22:51.150539+02:00</dc:date>
+      <pubDate>Sun, 16 Aug 2020 19:32:08 +0200</pubDate>
+      <dc:date>2020-08-16T19:32:08.040564+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 31 July 2020 – Seat Projections for the Parties</title>
@@ -220,15 +260,35 @@
       <dc:date>2020-08-15T21:42:01.646357+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 15–17 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 321–363 seats&lt;/li&gt;&lt;li&gt;Labour Party: 203–245 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–2 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium-seats.png"
+        length="165160"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 16:23:47 +0200</pubDate>
+      <dc:date>2020-08-16T16:23:47.505132+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 15–17 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium-coalitions-seats.png"
+        length="464526"
+        type="image/png"/>
+      <pubDate>Sun, 16 Aug 2020 16:23:47 +0200</pubDate>
+      <dc:date>2020-08-16T16:23:47.505132+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 15–17 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.6–47.0%&lt;/li&gt;&lt;li&gt;Labour Party: 34.6–38.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.3%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-17-Opinium.png"
         length="197948"
         type="image/png"/>
-      <pubDate>Sat, 15 Aug 2020 23:28:51 +0200</pubDate>
-      <dc:date>2020-08-15T23:28:51.866434+02:00</dc:date>
+      <pubDate>Sun, 16 Aug 2020 16:23:47 +0200</pubDate>
+      <dc:date>2020-08-16T16:23:47.505132+02:00</dc:date>
     </item>
-    <dc:date>2020-08-16T14:27:20.306033+02:00</dc:date>
+    <dc:date>2020-08-16T20:16:08.691171+02:00</dc:date>
   </channel>
 </rss>
