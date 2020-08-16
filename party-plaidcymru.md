@@ -115,9 +115,9 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
-| [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
-| [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -126,7 +126,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar |  |  |  |  |  |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation |  |  |  |  |  |
@@ -206,12 +206,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 4% | 82% |  |
-| 2 | 11% | 78% |  |
-| 3 | 2% | 67% |  |
-| 4 | 11% | 65% | Last Result |
-| 5 | 44% | 53% | Median |
+| 0 | 19% | 100% |  |
+| 1 | 5% | 81% |  |
+| 2 | 10% | 76% |  |
+| 3 | 2% | 66% |  |
+| 4 | 10% | 64% | Last Result |
+| 5 | 44% | 54% | Median |
 | 6 | 8% | 10% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0.1% |  |

@@ -118,19 +118,19 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 50–58 | 48–58 | 45–58 | 33–58 |
-| [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–56 | 45–58 | 42–58 | 32–58 |
+| N/A | [Poll Average](average.html) | 58 | 50–58 | 48–58 | 44–58 | 33–58 |
+| [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–56 | 44–58 | 41–58 | 32–58 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
-| [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 50–58 | 47–58 |
+| [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 50–58 | 46–58 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 53 | 44–58 | 39–58 | 33–58 | 24–58 |
-| [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 58 | 54–58 | 54–58 | 52–58 | 51–58 |
+| [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [29 July 2020](2020-07-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 47–56 | 45–58 | 40–58 | 32–58 |
 | [23–24 July 2020](2020-07-24-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 52–58 | 50–58 |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 47–56 | 44–57 | 40–58 | 31–58 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
-| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 56–58 |
+| [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 55–58 |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar |  |  |  |  |  |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation |  |  |  |  |  |
@@ -222,29 +222,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 99.7% |  |
 | 32 | 0.1% | 99.6% |  |
 | 33 | 0.1% | 99.5% |  |
-| 34 | 0.1% | 99.4% |  |
+| 34 | 0.1% | 99.5% |  |
 | 35 | 0.1% | 99.4% |  |
 | 36 | 0.1% | 99.3% |  |
 | 37 | 0.1% | 99.2% |  |
 | 38 | 0.1% | 99.1% |  |
 | 39 | 0.1% | 99.0% |  |
 | 40 | 0.2% | 98.8% |  |
-| 41 | 0.2% | 98.7% |  |
+| 41 | 0.3% | 98.6% |  |
 | 42 | 0.3% | 98% |  |
-| 43 | 0.2% | 98% |  |
+| 43 | 0.3% | 98% |  |
 | 44 | 0.4% | 98% |  |
-| 45 | 0.6% | 98% |  |
+| 45 | 0.6% | 97% |  |
 | 46 | 0.8% | 97% |  |
-| 47 | 0.6% | 96% |  |
+| 47 | 0.9% | 96% |  |
 | 48 | 2% | 95% | Last Result |
-| 49 | 3% | 94% |  |
+| 49 | 2% | 93% |  |
 | 50 | 2% | 91% |  |
-| 51 | 4% | 89% |  |
-| 52 | 3% | 86% |  |
-| 53 | 4% | 82% |  |
-| 54 | 5% | 78% |  |
-| 55 | 15% | 73% |  |
-| 56 | 4% | 58% |  |
+| 51 | 3% | 89% |  |
+| 52 | 3% | 85% |  |
+| 53 | 3% | 82% |  |
+| 54 | 5% | 79% |  |
+| 55 | 14% | 74% |  |
+| 56 | 6% | 60% |  |
 | 57 | 1.2% | 54% |  |
 | 58 | 53% | 53% | Median |
 | 59 | 0% | 0% |  |
