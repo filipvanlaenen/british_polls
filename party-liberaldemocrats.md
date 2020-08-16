@@ -120,16 +120,16 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–7 | 0–8 | 0–10 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–8 | 3–8 | 3–9 | 2–11 |
-| [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 4 | 2–6 | 2–6 | 1–6 | 1–7 |
+| [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 4 | 2–6 | 2–6 | 1–6 | 0–7 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 3 | 1–6 | 1–8 | 0–8 | 0–11 |
 | [31 July 2020](2020-07-31-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [29 July 2020](2020-07-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
+| [31 July 2020](2020-07-31-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [29 July 2020](2020-07-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [23–24 July 2020](2020-07-24-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–3 | 0–3 |
-| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
+| [22–23 July 2020](2020-07-23-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–6 | 1–6 | 1–7 | 0–8 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -212,18 +212,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% |  |
-| 1 | 10% | 62% |  |
-| 2 | 11% | 52% | Median |
-| 3 | 11% | 41% |  |
-| 4 | 13% | 31% |  |
-| 5 | 3% | 18% |  |
-| 6 | 8% | 15% |  |
-| 7 | 3% | 7% |  |
+| 0 | 37% | 100% |  |
+| 1 | 11% | 63% |  |
+| 2 | 10% | 52% | Median |
+| 3 | 10% | 42% |  |
+| 4 | 13% | 32% |  |
+| 5 | 3% | 19% |  |
+| 6 | 8% | 16% |  |
+| 7 | 4% | 8% |  |
 | 8 | 3% | 4% |  |
-| 9 | 0.6% | 1.0% |  |
-| 10 | 0.2% | 0.5% |  |
-| 11 | 0.2% | 0.3% | Last Result |
+| 9 | 0.7% | 1.2% |  |
+| 10 | 0.2% | 0.6% |  |
+| 11 | 0.3% | 0.3% | Last Result |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
