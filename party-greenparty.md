@@ -10,7 +10,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 1.7–4.5% | 1.5–4.8% | 1.4–5.1% | 1.2–5.6% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.5–4.5% | 1.3–4.8% | 1.2–5.0% | 1.0–5.5% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -23,11 +23,11 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
-| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
-| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 1.5% | N/A | N/A | N/A | N/A |
-| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 4.0% | N/A | N/A | N/A | N/A |
-| [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 3.2% | N/A | N/A | N/A | N/A |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 2.3% | N/A | N/A | N/A | N/A |
+| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
+| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
+| [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.8–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 2.4% | N/A | N/A | N/A | N/A |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 3.2% | N/A | N/A | N/A | N/A |
@@ -101,11 +101,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 12% | 94% |  |
-| 2.5–3.5% | 34% | 82% | Last Result, Median |
-| 3.5–4.5% | 38% | 48% |  |
-| 4.5–5.5% | 9% | 10% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 18% | 88% |  |
+| 2.5–3.5% | 30% | 71% | Last Result, Median |
+| 3.5–4.5% | 32% | 41% |  |
+| 4.5–5.5% | 8% | 9% |  |
 | 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -131,11 +131,11 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 0–1 | 0–1 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar |  |  |  |  |  |
-| [10–12 July 2020](2020-07-12-Survation.html) | Survation |  |  |  |  |  |
-| [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
+| [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov |  |  |  |  |  |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation |  |  |  |  |  |
@@ -210,8 +210,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 99.2% | 99.2% | Last Result, Median |
+| 0 | 2% | 100% |  |
+| 1 | 98% | 98% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
