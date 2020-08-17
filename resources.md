@@ -4,11 +4,11 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page with opinion polls: "[Opinion polling for the 2019 United Kingdom general election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_United_Kingdom_general_election)"
-+ Downloadable flat file with 2017 election results: "[Historical Data and Plots](http://www.electoralcalculus.co.uk/flatfile.html)"
-+ Detailed 2017 election results on Wikipedia: "[Results of the 2017 United Kingdom general election](https://en.wikipedia.org/wiki/Results_of_the_2017_United_Kingdom_general_election)"
-+ Wikipedia page on the 2017 election: "[2017 United Kingdom general election](https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election)"
-+ Summary of the election results by the BBC: "[Results of the 2017 General Election](http://www.bbc.com/news/election/2017/results)"
++ Wikipedia page with opinion polls: "[Opinion polling for the next United Kingdom general election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election)"
++ Detailed 2019 election results on Wikipedia: "[Results of the 2019 United Kingdom general election](https://en.wikipedia.org/wiki/Results_of_the_2019_United_Kingdom_general_election)"
++ Downloadable file with the 2019 election results, scraped from Wikipedia: "[sapor/united-kingdom-20191212.psv at master · filipvanlaenen/sapor](https://github.com/filipvanlaenen/sapor/blob/master/data/gb/united-kingdom-20191212.psv)"
++ Wikipedia page on the 2019 election: "[2019 United Kingdom general election](https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election)"
++ Downloadable flat file with 2019 election results: "[Historical Data and Plots](http://www.electoralcalculus.co.uk/flatfile.html)"
 
 ## Similar Websites
 
@@ -18,13 +18,17 @@ The following websites provide similar information to this website:
 + [ElectionForecast.co.uk](http://electionforecast.co.uk/) by Chris Hanretty
 + [Election Polling](http://www.electionpolling.co.uk/polls/general-election)
 + [Elections Etc](https://electionsetc.com/) by Stephen Fisher
++ [Electograph – United Kingdom](https://www.electograph.com/search/label/United%20Kingdom)
 + [Electoral Calculus](http://www.electoralcalculus.co.uk/homepage.html) by Martin Baxter
 + [Forecast UK](http://forecastuk.org.uk/)
 + [Nigel Marriott's Blog](https://marriott-stats.com/nigels-blog/)
 + [Number Cruncher Politics](https://www.ncpolitics.uk/) by Matt Singh
 + [PME Politics](http://www.pmepolitics.co.uk/) by Patrick English
++ [POLITICO Poll of Polls — British polls, trends and election news for the United Kingdom - POLITICO](https://www.politico.eu/europe-poll-of-polls/united-kingdom/)
 + [Principalfish](http://principalfish.co.uk/electionmaps/)
++ [Twitter Search: EuropeElects UK](https://twitter.com/search?q=europeelects%20uk&src=typed_query&f=live)
 + [UK-Elect](http://www.ukelect.co.uk/index.html)
++ [UK - Europe Elects](https://europeelects.eu/european-union/uk/)
 
 ## Other Resources
 
