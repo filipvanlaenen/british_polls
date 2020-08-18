@@ -28,7 +28,7 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 42.7% | 41.3–44.1% | 40.9–44.5% | 40.5–44.9% | 39.8–45.6% |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 43.2% | 41.7–44.6% | 41.3–45.0% | 41.0–45.4% | 40.3–46.1% |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 43.2% | 41.5–44.8% | 41.1–45.3% | 40.7–45.7% | 39.9–46.5% |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 46.8% | N/A | N/A | N/A | N/A |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 46.8% | 45.2–48.4% | 44.7–48.9% | 44.3–49.2% | 43.6–50.0% |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.3% | N/A | N/A | N/A | N/A |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 44.8% | N/A | N/A | N/A | N/A |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 42.1% | N/A | N/A | N/A | N/A |
@@ -142,7 +142,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 333 | 317–348 | 311–351 | 308–357 | 297–366 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 326 | 302–334 | 301–341 | 299–343 | 288–349 |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 348 | 348 | 348 | 348 | 348 |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov |  |  |  |  |  |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 349 | 340–368 | 339–372 | 335–375 | 324–379 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation |  |  |  |  |  |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
