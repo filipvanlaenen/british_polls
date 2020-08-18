@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 17 Aug 2020 18:06:04 +0200</pubDate>
+    <pubDate>Tue, 18 Aug 2020 08:28:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 12 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-12-RedfieldWiltonStrategies.html#seats</link>
@@ -419,6 +419,16 @@
       <pubDate>Mon, 17 Aug 2020 08:43:12 +0200</pubDate>
       <dc:date>2020-08-17T08:43:12.284146+02:00</dc:date>
     </item>
-    <dc:date>2020-08-17T18:06:04.404158+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by YouGov, 8–9 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-07-09-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 44.3–49.2%&lt;/li&gt;&lt;li&gt;Labour Party: 34.3–39.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.0–7.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-09-YouGov.png"
+        length="185965"
+        type="image/png"/>
+      <pubDate>Tue, 18 Aug 2020 08:28:02 +0200</pubDate>
+      <dc:date>2020-08-18T08:28:02.159604+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-18T08:28:02.159604+02:00</dc:date>
   </channel>
 </rss>
