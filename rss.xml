@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 19 Aug 2020 08:59:57 +0200</pubDate>
+    <pubDate>Wed, 19 Aug 2020 10:22:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 12 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-12-RedfieldWiltonStrategies.html#seats</link>
@@ -499,6 +499,56 @@
       <pubDate>Wed, 19 Aug 2020 08:59:57 +0200</pubDate>
       <dc:date>2020-08-19T08:59:57.318118+02:00</dc:date>
     </item>
-    <dc:date>2020-08-19T08:59:57.318118+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 18–19 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-06-19-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.6–46.0%&lt;/li&gt;&lt;li&gt;Labour Party: 37.7–42.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.1–6.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.3%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-19-Opinium.png"
+        length="198270"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 09:20:07 +0200</pubDate>
+      <dc:date>2020-08-19T09:20:07.905627+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 18 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-06-18-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.1–45.5%&lt;/li&gt;&lt;li&gt;Labour Party: 36.1–40.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-18-RedfieldWiltonStrategies.png"
+        length="177327"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 09:35:51 +0200</pubDate>
+      <dc:date>2020-08-19T09:35:51.820753+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 11–15 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-06-15-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.1–48.0%&lt;/li&gt;&lt;li&gt;Labour Party: 33.8–39.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.8–10.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–4.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-15-Kantar.png"
+        length="214199"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 09:51:47 +0200</pubDate>
+      <dc:date>2020-08-19T09:51:47.440845+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes for The Daily Telegraph, 12–14 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-06-14-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.2–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 34.2–38.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.9–10.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-14-SavantaComRes.png"
+        length="185790"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 10:07:16 +0200</pubDate>
+      <dc:date>2020-08-19T10:07:16.959126+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 11–12 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-06-12-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 43.4–48.2%&lt;/li&gt;&lt;li&gt;Labour Party: 35.3–40.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.0–7.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–4.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-12-YouGov.png"
+        length="191985"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2020 10:22:23 +0200</pubDate>
+      <dc:date>2020-08-19T10:22:23.096084+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-19T10:22:23.096084+02:00</dc:date>
   </channel>
 </rss>
