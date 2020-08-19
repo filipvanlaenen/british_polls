@@ -35,8 +35,8 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 8.1% | 7.4–9.0% | 7.2–9.2% | 7.0–9.4% | 6.7–9.9% |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.4% | 5.7–8.7% |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
+| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.8% | 4.1–5.9% | 4.0–6.0% | 3.8–6.4% |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | N/A | N/A | N/A | N/A |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 8.3% | N/A | N/A | N/A | N/A |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 9.1% | N/A | N/A | N/A | N/A |
@@ -146,7 +146,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 4 | 2–6 | 2–7 | 2–8 | 1–8 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 3 | 2–4 | 2–6 | 1–6 | 0–6 |
-| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
+| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |

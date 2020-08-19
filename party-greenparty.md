@@ -36,7 +36,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 2.3% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 3.3% | N/A | N/A | N/A | N/A |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 2.3% | N/A | N/A | N/A | N/A |
@@ -143,7 +143,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 1 | 1 | 1 | 1 | 1 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
-| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
+| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 1 | 1 | 1 | 1 | 1 |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |

@@ -36,7 +36,7 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 43.8% | 42.3–45.2% | 41.9–45.6% | 41.6–46.0% | 40.9–46.7% |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 43.2% | 41.8–44.7% | 41.4–45.1% | 41.0–45.4% | 40.4–46.1% |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 44.8% | 43.3–46.2% | 42.9–46.6% | 42.6–47.0% | 41.9–47.6% |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 43.8% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 43.8% | 42.4–45.4% | 42.0–45.7% | 41.6–46.1% | 40.9–46.8% |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.3% | N/A | N/A | N/A | N/A |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 45.0% | N/A | N/A | N/A | N/A |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 40.2% | N/A | N/A | N/A | N/A |
@@ -149,7 +149,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 321 | 305–339 | 299–345 | 293–349 | 288–354 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 317 | 305–337 | 299–341 | 295–343 | 289–348 |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 341 | 321–354 | 315–357 | 311–362 | 302–368 |
-| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
+| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 338 | 318–352 | 314–356 | 310–361 | 302–368 |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |
