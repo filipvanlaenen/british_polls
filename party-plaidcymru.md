@@ -36,12 +36,12 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.5–1.6% | 0.5–1.8% |
-| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0.3% | N/A | N/A | N/A | N/A |
-| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 1.0% | N/A | N/A | N/A | N/A |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.3% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.3% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% | 0.0–0.8% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 1.1% | N/A | N/A | N/A | N/A |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | N/A | N/A | N/A | N/A |
@@ -140,11 +140,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |
-| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph |  |  |  |  |  |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 1 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |

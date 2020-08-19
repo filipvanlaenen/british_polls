@@ -38,9 +38,9 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0.9% | N/A | N/A | N/A | N/A |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0.9% | 0.6–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0.9% | N/A | N/A | N/A | N/A |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 0.5% | N/A | N/A | N/A | N/A |
@@ -142,9 +142,9 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph |  |  |  |  |  |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |

@@ -36,12 +36,12 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 39.7% | 38.3–41.1% | 37.9–41.5% | 37.5–41.9% | 36.9–42.6% |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 36.2% | 34.8–37.6% | 34.4–38.0% | 34.1–38.3% | 33.4–39.0% |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 38.6% | 37.3–40.1% | 36.9–40.5% | 36.5–40.8% | 35.9–41.5% |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 39.9% | 38.4–41.4% | 38.0–41.7% | 37.7–42.1% | 37.0–42.8% |
-| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.2% | N/A | N/A | N/A | N/A |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 36.6% | N/A | N/A | N/A | N/A |
-| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 36.2% | N/A | N/A | N/A | N/A |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 37.6% | N/A | N/A | N/A | N/A |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 40.2% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 39.9% | 38.5–41.3% | 38.1–41.7% | 37.7–42.1% | 37.1–42.7% |
+| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.2% | 36.8–39.6% | 36.4–40.0% | 36.1–40.4% | 35.4–41.1% |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 36.6% | 34.7–38.5% | 34.2–39.0% | 33.8–39.5% | 32.9–40.4% |
+| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 36.2% | 34.9–37.6% | 34.5–38.0% | 34.2–38.3% | 33.6–39.0% |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 37.6% | 36.1–39.2% | 35.7–39.6% | 35.3–40.0% | 34.6–40.8% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 40.2% | 38.8–41.7% | 38.4–42.1% | 38.0–42.5% | 37.3–43.2% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.9% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 36.5% | N/A | N/A | N/A | N/A |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 38.2% | N/A | N/A | N/A | N/A |
@@ -150,11 +150,11 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 250 | 232–265 | 227–268 | 226–272 | 222–278 |
 | [24–25 June 2020](2020-06-25-Survation.html) | Survation | 227 | 215–246 | 211–252 | 208–256 | 203–265 |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 238 | 225–256 | 220–262 | 217–266 | 210–275 |
-| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar |  |  |  |  |  |
-| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph |  |  |  |  |  |
-| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 244 | 233–264 | 227–268 | 225–274 | 222–277 |
+| [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 244 | 228–261 | 226–268 | 220–271 | 214–280 |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 216 | 209–251 | 204–251 | 202–255 | 195–260 |
+| [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 245 | 229–263 | 226–267 | 224–271 | 218–276 |
+| [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 221 | 208–239 | 203–245 | 202–250 | 196–259 |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |
