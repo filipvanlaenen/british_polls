@@ -29,13 +29,13 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 43.2% | 41.7–44.6% | 41.3–45.0% | 41.0–45.4% | 40.3–46.1% |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 43.2% | 41.5–44.8% | 41.1–45.3% | 40.7–45.7% | 39.9–46.5% |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 46.8% | 45.2–48.4% | 44.7–48.9% | 44.3–49.2% | 43.6–50.0% |
-| [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.3% | N/A | N/A | N/A | N/A |
-| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 44.8% | N/A | N/A | N/A | N/A |
-| [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 42.1% | N/A | N/A | N/A | N/A |
-| [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 42.8% | N/A | N/A | N/A | N/A |
-| [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 43.8% | N/A | N/A | N/A | N/A |
-| [24–25 June 2020](2020-06-25-Survation.html) | Survation | 43.2% | N/A | N/A | N/A | N/A |
-| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 44.8% | N/A | N/A | N/A | N/A |
+| [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.3% | 42.8–45.7% | 42.4–46.1% | 42.1–46.5% | 41.4–47.2% |
+| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 44.8% | 42.8–46.8% | 42.2–47.4% | 41.7–47.9% | 40.7–48.8% |
+| [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 42.1% | 40.7–43.6% | 40.3–44.0% | 40.0–44.4% | 39.3–45.1% |
+| [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 42.8% | 41.4–44.2% | 40.9–44.6% | 40.6–45.0% | 39.9–45.7% |
+| [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 43.8% | 42.3–45.2% | 41.9–45.6% | 41.6–46.0% | 40.9–46.7% |
+| [24–25 June 2020](2020-06-25-Survation.html) | Survation | 43.2% | 41.8–44.7% | 41.4–45.1% | 41.0–45.4% | 40.4–46.1% |
+| [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 44.8% | 43.3–46.2% | 42.9–46.6% | 42.6–47.0% | 41.9–47.6% |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 43.8% | N/A | N/A | N/A | N/A |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.3% | N/A | N/A | N/A | N/A |
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 45.0% | N/A | N/A | N/A | N/A |
@@ -143,12 +143,12 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 326 | 302–334 | 301–341 | 299–343 | 288–349 |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 348 | 348 | 348 | 348 | 348 |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 349 | 340–368 | 339–372 | 335–375 | 324–379 |
-| [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [3–6 July 2020](2020-07-06-Survation.html) | Survation |  |  |  |  |  |
-| [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
-| [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [24–25 June 2020](2020-06-25-Survation.html) | Survation |  |  |  |  |  |
+| [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 329 | 311–347 | 306–351 | 303–353 | 295–361 |
+| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 344 | 320–366 | 314–372 | 306–375 | 295–382 |
+| [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 320 | 298–332 | 291–337 | 290–340 | 285–346 |
+| [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 321 | 305–339 | 299–345 | 293–349 | 288–354 |
+| [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 317 | 305–337 | 299–341 | 295–343 | 289–348 |
+| [24–25 June 2020](2020-06-25-Survation.html) | Survation | 341 | 321–354 | 315–357 | 311–362 | 302–368 |
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
