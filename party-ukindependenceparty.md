@@ -45,8 +45,8 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
-| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
+| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -148,8 +148,8 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation |  |  |  |  |  |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |

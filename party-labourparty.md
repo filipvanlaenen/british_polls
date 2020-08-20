@@ -42,12 +42,12 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 36.2% | 34.9–37.6% | 34.5–38.0% | 34.2–38.3% | 33.6–39.0% |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 37.6% | 36.1–39.2% | 35.7–39.6% | 35.3–40.0% | 34.6–40.8% |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 40.2% | 38.8–41.7% | 38.4–42.1% | 38.0–42.5% | 37.3–43.2% |
-| [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.9% | N/A | N/A | N/A | N/A |
-| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 36.5% | N/A | N/A | N/A | N/A |
-| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 38.2% | N/A | N/A | N/A | N/A |
-| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 40.9% | N/A | N/A | N/A | N/A |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 40.1% | N/A | N/A | N/A | N/A |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 39.0% | N/A | N/A | N/A | N/A |
+| [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.9% | 37.3–40.5% | 36.8–41.0% | 36.4–41.4% | 35.7–42.2% |
+| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 36.5% | 34.6–38.4% | 34.1–39.0% | 33.6–39.5% | 32.7–40.4% |
+| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 38.2% | 36.3–40.1% | 35.8–40.7% | 35.3–41.2% | 34.4–42.1% |
+| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 40.9% | 39.5–42.4% | 39.1–42.8% | 38.8–43.1% | 38.1–43.8% |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 40.1% | 38.4–41.7% | 38.0–42.2% | 37.6–42.6% | 36.8–43.4% |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 39.0% | 37.0–41.0% | 36.5–41.5% | 36.0–42.1% | 35.1–43.0% |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 36.1% | N/A | N/A | N/A | N/A |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 36.1% | N/A | N/A | N/A | N/A |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 39.9% | N/A | N/A | N/A | N/A |
@@ -156,12 +156,12 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 245 | 229–263 | 226–267 | 224–271 | 218–276 |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 221 | 208–239 | 203–245 | 202–250 | 196–259 |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |
-| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [3 June 2020](2020-06-03-Survation.html) | Survation |  |  |  |  |  |
+| [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 257 | 238–273 | 230–278 | 229–281 | 222–288 |
+| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 235 | 214–255 | 209–262 | 202–268 | 194–276 |
+| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 239 | 226–263 | 225–278 | 215–283 | 202–286 |
+| [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 255 | 236–271 | 236–271 | 229–278 | 225–280 |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 279 | 256–301 | 254–305 | 252–306 | 238–315 |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 229 | 229–276 | 229–279 | 229–283 | 229–283 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |

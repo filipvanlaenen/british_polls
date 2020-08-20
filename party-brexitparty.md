@@ -43,11 +43,11 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 0.5% | N/A | N/A | N/A | N/A |
-| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | N/A | N/A | N/A | N/A |
+| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 1.4% | N/A | N/A | N/A | N/A |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 0.4% | N/A | N/A | N/A | N/A |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 1.4% | 1.0–1.8% | 0.9–2.0% | 0.9–2.1% | 0.7–2.3% |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.9% | N/A | N/A | N/A | N/A |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 0.1% | N/A | N/A | N/A | N/A |
@@ -147,11 +147,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [9–10 June 2020](2020-06-10-Survation.html) | Survation |  |  |  |  |  |
-| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [9–10 June 2020](2020-06-10-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
+| [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [3 June 2020](2020-06-03-Survation.html) | Survation |  |  |  |  |  |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
