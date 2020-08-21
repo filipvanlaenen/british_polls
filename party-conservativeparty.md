@@ -50,14 +50,14 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 42.1% | 40.1–44.1% | 39.5–44.7% | 39.0–45.2% | 38.1–46.1% |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.1% | 41.4–44.7% | 41.0–45.2% | 40.6–45.6% | 39.8–46.4% |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 46.4% | 44.8–48.0% | 44.3–48.4% | 43.9–48.8% | 43.2–49.6% |
-| [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 44.0% | N/A | N/A | N/A | N/A |
-| [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44.5% | N/A | N/A | N/A | N/A |
-| [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 43.7% | N/A | N/A | N/A | N/A |
-| [27 May 2020](2020-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.7% | N/A | N/A | N/A | N/A |
-| [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 44.5% | N/A | N/A | N/A | N/A |
-| [22–26 May 2020](2020-05-26-Survation.html) | Survation | 46.3% | N/A | N/A | N/A | N/A |
-| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 48.5% | N/A | N/A | N/A | N/A |
-| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 48.5% | N/A | N/A | N/A | N/A |
+| [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 44.0% | 42.6–45.5% | 42.2–45.9% | 41.8–46.2% | 41.1–46.9% |
+| [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44.5% | 42.8–46.1% | 42.4–46.6% | 42.0–47.0% | 41.2–47.8% |
+| [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 43.7% | 42.2–45.1% | 41.9–45.5% | 41.5–45.9% | 40.8–46.6% |
+| [27 May 2020](2020-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.7% | 41.0–44.3% | 40.5–44.8% | 40.1–45.2% | 39.4–46.0% |
+| [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 44.5% | 42.9–46.1% | 42.4–46.5% | 42.0–46.9% | 41.3–47.7% |
+| [22–26 May 2020](2020-05-26-Survation.html) | Survation | 46.3% | 44.3–48.3% | 43.7–48.8% | 43.2–49.3% | 42.3–50.3% |
+| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 48.5% | 47.1–50.0% | 46.7–50.4% | 46.3–50.8% | 45.6–51.5% |
+| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 48.5% | 47.0–50.1% | 46.5–50.6% | 46.2–50.9% | 45.4–51.7% |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 47.9% | N/A | N/A | N/A | N/A |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 47.1% | N/A | N/A | N/A | N/A |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 50.1% | N/A | N/A | N/A | N/A |
@@ -163,15 +163,15 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 332 | 310–350 | 306–355 | 305–361 | 293–368 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 339 | 297–339 | 293–339 | 290–339 | 290–339 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 338 | 320–356 | 313–361 | 308–365 | 297–372 |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 356 | 340–375 | 335–377 | 329–380 | 323–392 |
-| [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
-| [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis |  |  |  |  |  |
-| [27 May 2020](2020-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [22–26 May 2020](2020-05-26-Survation.html) | Survation |  |  |  |  |  |
-| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 355 | 342–375 | 335–377 | 331–379 | 326–387 |
+| [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 328 | 302–336 | 296–337 | 296–344 | 292–349 |
+| [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 339 | 316–359 | 312–367 | 304–372 | 298–373 |
+| [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 327 | 309–342 | 303–347 | 299–349 | 292–354 |
+| [27 May 2020](2020-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 333 | 314–348 | 307–351 | 302–355 | 291–364 |
+| [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 333 | 319–344 | 314–348 | 303–352 | 292–365 |
+| [22–26 May 2020](2020-05-26-Survation.html) | Survation | 370 | 349–390 | 348–391 | 342–398 | 333–405 |
+| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 370 | 353–381 | 346–390 | 346–390 | 341–394 |
+| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 381 | 381 | 379–391 | 377–398 | 370–398 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
