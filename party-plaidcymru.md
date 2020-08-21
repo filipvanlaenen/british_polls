@@ -41,15 +41,15 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.3% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% | 0.0–0.8% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 1.1% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | N/A | N/A | N/A | N/A |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 0.3% | N/A | N/A | N/A | N/A |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.3% | N/A | N/A | N/A | N/A |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 1.0% | N/A | N/A | N/A | N/A |
@@ -145,15 +145,15 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 1 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 5 | 5–7 | 5–7 | 4–7 | 4–10 |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis |  |  |  |  |  |

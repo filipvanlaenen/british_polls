@@ -41,15 +41,15 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 45.0% | 43.1–46.9% | 42.5–47.5% | 42.1–48.0% | 41.2–48.9% |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 40.2% | 38.9–41.6% | 38.5–42.0% | 38.2–42.4% | 37.5–43.0% |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 45.8% | 44.2–47.4% | 43.8–47.8% | 43.4–48.2% | 42.7–49.0% |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 45.4% | 43.9–46.9% | 43.5–47.3% | 43.2–47.7% | 42.5–48.4% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 45.4% | 44.0–46.9% | 43.6–47.3% | 43.2–47.6% | 42.5–48.3% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 41.8% | 40.2–43.5% | 39.7–44.0% | 39.3–44.4% | 38.6–45.2% |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 42.6% | 40.6–44.6% | 40.1–45.1% | 39.6–45.6% | 38.7–46.6% |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 43.2% | 41.3–45.2% | 40.7–45.8% | 40.3–46.3% | 39.3–47.2% |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 44.0% | 42.6–45.5% | 42.2–45.9% | 41.8–46.2% | 41.1–46.9% |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 43.2% | 41.6–44.9% | 41.1–45.4% | 40.7–45.8% | 39.9–46.6% |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 42.1% | 40.1–44.1% | 39.5–44.7% | 39.0–45.2% | 38.1–46.1% |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.1% | N/A | N/A | N/A | N/A |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 46.4% | N/A | N/A | N/A | N/A |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.1% | 41.4–44.7% | 41.0–45.2% | 40.6–45.6% | 39.8–46.4% |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 46.4% | 44.8–48.0% | 44.3–48.4% | 43.9–48.8% | 43.2–49.6% |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 44.0% | N/A | N/A | N/A | N/A |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44.5% | N/A | N/A | N/A | N/A |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 43.7% | N/A | N/A | N/A | N/A |
@@ -155,15 +155,15 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 351 | 316–364 | 313–364 | 313–368 | 310–376 |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 315 | 298–332 | 294–336 | 289–338 | 284–345 |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 348 | 328–360 | 322–366 | 317–367 | 307–374 |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 332 | 314–342 | 308–346 | 306–349 | 296–362 |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 308 | 292–330 | 286–335 | 283–339 | 277–347 |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 329 | 308–350 | 298–356 | 296–361 | 285–371 |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 327 | 307–339 | 292–344 | 289–352 | 281–366 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 315 | 296–332 | 295–334 | 290–338 | 287–344 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 332 | 310–350 | 306–355 | 305–361 | 293–368 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 339 | 297–339 | 293–339 | 290–339 | 290–339 |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 338 | 320–356 | 313–361 | 308–365 | 297–372 |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 356 | 340–375 | 335–377 | 329–380 | 323–392 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis |  |  |  |  |  |

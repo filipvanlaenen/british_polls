@@ -41,15 +41,15 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 8.3% | 7.3–9.5% | 7.1–9.8% | 6.8–10.1% | 6.4–10.7% |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 9.1% | 8.3–9.9% | 8.1–10.2% | 7.9–10.4% | 7.6–10.8% |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.4% | 4.8–7.8% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.9% | 8.0–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.0% |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.2–10.5% |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.7% |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 8.5% | 7.6–9.5% | 7.3–9.7% | 7.1–10.0% | 6.8–10.5% |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 7.2% | 6.2–8.3% | 6.0–8.7% | 5.7–8.9% | 5.3–9.5% |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.0% | N/A | N/A | N/A | N/A |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.0% | 8.1–10.1% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 6.1% | N/A | N/A | N/A | N/A |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 8.3% | N/A | N/A | N/A | N/A |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 6.1% | N/A | N/A | N/A | N/A |
@@ -152,15 +152,15 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 2 | 1–6 | 1–6 | 1–7 | 0–7 |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 6 | 4–7 | 4–7 | 4–8 | 3–11 |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–7 | 3–7 | 3–8 | 2–9 |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 3 | 2–6 | 1–6 | 1–7 | 0–8 |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8 | 4–11 | 4–12 | 3–16 | 3–20 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 8 | 7–11 | 5–11 | 5–11 | 3–13 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 1 | 1 | 1–5 | 1–9 | 0–9 |
-| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 3–9 | 3–9 | 2–11 | 2–12 |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis |  |  |  |  |  |

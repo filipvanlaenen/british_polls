@@ -49,7 +49,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 1.4% | 1.0–1.8% | 0.9–2.0% | 0.9–2.1% | 0.7–2.3% |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.9% | N/A | N/A | N/A | N/A |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0.9% | 0.6–1.2% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 0.1% | N/A | N/A | N/A | N/A |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.9% | N/A | N/A | N/A | N/A |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 1.3% | N/A | N/A | N/A | N/A |
@@ -153,7 +153,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2020](2020-06-03-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis |  |  |  |  |  |
