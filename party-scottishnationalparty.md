@@ -58,28 +58,28 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.2% | 4.0–6.6% |
 | [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 5.1% | 4.4–5.8% | 4.3–6.0% | 4.1–6.2% | 3.8–6.6% |
-| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 4.2% | N/A | N/A | N/A | N/A |
-| [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
-| [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 5.0% | N/A | N/A | N/A | N/A |
-| [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
-| [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
-| [6 May 2020](2020-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [27 April–1 May 2020](2020-05-01-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
-| [27–28 April 2020](2020-04-28-Survation.html) | Survation | 4.1% | N/A | N/A | N/A | N/A |
-| [26 April 2020](2020-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.0% | N/A | N/A | N/A | N/A |
-| [21–23 April 2020](2020-04-23-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
-| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 4.0% | N/A | N/A | N/A | N/A |
-| [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
-| [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 5.1% | N/A | N/A | N/A | N/A |
-| [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 5.1% | N/A | N/A | N/A | N/A |
-| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 3.2% | N/A | N/A | N/A | N/A |
-| [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 5.0% | N/A | N/A | N/A | N/A |
-| [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 5.1% | N/A | N/A | N/A | N/A |
-| [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 5.1% | N/A | N/A | N/A | N/A |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 4.1% | N/A | N/A | N/A | N/A |
+| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.4–5.1% | 3.2–5.5% |
+| [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% |
+| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.1% |
+| [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.6–7.0% |
+| [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
+| [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 3.0–5.5% |
+| [6 May 2020](2020-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.5% |
+| [27 April–1 May 2020](2020-05-01-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [27–28 April 2020](2020-04-28-Survation.html) | Survation | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [26 April 2020](2020-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.0% | 4.4–5.9% | 4.2–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [21–23 April 2020](2020-04-23-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.5% |
+| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.3% |
+| [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.8–5.5% |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.2% | 4.0–6.6% |
+| [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.5% |
+| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 3.2% | 2.6–3.8% | 2.5–4.0% | 2.4–4.2% | 2.1–4.5% |
+| [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
+| [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.2% | 4.0–6.5% |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.1% |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | N/A | N/A | N/A | N/A |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 4.0% | N/A | N/A | N/A | N/A |
 | [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
@@ -166,28 +166,28 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 55 | 53–58 | 51–58 | 51–58 | 48–58 |
 | [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 55 | 53–58 | 52–58 | 52–58 | 50–58 |
 | [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 55 | 55 | 52–56 | 51–58 | 51–58 |
-| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [5–11 May 2020](2020-05-11-Kantar.html) | Kantar |  |  |  |  |  |
-| [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [6 May 2020](2020-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [27 April–1 May 2020](2020-05-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 April 2020](2020-04-28-Survation.html) | Survation |  |  |  |  |  |
-| [26 April 2020](2020-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [21–23 April 2020](2020-04-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar |  |  |  |  |  |
-| [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium |  |  |  |  |  |
-| [7–9 April 2020](2020-04-09-Opinium.html) | Opinium |  |  |  |  |  |
-| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
-| [1–3 April 2020](2020-04-03-Opinium.html) | Opinium |  |  |  |  |  |
-| [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium |  |  |  |  |  |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 52 | 49–55 | 48–55 | 42–56 | 37–58 |
+| [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 41–55 | 36–56 | 32–58 | 26–58 |
+| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 55 | 51–58 | 50–58 | 47–58 | 41–58 |
+| [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 55 | 51–58 | 51–58 | 50–58 | 44–58 |
+| [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer | 55 | 52–58 | 51–58 | 50–58 | 47–58 |
+| [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times | 50 | 42–54 | 39–55 | 38–55 | 35–56 |
+| [6 May 2020](2020-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 40–55 | 39–55 | 38–56 | 34–56 |
+| [27 April–1 May 2020](2020-05-01-Opinium.html) | Opinium <br> The Observer | 55 | 51–58 | 50–58 | 46–58 | 41–58 |
+| [27–28 April 2020](2020-04-28-Survation.html) | Survation | 52 | 43–55 | 39–56 | 36–58 | 27–58 |
+| [26 April 2020](2020-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 51–58 | 51–58 | 50–58 | 49–58 |
+| [21–23 April 2020](2020-04-23-Opinium.html) | Opinium <br> The Observer | 55 | 52–58 | 52–58 | 51–58 | 51–58 |
+| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 50 | 38–53 | 37–55 | 36–55 | 31–56 |
+| [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 50 | 42–52 | 40–54 | 39–54 | 37–55 |
+| [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 40–53 | 38–54 | 37–55 | 31–56 |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 55 | 55 | 55–58 | 55–58 | 52–58 |
+| [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 52 | 49–55 | 49–56 | 49–58 | 43–59 |
+| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 34 | 22–48 | 22–49 | 18–50 | 16–52 |
+| [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 55 | 51–56 | 51–58 | 50–58 | 46–58 |
+| [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 55 | 52–56 | 51–58 | 51–58 | 45–59 |
+| [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 46–54 | 42–55 | 40–55 | 36–56 |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 52 | 50–55 | 49–55 | 48–58 | 44–59 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 49 | 42–54 | 36–55 | 35–55 | 33–58 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
