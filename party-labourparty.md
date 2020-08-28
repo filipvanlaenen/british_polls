@@ -80,19 +80,19 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 29.2% | 28.0–30.6% | 27.6–31.0% | 27.3–31.3% | 26.7–31.9% |
 | [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 28.7% | 27.5–30.1% | 27.1–30.5% | 26.8–30.8% | 26.2–31.4% |
 | [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
-| [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 29.3% | N/A | N/A | N/A | N/A |
-| [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 30.1% | N/A | N/A | N/A | N/A |
-| [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer | 32.6% | N/A | N/A | N/A | N/A |
-| [5–9 March 2020](2020-03-09-Kantar.html) | Kantar | 29.6% | N/A | N/A | N/A | N/A |
-| [19–20 February 2020](2020-02-20-ComRes.html) | ComRes <br> Sunday Express | 31.8% | N/A | N/A | N/A | N/A |
-| [12–14 February 2020](2020-02-14-Opinium.html) | Opinium <br> The Observer | 32.6% | N/A | N/A | N/A | N/A |
-| [9–10 February 2020](2020-02-10-YouGov.html) | YouGov <br> The Times | 28.7% | N/A | N/A | N/A | N/A |
-| [31 January–3 February 2020](2020-02-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30.5% | N/A | N/A | N/A | N/A |
-| [31 January–2 February 2020](2020-02-02-YouGov.html) | YouGov <br> The Times | 30.7% | N/A | N/A | N/A | N/A |
-| [30–31 January 2020](2020-01-31-Survation.html) | Survation <br> The Times | 33.7% | N/A | N/A | N/A | N/A |
-| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 29.5% | N/A | N/A | N/A | N/A |
-| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 30.7% | N/A | N/A | N/A | N/A |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 30.5% | N/A | N/A | N/A | N/A |
+| [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 29.3% | 27.8–30.9% | 27.4–31.3% | 27.0–31.7% | 26.4–32.4% |
+| [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.3–33.0% | 26.5–34.0% |
+| [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer | 32.6% | 31.3–34.0% | 30.9–34.4% | 30.6–34.7% | 30.0–35.4% |
+| [5–9 March 2020](2020-03-09-Kantar.html) | Kantar | 29.6% | 27.9–31.4% | 27.5–31.9% | 27.0–32.3% | 26.2–33.2% |
+| [19–20 February 2020](2020-02-20-ComRes.html) | ComRes <br> Sunday Express | 31.8% | 30.5–33.2% | 30.1–33.6% | 29.8–33.9% | 29.2–34.6% |
+| [12–14 February 2020](2020-02-14-Opinium.html) | Opinium <br> The Observer | 32.6% | 31.3–34.0% | 30.9–34.4% | 30.6–34.8% | 30.0–35.4% |
+| [9–10 February 2020](2020-02-10-YouGov.html) | YouGov <br> The Times | 28.7% | 27.3–30.1% | 26.9–30.5% | 26.5–30.9% | 25.9–31.6% |
+| [31 January–3 February 2020](2020-02-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 30.5% | 28.7–32.4% | 28.1–33.0% | 27.7–33.4% | 26.8–34.4% |
+| [31 January–2 February 2020](2020-02-02-YouGov.html) | YouGov <br> The Times | 30.7% | 29.2–32.3% | 28.8–32.7% | 28.5–33.1% | 27.8–33.8% |
+| [30–31 January 2020](2020-01-31-Survation.html) | Survation <br> The Times | 33.7% | 31.8–35.7% | 31.3–36.2% | 30.8–36.7% | 29.9–37.7% |
+| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 29.5% | 28.1–31.0% | 27.7–31.4% | 27.3–31.8% | 26.6–32.5% |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 30.7% | 29.4–32.1% | 29.0–32.5% | 28.7–32.8% | 28.1–33.5% |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 30.5% | 29.0–32.1% | 28.5–32.5% | 28.2–32.9% | 27.4–33.7% |
 
 ### Probability Mass Function
 
@@ -194,19 +194,19 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 164 | 142–177 | 139–181 | 134–183 | 128–185 |
 | [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 128 | 120–144 | 112–152 | 111–154 | 110–165 |
 | [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 137 | 113–153 | 112–153 | 112–158 | 103–179 |
-| [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
-| [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [5–9 March 2020](2020-03-09-Kantar.html) | Kantar |  |  |  |  |  |
-| [19–20 February 2020](2020-02-20-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
-| [12–14 February 2020](2020-02-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [9–10 February 2020](2020-02-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [31 January–3 February 2020](2020-02-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [31 January–2 February 2020](2020-02-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [30–31 January 2020](2020-01-31-Survation.html) | Survation <br> The Times |  |  |  |  |  |
-| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium |  |  |  |  |  |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 170 | 153–185 | 145–189 | 140–193 | 129–198 |
+| [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 163 | 138–171 | 127–179 | 122–181 | 119–190 |
+| [12–13 March 2020](2020-03-13-Opinium.html) | Opinium <br> The Observer | 181 | 170–192 | 168–195 | 164–196 | 154–203 |
+| [5–9 March 2020](2020-03-09-Kantar.html) | Kantar | 163 | 138–175 | 130–178 | 127–185 | 119–192 |
+| [19–20 February 2020](2020-02-20-ComRes.html) | ComRes <br> Sunday Express | 183 | 175–195 | 168–196 | 167–200 | 158–206 |
+| [12–14 February 2020](2020-02-14-Opinium.html) | Opinium <br> The Observer | 189 | 178–199 | 175–202 | 169–204 | 166–215 |
+| [9–10 February 2020](2020-02-10-YouGov.html) | YouGov <br> The Times | 161 | 139–175 | 135–178 | 130–180 | 126–185 |
+| [31 January–3 February 2020](2020-02-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 176 | 153–195 | 144–198 | 140–204 | 134–213 |
+| [31 January–2 February 2020](2020-02-02-YouGov.html) | YouGov <br> The Times | 169 | 155–182 | 149–185 | 142–193 | 129–196 |
+| [30–31 January 2020](2020-01-31-Survation.html) | Survation <br> The Times | 210 | 190–227 | 184–230 | 183–238 | 176–248 |
+| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 163 | 142–175 | 137–180 | 134–183 | 127–191 |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 179 | 167–191 | 164–194 | 158–196 | 149–199 |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 184 | 169–201 | 165–204 | 162–208 | 148–220 |
 
 ### Probability Mass Function
 
