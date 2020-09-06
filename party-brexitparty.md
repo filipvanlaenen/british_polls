@@ -10,7 +10,16 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.2% | 0.1–1.3% | 0.1–1.5% | 0.0–1.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.3–1.7% | 0.2–1.8% | 0.1–2.1% |
+| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 1.4% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.3% |
+| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21 August 2020](2020-08-21-Survation.html) | Survation | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
+| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.1–2.8% |
+| [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
+| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
@@ -100,9 +109,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 34% | 100% |  |
-| 0.5–1.5% | 64% | 66% | Median |
-| 1.5–2.5% | 1.3% | 1.3% | Last Result |
+| 0.0–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 60% | 68% | Median |
+| 1.5–2.5% | 8% | 8% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -115,6 +124,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21 August 2020](2020-08-21-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
+| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
+| [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
+| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
