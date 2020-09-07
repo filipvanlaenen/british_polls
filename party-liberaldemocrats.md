@@ -130,12 +130,12 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–6 | 0–7 | 0–11 |
+| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–6 | 0–7 | 0–10 |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–6 | 2–6 | 1–7 | 1–8 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–8 | 4–9 | 3–10 | 2–12 |
-| [21 August 2020](2020-08-21-Survation.html) | Survation | 6 | 3–7 | 3–8 | 2–11 | 1–16 |
+| [21 August 2020](2020-08-21-Survation.html) | Survation | 6 | 4–7 | 3–8 | 2–11 | 2–15 |
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 2 | 1–4 | 0–4 | 0–5 | 0–6 |
@@ -233,21 +233,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 35% | 100% |  |
 | 1 | 13% | 65% |  |
-| 2 | 17% | 52% | Median |
+| 2 | 16% | 52% | Median |
 | 3 | 11% | 35% |  |
-| 4 | 8% | 24% |  |
-| 5 | 1.5% | 16% |  |
-| 6 | 10% | 15% |  |
+| 4 | 9% | 24% |  |
+| 5 | 2% | 15% |  |
+| 6 | 9% | 14% |  |
 | 7 | 3% | 4% |  |
-| 8 | 0.7% | 1.5% |  |
-| 9 | 0.2% | 0.8% |  |
-| 10 | 0% | 0.6% |  |
-| 11 | 0.3% | 0.6% | Last Result |
-| 12 | 0% | 0.2% |  |
-| 13 | 0% | 0.2% |  |
-| 14 | 0% | 0.2% |  |
-| 15 | 0% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
+| 8 | 0.9% | 2% |  |
+| 9 | 0.2% | 0.7% |  |
+| 10 | 0% | 0.5% |  |
+| 11 | 0.2% | 0.5% | Last Result |
+| 12 | 0% | 0.3% |  |
+| 13 | 0.1% | 0.2% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0.1% |  |
+| 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
 
