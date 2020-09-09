@@ -128,8 +128,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 56 | 51–58 | 49–58 | 47–58 | 42–58 |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 48–55 | 46–56 | 44–58 | 38–58 |
-| [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 54–58 | 54–58 | 52–58 |
-| [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 52–58 | 51–58 |
+| [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
+| [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 50–58 |
 | [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 45–58 | 43–58 | 39–58 | 31–58 |
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 58 | 54–58 | 53–58 | 50–58 | 44–58 |
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
@@ -249,12 +249,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 95% |  |
 | 50 | 3% | 94% |  |
 | 51 | 5% | 90% |  |
-| 52 | 3% | 85% |  |
-| 53 | 6% | 82% |  |
+| 52 | 2% | 85% |  |
+| 53 | 6% | 83% |  |
 | 54 | 6% | 77% |  |
-| 55 | 16% | 70% |  |
-| 56 | 5% | 54% | Median |
-| 57 | 1.2% | 50% |  |
+| 55 | 15% | 71% |  |
+| 56 | 6% | 55% | Median |
+| 57 | 2% | 50% |  |
 | 58 | 48% | 48% |  |
 | 59 | 0% | 0% |  |
 
