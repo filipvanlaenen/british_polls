@@ -132,7 +132,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 0–5 | 0–5 | 0–5 | 0–5 |

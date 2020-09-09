@@ -144,7 +144,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 260 | 239–276 | 234–279 | 229–283 | 225–292 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 231 | 217–251 | 212–255 | 209–258 | 204–267 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 241 | 227–256 | 224–261 | 221–267 | 211–273 |
-| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 250 | 236–268 | 233–271 | 232–276 | 223–280 |
+| [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 253 | 236–269 | 231–275 | 229–276 | 224–282 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 230 | 218–247 | 212–252 | 209–256 | 203–266 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 232 | 218–251 | 215–258 | 209–263 | 203–270 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 226 | 207–247 | 202–253 | 198–260 | 191–270 |
