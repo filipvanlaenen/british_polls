@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 09 Sep 2020 19:14:08 +0200</pubDate>
+    <pubDate>Wed, 09 Sep 2020 21:30:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1–2 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-02-RedfieldWiltonStrategies.html</link>
@@ -150,14 +150,34 @@
       <dc:date>2020-09-06T15:12:48.342441+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 13–14 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 291–339 seats&lt;/li&gt;&lt;li&gt;Labour Party: 229–276 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–6 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium-seats.png"
+        length="178275"
+        type="image/png"/>
+      <pubDate>Wed, 09 Sep 2020 21:30:08 +0200</pubDate>
+      <dc:date>2020-09-09T21:30:08.668472+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 13–14 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium-coalitions-seats.png"
+        length="494336"
+        type="image/png"/>
+      <pubDate>Wed, 09 Sep 2020 21:30:08 +0200</pubDate>
+      <dc:date>2020-09-09T21:30:08.668472+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 13–14 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.7–45.2%&lt;/li&gt;&lt;li&gt;Labour Party: 37.7–42.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-14-Opinium.png"
         length="215169"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 15:33:55 +0200</pubDate>
-      <dc:date>2020-09-06T15:33:55.46637+02:00</dc:date>
+      <pubDate>Wed, 09 Sep 2020 21:30:08 +0200</pubDate>
+      <dc:date>2020-09-09T21:30:08.668472+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 12 August 2020 – Seat Projections for the Parties</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-09T19:14:08.800585+02:00</dc:date>
+    <dc:date>2020-09-09T21:30:08.668472+02:00</dc:date>
   </channel>
 </rss>
