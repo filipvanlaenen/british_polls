@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 09 Sep 2020 21:30:08 +0200</pubDate>
+    <pubDate>Thu, 10 Sep 2020 19:37:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1–2 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-02-RedfieldWiltonStrategies.html</link>
@@ -126,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov.png"
         length="198457"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 14:34:41 +0200</pubDate>
-      <dc:date>2020-09-06T14:34:41.215461+02:00</dc:date>
+      <pubDate>Thu, 10 Sep 2020 19:37:33 +0200</pubDate>
+      <dc:date>2020-09-10T19:37:33.094006+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-19-RedfieldWiltonStrategies.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 317–367 seats&lt;/li&gt;&lt;li&gt;Labour Party: 210–257 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–4 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 41–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-RedfieldWiltonStrategies-seats.png"
+        length="163121"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 18:43:31 +0200</pubDate>
+      <dc:date>2020-09-10T18:43:31.538411+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-19-RedfieldWiltonStrategies.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-RedfieldWiltonStrategies-coalitions-seats.png"
+        length="488730"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 18:43:31 +0200</pubDate>
+      <dc:date>2020-09-10T18:43:31.538411+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 August 2020 – Voting Intentions</title>
@@ -136,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-RedfieldWiltonStrategies.png"
         length="179779"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 14:53:27 +0200</pubDate>
-      <dc:date>2020-09-06T14:53:27.770221+02:00</dc:date>
+      <pubDate>Thu, 10 Sep 2020 18:43:31 +0200</pubDate>
+      <dc:date>2020-09-10T18:43:31.538411+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 14–16 August 2020 – Voting Intentions</title>
@@ -1239,6 +1259,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-09T21:30:08.668472+02:00</dc:date>
+    <dc:date>2020-09-10T19:37:33.094006+02:00</dc:date>
   </channel>
 </rss>
