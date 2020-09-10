@@ -141,8 +141,8 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 340 | 322–354 | 317–359 | 312–363 | 302–370 |
 | [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 330 | 311–344 | 303–348 | 301–351 | 292–359 |
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 317 | 292–340 | 286–345 | 283–351 | 273–361 |
-| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 307 | 290–326 | 287–332 | 284–337 | 274–342 |
-| [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 344 | 325–359 | 320–365 | 317–368 | 309–374 |
+| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 307 | 290–326 | 288–331 | 283–336 | 276–342 |
+| [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 344 | 327–358 | 321–362 | 317–367 | 309–374 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 329 | 314–344 | 308–346 | 300–351 | 297–359 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 315 | 298–332 | 292–337 | 291–339 | 286–344 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 341 | 324–355 | 318–360 | 314–364 | 305–371 |
