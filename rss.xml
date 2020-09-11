@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 10 Sep 2020 19:37:33 +0200</pubDate>
+    <pubDate>Thu, 10 Sep 2020 21:37:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1–2 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-02-RedfieldWiltonStrategies.html</link>
@@ -80,14 +80,34 @@
       <dc:date>2020-09-09T19:14:08.800585+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 24 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 299–351 seats&lt;/li&gt;&lt;li&gt;Labour Party: 220–270 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 3–10 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 40–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies-seats.png"
+        length="168853"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 21:37:20 +0200</pubDate>
+      <dc:date>2020-09-10T21:37:20.350214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 24 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies-coalitions-seats.png"
+        length="502959"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 21:37:20 +0200</pubDate>
+      <dc:date>2020-09-10T21:37:20.350214+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 24 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.2–44.6%&lt;/li&gt;&lt;li&gt;Labour Party: 35.2–39.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.9–10.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-24-RedfieldWiltonStrategies.png"
         length="183265"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 13:44:42 +0200</pubDate>
-      <dc:date>2020-09-06T13:44:42.083708+02:00</dc:date>
+      <pubDate>Thu, 10 Sep 2020 21:37:20 +0200</pubDate>
+      <dc:date>2020-09-10T21:37:20.350214+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 21 August 2020 – Seat Projections for the Parties</title>
@@ -120,14 +140,34 @@
       <dc:date>2020-09-06T20:08:15.192562+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 18–19 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 283–336 seats&lt;/li&gt;&lt;li&gt;Labour Party: 231–282 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–3 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov-seats.png"
+        length="170818"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 20:19:23 +0200</pubDate>
+      <dc:date>2020-09-10T20:19:23.715276+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 18–19 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov-coalitions-seats.png"
+        length="511936"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 20:19:23 +0200</pubDate>
+      <dc:date>2020-09-10T20:19:23.715276+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 18–19 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.6–43.5%&lt;/li&gt;&lt;li&gt;Labour Party: 36.6–41.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.2–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-08-19-YouGov.png"
         length="198457"
         type="image/png"/>
-      <pubDate>Thu, 10 Sep 2020 19:37:33 +0200</pubDate>
-      <dc:date>2020-09-10T19:37:33.094006+02:00</dc:date>
+      <pubDate>Thu, 10 Sep 2020 20:19:23 +0200</pubDate>
+      <dc:date>2020-09-10T20:19:23.715276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 August 2020 – Seat Projections for the Parties</title>
@@ -1259,6 +1299,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-10T19:37:33.094006+02:00</dc:date>
+    <dc:date>2020-09-10T21:37:20.350214+02:00</dc:date>
   </channel>
 </rss>
