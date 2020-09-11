@@ -134,7 +134,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–6 | 2–6 | 1–7 | 1–8 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–8 | 4–9 | 3–10 | 2–12 |
+| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–8 | 3–9 | 3–10 | 2–12 |
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 6 | 4–7 | 3–8 | 2–11 | 2–15 |
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–5 |

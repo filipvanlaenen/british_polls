@@ -139,9 +139,9 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 237 | 227–252 | 222–256 | 219–257 | 212–267 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 275 | 256–286 | 252–290 | 250–294 | 241–299 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 228 | 214–245 | 209–250 | 205–254 | 198–265 |
-| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 244 | 227–259 | 226–266 | 220–270 | 214–279 |
+| [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 243 | 227–261 | 226–266 | 220–270 | 213–279 |
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 248 | 226–272 | 221–277 | 217–280 | 206–290 |
-| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 259 | 241–276 | 235–278 | 231–282 | 225–290 |
+| [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 259 | 241–276 | 235–279 | 231–282 | 225–291 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 231 | 218–248 | 214–253 | 210–257 | 204–267 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 241 | 227–256 | 224–261 | 221–267 | 211–273 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 253 | 236–269 | 231–275 | 229–276 | 224–282 |
