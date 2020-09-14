@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 13 Sep 2020 22:54:03 +0200</pubDate>
+    <pubDate>Mon, 14 Sep 2020 09:06:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1–2 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-02-RedfieldWiltonStrategies.html#seats</link>
@@ -686,8 +686,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-10-Deltapoll.png"
         length="211495"
         type="image/png"/>
-      <pubDate>Sun, 13 Sep 2020 22:54:03 +0200</pubDate>
-      <dc:date>2020-09-13T22:54:03.12457+02:00</dc:date>
+      <pubDate>Mon, 14 Sep 2020 09:01:05 +0200</pubDate>
+      <dc:date>2020-09-14T09:01:05.896684+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 8–9 July 2020 – Voting Intentions</title>
@@ -696,8 +696,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-07-09-YouGov.png"
         length="185965"
         type="image/png"/>
-      <pubDate>Tue, 18 Aug 2020 08:28:02 +0200</pubDate>
-      <dc:date>2020-08-18T08:28:02.159604+02:00</dc:date>
+      <pubDate>Mon, 14 Sep 2020 09:06:15 +0200</pubDate>
+      <dc:date>2020-09-14T09:06:15.793085+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 8 July 2020 – Voting Intentions</title>
@@ -886,8 +886,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-06-03-Survation.png"
         length="197490"
         type="image/png"/>
-      <pubDate>Thu, 20 Aug 2020 09:28:42 +0200</pubDate>
-      <dc:date>2020-08-20T09:28:42.250462+02:00</dc:date>
+      <pubDate>Mon, 14 Sep 2020 08:16:45 +0200</pubDate>
+      <dc:date>2020-09-14T08:16:45.52377+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 3 June 2020 – Voting Intentions</title>
@@ -986,8 +986,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-05-19-YouGov.png"
         length="191050"
         type="image/png"/>
-      <pubDate>Fri, 21 Aug 2020 10:13:49 +0200</pubDate>
-      <dc:date>2020-08-21T10:13:49.065326+02:00</dc:date>
+      <pubDate>Mon, 14 Sep 2020 08:42:54 +0200</pubDate>
+      <dc:date>2020-09-14T08:42:54.618669+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 15–17 May 2020 – Voting Intentions</title>
@@ -1339,6 +1339,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-13T22:54:03.12457+02:00</dc:date>
+    <dc:date>2020-09-14T09:06:15.793085+02:00</dc:date>
   </channel>
 </rss>
