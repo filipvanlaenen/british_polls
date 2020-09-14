@@ -152,8 +152,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 56 | 54–58 | 54–58 | 52–58 | 48–58 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 54 | 47–58 | 46–58 | 42–58 | 37–58 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 56–58 |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 57 | 54–58 | 52–58 | 52–58 | 50–58 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 58 | 55–58 | 53–58 | 50–58 | 48–58 |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 58 | 54–58 | 52–58 | 51–58 | 49–58 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 44–55 | 40–56 | 36–58 | 29–58 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 51 | 44–58 | 38–58 | 33–58 | 25–58 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
@@ -172,7 +172,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 52 | 39–58 | 33–58 | 28–58 | 21–58 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 58 | 54–58 | 54–58 | 52–58 | 49–58 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 6 | 3–22 | 2–28 | 1–28 | 0–42 |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 55 | 55 | 44–58 | 40–58 | 40–58 |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 54 | 46–58 | 40–58 | 35–58 | 26–58 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 45–57 | 41–58 | 37–58 | 27–58 |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 58 | 54–58 | 53–58 | 51–58 | 50–58 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 55–58 | 51–58 | 49–58 |
@@ -182,7 +182,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 53–58 | 51–58 | 50–58 |
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 55 | 53–58 | 51–58 | 51–58 | 48–58 |
 | [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 55 | 53–58 | 52–58 | 52–58 | 50–58 |
-| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 55 | 55 | 52–56 | 51–58 | 51–58 |
+| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 55 | 52–58 | 52–58 | 51–58 | 50–58 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 52 | 49–55 | 48–55 | 42–56 | 37–58 |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 41–55 | 36–56 | 32–58 | 26–58 |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 55 | 51–58 | 50–58 | 47–58 | 41–58 |

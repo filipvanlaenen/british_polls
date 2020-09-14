@@ -156,7 +156,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 4 | 3–6 | 2–6 | 1–7 | 1–8 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 4 | 2–6 | 2–7 | 2–8 | 1–9 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 2 | 0–3 | 0–5 | 0–6 | 0–8 |
@@ -176,7 +176,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8 | 4–11 | 4–12 | 3–16 | 3–20 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 8 | 7–11 | 5–11 | 5–11 | 3–13 |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 1 | 1 | 1–5 | 1–9 | 0–9 |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 2 | 0–4 | 0–5 | 0–6 | 0–9 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 3–9 | 3–9 | 2–11 | 2–12 |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -186,7 +186,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 2 | 0–5 | 0–6 | 0–6 | 0–8 |
 | [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0–1 | 0–1 |
-| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–8 | 2–9 | 1–9 | 1–11 |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0–1 | 0–2 |

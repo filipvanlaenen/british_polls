@@ -161,8 +161,8 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 213 | 196–230 | 193–235 | 186–236 | 179–249 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 234 | 221–251 | 217–257 | 213–262 | 204–269 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 241 | 232–264 | 226–265 | 224–268 | 218–278 |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 230 | 219–238 | 217–248 | 211–254 | 206–276 |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 218 | 200–226 | 196–228 | 195–232 | 191–245 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 236 | 219–256 | 210–259 | 205–267 | 202–273 |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 215 | 201–226 | 196–231 | 194–236 | 187–246 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 249 | 230–267 | 227–270 | 225–274 | 218–281 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 230 | 210–255 | 206–261 | 202–268 | 195–278 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 243 | 232–265 | 228–271 | 225–273 | 217–277 |
@@ -181,7 +181,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 239 | 226–263 | 225–278 | 215–283 | 202–286 |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 255 | 236–271 | 236–271 | 229–278 | 225–280 |
 | [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 279 | 256–301 | 254–305 | 252–306 | 238–315 |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 229 | 229–276 | 229–279 | 229–283 | 229–283 |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 254 | 230–277 | 227–284 | 224–286 | 214–296 |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 229 | 212–247 | 207–254 | 204–260 | 197–270 |
 | [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 218 | 197–230 | 196–238 | 195–241 | 186–245 |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 241 | 236–271 | 233–275 | 229–275 | 224–281 |
@@ -191,7 +191,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 235 | 223–249 | 221–254 | 217–264 | 204–275 |
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 199 | 181–218 | 178–220 | 171–227 | 164–232 |
 | [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 203 | 193–218 | 186–226 | 186–226 | 183–229 |
-| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 188 | 188 | 178–190 | 169–197 | 169–197 |
+| [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 192 | 179–202 | 177–205 | 171–209 | 166–217 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 198 | 185–209 | 183–216 | 180–218 | 176–224 |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 206 | 194–224 | 187–227 | 184–229 | 178–238 |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 199 | 180–208 | 175–210 | 169–219 | 160–225 |
