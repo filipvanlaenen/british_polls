@@ -138,7 +138,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 6 | 4–7 | 3–8 | 2–11 | 2–15 |
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
-| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 2 | 1–4 | 0–4 | 0–5 | 0–6 |
+| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 2 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–8 | 3–9 | 3–9 | 2–11 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 4 | 2–6 | 2–6 | 1–6 | 0–7 |
@@ -156,7 +156,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 4 | 3–6 | 2–6 | 1–7 | 1–8 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 4 | 2–6 | 2–7 | 2–8 | 1–9 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 2 | 0–3 | 0–5 | 0–6 | 0–8 |
@@ -232,11 +232,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% |  |
-| 1 | 12% | 64% |  |
-| 2 | 16% | 52% | Median |
-| 3 | 11% | 35% |  |
-| 4 | 9% | 24% |  |
-| 5 | 2% | 15% |  |
+| 1 | 13% | 64% |  |
+| 2 | 14% | 50% | Median |
+| 3 | 12% | 36% |  |
+| 4 | 9% | 25% |  |
+| 5 | 2% | 16% |  |
 | 6 | 9% | 14% |  |
 | 7 | 3% | 4% |  |
 | 8 | 0.9% | 2% |  |

@@ -126,15 +126,15 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 57 | 51–58 | 49–58 | 47–58 | 42–58 |
-| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 48–55 | 46–56 | 44–58 | 38–58 |
+| N/A | [Poll Average](average.html) | 57 | 50–58 | 48–58 | 46–58 | 40–58 |
+| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 48–55 | 46–56 | 44–58 | 37–58 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 55–58 | 53–58 | 51–58 |
 | [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 45–58 | 43–58 | 40–58 | 31–58 |
 | [21 August 2020](2020-08-21-Survation.html) | Survation | 58 | 54–58 | 53–58 | 50–58 | 44–58 |
 | [18–19 August 2020](2020-08-19-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 47–55 | 45–57 | 41–58 | 32–58 |
-| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 53 | 48–56 | 47–58 | 45–58 | 35–58 |
+| [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 53 | 47–57 | 45–58 | 42–58 | 33–58 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 53–58 | 49–58 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–56 | 44–58 | 41–58 | 32–58 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
@@ -152,7 +152,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 56 | 54–58 | 54–58 | 52–58 | 48–58 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 54 | 47–58 | 46–58 | 42–58 | 37–58 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 56–58 |
-| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 48 | 48 | 48 | 48 | 48 |
+| [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
 | [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 57 | 54–58 | 52–58 | 52–58 | 50–58 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 44–55 | 40–56 | 36–58 | 29–58 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 51 | 44–58 | 38–58 | 33–58 | 25–58 |
@@ -232,29 +232,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 99.9% |  |
 | 33 | 0% | 99.9% |  |
 | 34 | 0% | 99.9% |  |
-| 35 | 0% | 99.9% |  |
+| 35 | 0% | 99.8% |  |
 | 36 | 0% | 99.8% |  |
-| 37 | 0% | 99.8% |  |
-| 38 | 0% | 99.8% |  |
-| 39 | 0% | 99.7% |  |
-| 40 | 0.1% | 99.7% |  |
-| 41 | 0.1% | 99.6% |  |
-| 42 | 0.1% | 99.6% |  |
-| 43 | 0.2% | 99.5% |  |
-| 44 | 0.3% | 99.3% |  |
-| 45 | 0.5% | 99.0% |  |
-| 46 | 0.6% | 98% |  |
-| 47 | 1.1% | 98% |  |
-| 48 | 2% | 97% | Last Result |
-| 49 | 2% | 95% |  |
-| 50 | 3% | 94% |  |
-| 51 | 5% | 90% |  |
+| 37 | 0% | 99.7% |  |
+| 38 | 0.1% | 99.7% |  |
+| 39 | 0.1% | 99.6% |  |
+| 40 | 0.1% | 99.6% |  |
+| 41 | 0.1% | 99.4% |  |
+| 42 | 0.2% | 99.4% |  |
+| 43 | 0.2% | 99.2% |  |
+| 44 | 0.3% | 99.0% |  |
+| 45 | 0.6% | 98.8% |  |
+| 46 | 1.0% | 98% |  |
+| 47 | 1.4% | 97% |  |
+| 48 | 2% | 96% | Last Result |
+| 49 | 2% | 94% |  |
+| 50 | 2% | 92% |  |
+| 51 | 4% | 90% |  |
 | 52 | 2% | 85% |  |
-| 53 | 6% | 83% |  |
-| 54 | 6% | 77% |  |
-| 55 | 15% | 71% |  |
-| 56 | 6% | 56% |  |
-| 57 | 2% | 50% | Median |
+| 53 | 5% | 83% |  |
+| 54 | 6% | 78% |  |
+| 55 | 15% | 72% |  |
+| 56 | 6% | 57% |  |
+| 57 | 2% | 51% | Median |
 | 58 | 49% | 49% |  |
 | 59 | 0% | 0% |  |
 
