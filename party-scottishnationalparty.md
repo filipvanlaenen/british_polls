@@ -10,7 +10,13 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.9% | 3.7–6.1% | 3.5–6.4% | 3.2–6.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.1–6.3% | 3.8–6.7% | 3.6–7.0% | 3.3–7.7% |
+| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 4.1% | 3.6–4.9% | 3.4–5.1% | 3.2–5.2% | 3.0–5.6% |
+| [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 3.9–6.2% |
+| [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.6–5.9% | 4.4–6.1% | 4.2–6.2% | 4.0–6.6% |
+| [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.7% | 3.5–7.2% |
+| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.6% | 3.5–4.8% | 3.4–4.9% | 3.2–5.2% |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 5.3% | 4.7–6.1% | 4.6–6.2% | 4.4–6.4% | 4.1–6.8% |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
@@ -110,12 +116,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 35% | 97% | Last Result |
-| 4.5–5.5% | 43% | 62% | Median |
-| 5.5–6.5% | 18% | 19% |  |
-| 6.5–7.5% | 1.3% | 1.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 22% | 98% | Last Result |
+| 4.5–5.5% | 48% | 76% | Median |
+| 5.5–6.5% | 22% | 28% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.7% | 0.7% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,7 +133,13 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 57 | 50–58 | 48–58 | 46–58 | 40–58 |
+| N/A | [Poll Average](average.html) | 58 | 53–58 | 50–58 | 46–58 | 39–58 |
+| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 55–59 |
+| [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 53 | 44–58 | 42–58 | 39–58 | 33–58 |
+| [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 54–58 | 52–58 |
+| [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 58 | 54–58 | 54–58 | 52–58 | 49–58 |
+| [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 58 | 54–58 | 52–58 | 51–58 | 46–58 |
+| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 48–55 | 46–56 | 44–58 | 37–58 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 55–58 | 53–58 | 51–58 |
@@ -227,35 +240,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0% | 100% |  |
-| 31 | 0% | 99.9% |  |
+| 31 | 0% | 100% |  |
 | 32 | 0% | 99.9% |  |
 | 33 | 0% | 99.9% |  |
 | 34 | 0% | 99.9% |  |
-| 35 | 0% | 99.8% |  |
-| 36 | 0% | 99.8% |  |
-| 37 | 0% | 99.7% |  |
-| 38 | 0.1% | 99.7% |  |
-| 39 | 0.1% | 99.6% |  |
-| 40 | 0.1% | 99.6% |  |
-| 41 | 0.1% | 99.4% |  |
-| 42 | 0.2% | 99.4% |  |
-| 43 | 0.2% | 99.2% |  |
-| 44 | 0.3% | 99.0% |  |
-| 45 | 0.6% | 98.8% |  |
-| 46 | 1.0% | 98% |  |
-| 47 | 1.4% | 97% |  |
-| 48 | 2% | 96% | Last Result |
-| 49 | 2% | 94% |  |
-| 50 | 2% | 92% |  |
-| 51 | 4% | 90% |  |
-| 52 | 2% | 85% |  |
-| 53 | 5% | 83% |  |
-| 54 | 6% | 78% |  |
-| 55 | 15% | 72% |  |
-| 56 | 6% | 57% |  |
-| 57 | 2% | 51% | Median |
-| 58 | 49% | 49% |  |
-| 59 | 0% | 0% |  |
+| 35 | 0% | 99.9% |  |
+| 36 | 0% | 99.9% |  |
+| 37 | 0% | 99.8% |  |
+| 38 | 0.1% | 99.8% |  |
+| 39 | 0.2% | 99.7% |  |
+| 40 | 0.2% | 99.5% |  |
+| 41 | 0.1% | 99.3% |  |
+| 42 | 0.3% | 99.2% |  |
+| 43 | 0.2% | 98.9% |  |
+| 44 | 0.5% | 98.6% |  |
+| 45 | 0.2% | 98% |  |
+| 46 | 0.7% | 98% |  |
+| 47 | 0.2% | 97% |  |
+| 48 | 0.5% | 97% | Last Result |
+| 49 | 0.6% | 97% |  |
+| 50 | 2% | 96% |  |
+| 51 | 3% | 94% |  |
+| 52 | 1.2% | 91% |  |
+| 53 | 3% | 90% |  |
+| 54 | 6% | 88% |  |
+| 55 | 7% | 82% |  |
+| 56 | 5% | 75% |  |
+| 57 | 3% | 70% |  |
+| 58 | 67% | 68% | Median |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 
