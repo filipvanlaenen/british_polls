@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2020-09-13T20:29:33.729089+02:00</updated>
+  <updated>2020-09-24T18:29:02.144202+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.0–45.4%, 287–340 seats</li><li>Labour Party: 38.0–42.3%, 228–280 seats</li><li>Liberal Democrats: 5.2–7.3%, 0–2 seats</li><li>Scottish National Party: 4.2–6.2%, 52–58 seats</li><li>Plaid Cymru: 0.7–1.6%, 4–6 seats</li><li>UK Independence Party: 0.0–0.3%, 0 seats</li><li>Green Party: 2.5–4.1%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-09-11-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-09-11-Opinium.html"/>
+    <title>Opinion Poll by Opinium for The Observer, 11 September 2020</title>
+    <updated>2020-09-24T18:29:02.144202+02:00</updated>
+    <dc:date>2020-09-24T18:29:02.144202+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 41.8–45.7%, 313–357 seats</li><li>Labour Party: 35.7–39.5%, 218–259 seats</li><li>Liberal Democrats: 7.1–9.3%, 1–7 seats</li><li>Scottish National Party: 3.4–4.9%, 44–58 seats</li><li>Plaid Cymru: 0.1–0.5%, 0–4 seats</li><li>Green Party: 2.6–4.0%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2020-09-02-RedfieldWiltonStrategies.html</id>
@@ -175,5 +183,5 @@
     <updated>2020-08-16T16:23:47.505132+02:00</updated>
     <dc:date>2020-08-16T16:23:47.505132+02:00</dc:date>
   </entry>
-  <dc:date>2020-09-13T20:29:33.729089+02:00</dc:date>
+  <dc:date>2020-09-24T18:29:02.144202+02:00</dc:date>
 </feed>
