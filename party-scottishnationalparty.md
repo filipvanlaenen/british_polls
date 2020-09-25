@@ -133,13 +133,13 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 53–58 | 50–58 | 46–58 | 39–58 |
+| N/A | [Poll Average](average.html) | 58 | 53–58 | 50–58 | 47–58 | 39–58 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 55–59 |
-| [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 53 | 44–58 | 42–58 | 39–58 | 33–58 |
+| [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 53 | 44–58 | 41–58 | 39–58 | 32–58 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 54–58 | 52–58 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 58 | 54–58 | 54–58 | 52–58 | 49–58 |
 | [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 58 | 54–58 | 52–58 | 51–58 | 46–58 |
-| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
+| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 58 | 55–58 | 54–58 | 51–58 | 46–58 |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 48–55 | 46–56 | 44–58 | 37–58 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 55–58 | 53–58 | 51–58 |
@@ -240,34 +240,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 99.9% |  |
 | 32 | 0% | 99.9% |  |
 | 33 | 0% | 99.9% |  |
 | 34 | 0% | 99.9% |  |
-| 35 | 0% | 99.9% |  |
-| 36 | 0% | 99.9% |  |
-| 37 | 0% | 99.8% |  |
-| 38 | 0.1% | 99.8% |  |
-| 39 | 0.2% | 99.7% |  |
-| 40 | 0.2% | 99.5% |  |
-| 41 | 0.1% | 99.3% |  |
-| 42 | 0.3% | 99.2% |  |
-| 43 | 0.2% | 98.9% |  |
-| 44 | 0.5% | 98.6% |  |
-| 45 | 0.2% | 98% |  |
-| 46 | 0.7% | 98% |  |
-| 47 | 0.2% | 97% |  |
-| 48 | 0.5% | 97% | Last Result |
-| 49 | 0.6% | 97% |  |
-| 50 | 2% | 96% |  |
-| 51 | 3% | 94% |  |
-| 52 | 1.2% | 91% |  |
-| 53 | 3% | 90% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0% | 99.8% |  |
+| 37 | 0.1% | 99.8% |  |
+| 38 | 0.1% | 99.7% |  |
+| 39 | 0.2% | 99.6% |  |
+| 40 | 0.2% | 99.4% |  |
+| 41 | 0.4% | 99.2% |  |
+| 42 | 0.3% | 98.8% |  |
+| 43 | 0.1% | 98.5% |  |
+| 44 | 0.2% | 98% |  |
+| 45 | 0.1% | 98% |  |
+| 46 | 0.4% | 98% |  |
+| 47 | 0.7% | 98% |  |
+| 48 | 0.6% | 97% | Last Result |
+| 49 | 0.9% | 96% |  |
+| 50 | 1.2% | 95% |  |
+| 51 | 2% | 94% |  |
+| 52 | 2% | 93% |  |
+| 53 | 3% | 91% |  |
 | 54 | 6% | 88% |  |
 | 55 | 7% | 82% |  |
 | 56 | 5% | 75% |  |
-| 57 | 3% | 70% |  |
-| 58 | 67% | 68% | Median |
+| 57 | 2% | 70% |  |
+| 58 | 68% | 68% | Median |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 

@@ -135,7 +135,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 4–7 |
 | [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 5 | 5–6 | 5–7 | 4–7 | 3–9 |
+| [2–4 September 2020](2020-09-04-Survation.html) | Survation | 5 | 5–6 | 4–7 | 4–7 | 3–9 |
 | [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–2 | 0–4 | 0–4 | 0–5 |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
@@ -242,10 +242,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 3% | 73% |  |
 | 4 | 6% | 71% | Last Result |
 | 5 | 53% | 65% | Median |
-| 6 | 8% | 12% |  |
+| 6 | 8% | 11% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.4% |  |
-| 9 | 0.2% | 0.4% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
