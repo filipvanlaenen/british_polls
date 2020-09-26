@@ -136,9 +136,9 @@ Last result: **11** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 2–6 | 2–6 | 1–7 | 0–9 |
+| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 2–6 | 2–7 | 1–7 | 0–8 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
+| [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–6 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [2–4 September 2020](2020-09-04-Survation.html) | Survation | 4 | 2–6 | 2–7 | 1–7 | 0–9 |
@@ -242,17 +242,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 11% | 69% |  |
+| 0 | 30% | 100% |  |
+| 1 | 11% | 70% |  |
 | 2 | 11% | 58% | Median |
-| 3 | 12% | 48% |  |
-| 4 | 16% | 36% |  |
-| 5 | 1.0% | 20% |  |
-| 6 | 17% | 19% |  |
-| 7 | 1.5% | 2% |  |
+| 3 | 12% | 47% |  |
+| 4 | 16% | 35% |  |
+| 5 | 2% | 19% |  |
+| 6 | 16% | 18% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0.2% | 0.4% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0% | 0.1% |  |
+| 9 | 0% | 0.2% |  |
+| 10 | 0% | 0.2% |  |
 | 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |
 
