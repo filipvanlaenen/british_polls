@@ -8,7 +8,47 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 26 Sep 2020 16:44:23 +0200</pubDate>
+    <pubDate>Tue, 29 Sep 2020 21:18:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 23–25 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-25-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.6–41.9%&lt;/li&gt;&lt;li&gt;Labour Party: 40.6–45.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.3%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-25-Opinium.png"
+        length="202121"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 21:18:24 +0200</pubDate>
+      <dc:date>2020-09-29T21:18:24.338005+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 22–23 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-23-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.8–42.7%&lt;/li&gt;&lt;li&gt;Labour Party: 38.8–42.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.2–8.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.4–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-23-RedfieldWiltonStrategies.png"
+        length="183823"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 16:58:50 +0200</pubDate>
+      <dc:date>2020-09-29T16:58:50.132784+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 17–21 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.1–44.0%&lt;/li&gt;&lt;li&gt;Labour Party: 36.1–41.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.6–11.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.png"
+        length="217556"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 17:44:36 +0200</pubDate>
+      <dc:date>2020-09-29T17:44:36.490606+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 18–20 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.7–43.0%&lt;/li&gt;&lt;li&gt;Labour Party: 35.7–39.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.png"
+        length="195542"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 18:22:25 +0200</pubDate>
+      <dc:date>2020-09-29T18:22:25.129484+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 11–18 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-18-IpsosMORI.html#seats</link>
@@ -1519,6 +1559,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-26T16:44:23.595212+02:00</dc:date>
+    <dc:date>2020-09-29T21:18:24.338005+02:00</dc:date>
   </channel>
 </rss>
