@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 29 Sep 2020 21:18:24 +0200</pubDate>
+    <pubDate>Wed, 30 Sep 2020 09:36:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-25-Opinium.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-25-Opinium.png"
         length="202121"
         type="image/png"/>
-      <pubDate>Tue, 29 Sep 2020 21:18:24 +0200</pubDate>
-      <dc:date>2020-09-29T21:18:24.338005+02:00</dc:date>
+      <pubDate>Wed, 30 Sep 2020 09:36:11 +0200</pubDate>
+      <dc:date>2020-09-30T09:36:11.537695+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 22–23 September 2020 – Voting Intentions</title>
@@ -30,14 +30,54 @@
       <dc:date>2020-09-29T16:58:50.132784+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar, 17–21 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 275–341 seats&lt;/li&gt;&lt;li&gt;Labour Party: 226–291 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 3–12 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 33–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–7 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar-seats.png"
+        length="188164"
+        type="image/png"/>
+      <pubDate>Wed, 30 Sep 2020 08:43:44 +0200</pubDate>
+      <dc:date>2020-09-30T08:43:44.705986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 17–21 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar-coalitions-seats.png"
+        length="567062"
+        type="image/png"/>
+      <pubDate>Wed, 30 Sep 2020 08:43:44 +0200</pubDate>
+      <dc:date>2020-09-30T08:43:44.705986+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar, 17–21 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.1–44.0%&lt;/li&gt;&lt;li&gt;Labour Party: 36.1–41.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.6–11.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.png"
         length="217556"
         type="image/png"/>
-      <pubDate>Tue, 29 Sep 2020 17:44:36 +0200</pubDate>
-      <dc:date>2020-09-29T17:44:36.490606+02:00</dc:date>
+      <pubDate>Wed, 30 Sep 2020 08:43:44 +0200</pubDate>
+      <dc:date>2020-09-30T08:43:44.705986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 18–20 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 287–339 seats&lt;/li&gt;&lt;li&gt;Labour Party: 229–278 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 2–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes-seats.png"
+        length="171975"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 23:20:12 +0200</pubDate>
+      <dc:date>2020-09-29T23:20:12.091295+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 18–20 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes-coalitions-seats.png"
+        length="508437"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2020 23:20:12 +0200</pubDate>
+      <dc:date>2020-09-29T23:20:12.091295+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 18–20 September 2020 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.png"
         length="195542"
         type="image/png"/>
-      <pubDate>Tue, 29 Sep 2020 18:22:25 +0200</pubDate>
-      <dc:date>2020-09-29T18:22:25.129484+02:00</dc:date>
+      <pubDate>Tue, 29 Sep 2020 23:20:12 +0200</pubDate>
+      <dc:date>2020-09-29T23:20:12.091295+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 11–18 September 2020 – Seat Projections for the Parties</title>
@@ -1559,6 +1599,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-09-29T21:18:24.338005+02:00</dc:date>
+    <dc:date>2020-09-30T09:36:11.537695+02:00</dc:date>
   </channel>
 </rss>
