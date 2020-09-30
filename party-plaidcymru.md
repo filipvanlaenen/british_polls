@@ -135,10 +135,10 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–8 |
-| [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
+| [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 4–7 | 4–9 |
+| [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 4–7 | 3–9 |
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–6 | 5–7 | 4–7 | 3–9 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -249,14 +249,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 18% | 100% |  |
-| 1 | 4% | 82% |  |
-| 2 | 9% | 78% |  |
+| 1 | 5% | 82% |  |
+| 2 | 8% | 77% |  |
 | 3 | 3% | 69% |  |
 | 4 | 5% | 66% | Last Result |
 | 5 | 50% | 61% | Median |
 | 6 | 8% | 11% |  |
 | 7 | 3% | 3% |  |
-| 8 | 0.2% | 0.5% |  |
+| 8 | 0.1% | 0.5% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0.1% |  |

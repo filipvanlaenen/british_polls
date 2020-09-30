@@ -143,9 +143,9 @@ Last result: **11** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–6 | 0–7 | 0–8 | 0–12 |
-| [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 1–4 | 1–4 | 0–5 | 0–7 |
-| [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 7 | 4–9 | 4–11 | 3–12 | 2–16 |
+| [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 7 | 4–10 | 3–12 | 3–12 | 2–20 |
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 2–6 | 2–7 | 1–7 | 0–8 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
@@ -260,19 +260,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 12% | 66% |  |
 | 3 | 13% | 54% | Median |
 | 4 | 14% | 41% |  |
-| 5 | 3% | 27% |  |
-| 6 | 15% | 24% |  |
+| 5 | 2% | 27% |  |
+| 6 | 16% | 24% |  |
 | 7 | 4% | 8% |  |
-| 8 | 3% | 5% |  |
-| 9 | 0.7% | 2% |  |
-| 10 | 0.2% | 1.3% |  |
-| 11 | 0.5% | 1.1% | Last Result |
-| 12 | 0.4% | 0.6% |  |
-| 13 | 0% | 0.2% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0% | 0.1% |  |
+| 8 | 2% | 4% |  |
+| 9 | 0.8% | 2% |  |
+| 10 | 0.4% | 2% |  |
+| 11 | 0.4% | 1.2% | Last Result |
+| 12 | 0.5% | 0.8% |  |
+| 13 | 0.1% | 0.3% |  |
+| 14 | 0% | 0.2% |  |
+| 15 | 0% | 0.2% |  |
+| 16 | 0.1% | 0.2% |  |
 | 17 | 0% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 18 | 0% | 0.1% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
