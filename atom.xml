@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2020-09-26T16:44:23.595212+02:00</updated>
+  <updated>2020-09-30T08:43:44.705986+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.1–44.0%, 275–341 seats</li><li>Labour Party: 36.1–41.9%, 226–291 seats</li><li>Liberal Democrats: 7.6–11.1%, 3–12 seats</li><li>Scottish National Party: 3.1–5.5%, 33–58 seats</li><li>Plaid Cymru: 0.6–1.8%, 4–7 seats</li><li>UK Independence Party: 0.0–0.7%, 0 seats</li><li>Green Party: 2.3–4.4%, 1 seats</li><li>Brexit Party: 0.8–2.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-09-21-Kantar.html"/>
+    <title>Opinion Poll by Kantar, 17–21 September 2020</title>
+    <updated>2020-09-30T08:43:44.705986+02:00</updated>
+    <dc:date>2020-09-30T08:43:44.705986+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.7–43.0%, 287–339 seats</li><li>Labour Party: 35.7–39.9%, 229–278 seats</li><li>Liberal Democrats: 7.0–9.4%, 2–6 seats</li><li>Scottish National Party: 4.2–6.1%, 54–58 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>Green Party: 1.8–3.1%, 1 seats</li><li>Brexit Party: 0.9–1.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-09-20-SavantaComRes.html"/>
+    <title>Opinion Poll by Savanta ComRes, 18–20 September 2020</title>
+    <updated>2020-09-29T23:20:12.091295+02:00</updated>
+    <dc:date>2020-09-29T23:20:12.091295+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.8–43.9%, 278–342 seats</li><li>Labour Party: 34.9–40.9%, 221–283 seats</li><li>Liberal Democrats: 6.6–10.1%, 1–7 seats</li><li>Scottish National Party: 4.8–7.8%, 58 seats</li><li>Plaid Cymru: 0.5–1.8%, 4–7 seats</li><li>Green Party: 2.9–5.4%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2020-09-18-IpsosMORI.html</id>
@@ -223,5 +239,5 @@
     <updated>2020-08-16T16:23:47.505132+02:00</updated>
     <dc:date>2020-08-16T16:23:47.505132+02:00</dc:date>
   </entry>
-  <dc:date>2020-09-26T16:44:23.595212+02:00</dc:date>
+  <dc:date>2020-09-30T08:43:44.705986+02:00</dc:date>
 </feed>
