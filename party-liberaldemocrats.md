@@ -144,7 +144,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–6 | 0–7 | 0–8 | 0–12 |
 | [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–1 | 0–2 |
-| [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 1–4 | 1–4 | 0–5 | 0–7 |
+| [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 1–4 | 1–4 | 0–5 | 0–6 |
 | [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 7 | 4–10 | 3–12 | 3–12 | 2–20 |
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 2–6 | 2–7 | 1–7 | 0–8 |
@@ -261,7 +261,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 13% | 54% | Median |
 | 4 | 14% | 41% |  |
 | 5 | 2% | 27% |  |
-| 6 | 16% | 24% |  |
+| 6 | 17% | 24% |  |
 | 7 | 4% | 8% |  |
 | 8 | 2% | 4% |  |
 | 9 | 0.8% | 2% |  |
