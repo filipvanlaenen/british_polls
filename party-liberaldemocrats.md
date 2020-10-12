@@ -153,15 +153,15 @@ Last result: **11** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–6 | 0–8 | 0–9 | 0–12 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–2 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–7 | 2–7 | 2–8 | 1–9 |
 | [2–4 October 2020](2020-10-04-SavantaComRes.html) | Savanta ComRes | 2 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [30 September–1 October 2020](2020-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 4–6 | 3–6 | 3–6 | 2–6 |
-| [29–30 September 2020](2020-09-30-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [29–30 September 2020](2020-09-30-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [25–28 September 2020](2020-09-28-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–1 | 0–2 |
-| [24–25 September 2020](2020-09-25-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [23–24 September 2020](2020-09-24-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
+| [24–25 September 2020](2020-09-25-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
+| [23–24 September 2020](2020-09-24-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 1–4 | 1–4 | 0–5 | 0–6 |
 | [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 7 | 4–10 | 3–12 | 3–12 | 2–20 |
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
@@ -276,12 +276,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 32% | 100% |  |
 | 1 | 11% | 68% |  |
 | 2 | 12% | 57% | Median |
-| 3 | 11% | 45% |  |
-| 4 | 10% | 34% |  |
+| 3 | 10% | 45% |  |
+| 4 | 10% | 35% |  |
 | 5 | 2% | 24% |  |
 | 6 | 12% | 22% |  |
-| 7 | 4% | 9% |  |
-| 8 | 2% | 5% |  |
+| 7 | 4% | 10% |  |
+| 8 | 3% | 5% |  |
 | 9 | 0.9% | 3% |  |
 | 10 | 0.5% | 2% |  |
 | 11 | 0.5% | 1.3% | Last Result |
