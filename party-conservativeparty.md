@@ -160,7 +160,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [2–4 October 2020](2020-10-04-SavantaComRes.html) | Savanta ComRes | 316 | 299–334 | 294–338 | 291–342 | 286–347 |
 | [30 September–1 October 2020](2020-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 291 | 284–303 | 281–308 | 278–311 | 273–316 |
 | [29–30 September 2020](2020-09-30-YouGov.html) | YouGov <br> The Times | 293 | 280–313 | 276–317 | 273–322 | 267–332 |
-| [25–28 September 2020](2020-09-28-SavantaComRes.html) | Savanta ComRes | 313 | 297–331 | 291–337 | 288–339 | 284–343 |
+| [25–28 September 2020](2020-09-28-SavantaComRes.html) | Savanta ComRes | 311 | 296–331 | 290–336 | 288–339 | 283–343 |
 | [23–25 September 2020](2020-09-25-Opinium.html) | Opinium <br> The Observer | 283 | 269–292 | 265–298 | 263–301 | 255–309 |
 | [24–25 September 2020](2020-09-25-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 327 | 302–339 | 294–342 | 291–344 | 286–357 |
 | [23–24 September 2020](2020-09-24-YouGov.html) | YouGov <br> The Times | 316 | 297–337 | 292–341 | 290–345 | 283–352 |
