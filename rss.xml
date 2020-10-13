@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 12 Oct 2020 19:33:56 +0200</pubDate>
+    <pubDate>Mon, 12 Oct 2020 20:34:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 8–9 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-09-Opinium.html#seats</link>
@@ -190,14 +190,34 @@
       <dc:date>2020-10-11T18:04:16.430445+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 25–28 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 288–339 seats&lt;/li&gt;&lt;li&gt;Labour Party: 230–278 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 2–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes-seats.png"
+        length="172332"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 20:34:50 +0200</pubDate>
+      <dc:date>2020-10-12T20:34:50.794607+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 25–28 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes-coalitions-seats.png"
+        length="505482"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 20:34:50 +0200</pubDate>
+      <dc:date>2020-10-12T20:34:50.794607+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Savanta ComRes, 25–28 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.9–44.2%&lt;/li&gt;&lt;li&gt;Labour Party: 36.9–41.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.1–9.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-28-SavantaComRes.png"
         length="193501"
         type="image/png"/>
-      <pubDate>Mon, 12 Oct 2020 09:43:47 +0200</pubDate>
-      <dc:date>2020-10-12T09:43:47.199439+02:00</dc:date>
+      <pubDate>Mon, 12 Oct 2020 20:34:50 +0200</pubDate>
+      <dc:date>2020-10-12T20:34:50.794607+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 23–25 September 2020 – Seat Projections for the Parties</title>
@@ -1889,6 +1909,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-10-12T19:33:56.50833+02:00</dc:date>
+    <dc:date>2020-10-12T20:34:50.794607+02:00</dc:date>
   </channel>
 </rss>
