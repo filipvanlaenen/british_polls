@@ -10,10 +10,11 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.5–1.7% | 0.3–1.9% | 0.3–2.0% | 0.2–2.3% |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 1.4% | 1.1–1.8% | 1.0–1.9% | 0.9–2.1% | 0.8–2.3% |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 October 2020](2020-10-06-Survation.html) | Survation | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [2–4 October 2020](2020-10-04-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
 | [30 September–1 October 2020](2020-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 September 2020](2020-09-30-YouGov.html) | YouGov <br> The Times | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
@@ -130,9 +131,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% |  |
-| 0.5–1.5% | 78% | 99.5% | Median |
-| 1.5–2.5% | 22% | 22% | Last Result |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 69% | 87% | Median |
+| 1.5–2.5% | 17% | 18% | Last Result |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -149,6 +150,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5–6 October 2020](2020-10-06-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [2–4 October 2020](2020-10-04-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
 | [30 September–1 October 2020](2020-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 September 2020](2020-09-30-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
