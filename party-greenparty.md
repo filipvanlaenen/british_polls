@@ -10,7 +10,15 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.7% | 2.3–5.1% | 2.1–5.4% | 1.8–5.9% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.3–4.8% | 2.1–5.1% | 2.0–5.4% | 1.7–5.8% |
+| [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
+| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.4% |
+| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.4–4.1% |
+| [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.6–3.3% |
+| [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 4.9% | 4.3–5.5% | 4.1–5.7% | 4.0–5.9% | 3.7–6.2% |
+| [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 4.9% | 4.2–5.6% | 4.1–5.8% | 3.9–6.0% | 3.6–6.4% |
+| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.3% |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
@@ -131,12 +139,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 12% | 100% |  |
-| 2.5–3.5% | 50% | 88% | Last Result, Median |
-| 3.5–4.5% | 26% | 38% |  |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 1.4% | 1.5% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 19% | 99.9% |  |
+| 2.5–3.5% | 36% | 81% | Last Result, Median |
+| 3.5–4.5% | 30% | 45% |  |
+| 4.5–5.5% | 14% | 15% |  |
+| 5.5–6.5% | 1.4% | 1.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -149,6 +157,14 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 1 |
+| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
+| [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 1 | 1 | 1 | 1 | 1 |
+| [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
