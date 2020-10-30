@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 29 Oct 2020 19:22:30 +0100</pubDate>
+    <pubDate>Fri, 30 Oct 2020 19:03:01 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 22–24 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 298–356 seats&lt;/li&gt;&lt;li&gt;Labour Party: 233–295 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–9 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 14–53 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–5 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll-seats.png"
+        length="193222"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 18:24:04 +0100</pubDate>
+      <dc:date>2020-10-30T18:24:04.725949+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 22–24 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll-coalitions-seats.png"
+        length="542915"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 18:24:04 +0100</pubDate>
+      <dc:date>2020-10-30T18:24:04.725949+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 22–24 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll.png"
         length="217595"
         type="image/png"/>
-      <pubDate>Wed, 28 Oct 2020 19:59:28 +0100</pubDate>
-      <dc:date>2020-10-28T19:59:28.341904+01:00</dc:date>
+      <pubDate>Fri, 30 Oct 2020 18:24:04 +0100</pubDate>
+      <dc:date>2020-10-30T18:24:04.725949+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 22–23 October 2020 – Voting Intentions</title>
@@ -30,14 +50,34 @@
       <dc:date>2020-10-28T20:18:53.272446+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 21–22 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 276–328 seats&lt;/li&gt;&lt;li&gt;Labour Party: 238–288 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–6 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov-seats.png"
+        length="172171"
+        type="image/png"/>
+      <pubDate>Thu, 29 Oct 2020 20:26:17 +0100</pubDate>
+      <dc:date>2020-10-29T20:26:17.630303+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 21–22 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov-coalitions-seats.png"
+        length="511171"
+        type="image/png"/>
+      <pubDate>Thu, 29 Oct 2020 20:26:17 +0100</pubDate>
+      <dc:date>2020-10-29T20:26:17.630303+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.8%&lt;/li&gt;&lt;li&gt;Labour Party: 37.0–41.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.9–8.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.8–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-22-YouGov.png"
         length="198482"
         type="image/png"/>
-      <pubDate>Thu, 29 Oct 2020 19:22:30 +0100</pubDate>
-      <dc:date>2020-10-29T19:22:30.042+01:00</dc:date>
+      <pubDate>Thu, 29 Oct 2020 20:26:17 +0100</pubDate>
+      <dc:date>2020-10-29T20:26:17.630303+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 21 October 2020 – Voting Intentions</title>
@@ -46,8 +86,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies.png"
         length="179435"
         type="image/png"/>
-      <pubDate>Wed, 28 Oct 2020 20:58:24 +0100</pubDate>
-      <dc:date>2020-10-28T20:58:24.15334+01:00</dc:date>
+      <pubDate>Fri, 30 Oct 2020 19:03:01 +0100</pubDate>
+      <dc:date>2020-10-30T19:03:01.012663+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 16–18 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-18-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 308–355 seats&lt;/li&gt;&lt;li&gt;Labour Party: 215–258 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 2–8 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 44–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-18-SavantaComRes-seats.png"
+        length="170260"
+        type="image/png"/>
+      <pubDate>Thu, 29 Oct 2020 22:54:27 +0100</pubDate>
+      <dc:date>2020-10-29T22:54:27.590619+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 16–18 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-18-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-18-SavantaComRes-coalitions-seats.png"
+        length="476272"
+        type="image/png"/>
+      <pubDate>Thu, 29 Oct 2020 22:54:27 +0100</pubDate>
+      <dc:date>2020-10-29T22:54:27.590619+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 16–18 October 2020 – Voting Intentions</title>
@@ -56,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-18-SavantaComRes.png"
         length="191316"
         type="image/png"/>
-      <pubDate>Wed, 28 Oct 2020 21:19:26 +0100</pubDate>
-      <dc:date>2020-10-28T21:19:26.108154+01:00</dc:date>
+      <pubDate>Thu, 29 Oct 2020 22:54:27 +0100</pubDate>
+      <dc:date>2020-10-29T22:54:27.590619+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Number Cruncher Politics for Peston, 9–17 October 2020 – Seat Projections for the Parties</title>
@@ -90,14 +150,34 @@
       <dc:date>2020-10-29T18:22:13.977876+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 14–15 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 276–329 seats&lt;/li&gt;&lt;li&gt;Labour Party: 237–289 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–4 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov-seats.png"
+        length="170323"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 17:11:22 +0100</pubDate>
+      <dc:date>2020-10-30T17:11:22.379708+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 14–15 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov-coalitions-seats.png"
+        length="513379"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 17:11:22 +0100</pubDate>
+      <dc:date>2020-10-30T17:11:22.379708+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.9–42.7%&lt;/li&gt;&lt;li&gt;Labour Party: 36.9–41.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.6–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-15-YouGov.png"
         length="200488"
         type="image/png"/>
-      <pubDate>Wed, 28 Oct 2020 22:50:25 +0100</pubDate>
-      <dc:date>2020-10-28T22:50:25.860577+01:00</dc:date>
+      <pubDate>Fri, 30 Oct 2020 17:11:22 +0100</pubDate>
+      <dc:date>2020-10-30T17:11:22.379708+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 9–11 October 2020 – Voting Intentions</title>
@@ -2039,6 +2119,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-10-29T19:22:30.042+01:00</dc:date>
+    <dc:date>2020-10-30T19:03:01.012663+01:00</dc:date>
   </channel>
 </rss>
