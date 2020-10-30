@@ -159,14 +159,14 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–6 | 0–7 | 0–9 |
-| [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 1–5 | 1–7 | 0–9 | 0–11 |
+| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–6 | 0–6 | 0–9 |
+| [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 0–5 | 0–7 | 0–9 | 0–11 |
 | [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 2 | 1–4 | 0–4 | 0–6 | 0–6 |
+| [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 2 | 1–4 | 0–5 | 0–6 | 0–6 |
 | [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 1–4 | 1–4 | 1–4 | 0–6 |
-| [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 4 | 2–7 | 2–7 | 1–7 | 1–8 |
+| [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 4 | 2–6 | 2–7 | 2–8 | 1–8 |
 | [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 0 | 0 | 0 | 0 | 0–1 |
-| [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
+| [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 3 | 2–4 | 1–6 | 1–6 | 0–6 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–2 |
@@ -290,18 +290,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 16% | 77% |  |
-| 2 | 23% | 60% | Median |
-| 3 | 18% | 37% |  |
-| 4 | 10% | 20% |  |
-| 5 | 3% | 10% |  |
-| 6 | 4% | 7% |  |
-| 7 | 2% | 3% |  |
+| 0 | 24% | 100% |  |
+| 1 | 14% | 76% |  |
+| 2 | 22% | 61% | Median |
+| 3 | 19% | 39% |  |
+| 4 | 12% | 20% |  |
+| 5 | 2% | 9% |  |
+| 6 | 4% | 6% |  |
+| 7 | 1.1% | 2% |  |
 | 8 | 0.7% | 1.2% |  |
-| 9 | 0.2% | 0.5% |  |
-| 10 | 0.1% | 0.4% |  |
-| 11 | 0.3% | 0.3% | Last Result |
+| 9 | 0.3% | 0.5% |  |
+| 10 | 0% | 0.2% |  |
+| 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |
 
 
