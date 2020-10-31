@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 30 Oct 2020 19:03:01 +0100</pubDate>
+    <pubDate>Fri, 30 Oct 2020 23:49:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 22–24 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-24-Deltapoll.html#seats</link>
@@ -80,14 +80,34 @@
       <dc:date>2020-10-29T20:26:17.630303+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 21 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 280–314 seats&lt;/li&gt;&lt;li&gt;Labour Party: 256–288 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 1–4 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies-seats.png"
+        length="157920"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 19:42:25 +0100</pubDate>
+      <dc:date>2020-10-30T19:42:25.747033+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 21 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies-coalitions-seats.png"
+        length="446164"
+        type="image/png"/>
+      <pubDate>Fri, 30 Oct 2020 19:42:25 +0100</pubDate>
+      <dc:date>2020-10-30T19:42:25.747033+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 21 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.9–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 38.9–42.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.2–8.1%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–5.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.6–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-21-RedfieldWiltonStrategies.png"
         length="179435"
         type="image/png"/>
-      <pubDate>Fri, 30 Oct 2020 19:03:01 +0100</pubDate>
-      <dc:date>2020-10-30T19:03:01.012663+01:00</dc:date>
+      <pubDate>Fri, 30 Oct 2020 19:42:25 +0100</pubDate>
+      <dc:date>2020-10-30T19:42:25.747033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 16–18 October 2020 – Seat Projections for the Parties</title>
@@ -186,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-10-11-SavantaComRes.png"
         length="195825"
         type="image/png"/>
-      <pubDate>Thu, 29 Oct 2020 07:33:35 +0100</pubDate>
-      <dc:date>2020-10-29T07:33:35.063365+01:00</dc:date>
+      <pubDate>Fri, 30 Oct 2020 23:49:30 +0100</pubDate>
+      <dc:date>2020-10-30T23:49:30.099141+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 8–9 October 2020 – Seat Projections for the Parties</title>
@@ -2119,6 +2139,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-10-30T19:03:01.012663+01:00</dc:date>
+    <dc:date>2020-10-30T23:49:30.099141+01:00</dc:date>
   </channel>
 </rss>
