@@ -165,7 +165,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 54 | 48–56 | 45–58 | 44–58 | 36–58 |
 | [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 58 | 55–58 | 54–58 | 54–58 | 52–58 |
 | [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
-| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 56–58 | 54–58 | 52–58 |
+| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 50–58 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 54 | 46–58 | 42–58 | 38–58 | 33–58 |

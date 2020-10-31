@@ -157,7 +157,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
 | [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
@@ -285,11 +285,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% |  |
-| 1 | 5% | 80% |  |
+| 1 | 6% | 80% |  |
 | 2 | 10% | 75% |  |
-| 3 | 3% | 65% |  |
+| 3 | 4% | 65% |  |
 | 4 | 4% | 61% | Last Result |
-| 5 | 48% | 57% | Median |
+| 5 | 47% | 57% | Median |
 | 6 | 7% | 9% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0.2% |  |

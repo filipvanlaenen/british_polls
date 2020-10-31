@@ -163,15 +163,15 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 311 | 285–340 | 278–346 | 274–349 | 266–359 |
+| N/A | [Poll Average](average.html) | 311 | 286–340 | 278–346 | 274–349 | 266–359 |
 | [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 326 | 307–346 | 302–351 | 298–356 | 291–364 |
 | [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 289 | 273–296 | 269–301 | 266–310 | 259–313 |
 | [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 298 | 285–317 | 280–323 | 276–328 | 270–336 |
-| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 293 | 283–306 | 281–313 | 280–314 | 274–322 |
+| [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 293 | 283–308 | 281–313 | 280–314 | 274–322 |
 | [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 334 | 317–346 | 313–351 | 308–355 | 299–363 |
 | [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 314 | 302–335 | 294–338 | 292–341 | 289–347 |
 | [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 299 | 286–318 | 281–324 | 276–329 | 272–338 |
-| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 291 | 282–307 | 278–314 | 273–320 | 265–329 |
+| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 290 | 281–309 | 277–314 | 274–319 | 266–326 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 293 | 283–311 | 280–313 | 276–317 | 269–326 |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 313 | 296–334 | 291–338 | 290–341 | 283–348 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 307 | 291–327 | 288–332 | 285–337 | 278–345 |
@@ -327,7 +327,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 287 | 1.4% | 90% |  |
 | 288 | 2% | 88% |  |
 | 289 | 6% | 86% |  |
-| 290 | 2% | 79% |  |
+| 290 | 2% | 80% |  |
 | 291 | 0.8% | 78% |  |
 | 292 | 2% | 77% |  |
 | 293 | 2% | 75% |  |
@@ -344,20 +344,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 304 | 1.0% | 59% |  |
 | 305 | 0.9% | 58% |  |
 | 306 | 1.4% | 57% |  |
-| 307 | 1.2% | 55% |  |
+| 307 | 1.2% | 56% |  |
 | 308 | 0.7% | 54% |  |
 | 309 | 1.3% | 54% |  |
 | 310 | 1.4% | 52% |  |
 | 311 | 2% | 51% | Median |
-| 312 | 1.4% | 49% |  |
+| 312 | 1.5% | 49% |  |
 | 313 | 3% | 48% |  |
 | 314 | 2% | 45% |  |
 | 315 | 2% | 43% |  |
-| 316 | 1.5% | 41% |  |
+| 316 | 2% | 41% |  |
 | 317 | 1.3% | 40% |  |
 | 318 | 1.1% | 38% |  |
 | 319 | 1.0% | 37% |  |
-| 320 | 1.3% | 36% |  |
+| 320 | 1.2% | 36% |  |
 | 321 | 1.2% | 35% |  |
 | 322 | 1.2% | 34% |  |
 | 323 | 0.8% | 33% |  |
