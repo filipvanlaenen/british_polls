@@ -48,9 +48,9 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 4.1% | 3.5–4.7% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.5% |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 6.2% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 6.2% | 5.4–7.3% | 5.2–7.6% | 5.0–7.8% | 4.6–8.3% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
@@ -159,7 +159,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 40–58 | 31–58 | 24–58 | 16–58 |
 | [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 36 | 22–48 | 18–51 | 14–53 | 7–55 |
-| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 53–58 | 52–58 |
+| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 57–58 | 55–58 | 52–58 |
 | [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 54–58 | 53–58 | 50–58 |
 | [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
 | [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 54 | 48–56 | 45–58 | 44–58 | 36–58 |
@@ -195,9 +195,9 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 47–55 | 45–57 | 41–58 | 32–58 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 53 | 47–57 | 45–58 | 42–58 | 33–58 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 53–58 | 49–58 |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 55–58 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–56 | 44–58 | 41–58 | 32–58 |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 58 | 58 | 58 | 58 | 55–59 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 50–58 | 46–58 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 53 | 44–58 | 39–58 | 33–58 | 24–58 |
@@ -209,14 +209,14 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 46–55 | 44–56 | 40–58 | 31–58 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 55–58 |
-| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 46–55 | 43–56 | 41–58 | 31–58 |
-| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 56 | 54–58 | 54–58 | 52–58 | 48–58 |
-| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 54 | 47–58 | 46–58 | 42–58 | 37–58 |
+| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–56 | 43–57 | 40–58 | 31–58 |
+| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 56 | 53–58 | 50–58 | 49–58 | 44–58 |
+| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 54 | 48–57 | 45–58 | 43–58 | 35–58 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 56–58 |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 58 | 55–58 | 53–58 | 50–58 | 48–58 |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 58 | 54–58 | 52–58 | 51–58 | 49–58 |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 57 | 54–58 | 52–58 | 51–58 | 49–58 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 44–55 | 40–56 | 36–58 | 29–58 |
-| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 51 | 44–58 | 38–58 | 33–58 | 25–58 |
+| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 53 | 44–58 | 38–58 | 31–58 | 24–58 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 52 | 46–57 | 43–58 | 40–58 | 33–58 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
@@ -334,12 +334,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 1.1% | 82% |  |
 | 50 | 2% | 81% |  |
 | 51 | 3% | 79% |  |
-| 52 | 1.4% | 77% |  |
+| 52 | 1.4% | 76% |  |
 | 53 | 3% | 75% |  |
 | 54 | 5% | 72% |  |
 | 55 | 8% | 67% |  |
 | 56 | 3% | 59% |  |
-| 57 | 2% | 55% |  |
+| 57 | 3% | 56% |  |
 | 58 | 53% | 53% | Median |
 | 59 | 0% | 0% |  |
 

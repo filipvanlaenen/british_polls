@@ -48,9 +48,9 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 1.1% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -191,9 +191,9 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -206,7 +206,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 4–9 | 2–10 |
+| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 4–7 | 3–9 |
 | [10–12 July 2020](2020-07-12-Survation.html) | Survation | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -290,7 +290,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 4% | 65% |  |
 | 4 | 4% | 61% | Last Result |
 | 5 | 47% | 57% | Median |
-| 6 | 7% | 9% |  |
+| 6 | 8% | 10% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0.2% |  |
 | 9 | 0.1% | 0.2% |  |

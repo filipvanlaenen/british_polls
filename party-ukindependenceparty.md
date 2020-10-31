@@ -50,7 +50,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 0.1% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
@@ -192,7 +192,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation |  |  |  |  |  |

@@ -48,9 +48,9 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 2.4% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.4–3.9% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -194,9 +194,9 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 1 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |

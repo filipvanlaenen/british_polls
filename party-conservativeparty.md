@@ -48,9 +48,9 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.8% | 43.3–46.2% | 42.9–46.6% | 42.6–47.0% | 41.9–47.6% |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 42.8% | 41.4–44.2% | 41.0–44.6% | 40.6–44.9% | 40.0–45.6% |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 42.9% | 41.5–44.4% | 41.1–44.8% | 40.7–45.2% | 40.0–45.9% |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 45.3% | N/A | N/A | N/A | N/A |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 45.3% | 43.7–46.9% | 43.2–47.3% | 42.8–47.7% | 42.1–48.5% |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.7% | 42.3–45.1% | 41.9–45.5% | 41.5–45.9% | 40.8–46.6% |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 43.5% | N/A | N/A | N/A | N/A |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 43.5% | 41.6–45.4% | 41.1–46.0% | 40.6–46.4% | 39.7–47.3% |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 42.9% | 41.4–44.6% | 40.9–45.0% | 40.5–45.4% | 39.8–46.2% |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 45.6% | 43.6–47.6% | 43.0–48.2% | 42.5–48.7% | 41.6–49.7% |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 44.8% | 42.8–46.9% | 42.3–47.4% | 41.8–47.9% | 40.8–48.9% |
@@ -163,15 +163,15 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 311 | 286–340 | 278–346 | 274–349 | 266–359 |
+| N/A | [Poll Average](average.html) | 311 | 285–340 | 279–346 | 274–349 | 266–359 |
 | [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 326 | 307–346 | 302–351 | 298–356 | 291–364 |
-| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 289 | 273–296 | 269–301 | 266–310 | 259–313 |
+| [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 286 | 273–297 | 268–300 | 265–306 | 258–315 |
 | [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 298 | 285–317 | 280–323 | 276–328 | 270–336 |
 | [21 October 2020](2020-10-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 293 | 283–308 | 281–313 | 280–314 | 274–322 |
 | [16–18 October 2020](2020-10-18-SavantaComRes.html) | Savanta ComRes | 334 | 317–346 | 313–351 | 308–355 | 299–363 |
 | [9–17 October 2020](2020-10-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Peston | 314 | 302–335 | 294–338 | 292–341 | 289–347 |
 | [14–15 October 2020](2020-10-15-YouGov.html) | YouGov <br> The Times | 299 | 286–318 | 281–324 | 276–329 | 272–338 |
-| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 290 | 281–309 | 277–314 | 274–319 | 266–326 |
+| [9–11 October 2020](2020-10-11-SavantaComRes.html) | Savanta ComRes | 291 | 281–309 | 276–314 | 273–318 | 268–326 |
 | [8–9 October 2020](2020-10-09-Opinium.html) | Opinium <br> The Observer | 293 | 283–311 | 280–313 | 276–317 | 269–326 |
 | [6–7 October 2020](2020-10-07-YouGov.html) | YouGov <br> The Times | 313 | 296–334 | 291–338 | 290–341 | 283–348 |
 | [6–7 October 2020](2020-10-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 307 | 291–327 | 288–332 | 285–337 | 278–345 |
@@ -201,9 +201,9 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [19 August 2020](2020-08-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 344 | 327–358 | 321–362 | 317–367 | 309–374 |
 | [14–16 August 2020](2020-08-16-SavantaComRes.html) | Savanta ComRes | 329 | 312–344 | 306–347 | 301–352 | 294–359 |
 | [13–14 August 2020](2020-08-14-Opinium.html) | Opinium <br> The Observer | 315 | 298–332 | 292–337 | 291–339 | 286–344 |
-| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–12 August 2020](2020-08-12-YouGov.html) | YouGov <br> The Times | 348 | 336–365 | 334–368 | 328–371 | 315–376 |
 | [12 August 2020](2020-08-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 341 | 324–355 | 318–360 | 314–364 | 305–371 |
-| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–10 August 2020](2020-08-10-KantarPublic.html) | Kantar Public | 331 | 325–356 | 313–356 | 303–364 | 290–367 |
 | [4–5 August 2020](2020-08-05-YouGov.html) | YouGov <br> The Times | 331 | 311–347 | 306–351 | 300–355 | 293–363 |
 | [30 July–4 August 2020](2020-08-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 344 | 324–365 | 316–371 | 311–374 | 300–383 |
 | [31 July–3 August 2020](2020-08-03-Survation.html) | Survation | 353 | 335–374 | 323–380 | 319–383 | 304–391 |
@@ -215,14 +215,14 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [22 July 2020](2020-07-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 344 | 330–360 | 324–364 | 320–368 | 312–375 |
 | [17–19 July 2020](2020-07-19-SavantaComRes.html) | Savanta ComRes | 340 | 324–352 | 319–357 | 314–360 | 307–367 |
 | [15–17 July 2020](2020-07-17-Opinium.html) | Opinium <br> The Observer | 342 | 330–357 | 324–360 | 321–363 | 313–371 |
-| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 342 | 325–355 | 321–359 | 317–363 | 309–371 |
-| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 350 | 333–372 | 329–372 | 325–378 | 311–391 |
-| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 333 | 317–348 | 311–351 | 308–357 | 297–366 |
+| [15 July 2020](2020-07-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 343 | 324–356 | 319–361 | 316–365 | 306–372 |
+| [9–13 July 2020](2020-07-13-Kantar.html) | Kantar | 348 | 329–368 | 325–372 | 320–377 | 307–385 |
+| [10–12 July 2020](2020-07-12-Survation.html) | Survation | 334 | 316–348 | 311–352 | 307–356 | 297–364 |
 | [9–10 July 2020](2020-07-10-Opinium.html) | Opinium <br> The Observer | 326 | 302–334 | 301–341 | 299–343 | 288–349 |
 | [9–10 July 2020](2020-07-10-Deltapoll.html) | Deltapoll | 333 | 315–354 | 311–362 | 304–369 | 296–371 |
-| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 353 | 340–368 | 338–372 | 331–375 | 322–384 |
+| [8–9 July 2020](2020-07-09-YouGov.html) | YouGov | 354 | 339–369 | 336–373 | 330–376 | 322–383 |
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 329 | 311–347 | 306–351 | 303–353 | 295–361 |
-| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 344 | 320–366 | 314–372 | 306–375 | 295–382 |
+| [3–6 July 2020](2020-07-06-Survation.html) | Survation | 344 | 319–364 | 312–371 | 306–375 | 294–383 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 320 | 298–332 | 291–337 | 290–340 | 285–346 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 321 | 305–339 | 299–345 | 293–349 | 288–354 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 317 | 305–337 | 299–341 | 295–343 | 289–348 |
@@ -294,49 +294,51 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 257 | 0% | 100% |  |
+| 255 | 0% | 100% |  |
+| 256 | 0% | 99.9% |  |
+| 257 | 0% | 99.9% |  |
 | 258 | 0% | 99.9% |  |
 | 259 | 0% | 99.9% |  |
 | 260 | 0% | 99.9% |  |
 | 261 | 0% | 99.9% |  |
-| 262 | 0% | 99.9% |  |
-| 263 | 0% | 99.9% |  |
+| 262 | 0% | 99.8% |  |
+| 263 | 0% | 99.8% |  |
 | 264 | 0.1% | 99.8% |  |
-| 265 | 0.1% | 99.8% |  |
-| 266 | 0.2% | 99.7% |  |
-| 267 | 0.1% | 99.4% |  |
-| 268 | 0.1% | 99.4% |  |
-| 269 | 0.2% | 99.2% |  |
-| 270 | 0.1% | 99.0% |  |
-| 271 | 0.1% | 98.9% |  |
-| 272 | 0.2% | 98.9% |  |
-| 273 | 1.1% | 98.7% |  |
-| 274 | 2% | 98% |  |
-| 275 | 0.5% | 96% |  |
-| 276 | 0.3% | 95% |  |
-| 277 | 0.2% | 95% |  |
-| 278 | 0.2% | 95% |  |
-| 279 | 0.3% | 95% |  |
-| 280 | 0.4% | 95% |  |
-| 281 | 0.8% | 94% |  |
-| 282 | 0.8% | 93% |  |
-| 283 | 1.2% | 93% |  |
-| 284 | 0.6% | 91% |  |
-| 285 | 0.7% | 91% |  |
-| 286 | 0.4% | 90% |  |
-| 287 | 1.4% | 90% |  |
-| 288 | 2% | 88% |  |
-| 289 | 6% | 86% |  |
+| 265 | 0.1% | 99.7% |  |
+| 266 | 0.2% | 99.6% |  |
+| 267 | 0.2% | 99.4% |  |
+| 268 | 0.2% | 99.2% |  |
+| 269 | 0.2% | 99.0% |  |
+| 270 | 0.1% | 98.9% |  |
+| 271 | 0.1% | 98.8% |  |
+| 272 | 0.3% | 98.7% |  |
+| 273 | 0.6% | 98% |  |
+| 274 | 0.8% | 98% |  |
+| 275 | 0.6% | 97% |  |
+| 276 | 0.4% | 96% |  |
+| 277 | 0.2% | 96% |  |
+| 278 | 0.4% | 96% |  |
+| 279 | 0.6% | 95% |  |
+| 280 | 1.0% | 95% |  |
+| 281 | 1.0% | 94% |  |
+| 282 | 1.2% | 93% |  |
+| 283 | 0.9% | 92% |  |
+| 284 | 0.4% | 91% |  |
+| 285 | 0.6% | 90% |  |
+| 286 | 0.9% | 90% |  |
+| 287 | 2% | 89% |  |
+| 288 | 3% | 87% |  |
+| 289 | 3% | 83% |  |
 | 290 | 2% | 80% |  |
-| 291 | 0.8% | 78% |  |
-| 292 | 2% | 77% |  |
+| 291 | 1.3% | 79% |  |
+| 292 | 2% | 78% |  |
 | 293 | 2% | 75% |  |
 | 294 | 2% | 73% |  |
-| 295 | 1.2% | 71% |  |
-| 296 | 1.0% | 70% |  |
-| 297 | 0.9% | 69% |  |
+| 295 | 1.1% | 71% |  |
+| 296 | 0.9% | 70% |  |
+| 297 | 1.0% | 69% |  |
 | 298 | 1.3% | 68% |  |
-| 299 | 1.1% | 66% |  |
+| 299 | 1.4% | 67% |  |
 | 300 | 1.2% | 65% |  |
 | 301 | 2% | 64% |  |
 | 302 | 2% | 62% |  |
@@ -344,12 +346,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 304 | 1.0% | 59% |  |
 | 305 | 0.9% | 58% |  |
 | 306 | 1.4% | 57% |  |
-| 307 | 1.2% | 56% |  |
+| 307 | 1.1% | 55% |  |
 | 308 | 0.7% | 54% |  |
-| 309 | 1.3% | 54% |  |
-| 310 | 1.4% | 52% |  |
+| 309 | 1.3% | 53% |  |
+| 310 | 1.3% | 52% |  |
 | 311 | 2% | 51% | Median |
-| 312 | 1.5% | 49% |  |
+| 312 | 1.4% | 49% |  |
 | 313 | 3% | 48% |  |
 | 314 | 2% | 45% |  |
 | 315 | 2% | 43% |  |
