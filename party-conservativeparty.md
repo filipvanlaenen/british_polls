@@ -207,7 +207,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 297 | 283–316 | 278–322 | 275–326 | 267–336 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 305 | 290–321 | 287–325 | 285–330 | 279–338 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 310 | 291–331 | 289–337 | 287–340 | 281–346 |
-| [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 324 | 306–341 | 300–343 | 298–348 | 292–358 |
+| [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 325 | 307–342 | 301–346 | 298–350 | 290–360 |
 | [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 322 | 297–345 | 293–350 | 289–356 | 280–366 |
 | [3–4 September 2020](2020-09-04-YouGov.html) | YouGov <br> The Times | 332 | 313–346 | 309–351 | 302–356 | 295–363 |
 | [2–4 September 2020](2020-09-04-Survation.html) | Survation | 304 | 283–329 | 277–334 | 274–338 | 264–348 |
