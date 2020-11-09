@@ -10,7 +10,11 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.5–8.2% | 5.1–8.6% | 4.8–9.0% | 4.4–9.8% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.6–9.0% | 5.1–9.6% | 4.8–10.1% | 4.4–10.9% |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
+| [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.2% | 6.1–8.4% | 5.7–8.7% |
+| [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 7.3% | 6.6–8.2% | 6.3–8.5% | 6.2–8.7% | 5.8–9.2% |
+| [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.2–7.5% | 4.8–8.0% |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.6–7.8% | 6.4–8.0% | 6.2–8.1% | 6.0–8.4% |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–10.0% | 6.1–10.6% |
 | [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
@@ -152,14 +156,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 10% | 98.9% |  |
-| 5.5–6.5% | 20% | 89% |  |
-| 6.5–7.5% | 42% | 69% | Median |
-| 7.5–8.5% | 22% | 27% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.7% | 0.8% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% | Last Result |
+| 4.5–5.5% | 8% | 98.9% |  |
+| 5.5–6.5% | 11% | 90% |  |
+| 6.5–7.5% | 40% | 80% | Median |
+| 7.5–8.5% | 25% | 40% |  |
+| 8.5–9.5% | 10% | 15% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 1.0% | 1.1% |  |
+| 11.5–12.5% | 0.1% | 0.1% | Last Result |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -170,7 +175,11 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–6 | 0–7 | 0–10 |
+| N/A | [Poll Average](average.html) | 3 | 0–6 | 0–7 | 0–7 | 0–12 |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 6 | 4–8 | 4–11 | 3–13 | 2–17 |
+| [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 3 | 2–6 | 1–6 | 1–6 | 0–6 |
+| [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
+| [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–4 | 1–4 | 1–6 | 0–6 |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 3–7 | 3–7 | 2–10 | 1–15 |
 | [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 2 | 0–3 | 0–4 | 0–4 | 0–6 |
@@ -312,22 +321,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% |  |
-| 1 | 16% | 79% |  |
-| 2 | 21% | 63% | Median |
-| 3 | 18% | 42% |  |
-| 4 | 11% | 24% |  |
-| 5 | 2% | 13% |  |
-| 6 | 8% | 11% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.3% | 1.1% |  |
-| 9 | 0.3% | 0.8% |  |
-| 10 | 0.1% | 0.5% |  |
-| 11 | 0.3% | 0.4% | Last Result |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 15% | 100% |  |
+| 1 | 9% | 85% |  |
+| 2 | 14% | 75% |  |
+| 3 | 16% | 61% | Median |
+| 4 | 17% | 46% |  |
+| 5 | 2% | 29% |  |
+| 6 | 19% | 27% |  |
+| 7 | 5% | 7% |  |
+| 8 | 0.5% | 2% |  |
+| 9 | 0.4% | 2% |  |
+| 10 | 0.2% | 1.5% |  |
+| 11 | 0.8% | 1.3% | Last Result |
+| 12 | 0.1% | 0.5% |  |
+| 13 | 0.1% | 0.4% |  |
+| 14 | 0% | 0.4% |  |
+| 15 | 0.2% | 0.4% |  |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0% | 0.1% |  |
+| 18 | 0% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

@@ -10,7 +10,11 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.8% |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
+| [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.1% |
 | [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -150,9 +154,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 49% | 100% |  |
-| 0.5–1.5% | 48% | 51% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 58% | 100% | Median |
+| 0.5–1.5% | 39% | 42% | Last Result |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -164,7 +168,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5 | 4–6 | 4–6 |
+| [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–6 | 4–6 | 4–7 | 3–7 |
 | [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
@@ -306,17 +314,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 6% | 77% |  |
-| 2 | 12% | 71% |  |
-| 3 | 4% | 59% |  |
-| 4 | 6% | 54% | Last Result, Median |
-| 5 | 41% | 49% |  |
-| 6 | 6% | 8% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0% | 0.3% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 0 | 26% | 100% |  |
+| 1 | 7% | 74% |  |
+| 2 | 14% | 67% |  |
+| 3 | 6% | 53% | Median |
+| 4 | 8% | 47% | Last Result |
+| 5 | 35% | 39% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.6% | 0.7% |  |
+| 8 | 0% | 0.1% |  |
+| 9 | 0% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
