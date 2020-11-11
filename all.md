@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
-| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 37–43% <br> 272–338 | 35–41% <br> 227–291 | 8–11% <br> 3–13 | 4–7% <br> 52–58 | 2–4% <br> 1 | 0–2% <br> 0 | 0–1% <br> 0–5 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 37–43% <br> 270–338 | 35–41% <br> 227–292 | 8–11% <br> 3–13 | 4–7% <br> 52–58 | 2–4% <br> 1 | 0–2% <br> 0 | 0–1% <br> 0–5 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 36–41% <br> 252–291 | 40–45% <br> 275–311 | 6–8% <br> 1–6 | 4–6% <br> 53–58 | 2–3% <br> 1 | N/A <br> N/A | 1–2% <br> 4–6 | N/A <br> 1 | 0% <br> 0 | N/A <br> N/A | N/A <br> 18 |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 34–39% <br> 243–287 | 39–44% <br> 276–318 | 6–9% <br> 2–6 | 4–6% <br> 55–58 | 2–4% <br> 1 | 2–4% <br> 0–2 | 1–2% <br> 5–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 37–42% <br> 273–323 | 37–42% <br> 244–292 | 5–8% <br> 0–4 | 4–6% <br> 54–58 | 3–5% <br> 1 | 1–3% <br> 0 | 1–2% <br> 5–7 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
