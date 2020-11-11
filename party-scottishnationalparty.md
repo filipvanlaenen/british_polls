@@ -174,7 +174,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 41–58 | 32–58 | 26–58 | 16–58 |
-| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 58 | 55–58 | 53–58 | 52–58 | 47–58 |
+| [5–6 November 2020](2020-11-06-Survation.html) | Survation | 58 | 55–58 | 53–58 | 52–58 | 46–58 |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 53–58 | 50–58 |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 55–58 | 52–58 |
 | [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 58 | 58 | 55–58 | 54–58 | 52–58 |
@@ -367,7 +367,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 2% | 80% |  |
 | 52 | 3% | 78% |  |
 | 53 | 3% | 75% |  |
-| 54 | 4% | 72% |  |
+| 54 | 5% | 72% |  |
 | 55 | 4% | 67% |  |
 | 56 | 3% | 63% |  |
 | 57 | 7% | 61% |  |
