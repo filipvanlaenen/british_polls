@@ -10,7 +10,10 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.6–9.0% | 5.1–9.6% | 4.8–10.1% | 4.4–10.9% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.8–9.2% | 5.1–9.7% | 4.8–10.1% | 4.4–10.9% |
+| [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.4–7.8% | 6.3–8.0% | 6.1–8.2% | 5.8–8.5% |
+| [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 8.3% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
+| [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 8.4% | 7.4–9.6% | 7.2–9.9% | 6.9–10.2% | 6.5–10.8% |
 | [5–6 November 2020](2020-11-06-Survation.html) | Survation | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.2% | 6.1–8.4% | 5.7–8.7% |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 7.3% | 6.6–8.2% | 6.3–8.5% | 6.2–8.7% | 5.8–9.2% |
@@ -42,6 +45,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.4–9.0% | 7.2–9.2% | 7.0–9.4% | 6.7–9.8% |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.2–7.3% | 5.1–7.5% | 4.8–7.9% |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 7.1% | N/A | N/A | N/A | N/A |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.1% | 6.7–9.5% |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
@@ -155,13 +159,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 8% | 98.9% |  |
-| 5.5–6.5% | 11% | 90% |  |
-| 6.5–7.5% | 40% | 80% | Median |
-| 7.5–8.5% | 25% | 40% |  |
-| 8.5–9.5% | 10% | 15% |  |
-| 9.5–10.5% | 4% | 5% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 8% | 99.0% |  |
+| 5.5–6.5% | 9% | 91% |  |
+| 6.5–7.5% | 31% | 83% |  |
+| 7.5–8.5% | 30% | 52% | Median |
+| 8.5–9.5% | 16% | 22% |  |
+| 9.5–10.5% | 5% | 6% |  |
 | 10.5–11.5% | 1.0% | 1.1% |  |
 | 11.5–12.5% | 0.1% | 0.1% | Last Result |
 | 12.5–13.5% | 0% | 0% |  |
@@ -175,7 +179,10 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–6 | 0–7 | 0–7 | 0–12 |
+| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–12 |
+| [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 1–4 | 1–4 | 0–5 | 0–6 |
+| [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 3–6 | 2–6 | 1–7 |
+| [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 4 | 2–6 | 2–6 | 1–7 | 0–8 |
 | [5–6 November 2020](2020-11-06-Survation.html) | Survation | 6 | 4–8 | 4–11 | 3–13 | 2–17 |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 3 | 2–6 | 1–6 | 1–6 | 0–6 |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
@@ -207,6 +214,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4 | 2–6 | 2–7 | 1–7 | 0–8 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation |  |  |  |  |  |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–6 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -321,22 +329,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 9% | 85% |  |
-| 2 | 14% | 75% |  |
-| 3 | 16% | 61% | Median |
-| 4 | 16% | 45% |  |
-| 5 | 2% | 29% |  |
-| 6 | 19% | 27% |  |
-| 7 | 5% | 8% |  |
+| 0 | 13% | 100% |  |
+| 1 | 6% | 87% |  |
+| 2 | 10% | 81% |  |
+| 3 | 17% | 71% |  |
+| 4 | 20% | 54% | Median |
+| 5 | 2% | 34% |  |
+| 6 | 25% | 32% |  |
+| 7 | 5% | 7% |  |
 | 8 | 0.6% | 2% |  |
 | 9 | 0.4% | 2% |  |
-| 10 | 0.1% | 1.5% |  |
-| 11 | 0.7% | 1.3% | Last Result |
-| 12 | 0.1% | 0.6% |  |
-| 13 | 0.1% | 0.5% |  |
-| 14 | 0% | 0.4% |  |
-| 15 | 0.1% | 0.4% |  |
+| 10 | 0.1% | 1.3% |  |
+| 11 | 0.7% | 1.2% | Last Result |
+| 12 | 0.1% | 0.5% |  |
+| 13 | 0.1% | 0.4% |  |
+| 14 | 0% | 0.3% |  |
+| 15 | 0.1% | 0.3% |  |
 | 16 | 0.1% | 0.2% |  |
 | 17 | 0% | 0.1% |  |
 | 18 | 0% | 0.1% |  |
