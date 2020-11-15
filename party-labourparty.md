@@ -186,7 +186,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 270 | 240–300 | 232–309 | 228–312 | 219–320 |
-| [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 277 | 258–284 | 256–287 | 252–291 | 246–295 |
+| [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 275 | 259–284 | 256–287 | 252–291 | 246–295 |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 247 | 230–266 | 227–269 | 226–273 | 219–278 |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 251 | 227–270 | 224–277 | 218–279 | 208–284 |
 | [5–6 November 2020](2020-11-06-Survation.html) | Survation | 260 | 238–281 | 231–287 | 227–292 | 218–300 |
@@ -383,7 +383,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 247 | 1.2% | 83% |  |
 | 248 | 0.6% | 81% |  |
 | 249 | 0.2% | 81% |  |
-| 250 | 1.1% | 81% |  |
+| 250 | 1.2% | 81% |  |
 | 251 | 2% | 79% |  |
 | 252 | 2% | 78% |  |
 | 253 | 0.8% | 76% |  |
@@ -391,8 +391,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 255 | 2% | 74% |  |
 | 256 | 5% | 73% |  |
 | 257 | 1.1% | 68% |  |
-| 258 | 1.2% | 67% |  |
-| 259 | 1.1% | 66% |  |
+| 258 | 1.1% | 67% |  |
+| 259 | 1.2% | 66% |  |
 | 260 | 2% | 65% |  |
 | 261 | 1.2% | 63% |  |
 | 262 | 1.1% | 62% |  |
@@ -401,7 +401,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 265 | 2% | 59% |  |
 | 266 | 2% | 57% |  |
 | 267 | 2% | 56% |  |
-| 268 | 1.1% | 54% |  |
+| 268 | 1.2% | 54% |  |
 | 269 | 2% | 53% |  |
 | 270 | 2% | 51% | Median |
 | 271 | 0.5% | 49% |  |
@@ -409,16 +409,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 273 | 1.1% | 48% |  |
 | 274 | 0.6% | 47% |  |
 | 275 | 2% | 46% |  |
-| 276 | 2% | 45% |  |
+| 276 | 2% | 44% |  |
 | 277 | 3% | 43% |  |
 | 278 | 2% | 40% |  |
-| 279 | 1.0% | 37% |  |
+| 279 | 1.1% | 37% |  |
 | 280 | 2% | 36% |  |
-| 281 | 2% | 35% |  |
-| 282 | 1.1% | 33% |  |
+| 281 | 2% | 34% |  |
+| 282 | 1.2% | 33% |  |
 | 283 | 0.9% | 32% |  |
 | 284 | 2% | 31% |  |
-| 285 | 0.9% | 29% |  |
+| 285 | 0.8% | 29% |  |
 | 286 | 0.8% | 28% |  |
 | 287 | 2% | 28% |  |
 | 288 | 0.5% | 26% |  |
@@ -435,7 +435,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 299 | 2% | 12% |  |
 | 300 | 1.4% | 11% |  |
 | 301 | 0.6% | 9% |  |
-| 302 | 1.1% | 9% |  |
+| 302 | 1.0% | 9% |  |
 | 303 | 0.8% | 8% |  |
 | 304 | 0.7% | 7% |  |
 | 305 | 0.3% | 6% |  |
