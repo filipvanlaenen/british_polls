@@ -10,7 +10,17 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.6% | 0.0–0.8% |
+| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 0.3% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
+| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
@@ -158,8 +168,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.9% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.1% | 1.1% |  |
+| 0.0–0.5% | 94% | 100% | Last Result, Median |
+| 0.5–1.5% | 6% | 6% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -172,6 +182,16 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
+| [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
+| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |

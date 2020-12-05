@@ -10,7 +10,17 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.4–2.2% |
+| [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
@@ -158,9 +168,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 61% | 100% | Median |
-| 0.5–1.5% | 36% | 39% | Last Result |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 34% | 100% |  |
+| 0.5–1.5% | 62% | 66% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -172,7 +182,17 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–5 | 0–5 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5–6 | 5–7 | 4–7 | 3–10 |
+| [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
+| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -322,16 +342,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 8% | 72% |  |
-| 2 | 15% | 64% | Median |
-| 3 | 5% | 50% |  |
-| 4 | 9% | 45% | Last Result |
-| 5 | 31% | 35% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.7% | 0.7% |  |
-| 8 | 0% | 0.1% |  |
-| 9 | 0% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 0 | 14% | 100% |  |
+| 1 | 4% | 86% |  |
+| 2 | 8% | 82% |  |
+| 3 | 3% | 74% |  |
+| 4 | 7% | 71% | Last Result |
+| 5 | 53% | 64% | Median |
+| 6 | 8% | 11% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0% | 0.3% |  |
+| 9 | 0.2% | 0.2% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
