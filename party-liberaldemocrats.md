@@ -190,10 +190,10 @@ Last result: **11** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–7 | 0–8 | 0–9 | 0–16 |
-| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 6 | 3–6 | 2–7 | 2–7 | 1–8 |
+| [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 5 | 3–6 | 2–7 | 2–7 | 1–8 |
 | [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 3 | 1–6 | 0–6 | 0–6 | 0–7 |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 7 | 6–10 | 6–13 | 5–16 | 4–20 |
-| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
+| [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 3 | 1–6 | 0–6 | 0–6 | 0–6 |
 | [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
@@ -350,12 +350,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 18% | 100% |  |
-| 1 | 7% | 82% |  |
-| 2 | 7% | 75% |  |
+| 1 | 6% | 82% |  |
+| 2 | 8% | 76% |  |
 | 3 | 11% | 68% |  |
 | 4 | 16% | 57% | Median |
 | 5 | 2% | 41% |  |
-| 6 | 25% | 40% |  |
+| 6 | 25% | 39% |  |
 | 7 | 7% | 14% |  |
 | 8 | 3% | 7% |  |
 | 9 | 1.4% | 4% |  |
