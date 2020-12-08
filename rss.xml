@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 05 Dec 2020 23:32:50 +0100</pubDate>
+    <pubDate>Tue, 08 Dec 2020 15:07:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Savanta ComRes, 27–29 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-11-29-SavantaComRes.html#seats</link>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.png"
         length="179645"
         type="image/png"/>
-      <pubDate>Sat, 05 Dec 2020 17:17:16 +0100</pubDate>
-      <dc:date>2020-12-05T17:17:16.099128+01:00</dc:date>
+      <pubDate>Tue, 08 Dec 2020 15:07:29 +0100</pubDate>
+      <dc:date>2020-12-08T15:07:29.652668+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 17–18 November 2020 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.png"
         length="199609"
         type="image/png"/>
-      <pubDate>Sat, 05 Dec 2020 17:38:45 +0100</pubDate>
-      <dc:date>2020-12-05T17:38:45.595325+01:00</dc:date>
+      <pubDate>Mon, 07 Dec 2020 22:52:54 +0100</pubDate>
+      <dc:date>2020-12-07T22:52:54.897391+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 13–15 November 2020 – Voting Intentions</title>
@@ -2889,6 +2889,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-12-05T23:32:50.525645+01:00</dc:date>
+    <dc:date>2020-12-08T15:07:29.652668+01:00</dc:date>
   </channel>
 </rss>
