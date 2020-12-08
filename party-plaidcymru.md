@@ -189,8 +189,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
 | [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
