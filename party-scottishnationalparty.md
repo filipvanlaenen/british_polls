@@ -188,10 +188,10 @@ Last result: **48** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 55–58 | 52–58 | 49–58 | 40–58 |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 54–58 | 54–58 | 50–58 |
-| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 58 | 55–58 | 54–58 | 52–58 | 47–58 |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 56 | 48–58 | 42–58 | 38–58 | 33–58 |
 | [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
-| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
 | [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
@@ -361,16 +361,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 99.2% |  |
 | 45 | 0.2% | 99.1% |  |
 | 46 | 0.1% | 98.9% |  |
-| 47 | 0.3% | 98.8% |  |
-| 48 | 0.7% | 98.5% | Last Result |
+| 47 | 0.3% | 98.9% |  |
+| 48 | 0.7% | 98.6% | Last Result |
 | 49 | 0.6% | 98% |  |
 | 50 | 0.4% | 97% |  |
 | 51 | 0.9% | 97% |  |
-| 52 | 1.2% | 96% |  |
+| 52 | 1.1% | 96% |  |
 | 53 | 2% | 95% |  |
 | 54 | 2% | 93% |  |
 | 55 | 3% | 91% |  |
-| 56 | 3% | 88% |  |
+| 56 | 4% | 88% |  |
 | 57 | 3% | 84% |  |
 | 58 | 81% | 81% | Median |
 | 59 | 0% | 0% |  |

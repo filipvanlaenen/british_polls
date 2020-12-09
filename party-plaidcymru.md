@@ -184,7 +184,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5–6 | 5–7 | 4–7 | 3–10 |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5–6 | 5–7 | 4–7 | 3–9 |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
@@ -347,11 +347,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 8% | 82% |  |
 | 3 | 3% | 74% |  |
 | 4 | 7% | 71% | Last Result |
-| 5 | 54% | 64% | Median |
-| 6 | 8% | 10% |  |
+| 5 | 53% | 64% | Median |
+| 6 | 8% | 11% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0.3% |  |
-| 9 | 0.1% | 0.2% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
