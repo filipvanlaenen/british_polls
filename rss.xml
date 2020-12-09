@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 08 Dec 2020 15:07:29 +0100</pubDate>
+    <pubDate>Tue, 08 Dec 2020 22:47:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Savanta ComRes, 27–29 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-11-29-SavantaComRes.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-12-05T21:14:44.772043+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Number Cruncher Politics, 20–28 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 274–340 seats&lt;/li&gt;&lt;li&gt;Labour Party: 225–289 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics-seats.png"
+        length="176862"
+        type="image/png"/>
+      <pubDate>Tue, 08 Dec 2020 20:34:25 +0100</pubDate>
+      <dc:date>2020-12-08T20:34:25.474306+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Number Cruncher Politics, 20–28 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics-coalitions-seats.png"
+        length="558390"
+        type="image/png"/>
+      <pubDate>Tue, 08 Dec 2020 20:34:25 +0100</pubDate>
+      <dc:date>2020-12-08T20:34:25.474306+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Number Cruncher Politics, 20–28 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.7–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 35.7–41.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Green Party: 3.0–5.6%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-28-NumberCruncherPolitics.png"
         length="208577"
         type="image/png"/>
-      <pubDate>Sat, 05 Dec 2020 15:35:40 +0100</pubDate>
-      <dc:date>2020-12-05T15:35:40.972445+01:00</dc:date>
+      <pubDate>Tue, 08 Dec 2020 20:34:25 +0100</pubDate>
+      <dc:date>2020-12-08T20:34:25.474306+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for Daily Mail, 26–28 November 2020 – Seat Projections for the Parties</title>
@@ -96,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.png"
         length="201129"
         type="image/png"/>
-      <pubDate>Sat, 05 Dec 2020 16:37:56 +0100</pubDate>
-      <dc:date>2020-12-05T16:37:56.243058+01:00</dc:date>
+      <pubDate>Tue, 08 Dec 2020 22:47:25 +0100</pubDate>
+      <dc:date>2020-12-08T22:47:25.402384+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 19–20 November 2020 – Voting Intentions</title>
@@ -2889,6 +2909,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-12-08T15:07:29.652668+01:00</dc:date>
+    <dc:date>2020-12-08T22:47:25.402384+01:00</dc:date>
   </channel>
 </rss>
