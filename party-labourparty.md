@@ -203,7 +203,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 269 | 252–280 | 250–282 | 246–286 | 237–292 |
 | [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 267 | 249–280 | 243–284 | 238–288 | 228–293 |
 | [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 255 | 241–270 | 234–277 | 230–278 | 226–282 |
-| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 284 | 268–293 | 258–299 | 257–302 | 246–313 |
+| [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 282 | 267–294 | 263–299 | 257–302 | 248–312 |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 275 | 259–284 | 256–287 | 252–291 | 246–295 |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 247 | 230–266 | 227–269 | 226–273 | 219–278 |
 | [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 251 | 227–270 | 224–277 | 218–279 | 208–284 |
