@@ -195,7 +195,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
 | [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
-| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 54–58 | 54–58 | 53–58 |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 54–58 | 53–58 | 50–58 |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 55–58 | 53–58 |
