@@ -191,7 +191,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 56 | 48–58 | 42–58 | 38–58 | 33–58 |
 | [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
-| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
+| [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 50–58 |
 | [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
 | [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
