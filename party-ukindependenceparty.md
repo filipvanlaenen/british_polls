@@ -10,7 +10,16 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
+| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [4–10 December 2020](2020-12-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 0.1% | 0.1–0.2% | 0.1–0.3% | 0.1–0.3% | 0.1–0.3% |
+| [3–4 December 2020](2020-12-04-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
+| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [2 December 2020](2020-12-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 0.3% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
@@ -182,6 +191,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [4–10 December 2020](2020-12-10-Survation.html) | Survation |  |  |  |  |  |
+| [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [3–4 December 2020](2020-12-04-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [2 December 2020](2020-12-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
