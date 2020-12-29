@@ -201,12 +201,12 @@ Last result: **11** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 4 | 0–7 | 0–8 | 0–9 | 0–14 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 6 | 3–6 | 2–7 | 2–7 | 1–11 |
-| [4–10 December 2020](2020-12-10-Survation.html) | Survation | 6 | 3–6 | 3–6 | 3–6 | 2–6 |
-| [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [4–10 December 2020](2020-12-10-Survation.html) | Survation | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
+| [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–2 | 0–3 | 0–4 | 0–5 |
 | [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–7 | 2–11 |
-| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [3–4 December 2020](2020-12-04-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [2 December 2020](2020-12-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–7 | 4–7 | 4–8 | 3–11 |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 5 | 3–6 | 2–7 | 2–7 | 1–8 |
 | [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 3 | 1–6 | 0–6 | 0–6 | 0–7 |
@@ -367,13 +367,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% |  |
-| 1 | 8% | 88% |  |
-| 2 | 9% | 80% |  |
+| 0 | 13% | 100% |  |
+| 1 | 7% | 87% |  |
+| 2 | 8% | 80% |  |
 | 3 | 9% | 71% |  |
-| 4 | 14% | 62% | Median |
-| 5 | 2% | 49% |  |
-| 6 | 34% | 47% |  |
+| 4 | 15% | 63% | Median |
+| 5 | 2% | 48% |  |
+| 6 | 33% | 46% |  |
 | 7 | 7% | 13% |  |
 | 8 | 3% | 6% |  |
 | 9 | 1.2% | 3% |  |
