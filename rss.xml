@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 29 Dec 2020 16:31:19 +0100</pubDate>
+    <pubDate>Sun, 03 Jan 2021 18:50:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.4–41.0%&lt;/li&gt;&lt;li&gt;Labour Party: 40.5–45.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.3–6.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.3–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.png"
+        length="195564"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jan 2021 17:29:53 +0100</pubDate>
+      <dc:date>2021-01-03T17:29:53.989467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 22 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.1–42.1%&lt;/li&gt;&lt;li&gt;Labour Party: 35.1–41.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.png"
+        length="197712"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jan 2021 17:46:45 +0100</pubDate>
+      <dc:date>2021-01-03T17:46:45.682401+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 16–17 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-17-Opinium.html</link>
@@ -18,6 +38,26 @@
         type="image/png"/>
       <pubDate>Mon, 28 Dec 2020 11:09:08 +0100</pubDate>
       <dc:date>2020-12-28T11:09:08.434717+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 15–16 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.2–42.7%&lt;/li&gt;&lt;li&gt;Labour Party: 36.2–40.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.2–7.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.0–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.3–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.png"
+        length="198186"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jan 2021 18:20:06 +0100</pubDate>
+      <dc:date>2021-01-03T18:20:06.461397+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 10–14 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.7–42.5%&lt;/li&gt;&lt;li&gt;Labour Party: 35.8–41.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.8–12.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.png"
+        length="221300"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jan 2021 18:50:09 +0100</pubDate>
+      <dc:date>2021-01-03T18:50:09.292271+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 11–13 December 2020 – Voting Intentions</title>
@@ -3219,6 +3259,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2020-12-29T16:31:19.63415+01:00</dc:date>
+    <dc:date>2021-01-03T18:50:09.292271+01:00</dc:date>
   </channel>
 </rss>
