@@ -6,12 +6,44 @@
     <description>All Registered Polls for the House of Commons</description>
     <pubDate>Sat, 15 Aug 2020 14:59:52 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Survation, 22 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.html</link>
+      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Survation, 22 December 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.png" length="197712" type="image/png"/>
+      <pubDate>Sun, 3 Jan 2021 17:46:45 +0100</pubDate>
+      <dc:date>2021-01-03T17:46:45.682401+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html</link>
+      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by YouGov for The Times, 21–22 December 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.png" length="195564" type="image/png"/>
+      <pubDate>Sun, 3 Jan 2021 17:29:53 +0100</pubDate>
+      <dc:date>2021-01-03T17:29:53.989467+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 16–17 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-17-Opinium.html</link>
       <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Opinium for The Observer, 16–17 December 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-12-17-Opinium.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-12-17-Opinium.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-17-Opinium.png" length="203707" type="image/png"/>
       <pubDate>Mon, 28 Dec 2020 11:09:08 +0100</pubDate>
       <dc:date>2020-12-28T11:09:08.434717+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 15–16 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.html</link>
+      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by YouGov for The Times, 15–16 December 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.png" length="198186" type="image/png"/>
+      <pubDate>Sun, 3 Jan 2021 18:20:06 +0100</pubDate>
+      <dc:date>2021-01-03T18:20:06.461397+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 10–14 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Kantar, 10–14 December 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.png" length="221300" type="image/png"/>
+      <pubDate>Sun, 3 Jan 2021 18:50:09 +0100</pubDate>
+      <dc:date>2021-01-03T18:50:09.292271+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 11–13 December 2020 – Voting Intentions</title>
@@ -236,102 +268,6 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-27-YouGov.png" length="198586" type="image/png"/>
       <pubDate>Sun, 13 Dec 2020 14:17:18 +0100</pubDate>
       <dc:date>2020-12-13T14:17:18.595367+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Savanta ComRes, 20–22 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Savanta ComRes, 20–22 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes-seating-plan.png" length="860362" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 14:58:55 +0100</pubDate>
-      <dc:date>2020-12-13T14:58:55.574311+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Savanta ComRes, 20–22 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html#seats</link>
-      <description><![CDATA[Seat projections for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Savanta ComRes, 20–22 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes-seats.png" length="173704" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 14:58:55 +0100</pubDate>
-      <dc:date>2020-12-13T14:58:55.574311+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Savanta ComRes, 20–22 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html</link>
-      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Savanta ComRes, 20–22 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-22-SavantaComRes.png" length="201129" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 14:58:55 +0100</pubDate>
-      <dc:date>2020-12-13T14:58:55.574311+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinium for The Observer, 19–20 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Opinium for The Observer, 19–20 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium-seating-plan.png" length="847333" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 16:22:38 +0100</pubDate>
-      <dc:date>2020-12-13T16:22:38.621975+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinium for The Observer, 19–20 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html#seats</link>
-      <description><![CDATA[Seat projections for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Opinium for The Observer, 19–20 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium-seats.png" length="160508" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 16:22:38 +0100</pubDate>
-      <dc:date>2020-12-13T16:22:38.621975+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinium for The Observer, 19–20 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html</link>
-      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Opinium for The Observer, 19–20 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-20-Opinium.png" length="181837" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 16:22:38 +0100</pubDate>
-      <dc:date>2020-12-13T16:22:38.621975+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Redfield & Wilton Strategies, 19 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies-seating-plan.png" length="847408" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 17:01:58 +0100</pubDate>
-      <dc:date>2020-12-13T17:01:58.864738+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html#seats</link>
-      <description><![CDATA[Seat projections for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Redfield & Wilton Strategies, 19 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies-seats.png" length="162370" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 17:01:58 +0100</pubDate>
-      <dc:date>2020-12-13T17:01:58.864738+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html</link>
-      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Redfield & Wilton Strategies, 19 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-19-RedfieldWiltonStrategies.png" length="179645" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 17:01:58 +0100</pubDate>
-      <dc:date>2020-12-13T17:01:58.864738+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times, 17–18 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by YouGov for The Times, 17–18 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov-seating-plan.png" length="849552" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 15:43:44 +0100</pubDate>
-      <dc:date>2020-12-13T15:43:44.288705+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times, 17–18 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by YouGov for The Times, 17–18 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov-seats.png" length="167152" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 15:43:44 +0100</pubDate>
-      <dc:date>2020-12-13T15:43:44.288705+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for The Times, 17–18 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by YouGov for The Times, 17–18 November 2020<br/>Details on https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-11-18-YouGov.png" length="199609" type="image/png"/>
-      <pubDate>Sun, 13 Dec 2020 15:43:44 +0100</pubDate>
-      <dc:date>2020-12-13T15:43:44.288705+01:00</dc:date>
     </item>
   </channel>
 </rss>
