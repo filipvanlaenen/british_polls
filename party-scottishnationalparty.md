@@ -10,8 +10,12 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.3–5.9% | 4.0–6.2% | 3.8–6.4% | 3.4–6.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.6% |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.7% |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 5.2% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% | 3.8–7.0% |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 5.1% | 4.6–5.6% | 4.5–5.7% | 4.4–5.9% | 4.2–6.1% |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5.0% | 4.3–6.1% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
@@ -179,9 +183,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 18% | 99.0% | Last Result |
-| 4.5–5.5% | 58% | 81% | Median |
-| 5.5–6.5% | 21% | 23% |  |
+| 3.5–4.5% | 19% | 99.0% | Last Result |
+| 4.5–5.5% | 54% | 80% | Median |
+| 5.5–6.5% | 23% | 26% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -196,7 +200,11 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 54–58 | 52–58 | 49–58 | 40–58 |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 53–58 | 51–58 |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 56–58 | 54–58 | 52–58 | 46–58 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 56–58 | 54–58 | 52–58 |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 55–58 | 53–58 |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 58 | 56–58 | 52–58 | 51–58 | 49–58 |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 50–58 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 58 | 58 | 58 | 56–58 | 54–58 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 49–58 | 41–58 |
@@ -364,33 +372,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
-| 33 | 0% | 99.9% |  |
+| 33 | 0% | 100% |  |
 | 34 | 0.1% | 99.9% |  |
 | 35 | 0% | 99.9% |  |
 | 36 | 0.1% | 99.9% |  |
 | 37 | 0% | 99.8% |  |
-| 38 | 0.1% | 99.7% |  |
+| 38 | 0.1% | 99.8% |  |
 | 39 | 0.1% | 99.6% |  |
 | 40 | 0.1% | 99.5% |  |
-| 41 | 0.1% | 99.4% |  |
+| 41 | 0.1% | 99.5% |  |
 | 42 | 0.2% | 99.4% |  |
 | 43 | 0% | 99.2% |  |
-| 44 | 0.1% | 99.1% |  |
+| 44 | 0.1% | 99.2% |  |
 | 45 | 0.2% | 99.1% |  |
 | 46 | 0.1% | 98.9% |  |
-| 47 | 0.4% | 98.8% |  |
-| 48 | 0.8% | 98% | Last Result |
+| 47 | 0.3% | 98.8% |  |
+| 48 | 0.7% | 98.5% | Last Result |
 | 49 | 0.6% | 98% |  |
 | 50 | 0.5% | 97% |  |
-| 51 | 0.9% | 97% |  |
-| 52 | 1.3% | 96% |  |
+| 51 | 1.2% | 97% |  |
+| 52 | 2% | 95% |  |
 | 53 | 2% | 94% |  |
-| 54 | 3% | 92% |  |
-| 55 | 3% | 90% |  |
+| 54 | 2% | 92% |  |
+| 55 | 3% | 89% |  |
 | 56 | 4% | 87% |  |
-| 57 | 3% | 83% |  |
-| 58 | 79% | 79% | Median |
+| 57 | 7% | 82% |  |
+| 58 | 76% | 76% | Median |
 | 59 | 0% | 0% |  |
 
 

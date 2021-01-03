@@ -10,8 +10,12 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–2.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.6% | 0.1–1.7% | 0.1–2.0% |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -177,8 +181,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% |  |
-| 0.5–1.5% | 71% | 75% | Last Result, Median |
+| 0.0–0.5% | 21% | 100% |  |
+| 0.5–1.5% | 74% | 79% | Last Result, Median |
 | 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -192,7 +196,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 1–6 | 0–6 | 0–7 | 0–7 |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–6 | 4–6 | 4–7 | 3–7 |
@@ -360,13 +368,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 3% | 90% |  |
-| 2 | 7% | 87% |  |
-| 3 | 3% | 81% |  |
-| 4 | 4% | 78% | Last Result |
-| 5 | 60% | 74% | Median |
-| 6 | 11% | 14% |  |
+| 0 | 9% | 100% |  |
+| 1 | 3% | 91% |  |
+| 2 | 5% | 88% |  |
+| 3 | 2% | 83% |  |
+| 4 | 4% | 81% | Last Result |
+| 5 | 64% | 77% | Median |
+| 6 | 9% | 13% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0.3% |  |
 | 9 | 0.2% | 0.3% |  |
