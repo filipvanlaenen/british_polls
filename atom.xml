@@ -6,7 +6,39 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2020-12-29T16:31:19.63415+01:00</updated>
+  <updated>2021-01-04T15:25:05.391502+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.4–41.0%, 257–292 seats</li><li>Labour Party: 40.5–45.3%, 275–310 seats</li><li>Liberal Democrats: 4.3–6.4%, 0–2 seats</li><li>Scottish National Party: 4.3–6.4%, 54–58 seats</li><li>Plaid Cymru: 0.6–1.6%, 4–6 seats</li><li>Green Party: 3.2–5.2%, 1 seats</li><li>Brexit Party: 1.3–2.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 21–22 December 2020</title>
+    <updated>2021-01-04T13:00:18.733211+01:00</updated>
+    <dc:date>2021-01-04T13:00:18.733211+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.1–42.1%, 269–337 seats</li><li>Labour Party: 35.1–41.1%, 230–295 seats</li><li>Liberal Democrats: 6.5–9.9%, 2–7 seats</li><li>Scottish National Party: 3.8–6.6%, 52–58 seats</li><li>Plaid Cymru: 0.1–0.7%, 0–5 seats</li><li>Green Party: 2.2–4.4%, 1 seats</li><li>Brexit Party: 0.2–1.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-12-22-Survation.html"/>
+    <title>Opinion Poll by Survation, 22 December 2020</title>
+    <updated>2021-01-04T14:13:53.596529+01:00</updated>
+    <dc:date>2021-01-04T14:13:53.596529+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.2–42.7%, 285–335 seats</li><li>Labour Party: 36.2–40.6%, 232–280 seats</li><li>Liberal Democrats: 5.2–7.4%, 0–3 seats</li><li>Scottish National Party: 4.3–6.3%, 54–58 seats</li><li>Plaid Cymru: 0.7–1.6%, 5–7 seats</li><li>Green Party: 4.0–6.0%, 1 seats</li><li>Brexit Party: 1.3–2.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-12-16-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 15–16 December 2020</title>
+    <updated>2021-01-04T15:25:05.391502+01:00</updated>
+    <dc:date>2021-01-04T15:25:05.391502+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 36.7–42.5%, 263–328 seats</li><li>Labour Party: 35.8–41.5%, 232–292 seats</li><li>Liberal Democrats: 8.8–12.4%, 6–19 seats</li><li>Scottish National Party: 4.0–6.7%, 51–58 seats</li><li>Plaid Cymru: 0.6–1.8%, 4–7 seats</li><li>UK Independence Party: 0.0–0.5%, 0 seats</li><li>Green Party: 1.7–3.6%, 1 seats</li><li>Brexit Party: 0.8–2.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2020-12-14-Kantar.html"/>
+    <title>Opinion Poll by Kantar, 10–14 December 2020</title>
+    <updated>2021-01-04T11:37:16.182548+01:00</updated>
+    <dc:date>2021-01-04T11:37:16.182548+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.4–44.5%, 268–331 seats</li><li>Labour Party: 38.4–44.5%, 237–300 seats</li><li>Liberal Democrats: 4.7–7.7%, 0–4 seats</li><li>Scottish National Party: 3.9–6.6%, 49–58 seats</li><li>Plaid Cymru: 0.5–1.8%, 4–7 seats</li><li>Green Party: 2.9–5.3%, 1 seats</li><li>Brexit Party: 0.0–0.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2020-12-10-IpsosMORI.html</id>
@@ -687,5 +719,5 @@
     <updated>2020-10-31T16:58:57.1998+01:00</updated>
     <dc:date>2020-10-31T16:58:57.1998+01:00</dc:date>
   </entry>
-  <dc:date>2020-12-29T16:31:19.63415+01:00</dc:date>
+  <dc:date>2021-01-04T15:25:05.391502+01:00</dc:date>
 </feed>
