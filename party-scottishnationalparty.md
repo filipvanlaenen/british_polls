@@ -200,12 +200,12 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 54–58 | 52–58 | 49–58 | 40–58 |
-| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 53–58 | 51–58 |
-| [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 56–58 | 54–58 | 52–58 | 46–58 |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 54–58 | 51–58 |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 56–58 | 54–58 | 52–58 |
-| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 55–58 | 53–58 |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 58 | 58 | 55–58 | 54–58 | 53–58 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 58 | 56–58 | 52–58 | 51–58 | 49–58 |
-| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 50–58 |
+| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 50–58 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 58 | 58 | 58 | 56–58 | 54–58 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 49–58 | 41–58 |
 | [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 58 | 58 | 57–58 | 55–58 | 53–58 |
@@ -372,7 +372,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
 | 35 | 0% | 99.9% |  |
 | 36 | 0.1% | 99.9% |  |
@@ -387,16 +388,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0.2% | 99.1% |  |
 | 46 | 0.1% | 98.9% |  |
 | 47 | 0.3% | 98.8% |  |
-| 48 | 0.7% | 98.5% | Last Result |
+| 48 | 0.7% | 98% | Last Result |
 | 49 | 0.6% | 98% |  |
-| 50 | 0.5% | 97% |  |
+| 50 | 0.6% | 97% |  |
 | 51 | 1.2% | 97% |  |
-| 52 | 2% | 95% |  |
+| 52 | 1.5% | 95% |  |
 | 53 | 2% | 94% |  |
-| 54 | 2% | 92% |  |
+| 54 | 3% | 92% |  |
 | 55 | 3% | 89% |  |
-| 56 | 4% | 87% |  |
-| 57 | 7% | 82% |  |
+| 56 | 4% | 86% |  |
+| 57 | 6% | 82% |  |
 | 58 | 76% | 76% | Median |
 | 59 | 0% | 0% |  |
 

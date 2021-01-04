@@ -203,12 +203,12 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–11 | 0–12 | 0–18 |
+| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–11 | 0–14 | 0–18 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [22 December 2020](2020-12-22-Survation.html) | Survation | 6 | 3–7 | 2–7 | 2–8 | 0–10 |
+| [22 December 2020](2020-12-22-Survation.html) | Survation | 6 | 2–6 | 2–7 | 2–7 | 0–11 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 7 | 6–16 | 6–18 | 6–20 | 6–20 |
+| [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 7 | 6–16 | 6–18 | 6–19 | 4–23 |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 6 | 3–6 | 2–7 | 2–7 | 1–11 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–2 | 0–3 | 0–4 | 0–5 |
@@ -376,28 +376,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 9% | 81% |  |
-| 2 | 9% | 72% |  |
+| 0 | 20% | 100% |  |
+| 1 | 8% | 80% |  |
+| 2 | 9% | 71% |  |
 | 3 | 7% | 63% |  |
 | 4 | 10% | 56% | Median |
 | 5 | 1.2% | 46% |  |
-| 6 | 24% | 45% |  |
-| 7 | 10% | 21% |  |
-| 8 | 4% | 10% |  |
-| 9 | 1.2% | 7% |  |
-| 10 | 0.2% | 5% |  |
-| 11 | 3% | 5% | Last Result |
-| 12 | 0.3% | 3% |  |
-| 13 | 0.2% | 2% |  |
-| 14 | 0.2% | 2% |  |
-| 15 | 0.2% | 2% |  |
-| 16 | 0.8% | 2% |  |
-| 17 | 0.2% | 0.9% |  |
-| 18 | 0.2% | 0.7% |  |
-| 19 | 0% | 0.5% |  |
-| 20 | 0.4% | 0.5% |  |
-| 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 6 | 25% | 45% |  |
+| 7 | 10% | 20% |  |
+| 8 | 3% | 10% |  |
+| 9 | 1.3% | 7% |  |
+| 10 | 0.1% | 6% |  |
+| 11 | 2% | 5% | Last Result |
+| 12 | 0.5% | 3% |  |
+| 13 | 0.2% | 3% |  |
+| 14 | 0.2% | 3% |  |
+| 15 | 0.8% | 2% |  |
+| 16 | 0.6% | 2% |  |
+| 17 | 0.4% | 1.1% |  |
+| 18 | 0.3% | 0.7% |  |
+| 19 | 0.1% | 0.5% |  |
+| 20 | 0.2% | 0.3% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

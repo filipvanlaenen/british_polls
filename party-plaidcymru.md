@@ -196,11 +196,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 1–6 | 0–6 | 0–7 | 0–7 |
-| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5 | 5–6 | 4–7 | 4–7 | 3–9 |
 | [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–6 | 4–6 | 4–7 | 3–7 |
@@ -369,14 +369,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 3% | 91% |  |
-| 2 | 5% | 88% |  |
-| 3 | 2% | 83% |  |
-| 4 | 4% | 81% | Last Result |
-| 5 | 64% | 77% | Median |
-| 6 | 9% | 13% |  |
+| 1 | 2% | 91% |  |
+| 2 | 5% | 89% |  |
+| 3 | 3% | 84% |  |
+| 4 | 5% | 81% | Last Result |
+| 5 | 63% | 76% | Median |
+| 6 | 10% | 13% |  |
 | 7 | 3% | 3% |  |
-| 8 | 0% | 0.3% |  |
+| 8 | 0.1% | 0.4% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
