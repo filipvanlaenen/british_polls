@@ -202,10 +202,10 @@ Last result: **48** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 58 | 54–58 | 52–58 | 49–58 | 40–58 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 54–58 | 51–58 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
-| [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 56–58 | 54–58 | 52–58 |
+| [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 58 | 58 | 55–58 | 54–58 | 53–58 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 58 | 56–58 | 52–58 | 51–58 | 49–58 |
-| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 50–58 |
+| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 58 | 58 | 58 | 56–58 | 54–58 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 53–58 | 51–58 | 49–58 | 41–58 |
 | [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 58 | 58 | 57–58 | 55–58 | 53–58 |
@@ -392,7 +392,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.6% | 98% |  |
 | 50 | 0.6% | 97% |  |
 | 51 | 1.2% | 97% |  |
-| 52 | 1.5% | 95% |  |
+| 52 | 2% | 95% |  |
 | 53 | 2% | 94% |  |
 | 54 | 3% | 92% |  |
 | 55 | 3% | 89% |  |

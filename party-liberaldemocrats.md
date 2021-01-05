@@ -209,7 +209,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 7 | 6–16 | 6–18 | 6–19 | 4–23 |
-| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 6 | 3–6 | 2–7 | 2–7 | 1–11 |
+| [11–13 December 2020](2020-12-13-SavantaComRes.html) | Savanta ComRes | 6 | 3–6 | 3–7 | 2–7 | 1–11 |
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–2 | 0–3 | 0–4 | 0–5 |
 | [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 6 | 4–7 | 3–7 | 3–7 | 2–11 |
@@ -377,8 +377,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% |  |
-| 1 | 8% | 80% |  |
-| 2 | 9% | 71% |  |
+| 1 | 9% | 80% |  |
+| 2 | 9% | 72% |  |
 | 3 | 7% | 63% |  |
 | 4 | 10% | 56% | Median |
 | 5 | 1.2% | 46% |  |
