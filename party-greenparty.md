@@ -68,7 +68,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.6–3.4% |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 3.1% | N/A | N/A | N/A | N/A |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 3.1% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.9% |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.9% | 3.4–4.4% | 3.3–4.6% | 3.2–4.7% | 3.0–5.0% |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
@@ -256,7 +256,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation |  |  |  |  |  |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |

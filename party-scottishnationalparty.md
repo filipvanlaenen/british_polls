@@ -68,7 +68,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.1% | 4.0–6.5% |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 4.1% | 3.6–4.9% | 3.4–5.1% | 3.2–5.2% | 3.0–5.6% |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 5.1% | N/A | N/A | N/A | N/A |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 5.1% | 4.3–6.1% | 4.0–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 3.9–6.2% |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.6–5.9% | 4.4–6.1% | 4.2–6.2% | 4.0–6.6% |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
@@ -257,7 +257,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 53–58 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 55–59 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 53 | 44–58 | 41–58 | 39–58 | 32–58 |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation |  |  |  |  |  |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 58 | 54–58 | 53–58 | 50–58 | 46–58 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 54–58 | 54–58 | 52–58 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 58 | 54–58 | 54–58 | 52–58 | 49–58 |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 50–58 |

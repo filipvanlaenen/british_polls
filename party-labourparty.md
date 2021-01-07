@@ -68,7 +68,7 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 37.8% | 36.4–39.2% | 36.0–39.6% | 35.7–39.9% | 35.1–40.6% |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 37.8% | 35.9–39.8% | 35.3–40.4% | 34.9–40.9% | 33.9–41.8% |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 41.2% | 39.6–42.8% | 39.1–43.2% | 38.7–43.6% | 38.0–44.4% |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 38.6% | N/A | N/A | N/A | N/A |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 38.6% | 36.6–40.6% | 36.0–41.2% | 35.6–41.6% | 34.6–42.6% |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.9% | 37.7–40.2% | 37.3–40.6% | 37.0–40.9% | 36.4–41.5% |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 40.1% | 38.7–41.6% | 38.3–42.0% | 38.0–42.3% | 37.3–43.0% |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 38.4% | 36.8–40.0% | 36.4–40.5% | 36.0–40.8% | 35.3–41.6% |
@@ -265,7 +265,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 256 | 237–270 | 232–277 | 229–278 | 225–283 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 253 | 229–276 | 225–278 | 221–283 | 210–292 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 275 | 255–289 | 250–294 | 246–298 | 237–306 |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation |  |  |  |  |  |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 264 | 235–278 | 230–283 | 227–291 | 215–295 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 262 | 247–277 | 242–278 | 238–281 | 231–287 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 258 | 236–276 | 232–278 | 228–280 | 222–285 |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 242 | 225–259 | 222–266 | 217–268 | 208–276 |
