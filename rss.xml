@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 05 Jan 2021 08:04:24 +0100</pubDate>
+    <pubDate>Thu, 07 Jan 2021 19:30:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html#seats</link>
@@ -1678,6 +1678,16 @@
         type="image/png"/>
       <pubDate>Thu, 24 Sep 2020 22:46:56 +0200</pubDate>
       <dc:date>2020-09-24T22:46:56.443526+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 15–16 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-09-16-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.6–43.7%&lt;/li&gt;&lt;li&gt;Labour Party: 35.6–41.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.6–8.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-09-16-Survation.png"
+        length="201459"
+        type="image/png"/>
+      <pubDate>Thu, 07 Jan 2021 19:30:01 +0100</pubDate>
+      <dc:date>2021-01-07T19:30:01.937689+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 15–16 September 2020 – Seat Projections for the Parties</title>
@@ -3399,6 +3409,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-05T08:04:24.654507+01:00</dc:date>
+    <dc:date>2021-01-07T19:30:01.937689+01:00</dc:date>
   </channel>
 </rss>
