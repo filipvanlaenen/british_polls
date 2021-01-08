@@ -257,7 +257,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 53–58 |
 | [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 55–59 |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 53 | 44–58 | 41–58 | 39–58 | 32–58 |
-| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 58 | 54–58 | 53–58 | 50–58 | 46–58 |
+| [15–16 September 2020](2020-09-16-Survation.html) | Survation | 58 | 55–58 | 53–58 | 51–58 | 46–58 |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 54–58 | 54–58 | 52–58 |
 | [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 58 | 54–58 | 54–58 | 52–58 | 49–58 |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 50–58 |
@@ -392,7 +392,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.6% | 98% |  |
 | 50 | 0.6% | 97% |  |
 | 51 | 1.2% | 97% |  |
-| 52 | 2% | 95% |  |
+| 52 | 1.5% | 95% |  |
 | 53 | 2% | 94% |  |
 | 54 | 3% | 92% |  |
 | 55 | 3% | 89% |  |
