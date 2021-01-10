@@ -344,14 +344,14 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 448 | 416–467 | 412–468 | 404–469 | 397–478 |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 409 | 395–423 | 393–431 | 390–440 | 384–444 |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 410 | 394–432 | 390–440 | 387–444 | 379–453 |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 404 | 404 | 395–404 | 391–404 | 386–404 |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 398 | 388–410 | 381–414 | 378–422 | 374–435 |
 | [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 441 | 429–457 | 417–457 | 408–457 | 404–465 |
 | [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 404 | 391–418 | 389–419 | 384–428 | 373–442 |
 | [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 416 | 405–439 | 402–442 | 395–444 | 386–449 |
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 430 | 407–448 | 405–452 | 401–457 | 395–457 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 408 | 394–430 | 390–435 | 387–440 | 382–448 |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 444 | 426–451 | 418–461 | 416–462 | 403–465 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 440 | 429–464 | 424–471 | 414–473 | 398–478 |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 443 | 427–452 | 422–456 | 417–461 | 406–463 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 448 | 428–466 | 424–471 | 414–473 | 398–479 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 395 | 380–414 | 377–421 | 373–427 | 366–439 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 406 | 387–416 | 387–424 | 382–428 | 377–431 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 410 | 401–434 | 393–451 | 390–454 | 378–460 |

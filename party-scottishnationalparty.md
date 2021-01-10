@@ -338,14 +338,14 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 50 | 38–53 | 37–55 | 36–55 | 31–56 |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 50 | 42–52 | 40–54 | 39–54 | 37–55 |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 40–53 | 38–54 | 37–55 | 31–56 |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 55 | 55 | 55–58 | 55–58 | 52–58 |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 55 | 52–58 | 51–58 | 51–58 | 51–58 |
 | [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 52 | 49–55 | 49–56 | 49–58 | 43–59 |
 | [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 34 | 22–48 | 22–49 | 18–50 | 16–52 |
 | [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 55 | 51–56 | 51–58 | 50–58 | 46–58 |
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 55 | 52–56 | 51–58 | 51–58 | 45–59 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 46–54 | 42–55 | 40–55 | 36–56 |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 52 | 50–55 | 49–55 | 48–58 | 44–59 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 49 | 42–54 | 36–55 | 35–55 | 33–58 |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 53 | 50–55 | 49–56 | 48–58 | 45–59 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 50 | 41–54 | 39–55 | 36–55 | 33–58 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 52–58 | 52–58 | 51–58 | 50–59 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 55 | 53–56 | 52–58 | 51–58 | 50–58 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 51 | 42–55 | 38–55 | 35–55 | 29–58 |

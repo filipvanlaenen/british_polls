@@ -346,14 +346,14 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 126 | 111–155 | 111–158 | 109–168 | 103–175 |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 167 | 151–181 | 144–183 | 140–184 | 135–190 |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 164 | 142–179 | 138–183 | 131–185 | 127–193 |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 170 | 170 | 170–177 | 170–179 | 170–183 |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 176 | 165–186 | 165–192 | 153–194 | 141–196 |
 | [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 135 | 121–146 | 121–155 | 120–165 | 113–170 |
 | [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 174 | 159–192 | 154–192 | 151–193 | 136–206 |
 | [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 153 | 128–167 | 126–169 | 126–174 | 123–183 |
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 135 | 123–160 | 120–162 | 111–166 | 111–170 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 164 | 142–177 | 139–181 | 134–183 | 128–185 |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 128 | 120–144 | 112–152 | 111–154 | 110–165 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 137 | 113–153 | 112–153 | 112–158 | 103–179 |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 128 | 120–143 | 114–148 | 112–153 | 110–164 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 137 | 113–153 | 112–153 | 112–158 | 102–179 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 170 | 153–185 | 145–189 | 140–193 | 129–198 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 164 | 152–183 | 144–184 | 141–184 | 138–191 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 163 | 138–171 | 127–179 | 122–181 | 119–190 |

@@ -342,14 +342,14 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 2 | 0–5 | 0–7 | 0–8 | 0–11 |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–7 |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 0 | 0 | 0 | 0–1 | 0–1 |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0–1 |
 | [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
 | [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 11 | 6–12 | 5–12 | 5–13 | 4–13 |
 | [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 2 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–4 | 0–5 | 0–6 | 0–7 |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0–1 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0 | 0–1 | 0–1 | 0–3 | 0–6 |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0 | 0–1 | 0–2 | 0–3 | 0–5 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 1–4 | 0–4 | 0–6 | 0–6 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 4 | 2–6 | 1–8 | 0–9 | 0–11 |
