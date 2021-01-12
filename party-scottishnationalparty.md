@@ -296,7 +296,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 45–55 | 41–56 | 38–58 | 30–58 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 53 | 44–58 | 38–58 | 31–58 | 24–58 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
-| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44 | 21–51 | 18–52 | 15–54 | 6–55 |
+| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 38 | 24–50 | 20–53 | 16–54 | 8–56 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 52 | 46–57 | 43–58 | 40–58 | 33–58 |
 | [26–28 June 2020](2020-06-28-YouGov.html) | YouGov <br> The Times | 58 | 53–58 | 52–58 | 51–58 | 49–58 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
@@ -326,7 +326,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 55 | 52–58 | 52–58 | 51–58 | 50–58 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 52 | 49–55 | 48–55 | 42–56 | 37–58 |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 41–55 | 36–56 | 32–58 | 26–58 |
-| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 55 | 51–58 | 50–58 | 47–58 | 41–58 |
+| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 55 | 51–58 | 50–58 | 49–58 | 43–58 |
 | [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 55 | 51–58 | 51–58 | 50–58 | 44–58 |
 | [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer | 55 | 52–58 | 51–58 | 50–58 | 47–58 |
 | [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times | 50 | 42–54 | 39–55 | 38–55 | 35–56 |
@@ -345,7 +345,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 55 | 52–56 | 51–58 | 51–58 | 45–59 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 46–54 | 42–55 | 40–55 | 36–56 |
 | [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 53 | 50–55 | 49–56 | 48–58 | 45–59 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 50 | 41–54 | 39–55 | 36–55 | 33–58 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 50 | 41–53 | 39–55 | 37–55 | 32–58 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 52–58 | 52–58 | 51–58 | 50–59 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 55 | 53–56 | 52–58 | 51–58 | 50–58 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 51 | 42–55 | 38–55 | 35–55 | 29–58 |

@@ -300,7 +300,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 1 | 0–4 | 0–5 | 0–6 | 0–8 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 4 | 2–6 | 2–6 | 2–6 | 1–6 |
-| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 0–8 | 0–9 | 0–11 | 0–11 |
+| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 0–7 | 0–9 | 0–9 | 0–11 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 4 | 2–6 | 2–7 | 2–8 | 1–8 |
 | [26–28 June 2020](2020-06-28-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
@@ -330,7 +330,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–8 | 2–9 | 1–9 | 1–11 |
-| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0–1 | 0–2 |
+| [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 0 | 0–1 | 0–2 | 0–3 | 0–3 |
 | [5–7 May 2020](2020-05-07-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0–1 | 0–2 |
 | [5–6 May 2020](2020-05-06-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–3 | 0–3 | 0–4 |

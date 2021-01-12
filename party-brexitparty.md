@@ -293,7 +293,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0–1 |
+| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK |  |  |  |  |  |
 | [26–28 June 2020](2020-06-28-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |

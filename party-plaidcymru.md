@@ -292,7 +292,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [8 July 2020](2020-07-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–6 July 2020](2020-07-06-Survation.html) | Survation | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [1–3 July 2020](2020-07-03-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [2–3 July 2020](2020-07-03-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [1 July 2020](2020-07-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–28 June 2020](2020-06-28-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [25–26 June 2020](2020-06-26-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -341,7 +341,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 7 | 4–7 | 4–7 | 4–9 | 3–10 |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 5–7 | 4–7 | 4–9 | 4–10 |
 | [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 6 | 5–7 | 4–7 | 4–9 | 4–10 |
-| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 3 | 0–4 | 0–4 | 0–5 | 0–6 |
+| [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 2 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 5–7 | 5–9 | 4–9 | 4–10 |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 5 | 5–7 | 5–7 | 4–8 | 4–9 |
 | [13–16 March 2020](2020-03-16-IpsosMORI.html) | Ipsos MORI | 5 | 5–8 | 4–9 | 4–10 | 3–10 |
