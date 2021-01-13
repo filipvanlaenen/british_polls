@@ -335,7 +335,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [27–28 April 2020](2020-04-28-Survation.html) | Survation | 52 | 43–55 | 39–56 | 36–58 | 27–58 |
 | [26 April 2020](2020-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 51–58 | 51–58 | 50–58 | 49–58 |
 | [21–23 April 2020](2020-04-23-Opinium.html) | Opinium <br> The Observer | 55 | 52–58 | 52–58 | 51–58 | 51–58 |
-| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 50 | 38–53 | 37–55 | 36–55 | 31–56 |
+| [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 49 | 38–52 | 36–54 | 33–55 | 30–56 |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 50 | 42–52 | 40–54 | 39–54 | 37–55 |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 40–53 | 38–54 | 37–55 | 31–56 |
 | [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 55 | 52–58 | 51–58 | 51–58 | 51–58 |
