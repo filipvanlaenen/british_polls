@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 12 Jan 2021 18:52:34 +0100</pubDate>
+    <pubDate>Wed, 13 Jan 2021 19:00:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html#seats</link>
@@ -3280,14 +3280,34 @@
       <dc:date>2020-08-25T08:24:07.392314+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar, 16–20 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 406–470 seats&lt;/li&gt;&lt;li&gt;Labour Party: 109–165 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–9 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 33–55 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–10 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar-seats.png"
+        length="166444"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:00:18 +0100</pubDate>
+      <dc:date>2021-01-13T19:00:18.80714+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 16–20 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar-coalitions-seats.png"
+        length="471000"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:00:18 +0100</pubDate>
+      <dc:date>2021-01-13T19:00:18.80714+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar, 16–20 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 51.1–57.0%&lt;/li&gt;&lt;li&gt;Labour Party: 25.5–30.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.4–10.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-04-20-Kantar.png"
-        length="190253"
+        length="190166"
         type="image/png"/>
-      <pubDate>Tue, 25 Aug 2020 08:41:10 +0200</pubDate>
-      <dc:date>2020-08-25T08:41:10.108087+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 19:00:18 +0100</pubDate>
+      <dc:date>2021-01-13T19:00:18.80714+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 16–17 April 2020 – Voting Intentions</title>
@@ -3579,6 +3599,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-12T18:52:34.361301+01:00</dc:date>
+    <dc:date>2021-01-13T19:00:18.80714+01:00</dc:date>
   </channel>
 </rss>
