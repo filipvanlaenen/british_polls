@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 13 Jan 2021 19:00:18 +0100</pubDate>
+    <pubDate>Sat, 16 Jan 2021 00:10:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.1–44.5%&lt;/li&gt;&lt;li&gt;Labour Party: 36.0–40.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.1–9.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.png"
+        length="194695"
+        type="image/png"/>
+      <pubDate>Fri, 15 Jan 2021 20:05:56 +0100</pubDate>
+      <dc:date>2021-01-15T20:05:56.791561+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 8–10 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-10-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.3–43.3%&lt;/li&gt;&lt;li&gt;Labour Party: 35.3–40.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-10-SavantaComRes.png"
+        length="198305"
+        type="image/png"/>
+      <pubDate>Sat, 16 Jan 2021 00:10:50 +0100</pubDate>
+      <dc:date>2021-01-16T00:10:50.358652+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-22-YouGov.html#seats</link>
@@ -3599,6 +3619,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-13T19:00:18.80714+01:00</dc:date>
+    <dc:date>2021-01-16T00:10:50.358652+01:00</dc:date>
   </channel>
 </rss>
