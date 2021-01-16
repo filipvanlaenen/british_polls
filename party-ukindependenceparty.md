@@ -10,9 +10,16 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | N/A | N/A | N/A | N/A |
+| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
@@ -181,8 +188,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 95% | 100% | Last Result, Median |
-| 0.5–1.5% | 5% | 5% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -195,8 +202,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
+| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22 December 2020](2020-12-22-Survation.html) | Survation |  |  |  |  |  |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
