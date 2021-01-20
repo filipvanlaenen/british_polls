@@ -10,11 +10,11 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.5% | 0.3–1.7% | 0.3–1.9% | 0.2–2.3% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.3–1.8% | 0.3–2.0% | 0.2–2.3% |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.6% | 0.4–1.8% |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 1.3% | N/A | N/A | N/A | N/A |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.2% |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 1.4% | N/A | N/A | N/A | N/A |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 1.8% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 1.8% | 1.4–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
@@ -188,9 +188,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 17% | 100% |  |
-| 0.5–1.5% | 73% | 83% | Median |
-| 1.5–2.5% | 10% | 10% | Last Result |
+| 0.0–0.5% | 14% | 100% |  |
+| 0.5–1.5% | 73% | 86% | Median |
+| 1.5–2.5% | 13% | 13% | Last Result |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -207,7 +207,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |

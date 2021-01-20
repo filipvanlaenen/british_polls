@@ -10,11 +10,11 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.1–1.5% | 0.1–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
-| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
-| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.3% | N/A | N/A | N/A | N/A |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 1.0% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -188,8 +188,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% |  |
-| 0.5–1.5% | 49% | 53% | Last Result, Median |
+| 0.0–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 65% | 68% | Last Result, Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -205,8 +205,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 5 | 0–5 | 0–6 | 0–7 | 0–7 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
-| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5–6 | 4–6 | 4–7 |
@@ -382,16 +382,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% |  |
-| 1 | 6% | 78% |  |
-| 2 | 11% | 72% |  |
-| 3 | 4% | 61% |  |
-| 4 | 7% | 57% | Last Result |
-| 5 | 41% | 51% | Median |
+| 0 | 18% | 100% |  |
+| 1 | 5% | 82% |  |
+| 2 | 9% | 78% |  |
+| 3 | 3% | 69% |  |
+| 4 | 6% | 66% | Last Result |
+| 5 | 50% | 60% | Median |
 | 6 | 7% | 10% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.1% | 0.4% |  |
-| 9 | 0.3% | 0.3% |  |
+| 7 | 2% | 3% |  |
+| 8 | 0.1% | 0.3% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
