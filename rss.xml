@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 20 Jan 2021 19:24:35 +0100</pubDate>
+    <pubDate>Wed, 20 Jan 2021 22:47:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</link>
@@ -46,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov.png"
         length="195875"
         type="image/png"/>
-      <pubDate>Wed, 20 Jan 2021 19:24:35 +0100</pubDate>
-      <dc:date>2021-01-20T19:24:35.075667+01:00</dc:date>
+      <pubDate>Wed, 20 Jan 2021 19:37:42 +0100</pubDate>
+      <dc:date>2021-01-20T19:37:42.812149+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll for Daily Mirror, 26–30 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-30-Deltapoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.3–45.3%&lt;/li&gt;&lt;li&gt;Labour Party: 38.2–43.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 3.3–5.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.7%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–5.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-30-Deltapoll.png"
+        length="216092"
+        type="image/png"/>
+      <pubDate>Wed, 20 Jan 2021 20:08:43 +0100</pubDate>
+      <dc:date>2021-01-20T20:08:43.506525+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Focaldata, 4–29 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-29-Focaldata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.4–37.7%&lt;/li&gt;&lt;li&gt;Labour Party: 38.4–39.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.9–9.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.9–4.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.9–1.2%&lt;/li&gt;&lt;li&gt;Green Party: 5.3–6.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.6–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-29-Focaldata.png"
+        length="175548"
+        type="image/png"/>
+      <pubDate>Wed, 20 Jan 2021 22:47:09 +0100</pubDate>
+      <dc:date>2021-01-20T22:47:09.333944+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Seat Projections for the Parties</title>
@@ -3639,6 +3659,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-20T19:24:35.075667+01:00</dc:date>
+    <dc:date>2021-01-20T22:47:09.333944+01:00</dc:date>
   </channel>
 </rss>
