@@ -10,12 +10,12 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | N/A | N/A | N/A | N/A |
+| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
@@ -206,7 +206,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
+| [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0 | 0 | 0 | 0 | 0 |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22 December 2020](2020-12-22-Survation.html) | Survation |  |  |  |  |  |
