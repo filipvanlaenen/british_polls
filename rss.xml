@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 20 Jan 2021 22:47:09 +0100</pubDate>
+    <pubDate>Sat, 23 Jan 2021 21:10:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-10-SavantaComRes.png"
         length="198305"
         type="image/png"/>
-      <pubDate>Sat, 16 Jan 2021 00:10:50 +0100</pubDate>
-      <dc:date>2021-01-16T00:10:50.358652+01:00</dc:date>
+      <pubDate>Sat, 23 Jan 2021 21:10:51 +0100</pubDate>
+      <dc:date>2021-01-23T21:10:51.734442+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 6–7 January 2021 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-29-Focaldata.png"
         length="175548"
         type="image/png"/>
-      <pubDate>Wed, 20 Jan 2021 22:47:09 +0100</pubDate>
-      <dc:date>2021-01-20T22:47:09.333944+01:00</dc:date>
+      <pubDate>Sat, 23 Jan 2021 21:01:07 +0100</pubDate>
+      <dc:date>2021-01-23T21:01:07.021943+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 21–22 December 2020 – Seat Projections for the Parties</title>
@@ -3659,6 +3659,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-20T22:47:09.333944+01:00</dc:date>
+    <dc:date>2021-01-23T21:10:51.734442+01:00</dc:date>
   </channel>
 </rss>
