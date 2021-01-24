@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 23 Jan 2021 21:10:51 +0100</pubDate>
+    <pubDate>Sun, 24 Jan 2021 19:07:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-30-Deltapoll.png"
         length="216092"
         type="image/png"/>
-      <pubDate>Wed, 20 Jan 2021 20:08:43 +0100</pubDate>
-      <dc:date>2021-01-20T20:08:43.506525+01:00</dc:date>
+      <pubDate>Sun, 24 Jan 2021 19:07:28 +0100</pubDate>
+      <dc:date>2021-01-24T19:07:28.490697+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Focaldata, 4–29 December 2020 – Voting Intentions</title>
@@ -3659,6 +3659,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-23T21:10:51.734442+01:00</dc:date>
+    <dc:date>2021-01-24T19:07:28.490697+01:00</dc:date>
   </channel>
 </rss>
