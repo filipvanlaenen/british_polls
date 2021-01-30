@@ -206,10 +206,10 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 54–58 | 52–58 | 48–58 | 41–58 |
-| [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
+| [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 54–58 | 52–58 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 54 | 45–58 | 42–58 | 39–58 | 32–58 |
-| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 56–58 | 54–58 | 51–58 |
-| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 54–58 | 53–58 | 51–58 |
+| [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
+| [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 58 | 55–58 | 54–58 | 54–58 | 50–58 |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 56 | 52–57 | 52–58 | 51–58 | 50–58 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 54–58 | 51–58 |
@@ -404,14 +404,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.4% | 98% | Last Result |
 | 49 | 0.3% | 97% |  |
 | 50 | 0.7% | 97% |  |
-| 51 | 1.2% | 96% |  |
+| 51 | 1.1% | 96% |  |
 | 52 | 2% | 95% |  |
 | 53 | 2% | 93% |  |
 | 54 | 7% | 91% |  |
-| 55 | 5% | 85% |  |
-| 56 | 5% | 79% |  |
-| 57 | 8% | 74% |  |
-| 58 | 66% | 66% | Median |
+| 55 | 5% | 84% |  |
+| 56 | 6% | 79% |  |
+| 57 | 9% | 73% |  |
+| 58 | 65% | 65% | Median |
 | 59 | 0% | 0% |  |
 
 
