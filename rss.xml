@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 30 Jan 2021 13:53:50 +0100</pubDate>
+    <pubDate>Sat, 30 Jan 2021 19:15:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 292–343 seats&lt;/li&gt;&lt;li&gt;Labour Party: 226–275 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 2–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies-seats.png"
+        length="170442"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 14:38:25 +0100</pubDate>
+      <dc:date>2021-01-30T14:38:25.899317+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies-coalitions-seats.png"
+        length="500918"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 14:38:25 +0100</pubDate>
+      <dc:date>2021-01-30T14:38:25.899317+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.png"
         length="194695"
         type="image/png"/>
-      <pubDate>Sat, 30 Jan 2021 13:53:50 +0100</pubDate>
-      <dc:date>2021-01-30T13:53:50.854516+01:00</dc:date>
+      <pubDate>Sat, 30 Jan 2021 14:38:25 +0100</pubDate>
+      <dc:date>2021-01-30T14:38:25.899317+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 8–10 January 2021 – Voting Intentions</title>
@@ -30,14 +50,54 @@
       <dc:date>2021-01-23T21:10:51.734442+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinium for The Observer, 6–7 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 271–313 seats&lt;/li&gt;&lt;li&gt;Labour Party: 254–295 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–3 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–6 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium-seats.png"
+        length="167260"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 18:01:24 +0100</pubDate>
+      <dc:date>2021-01-30T18:01:24.194339+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 6–7 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium-coalitions-seats.png"
+        length="472766"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 18:01:24 +0100</pubDate>
+      <dc:date>2021-01-30T18:01:24.194339+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinium for The Observer, 6–7 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.9–42.3%&lt;/li&gt;&lt;li&gt;Labour Party: 38.9–43.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.2–7.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-07-Opinium.png"
         length="200029"
         type="image/png"/>
-      <pubDate>Mon, 25 Jan 2021 07:56:55 +0100</pubDate>
-      <dc:date>2021-01-25T07:56:55.69441+01:00</dc:date>
+      <pubDate>Sat, 30 Jan 2021 18:01:24 +0100</pubDate>
+      <dc:date>2021-01-30T18:01:24.194339+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 4–5 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 274–322 seats&lt;/li&gt;&lt;li&gt;Labour Party: 244–292 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–4 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–6 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov-seats.png"
+        length="166303"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 19:15:09 +0100</pubDate>
+      <dc:date>2021-01-30T19:15:09.370807+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 4–5 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov-coalitions-seats.png"
+        length="500406"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jan 2021 19:15:09 +0100</pubDate>
+      <dc:date>2021-01-30T19:15:09.370807+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 4–5 January 2021 – Voting Intentions</title>
@@ -46,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-05-YouGov.png"
         length="195875"
         type="image/png"/>
-      <pubDate>Wed, 20 Jan 2021 19:37:42 +0100</pubDate>
-      <dc:date>2021-01-20T19:37:42.812149+01:00</dc:date>
+      <pubDate>Sat, 30 Jan 2021 19:15:09 +0100</pubDate>
+      <dc:date>2021-01-30T19:15:09.370807+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for Daily Mirror, 26–30 December 2020 – Seat Projections for the Parties</title>
@@ -3679,6 +3739,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-30T13:53:50.854516+01:00</dc:date>
+    <dc:date>2021-01-30T19:15:09.370807+01:00</dc:date>
   </channel>
 </rss>
