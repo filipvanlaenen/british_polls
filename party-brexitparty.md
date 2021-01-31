@@ -19,7 +19,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 1.8% | 1.7–1.9% | 1.6–2.0% | 1.6–2.0% | 1.6–2.0% |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 1.8% | 1.4–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 0.9% | N/A | N/A | N/A | N/A |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.1–2.8% |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.5% |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 0 | 0 | 0 | 0 | 0 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |

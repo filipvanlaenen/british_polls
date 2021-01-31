@@ -19,7 +19,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 1.0% | 0.9–1.1% | 0.9–1.2% | 0.9–1.2% | 0.9–1.2% |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
@@ -204,14 +204,14 @@ Last result: **4** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 5 | 5 | 5 | 5 | 5 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5 | 5–6 | 4–7 | 4–7 | 3–9 |

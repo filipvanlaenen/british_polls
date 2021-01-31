@@ -19,7 +19,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 4.1% | 3.9–4.3% | 3.9–4.4% | 3.9–4.4% | 3.8–4.5% |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 5.1% | N/A | N/A | N/A | N/A |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.0–6.3% | 3.7–6.8% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.6% |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.7% |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
@@ -205,16 +205,16 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 54–58 | 52–58 | 48–58 | 41–58 |
+| N/A | [Poll Average](average.html) | 58 | 54–58 | 51–58 | 49–58 | 41–58 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 54–58 | 52–58 |
-| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 54 | 45–58 | 42–58 | 39–58 | 32–58 |
+| [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 54 | 46–58 | 42–58 | 39–58 | 31–58 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 58 | 55–58 | 54–58 | 54–58 | 50–58 |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 56 | 52–57 | 52–58 | 51–58 | 50–58 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 54–58 | 51–58 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 58 | 55–58 | 54–58 | 52–58 | 48–58 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 58 | 58 | 55–58 | 54–58 | 53–58 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 58 | 56–58 | 52–58 | 51–58 | 49–58 |
@@ -385,32 +385,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 99.9% |  |
+| 32 | 0% | 99.9% |  |
 | 33 | 0% | 99.9% |  |
 | 34 | 0% | 99.9% |  |
 | 35 | 0% | 99.9% |  |
 | 36 | 0.1% | 99.9% |  |
-| 37 | 0.1% | 99.8% |  |
-| 38 | 0% | 99.7% |  |
+| 37 | 0% | 99.8% |  |
+| 38 | 0.1% | 99.8% |  |
 | 39 | 0.1% | 99.7% |  |
-| 40 | 0% | 99.6% |  |
-| 41 | 0.1% | 99.6% |  |
-| 42 | 0.3% | 99.5% |  |
-| 43 | 0.1% | 99.2% |  |
-| 44 | 0.1% | 99.1% |  |
-| 45 | 0.5% | 99.0% |  |
-| 46 | 0.6% | 98.6% |  |
-| 47 | 0.2% | 98% |  |
-| 48 | 0.4% | 98% | Last Result |
-| 49 | 0.3% | 97% |  |
-| 50 | 0.7% | 97% |  |
-| 51 | 1.1% | 96% |  |
+| 40 | 0.1% | 99.6% |  |
+| 41 | 0.2% | 99.6% |  |
+| 42 | 0.1% | 99.4% |  |
+| 43 | 0.1% | 99.3% |  |
+| 44 | 0.2% | 99.2% |  |
+| 45 | 0.3% | 99.1% |  |
+| 46 | 0.3% | 98.8% |  |
+| 47 | 0.4% | 98% |  |
+| 48 | 0.5% | 98% | Last Result |
+| 49 | 0.6% | 98% |  |
+| 50 | 1.0% | 97% |  |
+| 51 | 1.4% | 96% |  |
 | 52 | 2% | 95% |  |
 | 53 | 2% | 93% |  |
-| 54 | 7% | 91% |  |
-| 55 | 5% | 84% |  |
+| 54 | 5% | 90% |  |
+| 55 | 5% | 85% |  |
 | 56 | 6% | 79% |  |
-| 57 | 9% | 73% |  |
+| 57 | 9% | 74% |  |
 | 58 | 65% | 65% | Median |
 | 59 | 0% | 0% |  |
 

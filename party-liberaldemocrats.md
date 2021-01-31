@@ -19,7 +19,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 9.3% | 9.0–9.5% | 8.9–9.6% | 8.9–9.7% | 8.7–9.8% |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.2–9.1% | 7.0–9.4% | 6.8–9.7% | 6.4–10.2% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 10.4% | 9.3–11.7% | 9.0–12.1% | 8.8–12.4% | 8.3–13.0% |
@@ -220,7 +220,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 6 | 2–6 | 2–7 | 2–7 | 0–11 |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 1–7 | 0–7 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 7 | 6–16 | 6–18 | 6–19 | 4–23 |
@@ -394,9 +394,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 22% | 100% |  |
 | 1 | 8% | 78% |  |
 | 2 | 9% | 70% |  |
-| 3 | 8% | 61% |  |
-| 4 | 13% | 53% | Median |
-| 5 | 1.2% | 40% |  |
+| 3 | 9% | 61% |  |
+| 4 | 12% | 53% | Median |
+| 5 | 1.3% | 41% |  |
 | 6 | 17% | 39% |  |
 | 7 | 11% | 22% |  |
 | 8 | 5% | 11% |  |
