@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2021-01-30T19:15:09.370807+01:00</updated>
+  <updated>2021-01-30T23:32:22.801396+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 40.1–44.5%, 292–343 seats</li><li>Labour Party: 36.0–40.3%, 226–275 seats</li><li>Liberal Democrats: 7.1–9.5%, 2–6 seats</li><li>Scottish National Party: 4.3–6.2%, 54–58 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>Green Party: 3.2–5.0%, 1 seats</li><li>Brexit Party: 0.5–1.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021</title>
     <updated>2021-01-30T14:38:25.899317+01:00</updated>
     <dc:date>2021-01-30T14:38:25.899317+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.3–43.3%, 285–342 seats</li><li>Labour Party: 35.3–40.2%, 226–281 seats</li><li>Liberal Democrats: 6.9–9.6%, 2–8 seats</li><li>Scottish National Party: 3.2–5.2%, 39–58 seats</li><li>Plaid Cymru: 0.6–1.7%, 5–7 seats</li><li>Green Party: 2.4–4.2%, 1 seats</li><li>Brexit Party: 0.5–1.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-01-10-SavantaComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-01-10-SavantaComRes.html"/>
+    <title>Opinion Poll by Savanta ComRes, 8–10 January 2021</title>
+    <updated>2021-01-30T23:32:22.801396+01:00</updated>
+    <dc:date>2021-01-30T23:32:22.801396+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.9–42.3%, 271–313 seats</li><li>Labour Party: 38.9–43.3%, 254–295 seats</li><li>Liberal Democrats: 5.2–7.3%, 0–3 seats</li><li>Scottish National Party: 4.2–6.2%, 54–58 seats</li><li>Plaid Cymru: 0.7–1.6%, 5–6 seats</li><li>UK Independence Party: 0.0–0.5%, 0 seats</li><li>Green Party: 2.5–4.1%, 1 seats</li></ul></div></content>
@@ -823,5 +831,5 @@
     <updated>2021-01-12T08:18:13.563288+01:00</updated>
     <dc:date>2021-01-12T08:18:13.563288+01:00</dc:date>
   </entry>
-  <dc:date>2021-01-30T19:15:09.370807+01:00</dc:date>
+  <dc:date>2021-01-30T23:32:22.801396+01:00</dc:date>
 </feed>
