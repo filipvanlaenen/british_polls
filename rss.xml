@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 31 Jan 2021 17:00:56 +0100</pubDate>
+    <pubDate>Mon, 01 Feb 2021 19:10:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 11 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-11-RedfieldWiltonStrategies.html#seats</link>
@@ -230,14 +230,34 @@
       <dc:date>2021-01-04T14:13:53.596529+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 18–21 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 279–335 seats&lt;/li&gt;&lt;li&gt;Labour Party: 229–284 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 1–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 52–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes-seats.png"
+        length="172431"
+        type="image/png"/>
+      <pubDate>Mon, 01 Feb 2021 19:10:29 +0100</pubDate>
+      <dc:date>2021-02-01T19:10:29.605922+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 18–21 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes-coalitions-seats.png"
+        length="524923"
+        type="image/png"/>
+      <pubDate>Mon, 01 Feb 2021 19:10:29 +0100</pubDate>
+      <dc:date>2021-02-01T19:10:29.605922+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Savanta ComRes, 18–21 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.9–44.0%&lt;/li&gt;&lt;li&gt;Labour Party: 36.8–41.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.8–9.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 2.4–4.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2020-12-21-SavantaComRes.png"
         length="199103"
         type="image/png"/>
-      <pubDate>Sun, 31 Jan 2021 17:00:56 +0100</pubDate>
-      <dc:date>2021-01-31T17:00:56.662127+01:00</dc:date>
+      <pubDate>Mon, 01 Feb 2021 19:10:29 +0100</pubDate>
+      <dc:date>2021-02-01T19:10:29.605922+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 16–17 December 2020 – Seat Projections for the Parties</title>
@@ -3769,6 +3789,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-01-31T17:00:56.662127+01:00</dc:date>
+    <dc:date>2021-02-01T19:10:29.605922+01:00</dc:date>
   </channel>
 </rss>
