@@ -221,7 +221,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 281 | 277–288 | 277–289 | 277–290 | 276–292 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 291 | 278–301 | 276–306 | 275–310 | 267–317 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 268 | 245–286 | 237–292 | 230–295 | 223–305 |
-| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 258 | 244–276 | 235–281 | 229–284 | 225–292 |
+| [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 259 | 239–276 | 235–279 | 229–284 | 225–291 |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 273 | 256–284 | 251–289 | 248–291 | 239–298 |
 | [15–16 December 2020](2020-12-16-YouGov.html) | YouGov <br> The Times | 258 | 243–276 | 236–278 | 232–280 | 226–287 |
 | [10–14 December 2020](2020-12-14-Kantar.html) | Kantar | 267 | 244–283 | 236–287 | 232–292 | 224–302 |
