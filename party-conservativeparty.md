@@ -212,13 +212,13 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 298 | 278–325 | 274–333 | 273–338 | 263–345 |
+| N/A | [Poll Average](average.html) | 298 | 278–325 | 276–333 | 273–338 | 263–345 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 319 | 300–337 | 296–341 | 292–343 | 286–351 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 313 | 293–333 | 288–339 | 285–342 | 278–350 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 289 | 276–303 | 274–309 | 271–313 | 265–322 |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 292 | 281–313 | 276–317 | 274–322 | 266–331 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 314 | 294–327 | 290–336 | 287–342 | 278–346 |
-| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 281 | 273–285 | 273–286 | 273–286 | 271–288 |
+| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 280 | 276–285 | 273–286 | 273–286 | 271–288 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 276 | 266–289 | 262–291 | 257–292 | 250–300 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 298 | 279–322 | 274–331 | 269–337 | 259–346 |
 | [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 304 | 286–324 | 283–330 | 279–335 | 271–341 |
@@ -416,19 +416,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 270 | 0.1% | 98% |  |
 | 271 | 0.3% | 98% |  |
 | 272 | 0.4% | 98% |  |
-| 273 | 2% | 98% |  |
-| 274 | 0.9% | 96% |  |
-| 275 | 0.8% | 95% |  |
-| 276 | 2% | 94% |  |
-| 277 | 1.0% | 92% |  |
-| 278 | 1.4% | 91% |  |
+| 273 | 1.0% | 98% |  |
+| 274 | 0.7% | 97% |  |
+| 275 | 0.7% | 96% |  |
+| 276 | 2% | 95% |  |
+| 277 | 1.5% | 93% |  |
+| 278 | 2% | 91% |  |
 | 279 | 1.3% | 89% |  |
 | 280 | 2% | 88% |  |
-| 281 | 1.5% | 86% |  |
-| 282 | 2% | 85% |  |
-| 283 | 2% | 83% |  |
-| 284 | 3% | 80% |  |
-| 285 | 3% | 78% |  |
+| 281 | 2% | 86% |  |
+| 282 | 2% | 84% |  |
+| 283 | 2% | 82% |  |
+| 284 | 2% | 79% |  |
+| 285 | 2% | 77% |  |
 | 286 | 2% | 75% |  |
 | 287 | 2% | 73% |  |
 | 288 | 2% | 71% |  |
@@ -436,7 +436,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 290 | 3% | 66% |  |
 | 291 | 2% | 63% |  |
 | 292 | 2% | 61% |  |
-| 293 | 2% | 59% |  |
+| 293 | 2% | 58% |  |
 | 294 | 2% | 57% |  |
 | 295 | 2% | 55% |  |
 | 296 | 1.3% | 54% |  |

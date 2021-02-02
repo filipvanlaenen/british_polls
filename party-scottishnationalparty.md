@@ -211,7 +211,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 54–58 | 54–58 | 51–58 |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 58 | 55–58 | 54–58 | 54–58 | 50–58 |
-| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 56 | 52–57 | 52–58 | 51–58 | 50–58 |
+| [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 56 | 53–57 | 52–57 | 51–58 | 50–58 |
 | [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 54–58 | 51–58 |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
 | [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 58 | 55–58 | 54–58 | 52–58 | 48–58 |
@@ -405,12 +405,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.4% | 98% |  |
 | 48 | 0.5% | 98% | Last Result |
 | 49 | 0.6% | 98% |  |
-| 50 | 1.0% | 97% |  |
-| 51 | 1.4% | 96% |  |
+| 50 | 0.9% | 97% |  |
+| 51 | 1.2% | 96% |  |
 | 52 | 2% | 95% |  |
-| 53 | 2% | 93% |  |
-| 54 | 5% | 90% |  |
-| 55 | 5% | 85% |  |
+| 53 | 3% | 93% |  |
+| 54 | 6% | 90% |  |
+| 55 | 5% | 84% |  |
 | 56 | 6% | 79% |  |
 | 57 | 9% | 74% |  |
 | 58 | 65% | 65% | Median |
