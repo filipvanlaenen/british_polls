@@ -10,20 +10,20 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.2% | 2.2–4.5% | 2.0–4.8% | 1.8–5.4% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.3% | 2.1–4.6% | 2.0–4.9% | 1.8–5.5% |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.8–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 3.3% | 2.8–3.8% | 2.7–4.0% | 2.5–4.1% | 2.3–4.4% |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.9% | 2.6–4.0% | 2.5–4.2% | 2.3–4.5% |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.6–3.4% |
-| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 2.4% | N/A | N/A | N/A | N/A |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 4.9% | N/A | N/A | N/A | N/A |
-| [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 2.4% | N/A | N/A | N/A | N/A |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 3.2% | N/A | N/A | N/A | N/A |
-| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 4.9% | N/A | N/A | N/A | N/A |
-| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 3.9% | N/A | N/A | N/A | N/A |
+| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 4.9% | 4.3–5.6% | 4.1–5.8% | 3.9–6.0% | 3.6–6.4% |
+| [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.2–5.0% | 3.0–5.3% |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 2.4% | 2.0–2.9% | 1.9–3.1% | 1.8–3.2% | 1.6–3.5% |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
+| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.4% |
+| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 3.9% | 3.2–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.2–5.0% | 3.0–5.3% |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.4–4.2% | 2.2–4.6% |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.8–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
@@ -201,12 +201,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 15% | 100% |  |
-| 2.5–3.5% | 53% | 85% | Last Result, Median |
-| 3.5–4.5% | 27% | 32% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 19% | 99.9% |  |
+| 2.5–3.5% | 48% | 81% | Last Result, Median |
+| 3.5–4.5% | 28% | 34% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -225,13 +225,13 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
-| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12–13 January 2021](2021-01-13-Survation.html) | Survation |  |  |  |  |  |
+| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |

@@ -10,18 +10,18 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 0.2% | N/A | N/A | N/A | N/A |
+| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 0.1% | N/A | N/A | N/A | N/A |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -201,8 +201,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.7% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.3% | 1.3% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -221,11 +221,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation |  |  |  |  |  |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
