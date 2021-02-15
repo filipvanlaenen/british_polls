@@ -10,8 +10,17 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.3% | 2.1–4.6% | 2.0–4.9% | 1.8–5.5% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.5–5.6% | 2.2–6.0% | 2.0–6.3% | 1.8–6.8% |
+| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 5.5% | 4.9–6.3% | 4.7–6.6% | 4.5–6.8% | 4.2–7.2% |
+| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.8–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
+| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | NaN% | N/A | N/A | N/A | N/A |
+| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 5.7% | N/A | N/A | N/A | N/A |
+| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.4% | N/A | N/A | N/A | N/A |
+| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 4.8% | N/A | N/A | N/A | N/A |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.8–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 4.0% | N/A | N/A | N/A | N/A |
+| [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes | 2.4% | N/A | N/A | N/A | N/A |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 3.3% | 2.8–3.8% | 2.7–4.0% | 2.5–4.1% | 2.3–4.4% |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.9% | 2.6–4.0% | 2.5–4.2% | 2.3–4.5% |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
@@ -202,12 +211,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 19% | 99.9% |  |
-| 2.5–3.5% | 48% | 81% | Last Result, Median |
-| 3.5–4.5% | 28% | 34% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 12% | 99.9% |  |
+| 2.5–3.5% | 30% | 88% | Last Result |
+| 3.5–4.5% | 32% | 58% | Median |
+| 4.5–5.5% | 16% | 26% |  |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 1.0% | 1.0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -219,7 +229,16 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [5–6 February 2021](2021-02-06-Survation.html) | Survation |  |  |  |  |  |
+| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV |  |  |  |  |  |
+| [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
