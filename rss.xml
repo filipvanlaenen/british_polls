@@ -8,7 +8,37 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 03 Feb 2021 23:18:20 +0100</pubDate>
+    <pubDate>Mon, 15 Feb 2021 17:04:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 11–12 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-02-12-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.6–45.0%&lt;/li&gt;&lt;li&gt;Labour Party: 35.6–39.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.3%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.0–0.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-02-12-Opinium.png"
+        length="209880"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 09:35:29 +0100</pubDate>
+      <dc:date>2021-02-15T09:35:29.754776+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 9–10 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-02-10-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.1–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 34.1–38.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.0–7.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.5–6.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-02-10-YouGov.png"
+        length="197013"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 09:59:44 +0100</pubDate>
+      <dc:date>2021-02-15T09:59:44.514145+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 8 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-02-08-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.6–46.0%&lt;/li&gt;&lt;li&gt;Labour Party: 36.5–40.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.1–8.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-02-08-RedfieldWiltonStrategies.png"
+        length="193603"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 17:04:53 +0100</pubDate>
+      <dc:date>2021-02-15T17:04:53.720921+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-02-01-RedfieldWiltonStrategies.html</link>
@@ -3939,6 +3969,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-02-03T23:18:20.171041+01:00</dc:date>
+    <dc:date>2021-02-15T17:04:53.720921+01:00</dc:date>
   </channel>
 </rss>
