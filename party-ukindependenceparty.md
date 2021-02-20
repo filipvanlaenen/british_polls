@@ -14,7 +14,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | NaN% | N/A | N/A | N/A | N/A |
+| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
