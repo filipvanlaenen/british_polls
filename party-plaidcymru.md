@@ -231,8 +231,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 5 | 5–7 | 5–7 | 4–9 | 4–10 |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |

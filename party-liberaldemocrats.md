@@ -239,7 +239,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 6 | 4–8 | 3–11 | 3–12 | 2–17 |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–1 | 0–6 | 0–6 | 0–6 |
-| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 0 | 0 | 0 | 0 | 0–1 |
 | [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
