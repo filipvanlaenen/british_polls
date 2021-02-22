@@ -229,7 +229,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 51–58 | 47–58 | 42–58 | 31–58 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
-| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 54 | 47–58 | 45–58 | 42–58 | 35–58 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
@@ -238,7 +238,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
-| [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 54–58 | 53–58 |
+| [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 54–58 | 52–58 |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 56–58 | 54–58 | 50–58 |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 53–58 | 51–58 |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 53 | 40–58 | 33–58 | 28–58 | 22–58 |
@@ -465,7 +465,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 11% | 77% |  |
 | 56 | 9% | 66% |  |
 | 57 | 2% | 57% |  |
-| 58 | 54% | 54% | Median |
+| 58 | 55% | 55% | Median |
 | 59 | 0% | 0% |  |
 
 

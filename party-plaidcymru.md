@@ -226,7 +226,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–9 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 5 | 5–7 | 5–7 | 4–9 | 4–10 |
@@ -435,7 +435,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 10% | 14% |  |
 | 7 | 3% | 4% |  |
 | 8 | 0% | 0.7% |  |
-| 9 | 0.5% | 0.6% |  |
+| 9 | 0.4% | 0.6% |  |
 | 10 | 0.1% | 0.2% |  |
 | 11 | 0% | 0% |  |
 

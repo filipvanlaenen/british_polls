@@ -234,7 +234,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–7 | 0–9 | 0–12 | 0–19 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 6 | 4–8 | 3–11 | 3–12 | 2–17 |
@@ -243,7 +243,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 0 | 0 | 0 | 0 | 0–1 |
 | [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
-| [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 3 | 1–4 | 0–4 | 0–4 | 0–6 |
+| [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 2 | 1–4 | 0–4 | 0–4 | 0–6 |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–6 | 2–6 | 1–6 | 1–7 |
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 9 | 6–16 | 6–18 | 5–21 | 4–22 |
@@ -434,10 +434,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 19% | 72% |  |
-| 2 | 12% | 53% | Median |
-| 3 | 9% | 41% |  |
+| 0 | 31% | 100% |  |
+| 1 | 19% | 69% |  |
+| 2 | 10% | 50% | Median |
+| 3 | 8% | 41% |  |
 | 4 | 7% | 32% |  |
 | 5 | 2% | 25% |  |
 | 6 | 10% | 24% |  |
