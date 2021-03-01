@@ -232,16 +232,16 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 57 | 49–58 | 46–58 | 42–58 | 31–58 |
-| [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 47–56 | 45–58 | 41–58 | 34–58 |
-| [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 55–58 | 52–58 |
-| [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
+| [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 47–56 | 45–58 | 42–58 | 33–58 |
+| [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
+| [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 54–58 | 51–58 |
 | [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 54 | 48–56 | 46–58 | 44–58 | 36–58 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 54 | 47–58 | 45–58 | 42–58 | 35–58 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 58 | 55–58 | 54–58 | 53–58 | 48–58 |
-| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 55–58 | 53–58 | 51–58 | 44–58 |
+| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 54–58 | 53–58 | 50–58 | 46–58 |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 58 | 55–58 | 54–58 | 53–58 | 50–58 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
@@ -462,16 +462,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 1.1% | 97% |  |
 | 45 | 0.4% | 96% |  |
 | 46 | 1.0% | 95% |  |
-| 47 | 0.8% | 94% |  |
+| 47 | 0.9% | 95% |  |
 | 48 | 2% | 94% | Last Result |
 | 49 | 2% | 92% |  |
 | 50 | 2% | 90% |  |
 | 51 | 3% | 88% |  |
-| 52 | 3% | 85% |  |
-| 53 | 3% | 82% |  |
-| 54 | 8% | 78% |  |
-| 55 | 12% | 70% |  |
-| 56 | 7% | 58% |  |
+| 52 | 4% | 85% |  |
+| 53 | 3% | 81% |  |
+| 54 | 9% | 78% |  |
+| 55 | 11% | 69% |  |
+| 56 | 8% | 59% |  |
 | 57 | 2% | 51% | Median |
 | 58 | 49% | 49% |  |
 | 59 | 0% | 0% |  |

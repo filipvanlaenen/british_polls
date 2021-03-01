@@ -244,7 +244,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 1 | 1 | 1 | 1–2 | 1–2 |
-| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1–2 |
+| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1–2 | 1–2 |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 1 | 1 | 1 | 1 | 1 |
@@ -440,8 +440,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.4% | 100% | Last Result, Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 99.3% | 100% | Last Result, Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -238,15 +238,15 @@ Last result: **11** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–7 | 0–9 | 0–12 | 0–19 |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–4 | 0–4 | 0–6 |
-| [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 3 | 1–4 | 1–6 | 0–6 | 0–6 |
+| [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 2 | 1–4 | 0–5 | 0–6 | 0–6 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–6 | 2–6 | 2–6 | 1–7 |
 | [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 2 | 1–3 | 0–4 | 0–4 | 0–6 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
 | [5–6 February 2021](2021-02-06-Survation.html) | Survation | 6 | 4–8 | 3–11 | 3–12 | 2–17 |
-| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–1 | 0–6 | 0–6 | 0–6 |
+| [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–4 | 0–4 | 0–6 | 0–6 |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 0 | 0 | 0 | 0 | 0–1 |
@@ -442,10 +442,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 21% | 74% |  |
-| 2 | 13% | 52% | Median |
-| 3 | 11% | 40% |  |
+| 0 | 24% | 100% |  |
+| 1 | 19% | 76% |  |
+| 2 | 16% | 57% | Median |
+| 3 | 12% | 41% |  |
 | 4 | 7% | 29% |  |
 | 5 | 0.9% | 22% |  |
 | 6 | 9% | 21% |  |
