@@ -235,8 +235,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 47–56 | 45–58 | 42–58 | 33–58 |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 54–58 | 51–58 |
-| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 54 | 48–56 | 46–58 | 44–58 | 36–58 |
-| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
+| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 54 | 48–56 | 46–58 | 43–58 | 35–58 |
+| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 53–58 | 51–58 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 54 | 47–58 | 45–58 | 42–58 | 35–58 |
@@ -453,25 +453,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 98.9% |  |
 | 36 | 0.3% | 98.9% |  |
 | 37 | 0.1% | 98.6% |  |
-| 38 | 0.1% | 98% |  |
+| 38 | 0.2% | 98% |  |
 | 39 | 0.2% | 98% |  |
 | 40 | 0.2% | 98% |  |
-| 41 | 0.3% | 98% |  |
+| 41 | 0.4% | 98% |  |
 | 42 | 0.4% | 98% |  |
-| 43 | 0.2% | 97% |  |
+| 43 | 0.3% | 97% |  |
 | 44 | 1.1% | 97% |  |
 | 45 | 0.4% | 96% |  |
-| 46 | 1.0% | 95% |  |
-| 47 | 0.9% | 95% |  |
-| 48 | 2% | 94% | Last Result |
+| 46 | 0.9% | 95% |  |
+| 47 | 1.1% | 94% |  |
+| 48 | 1.4% | 93% | Last Result |
 | 49 | 2% | 92% |  |
 | 50 | 2% | 90% |  |
 | 51 | 3% | 88% |  |
 | 52 | 4% | 85% |  |
-| 53 | 3% | 81% |  |
-| 54 | 9% | 78% |  |
-| 55 | 11% | 69% |  |
-| 56 | 8% | 59% |  |
+| 53 | 4% | 81% |  |
+| 54 | 7% | 77% |  |
+| 55 | 12% | 70% |  |
+| 56 | 7% | 58% |  |
 | 57 | 2% | 51% | Median |
 | 58 | 49% | 49% |  |
 | 59 | 0% | 0% |  |

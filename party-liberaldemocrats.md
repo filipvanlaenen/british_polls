@@ -241,11 +241,11 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 2 | 1–4 | 0–5 | 0–6 | 0–6 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–6 | 2–6 | 2–6 | 1–7 |
 | [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 2 | 1–3 | 0–4 | 0–4 | 0–6 |
-| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
-| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 6 | 4–8 | 3–11 | 3–12 | 2–17 |
+| [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–7 | 2–8 | 1–9 |
+| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 6 | 4–8 | 4–11 | 3–13 | 2–17 |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–4 | 0–4 | 0–6 | 0–6 |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
@@ -442,24 +442,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 19% | 76% |  |
-| 2 | 16% | 57% | Median |
+| 0 | 26% | 100% |  |
+| 1 | 16% | 74% |  |
+| 2 | 17% | 57% | Median |
 | 3 | 12% | 41% |  |
 | 4 | 7% | 29% |  |
 | 5 | 0.9% | 22% |  |
 | 6 | 9% | 21% |  |
 | 7 | 4% | 12% |  |
-| 8 | 2% | 9% |  |
+| 8 | 2% | 8% |  |
 | 9 | 3% | 7% |  |
 | 10 | 0.1% | 4% |  |
-| 11 | 0.8% | 4% | Last Result |
-| 12 | 1.3% | 3% |  |
-| 13 | 0% | 2% |  |
-| 14 | 0.1% | 2% |  |
-| 15 | 0.3% | 2% |  |
-| 16 | 0.4% | 1.5% |  |
-| 17 | 0.3% | 1.1% |  |
+| 11 | 0.7% | 4% | Last Result |
+| 12 | 1.2% | 3% |  |
+| 13 | 0.1% | 2% |  |
+| 14 | 0% | 2% |  |
+| 15 | 0.4% | 2% |  |
+| 16 | 0.3% | 1.4% |  |
+| 17 | 0.4% | 1.1% |  |
 | 18 | 0.2% | 0.8% |  |
 | 19 | 0.1% | 0.5% |  |
 | 20 | 0.1% | 0.5% |  |

@@ -232,8 +232,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -440,11 +440,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 5% | 72% |  |
 | 4 | 4% | 67% | Last Result |
 | 5 | 48% | 63% | Median |
-| 6 | 12% | 16% |  |
+| 6 | 11% | 15% |  |
 | 7 | 3% | 4% |  |
-| 8 | 0% | 0.6% |  |
-| 9 | 0.4% | 0.5% |  |
-| 10 | 0.1% | 0.1% |  |
+| 8 | 0.1% | 0.6% |  |
+| 9 | 0.3% | 0.5% |  |
+| 10 | 0.1% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 
