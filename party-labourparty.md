@@ -241,16 +241,16 @@ Last result: **202** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 244 | 225–270 | 219–276 | 214–280 | 202–290 |
+| N/A | [Poll Average](average.html) | 245 | 225–270 | 219–276 | 214–280 | 202–290 |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 237 | 224–254 | 219–259 | 216–264 | 208–272 |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 254 | 234–272 | 229–275 | 226–277 | 220–284 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 260 | 245–278 | 238–281 | 233–284 | 228–290 |
-| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 243 | 226–257 | 225–264 | 220–268 | 214–276 |
+| [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 242 | 226–258 | 225–264 | 220–268 | 214–276 |
 | [11–12 February 2021](2021-02-12-Opinium.html) | Opinium <br> The Observer | 242 | 226–256 | 224–263 | 218–265 | 213–275 |
-| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 239 | 225–258 | 220–265 | 217–268 | 207–276 |
-| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 241 | 228–256 | 225–266 | 220–269 | 214–277 |
+| [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 239 | 225–258 | 219–265 | 216–268 | 208–276 |
+| [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 244 | 227–257 | 225–264 | 220–269 | 215–277 |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 248 | 231–267 | 227–270 | 225–275 | 219–281 |
-| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 229 | 209–254 | 203–259 | 199–267 | 191–276 |
+| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 229 | 209–254 | 204–261 | 200–267 | 192–276 |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 252 | 228–276 | 226–279 | 221–284 | 210–292 |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 246 | 228–265 | 225–271 | 224–275 | 214–279 |
 | [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 261 | 246–278 | 241–280 | 235–282 | 228–290 |
@@ -267,7 +267,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 259 | 251–279 | 236–281 | 231–283 | 228–287 |
 | [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 289 | 276–303 | 276–312 | 275–314 | 268–318 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 276 | 264–290 | 255–292 | 253–298 | 243–304 |
-| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 263 | 241–285 | 232–291 | 229–297 | 218–305 |
+| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 263 | 239–284 | 232–289 | 226–295 | 218–305 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 248 | 231–267 | 227–270 | 226–275 | 219–279 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 254 | 235–274 | 229–278 | 226–281 | 219–289 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 276 | 264–289 | 258–292 | 254–295 | 245–301 |
@@ -455,32 +455,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 196 | 0% | 99.8% |  |
 | 197 | 0% | 99.8% |  |
 | 198 | 0% | 99.8% |  |
-| 199 | 0.1% | 99.7% |  |
-| 200 | 0% | 99.7% |  |
-| 201 | 0% | 99.6% |  |
-| 202 | 0.2% | 99.6% | Last Result |
-| 203 | 0% | 99.4% |  |
+| 199 | 0% | 99.8% |  |
+| 200 | 0.1% | 99.7% |  |
+| 201 | 0.1% | 99.7% |  |
+| 202 | 0.1% | 99.6% | Last Result |
+| 203 | 0.1% | 99.5% |  |
 | 204 | 0.1% | 99.4% |  |
 | 205 | 0.1% | 99.3% |  |
 | 206 | 0.1% | 99.2% |  |
 | 207 | 0.2% | 99.1% |  |
-| 208 | 0.2% | 98.9% |  |
-| 209 | 0.3% | 98.7% |  |
+| 208 | 0.1% | 98.9% |  |
+| 209 | 0.3% | 98.8% |  |
 | 210 | 0.2% | 98% |  |
 | 211 | 0.2% | 98% |  |
-| 212 | 0.1% | 98% |  |
-| 213 | 0.3% | 98% |  |
+| 212 | 0.2% | 98% |  |
+| 213 | 0.2% | 98% |  |
 | 214 | 0.2% | 98% |  |
 | 215 | 0.3% | 97% |  |
 | 216 | 0.4% | 97% |  |
-| 217 | 0.6% | 97% |  |
-| 218 | 0.8% | 96% |  |
-| 219 | 0.6% | 95% |  |
+| 217 | 0.7% | 97% |  |
+| 218 | 0.7% | 96% |  |
+| 219 | 0.7% | 95% |  |
 | 220 | 0.7% | 95% |  |
-| 221 | 0.4% | 94% |  |
-| 222 | 0.5% | 94% |  |
-| 223 | 0.7% | 93% |  |
-| 224 | 1.2% | 92% |  |
+| 221 | 0.5% | 94% |  |
+| 222 | 0.4% | 94% |  |
+| 223 | 0.8% | 93% |  |
+| 224 | 1.1% | 92% |  |
 | 225 | 2% | 91% |  |
 | 226 | 2% | 89% |  |
 | 227 | 2% | 87% |  |
@@ -496,27 +496,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 237 | 0.8% | 66% |  |
 | 238 | 2% | 65% |  |
 | 239 | 3% | 63% |  |
-| 240 | 1.2% | 60% |  |
+| 240 | 1.1% | 60% |  |
 | 241 | 2% | 59% |  |
 | 242 | 1.4% | 57% |  |
 | 243 | 3% | 56% |  |
-| 244 | 3% | 53% | Median |
-| 245 | 3% | 50% |  |
-| 246 | 3% | 47% |  |
-| 247 | 1.2% | 45% |  |
-| 248 | 2% | 43% |  |
+| 244 | 3% | 53% |  |
+| 245 | 2% | 50% | Median |
+| 246 | 3% | 48% |  |
+| 247 | 1.3% | 45% |  |
+| 248 | 2% | 44% |  |
 | 249 | 2% | 42% |  |
 | 250 | 2% | 40% |  |
-| 251 | 1.2% | 37% |  |
+| 251 | 1.3% | 38% |  |
 | 252 | 1.2% | 36% |  |
 | 253 | 1.3% | 35% |  |
 | 254 | 2% | 34% |  |
-| 255 | 1.3% | 31% |  |
+| 255 | 1.2% | 31% |  |
 | 256 | 3% | 30% |  |
 | 257 | 3% | 27% |  |
 | 258 | 1.5% | 25% |  |
-| 259 | 0.8% | 23% |  |
-| 260 | 0.7% | 22% |  |
+| 259 | 0.9% | 23% |  |
+| 260 | 0.8% | 22% |  |
 | 261 | 2% | 21% |  |
 | 262 | 1.1% | 19% |  |
 | 263 | 1.4% | 18% |  |
