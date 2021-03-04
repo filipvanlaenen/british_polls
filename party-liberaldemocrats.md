@@ -257,10 +257,10 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 9 | 6–16 | 6–18 | 5–21 | 4–22 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 2 | 1–4 | 0–4 | 0–6 | 0–8 |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–7 | 2–8 | 2–8 | 1–9 |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 3 | 1–4 | 1–4 | 1–6 | 0–6 |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 3 | 1–4 | 1–6 | 0–6 | 0–6 |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation | 3 | 0–6 | 0–6 | 0–7 | 0–9 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 2–6 | 2–6 | 2–6 | 1–7 |

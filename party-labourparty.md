@@ -262,12 +262,12 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 257 | 231–278 | 224–281 | 220–290 | 210–298 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 251 | 244–274 | 231–276 | 226–277 | 223–279 |
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 265 | 249–279 | 246–286 | 240–287 | 228–298 |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 267 | 248–278 | 243–283 | 239–285 | 229–293 |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 267 | 249–279 | 243–283 | 239–287 | 229–293 |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 262 | 247–280 | 241–283 | 238–286 | 227–294 |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 259 | 251–279 | 236–281 | 231–283 | 228–287 |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 289 | 276–303 | 276–312 | 275–314 | 268–318 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 260 | 245–278 | 236–280 | 232–282 | 227–289 |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 291 | 278–303 | 276–310 | 273–312 | 266–317 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 276 | 264–290 | 255–292 | 253–298 | 243–304 |
-| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 263 | 239–284 | 232–289 | 226–295 | 218–305 |
+| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 264 | 238–284 | 232–290 | 228–295 | 218–305 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 248 | 231–267 | 227–270 | 226–275 | 219–279 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 254 | 235–274 | 229–278 | 226–281 | 219–289 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 276 | 264–289 | 258–292 | 254–295 | 245–301 |

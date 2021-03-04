@@ -249,9 +249,9 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar |  |  |  |  |  |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 2 | 0–3 | 0–4 | 0–5 | 0–5 |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation | 2 | 0–5 | 0–5 | 0–5 | 0–5 |

@@ -252,12 +252,12 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 53 | 40–58 | 33–58 | 28–58 | 22–58 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 55–58 | 53–58 |
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 54 | 44–58 | 40–58 | 36–58 | 31–58 |
-| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 56–58 | 54–58 | 52–58 |
+| [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 45–58 | 44–58 | 42–58 | 34–58 |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 58 | 58 | 56–58 | 55–58 | 54–58 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
 | [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
-| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 54 | 43–58 | 39–58 | 31–58 | 24–58 |
+| [12–13 January 2021](2021-01-13-Survation.html) | Survation | 54 | 43–58 | 39–58 | 35–58 | 26–58 |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 54–58 | 52–58 |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 54 | 46–58 | 42–58 | 39–58 | 31–58 |
 | [6–7 January 2021](2021-01-07-Opinium.html) | Opinium <br> The Observer | 58 | 57–58 | 55–58 | 54–58 | 51–58 |
