@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 04 Mar 2021 19:07:00 +0100</pubDate>
+    <pubDate>Thu, 04 Mar 2021 22:58:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 22 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-02-22-RedfieldWiltonStrategies.html#seats</link>
@@ -480,14 +480,34 @@
       <dc:date>2021-02-03T18:50:26.212647+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar, 21–25 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 274–345 seats&lt;/li&gt;&lt;li&gt;Labour Party: 224–288 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5–20 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 33–58 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar-seats.png"
+        length="180465"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 22:58:50 +0100</pubDate>
+      <dc:date>2021-03-04T22:58:50.838729+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 21–25 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar-coalitions-seats.png"
+        length="561100"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 22:58:50 +0100</pubDate>
+      <dc:date>2021-03-04T22:58:50.838729+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar, 21–25 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.3–44.3%&lt;/li&gt;&lt;li&gt;Labour Party: 35.3–41.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.6–12.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.1–5.5%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-25-Kantar.png"
         length="207279"
         type="image/png"/>
-      <pubDate>Wed, 03 Feb 2021 19:07:10 +0100</pubDate>
-      <dc:date>2021-02-03T19:07:10.240805+01:00</dc:date>
+      <pubDate>Thu, 04 Mar 2021 22:58:50 +0100</pubDate>
+      <dc:date>2021-03-04T22:58:50.838729+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 22–24 January 2021 – Voting Intentions</title>
@@ -550,14 +570,34 @@
       <dc:date>2021-02-03T20:27:57.430593+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 15–17 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 284–336 seats&lt;/li&gt;&lt;li&gt;Labour Party: 232–282 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 0–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–5 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes-seats.png"
+        length="170677"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 19:54:17 +0100</pubDate>
+      <dc:date>2021-03-04T19:54:17.90424+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 15–17 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes-coalitions-seats.png"
+        length="508886"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 19:54:17 +0100</pubDate>
+      <dc:date>2021-03-04T19:54:17.90424+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Savanta ComRes, 15–17 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.2–42.7%&lt;/li&gt;&lt;li&gt;Labour Party: 36.2–40.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.1–8.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 1.8–3.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.6–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-01-17-SavantaComRes.png"
         length="193676"
         type="image/png"/>
-      <pubDate>Thu, 04 Mar 2021 19:07:00 +0100</pubDate>
-      <dc:date>2021-03-04T19:07:00.129245+01:00</dc:date>
+      <pubDate>Thu, 04 Mar 2021 19:54:17 +0100</pubDate>
+      <dc:date>2021-03-04T19:54:17.90424+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 14–15 January 2021 – Voting Intentions</title>
@@ -4409,6 +4449,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-03-04T19:07:00.129245+01:00</dc:date>
+    <dc:date>2021-03-04T22:58:50.838729+01:00</dc:date>
   </channel>
 </rss>
