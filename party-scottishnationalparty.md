@@ -10,8 +10,17 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.7% | 3.6–6.0% | 3.4–6.2% | 3.1–6.7% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [3–4 March 2021](2021-03-04-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
+| [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
+| [25–26 February 2021](2021-02-26-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [24–26 February 2021](2021-02-26-Opinium.html) | Opinium <br> The Observer | 6.1% | N/A | N/A | N/A | N/A |
+| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 2.1% | N/A | N/A | N/A | N/A |
+| [23–25 February 2021](2021-02-25-Survation.html) | Survation | 5.1% | N/A | N/A | N/A | N/A |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
+| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar | 4.2% | N/A | N/A | N/A | N/A |
+| [19–21 February 2021](2021-02-21-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.2–6.3% | 3.9–6.7% |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
 | [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
@@ -215,12 +224,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 38% | 96% | Last Result |
-| 4.5–5.5% | 43% | 57% | Median |
-| 5.5–6.5% | 14% | 14% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 21% | 99.4% | Last Result |
+| 4.5–5.5% | 53% | 79% | Median |
+| 5.5–6.5% | 23% | 25% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -231,8 +241,17 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 57 | 49–58 | 46–58 | 42–58 | 31–58 |
+| N/A | [Poll Average](average.html) | 58 | 54–58 | 53–58 | 50–58 | 46–58 |
+| [3–4 March 2021](2021-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [25–26 February 2021](2021-02-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [24–26 February 2021](2021-02-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [23–25 February 2021](2021-02-25-Survation.html) | Survation |  |  |  |  |  |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 47–56 | 45–58 | 42–58 | 33–58 |
+| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar |  |  |  |  |  |
+| [19–21 February 2021](2021-02-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 54–58 | 54–58 | 51–58 |
 | [12–14 February 2021](2021-02-14-SavantaComRes.html) | Savanta ComRes | 54 | 48–57 | 46–58 | 44–58 | 36–58 |
@@ -249,12 +268,12 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 54–58 | 54–58 | 52–58 |
 | [26–27 January 2021](2021-01-27-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 56–58 | 54–58 | 50–58 |
 | [25 January 2021](2021-01-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 55–58 | 55–58 | 53–58 | 51–58 |
-| [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 53 | 40–58 | 33–58 | 28–58 | 22–58 |
+| [21–25 January 2021](2021-01-25-Kantar.html) | Kantar | 53 | 42–58 | 38–58 | 33–58 | 23–58 |
 | [22–24 January 2021](2021-01-24-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 55–58 | 53–58 |
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 54 | 44–58 | 40–58 | 36–58 | 31–58 |
 | [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 45–58 | 44–58 | 42–58 | 34–58 |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 58 | 57–58 | 55–58 | 54–58 | 53–58 |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 58 | 58 | 55–58 | 54–58 | 53–58 |
 | [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 55–58 | 54–58 | 52–58 |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation | 54 | 43–58 | 39–58 | 35–58 | 26–58 |
@@ -437,43 +456,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0% | 99.9% |  |
-| 24 | 0% | 99.9% |  |
-| 25 | 0% | 99.9% |  |
-| 26 | 0.1% | 99.8% |  |
-| 27 | 0% | 99.7% |  |
-| 28 | 0.1% | 99.7% |  |
-| 29 | 0% | 99.7% |  |
-| 30 | 0% | 99.6% |  |
-| 31 | 0.1% | 99.6% |  |
-| 32 | 0% | 99.5% |  |
-| 33 | 0.4% | 99.4% |  |
-| 34 | 0.1% | 99.0% |  |
-| 35 | 0% | 98.9% |  |
-| 36 | 0.3% | 98.9% |  |
-| 37 | 0.1% | 98.6% |  |
-| 38 | 0.2% | 98% |  |
-| 39 | 0.2% | 98% |  |
-| 40 | 0.2% | 98% |  |
-| 41 | 0.3% | 98% |  |
-| 42 | 0.4% | 98% |  |
-| 43 | 0.3% | 97% |  |
-| 44 | 1.1% | 97% |  |
-| 45 | 0.4% | 96% |  |
-| 46 | 0.9% | 95% |  |
-| 47 | 1.1% | 94% |  |
-| 48 | 1.4% | 93% | Last Result |
-| 49 | 2% | 92% |  |
-| 50 | 2% | 90% |  |
-| 51 | 3% | 88% |  |
-| 52 | 4% | 85% |  |
-| 53 | 4% | 81% |  |
-| 54 | 7% | 77% |  |
-| 55 | 11% | 70% |  |
-| 56 | 7% | 58% |  |
-| 57 | 2% | 51% | Median |
-| 58 | 49% | 49% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 99.9% |  |
+| 38 | 0% | 99.9% |  |
+| 39 | 0% | 99.9% |  |
+| 40 | 0% | 99.9% |  |
+| 41 | 0% | 99.9% |  |
+| 42 | 0% | 99.8% |  |
+| 43 | 0.1% | 99.8% |  |
+| 44 | 0.1% | 99.7% |  |
+| 45 | 0.1% | 99.6% |  |
+| 46 | 0.3% | 99.6% |  |
+| 47 | 0.2% | 99.2% |  |
+| 48 | 0.4% | 99.0% | Last Result |
+| 49 | 0.7% | 98.6% |  |
+| 50 | 0.8% | 98% |  |
+| 51 | 0.7% | 97% |  |
+| 52 | 1.1% | 96% |  |
+| 53 | 2% | 95% |  |
+| 54 | 6% | 94% |  |
+| 55 | 7% | 88% |  |
+| 56 | 6% | 80% |  |
+| 57 | 2% | 74% |  |
+| 58 | 73% | 73% | Median |
 | 59 | 0% | 0% |  |
 
 
