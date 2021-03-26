@@ -10,7 +10,15 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
+| [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
+| [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 0.1% | N/A | N/A | N/A | N/A |
+| [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | N/A | N/A | N/A | N/A |
+| [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times | 1.4% | N/A | N/A | N/A | N/A |
+| [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror | 0.4% | N/A | N/A | N/A | N/A |
+| [8 March 2021](2021-03-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | N/A | N/A | N/A | N/A |
+| [5–7 March 2021](2021-03-07-SavantaComRes.html) | Savanta ComRes | 1.3% | N/A | N/A | N/A | N/A |
 | [3–4 March 2021](2021-03-04-YouGov.html) | YouGov <br> The Times | 1.3% | N/A | N/A | N/A | N/A |
 | [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | N/A | N/A | N/A | N/A |
 | [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes | 1.3% | N/A | N/A | N/A | N/A |
@@ -223,9 +231,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Median |
-| 0.5–1.5% | 2% | 2% |  |
-| 1.5–2.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 75% | 100% | Median |
+| 1.5–2.5% | 25% | 25% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -237,6 +246,14 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
+| [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror |  |  |  |  |  |
+| [8 March 2021](2021-03-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5–7 March 2021](2021-03-07-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [3–4 March 2021](2021-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
