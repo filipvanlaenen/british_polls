@@ -10,10 +10,10 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.8–8.6% | 6.5–8.9% | 6.3–9.2% | 6.0–9.6% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.9–8.5% | 5.6–8.8% | 5.4–9.0% | 5.1–9.5% |
 | [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.3% | 6.5–8.1% | 6.3–8.3% | 6.2–8.5% | 5.9–8.9% |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.4% | 6.6–9.8% |
-| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 6.2% | N/A | N/A | N/A | N/A |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.0% | N/A | N/A | N/A | N/A |
 | [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times | 7.4% | N/A | N/A | N/A | N/A |
 | [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror | 9.0% | N/A | N/A | N/A | N/A |
@@ -231,12 +231,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 5% | 100% |  |
-| 6.5–7.5% | 37% | 95% |  |
-| 7.5–8.5% | 45% | 58% | Median |
-| 8.5–9.5% | 12% | 13% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 4% | 100% |  |
+| 5.5–6.5% | 24% | 96% |  |
+| 6.5–7.5% | 33% | 72% | Median |
+| 7.5–8.5% | 30% | 39% |  |
+| 8.5–9.5% | 8% | 8% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
 
@@ -249,10 +250,10 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–6 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–6 | 0–7 | 0–9 |
 | [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 5 | 4–7 | 2–8 | 2–9 | 2–9 |
-| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror |  |  |  |  |  |
@@ -472,16 +473,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 21% | 91% |  |
-| 2 | 14% | 70% |  |
-| 3 | 8% | 56% | Median |
-| 4 | 22% | 48% |  |
-| 5 | 2% | 26% |  |
-| 6 | 17% | 24% |  |
-| 7 | 4% | 7% |  |
-| 8 | 1.2% | 3% |  |
-| 9 | 1.3% | 1.5% |  |
+| 0 | 32% | 100% |  |
+| 1 | 15% | 68% |  |
+| 2 | 14% | 52% | Median |
+| 3 | 6% | 38% |  |
+| 4 | 15% | 32% |  |
+| 5 | 1.3% | 17% |  |
+| 6 | 12% | 16% |  |
+| 7 | 3% | 5% |  |
+| 8 | 0.8% | 2% |  |
+| 9 | 0.9% | 1.0% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |

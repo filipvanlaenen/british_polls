@@ -10,10 +10,10 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
 | [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.3% | N/A | N/A | N/A | N/A |
 | [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
 | [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror | 1.0% | N/A | N/A | N/A | N/A |
@@ -231,9 +231,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 95% | 100% | Median |
-| 0.5–1.5% | 5% | 5% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 48% | 100% |  |
+| 0.5–1.5% | 51% | 52% | Last Result, Median |
+| 1.5–2.5% | 1.4% | 1.4% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -244,10 +245,10 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror |  |  |  |  |  |
@@ -467,12 +468,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% |  |
-| 1 | 21% | 59% | Median |
-| 2 | 25% | 38% |  |
-| 3 | 1.4% | 13% |  |
-| 4 | 9% | 11% | Last Result |
-| 5 | 2% | 2% |  |
-| 6 | 0% | 0% |  |
+| 0 | 21% | 100% |  |
+| 1 | 10% | 79% |  |
+| 2 | 13% | 69% |  |
+| 3 | 0.7% | 56% |  |
+| 4 | 5% | 56% | Last Result |
+| 5 | 16% | 51% | Median |
+| 6 | 34% | 35% |  |
+| 7 | 1.3% | 1.3% |  |
+| 8 | 0% | 0% |  |
 
 
