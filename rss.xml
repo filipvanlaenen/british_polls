@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 26 Mar 2021 23:28:48 +0100</pubDate>
+    <pubDate>Sat, 27 Mar 2021 21:49:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 15 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-03-15-RedfieldWiltonStrategies.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Fri, 26 Mar 2021 23:28:48 +0100</pubDate>
       <dc:date>2021-03-26T23:28:48.931957+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 11–12 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-03-12-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.0–46.4%&lt;/li&gt;&lt;li&gt;Labour Party: 35.9–40.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.2–7.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.3%&lt;/li&gt;&lt;li&gt;Green Party: 2.5–4.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.0–0.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-03-12-Opinium.png"
+        length="211172"
+        type="image/png"/>
+      <pubDate>Sat, 27 Mar 2021 21:49:32 +0100</pubDate>
+      <dc:date>2021-03-27T21:49:32.311367+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 22 February 2021 – Seat Projections for the Parties</title>
@@ -4469,6 +4479,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-03-26T23:28:48.931957+01:00</dc:date>
+    <dc:date>2021-03-27T21:49:32.311367+01:00</dc:date>
   </channel>
 </rss>
