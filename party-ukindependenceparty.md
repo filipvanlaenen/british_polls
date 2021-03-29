@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
@@ -24,10 +24,10 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 February 2021](2021-02-26-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 February 2021](2021-02-26-Opinium.html) | Opinium <br> The Observer | 0.1% | N/A | N/A | N/A | N/A |
-| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.2% | N/A | N/A | N/A | N/A |
+| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
 | [23–25 February 2021](2021-02-25-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar | 0.2% | N/A | N/A | N/A | N/A |
+| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [19–21 February 2021](2021-02-21-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -231,8 +231,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 100% | 100% | Last Result, Median |
-| 0.5–1.5% | 0% | 0% |  |
+| 0.0–0.5% | 96% | 100% | Last Result, Median |
+| 0.5–1.5% | 4% | 4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -258,10 +258,10 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [25–26 February 2021](2021-02-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [24–26 February 2021](2021-02-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [24–26 February 2021](2021-02-26-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [23–25 February 2021](2021-02-25-Survation.html) | Survation |  |  |  |  |  |
 | [22 February 2021](2021-02-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar |  |  |  |  |  |
+| [18–22 February 2021](2021-02-22-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [19–21 February 2021](2021-02-21-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [17–18 February 2021](2021-02-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [15 February 2021](2021-02-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
