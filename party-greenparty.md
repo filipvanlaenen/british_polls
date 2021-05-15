@@ -10,17 +10,17 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.3% | 5.5–7.5% | 5.3–7.8% | 5.0–8.2% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.0–6.4% | 2.8–6.8% | 2.7–7.1% | 2.4–7.7% |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 6.4% | 5.7–7.3% | 5.5–7.5% | 5.3–7.8% | 5.0–8.2% |
-| [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
+| [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | 4.8% | N/A | N/A | N/A | N/A |
-| [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 3.9% | N/A | N/A | N/A | N/A |
+| [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes | 3.2% | N/A | N/A | N/A | N/A |
-| [28–30 April 2021](2021-04-30-Opinium.html) | Opinium <br> The Observer | 3.2% | N/A | N/A | N/A | N/A |
-| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times | 3.2% | N/A | N/A | N/A | N/A |
-| [27–29 April 2021](2021-04-29-Survation.html) | Survation <br> Daily Mail | 4.7% | N/A | N/A | N/A | N/A |
-| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.7% | N/A | N/A | N/A | N/A |
+| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% |
+| [28–30 April 2021](2021-04-30-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.8–3.8% | 2.7–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
+| [27–29 April 2021](2021-04-29-Survation.html) | Survation <br> Daily Mail | 4.7% | 4.0–5.7% | 3.7–5.9% | 3.6–6.2% | 3.3–6.6% |
+| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times | 5.7% | N/A | N/A | N/A | N/A |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
 | [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 5.6% | N/A | N/A | N/A | N/A |
@@ -273,14 +273,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% | Last Result |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 6% | 100% |  |
-| 5.5–6.5% | 49% | 94% | Median |
-| 6.5–7.5% | 40% | 45% |  |
-| 7.5–8.5% | 5% | 5% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 32% | 98.7% | Last Result |
+| 3.5–4.5% | 30% | 67% | Median |
+| 4.5–5.5% | 15% | 36% |  |
+| 5.5–6.5% | 14% | 21% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -291,17 +292,17 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [28–30 April 2021](2021-04-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times |  |  |  |  |  |
-| [27–29 April 2021](2021-04-29-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
+| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
+| [28–30 April 2021](2021-04-30-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times | 1 | 1 | 1 | 1 | 1 |
+| [27–29 April 2021](2021-04-29-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1 | 1 | 1 |
+| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–26 April 2021](2021-04-26-Kantar.html) | Kantar |  |  |  |  |  |
@@ -556,8 +557,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result |
-| 2 | 50% | 50% | Median |
+| 1 | 93% | 100% | Last Result, Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 
