@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
-| [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 44–49% <br> 363–402 | 29–33% <br> 165–202 | 6–9% <br> 0–3 | 4–6% <br> 52–58 | 5–8% <br> 1–2 | 1% <br> 0 | 1–2% <br> 4–8 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
+| [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 44–49% <br> 363–404 | 29–33% <br> 164–202 | 6–9% <br> 0–3 | 4–6% <br> 52–58 | 5–8% <br> 1–2 | 1% <br> 0 | 1–2% <br> 4–7 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
