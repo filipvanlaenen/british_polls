@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Mon, 29 Mar 2021 10:47:13 +0200</pubDate>
+    <pubDate>Sat, 15 May 2021 15:29:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov, 11–12 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-05-12-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 43.9–48.8%&lt;/li&gt;&lt;li&gt;Labour Party: 28.7–33.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.0–8.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 5.3–7.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-05-12-YouGov.png"
+        length="190899"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 15:29:37 +0200</pubDate>
+      <dc:date>2021-05-15T15:29:37.913181+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 15 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-03-15-RedfieldWiltonStrategies.html</link>
@@ -4579,6 +4589,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-03-29T10:47:13.794629+02:00</dc:date>
+    <dc:date>2021-05-15T15:29:37.913181+02:00</dc:date>
   </channel>
 </rss>
