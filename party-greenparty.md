@@ -10,7 +10,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.0–6.4% | 2.8–6.8% | 2.7–7.1% | 2.4–7.7% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.1–6.3% | 2.9–6.7% | 2.7–7.0% | 2.4–7.6% |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 6.4% | 5.7–7.3% | 5.5–7.5% | 5.3–7.8% | 5.0–8.2% |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | 4.8% | N/A | N/A | N/A | N/A |
@@ -23,12 +23,12 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times | 5.7% | N/A | N/A | N/A | N/A |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
-| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 5.6% | N/A | N/A | N/A | N/A |
-| [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent | 4.9% | N/A | N/A | N/A | N/A |
+| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.2% | 4.0–7.7% |
+| [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.9–6.1% | 3.6–6.5% |
 | [23–25 April 2021](2021-04-25-SavantaComRes.html) | Savanta ComRes | 2.4% | N/A | N/A | N/A | N/A |
 | [21–23 April 2021](2021-04-23-Opinium.html) | Opinium <br> The Observer | 4.0% | N/A | N/A | N/A | N/A |
 | [21–22 April 2021](2021-04-22-YouGov.html) | YouGov <br> The Times | 5.6% | N/A | N/A | N/A | N/A |
-| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | N/A | N/A | N/A | N/A |
+| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [15–19 April 2021](2021-04-19-Survation.html) | Survation | 5.5% | N/A | N/A | N/A | N/A |
 | [19 April 2021](2021-04-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | N/A | N/A | N/A | N/A |
 | [16–18 April 2021](2021-04-18-SavantaComRes.html) | Savanta ComRes | 3.2% | N/A | N/A | N/A | N/A |
@@ -274,13 +274,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.3% | 100% |  |
-| 2.5–3.5% | 32% | 98.7% | Last Result |
-| 3.5–4.5% | 30% | 67% | Median |
-| 4.5–5.5% | 15% | 36% |  |
-| 5.5–6.5% | 14% | 21% |  |
-| 6.5–7.5% | 7% | 8% |  |
-| 7.5–8.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 1.0% | 100% |  |
+| 2.5–3.5% | 25% | 99.0% | Last Result |
+| 3.5–4.5% | 30% | 74% | Median |
+| 4.5–5.5% | 22% | 44% |  |
+| 5.5–6.5% | 15% | 22% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.6% | 0.7% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -305,12 +305,12 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar |  |  |  |  |  |
-| [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
+| [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1 | 1 | 1 |
 | [23–25 April 2021](2021-04-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [21–23 April 2021](2021-04-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [21–22 April 2021](2021-04-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1 |
 | [15–19 April 2021](2021-04-19-Survation.html) | Survation |  |  |  |  |  |
 | [19 April 2021](2021-04-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [16–18 April 2021](2021-04-18-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -557,8 +557,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 

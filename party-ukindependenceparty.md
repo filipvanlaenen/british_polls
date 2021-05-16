@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -23,12 +23,12 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 0.1% | N/A | N/A | N/A | N/A |
+| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 April 2021](2021-04-25-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 April 2021](2021-04-23-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
 | [21–22 April 2021](2021-04-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
-| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | N/A | N/A | N/A | N/A |
+| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [15–19 April 2021](2021-04-19-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [19 April 2021](2021-04-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 April 2021](2021-04-18-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -273,8 +273,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 99.4% | 100% | Last Result, Median |
-| 0.5–1.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -299,12 +299,12 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar |  |  |  |  |  |
+| [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [22–26 April 2021](2021-04-26-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [23–25 April 2021](2021-04-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [21–23 April 2021](2021-04-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [21–22 April 2021](2021-04-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [16–22 April 2021](2021-04-22-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [15–19 April 2021](2021-04-19-Survation.html) | Survation |  |  |  |  |  |
 | [19 April 2021](2021-04-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [16–18 April 2021](2021-04-18-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
