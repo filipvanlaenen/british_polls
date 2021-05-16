@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 15 May 2021 20:12:48 +0200</pubDate>
+    <pubDate>Sat, 15 May 2021 21:37:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 11–12 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-05-12-YouGov.html</link>
@@ -86,8 +86,38 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-04-29-NumberCruncherPolitics.png"
         length="201679"
         type="image/png"/>
-      <pubDate>Sat, 15 May 2021 20:12:48 +0200</pubDate>
-      <dc:date>2021-05-15T20:12:48.636145+02:00</dc:date>
+      <pubDate>Sat, 15 May 2021 20:26:50 +0200</pubDate>
+      <dc:date>2021-05-15T20:26:50.320035+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 22–26 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-04-26-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.4–45.3%&lt;/li&gt;&lt;li&gt;Labour Party: 31.2–36.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.6–12.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.6%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-04-26-Kantar.png"
+        length="216525"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 20:50:29 +0200</pubDate>
+      <dc:date>2021-05-15T20:50:29.442261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research for The Independent, 22–26 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-04-26-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.1–43.2%&lt;/li&gt;&lt;li&gt;Labour Party: 34.0–38.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.0–11.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-04-26-BMGResearch.png"
+        length="203330"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 21:14:20 +0200</pubDate>
+      <dc:date>2021-05-15T21:14:20.977406+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 16–22 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-04-22-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 34.9–40.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-04-22-IpsosMORI.png"
+        length="227011"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 21:37:45 +0200</pubDate>
+      <dc:date>2021-05-15T21:37:45.844086+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 15 March 2021 – Voting Intentions</title>
@@ -4659,6 +4689,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-05-15T20:12:48.636145+02:00</dc:date>
+    <dc:date>2021-05-15T21:37:45.844086+02:00</dc:date>
   </channel>
 </rss>
