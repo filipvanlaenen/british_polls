@@ -10,9 +10,13 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 5.6–9.9% | 5.2–10.5% | 4.8–11.0% | 4.2–11.9% |
+| N/A | [Poll Average](average.html) | 7.7% | 5.4–10.2% | 5.0–10.8% | 4.7–11.2% | 4.1–12.1% |
+| [17 May 2021](2021-05-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
+| [14–16 May 2021](2021-05-16-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
+| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer | 8.2% | N/A | N/A | N/A | N/A |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.7–9.0% |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.4–9.0% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
+| [7–9 May 2021](2021-05-09-SavantaComRes.html) | Savanta ComRes | 8.0% | N/A | N/A | N/A | N/A |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | 7.2% | N/A | N/A | N/A | N/A |
 | [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.3% |
 | [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.3% | N/A | N/A | N/A | N/A |
@@ -274,16 +278,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 8% | 98.6% |  |
-| 5.5–6.5% | 15% | 91% |  |
-| 6.5–7.5% | 20% | 76% |  |
-| 7.5–8.5% | 24% | 56% | Median |
-| 8.5–9.5% | 18% | 32% |  |
-| 9.5–10.5% | 10% | 15% |  |
-| 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.9% | 1.0% | Last Result |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 10% | 98% |  |
+| 5.5–6.5% | 19% | 88% |  |
+| 6.5–7.5% | 17% | 69% |  |
+| 7.5–8.5% | 15% | 52% | Median |
+| 8.5–9.5% | 17% | 37% |  |
+| 9.5–10.5% | 13% | 20% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 1.2% | 1.4% | Last Result |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -295,9 +299,13 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–7 | 0–9 | 0–10 | 0–16 |
+| N/A | [Poll Average](average.html) | 3 | 0–8 | 0–9 | 0–12 | 0–18 |
+| [17 May 2021](2021-05-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [14–16 May 2021](2021-05-16-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 1–5 | 1–6 | 1–7 | 0–8 |
+| [7–9 May 2021](2021-05-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 0 | 0–1 | 0–2 | 0–3 | 0–4 |
 | [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -560,28 +568,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 8% | 74% |  |
-| 2 | 12% | 66% |  |
-| 3 | 8% | 54% | Median |
-| 4 | 13% | 45% |  |
-| 5 | 2% | 32% |  |
-| 6 | 13% | 30% |  |
-| 7 | 8% | 17% |  |
-| 8 | 3% | 9% |  |
-| 9 | 3% | 6% |  |
-| 10 | 0.4% | 3% |  |
-| 11 | 0.5% | 2% | Last Result |
-| 12 | 0.6% | 2% |  |
-| 13 | 0.2% | 1.3% |  |
-| 14 | 0.4% | 1.1% |  |
-| 15 | 0.1% | 0.7% |  |
-| 16 | 0.3% | 0.7% |  |
-| 17 | 0% | 0.4% |  |
-| 18 | 0.1% | 0.4% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0.1% |  |
+| 0 | 35% | 100% |  |
+| 1 | 7% | 65% |  |
+| 2 | 7% | 58% |  |
+| 3 | 4% | 52% | Median |
+| 4 | 12% | 48% |  |
+| 5 | 0.6% | 36% |  |
+| 6 | 14% | 35% |  |
+| 7 | 9% | 22% |  |
+| 8 | 4% | 12% |  |
+| 9 | 5% | 8% |  |
+| 10 | 0.5% | 4% |  |
+| 11 | 0.7% | 3% | Last Result |
+| 12 | 0.8% | 3% |  |
+| 13 | 0.2% | 2% |  |
+| 14 | 0.5% | 2% |  |
+| 15 | 0.1% | 1.0% |  |
+| 16 | 0.3% | 0.9% |  |
+| 17 | 0% | 0.6% |  |
+| 18 | 0.2% | 0.5% |  |
+| 19 | 0.2% | 0.3% |  |
+| 20 | 0.1% | 0.2% |  |
 | 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
