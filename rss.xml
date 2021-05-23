@@ -8,7 +8,37 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 15 May 2021 21:37:45 +0200</pubDate>
+    <pubDate>Sun, 23 May 2021 13:44:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 17 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-05-17-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 40.9–45.3%&lt;/li&gt;&lt;li&gt;Labour Party: 31.7–36.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.0–11.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–5.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-05-17-RedfieldWiltonStrategies.png"
+        length="195311"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 12:51:51 +0200</pubDate>
+      <dc:date>2021-05-23T12:51:51.073976+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 14–16 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-05-16-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.8–46.1%&lt;/li&gt;&lt;li&gt;Labour Party: 30.7–34.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.1–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.6–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-05-16-SavantaComRes.png"
+        length="189848"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 13:17:36 +0200</pubDate>
+      <dc:date>2021-05-23T13:17:36.867115+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 13–14 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-05-14-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.8–47.3%&lt;/li&gt;&lt;li&gt;Labour Party: 29.7–33.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 4.7–6.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.0–0.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-05-14-Opinium.png"
+        length="210750"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 13:44:18 +0200</pubDate>
+      <dc:date>2021-05-23T13:44:18.822369+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 11–12 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-05-12-YouGov.html</link>
@@ -4689,6 +4719,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-05-15T21:37:45.844086+02:00</dc:date>
+    <dc:date>2021-05-23T13:44:18.822369+02:00</dc:date>
   </channel>
 </rss>
