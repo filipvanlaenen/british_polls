@@ -13,7 +13,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [17 May 2021](2021-05-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 May 2021](2021-05-16-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
+| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 May 2021](2021-05-09-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -293,7 +293,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17 May 2021](2021-05-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [14–16 May 2021](2021-05-16-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [11–12 May 2021](2021-05-12-YouGov.html) | YouGov |  |  |  |  |  |
 | [10 May 2021](2021-05-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [7–9 May 2021](2021-05-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
