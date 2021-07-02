@@ -308,8 +308,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Median |
-| 0.5–1.5% | 4% | 4% | Last Result |
+| 0.0–0.5% | 95% | 100% | Median |
+| 0.5–1.5% | 5% | 5% | Last Result |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -321,8 +321,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 0–7 | 0–7 | 0–9 |
-| [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21 June 2021](2021-06-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -621,17 +621,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 1.2% | 93% |  |
-| 2 | 3% | 91% |  |
-| 3 | 2% | 89% |  |
-| 4 | 5% | 87% | Last Result |
-| 5 | 56% | 82% | Median |
-| 6 | 18% | 26% |  |
-| 7 | 7% | 8% |  |
-| 8 | 0.1% | 1.1% |  |
-| 9 | 0.7% | 1.0% |  |
-| 10 | 0.3% | 0.3% |  |
-| 11 | 0% | 0% |  |
+| 0 | 42% | 100% |  |
+| 1 | 8% | 58% | Median |
+| 2 | 32% | 50% |  |
+| 3 | 0.7% | 18% |  |
+| 4 | 15% | 17% | Last Result |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
