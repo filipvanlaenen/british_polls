@@ -10,16 +10,16 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–1.9% |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
-| [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [21 June 2021](2021-06-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | N/A | N/A | N/A | N/A |
-| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
-| [17–20 June 2021](2021-06-20-Deltapoll.html) | Deltapoll | 0.3% | N/A | N/A | N/A | N/A |
+| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% |
+| [17–20 June 2021](2021-06-20-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [16–17 June 2021](2021-06-17-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
-| [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | N/A | N/A | N/A | N/A |
+| [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
 | [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.0% | N/A | N/A | N/A | N/A |
@@ -27,10 +27,10 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
-| [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 1.0% | N/A | N/A | N/A | N/A |
+| [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
-| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | N/A | N/A | N/A | N/A |
+| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [1–2 June 2021](2021-06-02-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
@@ -308,9 +308,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 95% | 100% | Median |
-| 0.5–1.5% | 5% | 5% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 25% | 100% |  |
+| 0.5–1.5% | 71% | 75% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -321,16 +322,16 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 5 | 1–7 | 0–7 | 0–7 | 0–9 |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–9 | 4–10 |
 | [21 June 2021](2021-06-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [17–20 June 2021](2021-06-20-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes | 5 | 5–7 | 5–7 | 5–7 | 4–9 |
+| [17–20 June 2021](2021-06-20-Deltapoll.html) | Deltapoll | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [16–17 June 2021](2021-06-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation |  |  |  |  |  |
-| [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
+| [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
@@ -338,10 +339,10 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation |  |  |  |  |  |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [3–7 June 2021](2021-06-07-Kantar.html) | Kantar |  |  |  |  |  |
+| [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 5 | 5–7 | 5–8 | 4–9 | 3–10 |
 | [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–7 | 4–7 | 4–8 | 4–10 |
 | [1–2 June 2021](2021-06-02-Survation.html) | Survation |  |  |  |  |  |
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -621,12 +622,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% |  |
-| 1 | 8% | 58% | Median |
-| 2 | 32% | 50% |  |
-| 3 | 0.7% | 18% |  |
-| 4 | 15% | 17% | Last Result |
-| 5 | 2% | 2% |  |
-| 6 | 0% | 0% |  |
+| 0 | 9% | 100% |  |
+| 1 | 6% | 91% |  |
+| 2 | 7% | 85% |  |
+| 3 | 0.3% | 79% |  |
+| 4 | 5% | 78% | Last Result |
+| 5 | 44% | 73% | Median |
+| 6 | 17% | 29% |  |
+| 7 | 9% | 11% |  |
+| 8 | 0.7% | 2% |  |
+| 9 | 1.2% | 2% |  |
+| 10 | 0.4% | 0.4% |  |
+| 11 | 0% | 0% |  |
 
 
