@@ -10,8 +10,9 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% | 0.5–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.7–2.1% | 0.6–2.2% | 0.5–2.5% |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.4–2.2% | 1.3–2.3% | 1.3–2.5% | 1.1–2.7% |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 1.3% | N/A | N/A | N/A | N/A |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
@@ -313,8 +314,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 75% | 98.9% | Median |
-| 1.5–2.5% | 24% | 24% | Last Result |
+| 0.5–1.5% | 70% | 98.9% | Median |
+| 1.5–2.5% | 29% | 29% | Last Result |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -329,6 +330,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |

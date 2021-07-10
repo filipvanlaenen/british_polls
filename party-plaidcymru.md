@@ -10,8 +10,9 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.4% | 0.3–1.5% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.5–1.7% |
@@ -312,8 +313,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% |  |
-| 0.5–1.5% | 82% | 86% | Last Result, Median |
+| 0.0–0.5% | 17% | 100% |  |
+| 0.5–1.5% | 79% | 83% | Last Result, Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -326,8 +327,9 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–7 | 1–7 | 0–7 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 1–7 | 1–7 | 0–7 | 0–9 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–7 | 5–9 | 5–10 |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
@@ -630,17 +632,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 6% | 96% |  |
-| 2 | 3% | 90% |  |
-| 3 | 0.2% | 87% |  |
-| 4 | 3% | 87% | Last Result |
-| 5 | 56% | 85% | Median |
-| 6 | 17% | 28% |  |
-| 7 | 9% | 11% |  |
-| 8 | 0.6% | 2% |  |
-| 9 | 0.9% | 1.2% |  |
-| 10 | 0.3% | 0.3% |  |
+| 0 | 5% | 100% |  |
+| 1 | 7% | 95% |  |
+| 2 | 3% | 89% |  |
+| 3 | 0.2% | 85% |  |
+| 4 | 3% | 85% | Last Result |
+| 5 | 53% | 82% | Median |
+| 6 | 17% | 29% |  |
+| 7 | 10% | 12% |  |
+| 8 | 0.7% | 2% |  |
+| 9 | 1.0% | 1.3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 

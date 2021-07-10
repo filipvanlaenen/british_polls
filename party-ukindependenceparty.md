@@ -12,6 +12,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -327,6 +328,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
