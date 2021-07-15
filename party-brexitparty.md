@@ -10,9 +10,12 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| [5–13 July 2021](2021-07-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 0.9% | N/A | N/A | N/A | N/A |
+| [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | N/A | N/A | N/A | N/A |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.4–2.2% | 1.3–2.3% | 1.3–2.5% | 1.1–2.7% |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
@@ -316,8 +319,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% |  |
-| 0.5–1.5% | 78% | 99.7% | Median |
-| 1.5–2.5% | 22% | 22% | Last Result |
+| 0.5–1.5% | 80% | 99.7% | Median |
+| 1.5–2.5% | 20% | 20% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -331,8 +334,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–13 July 2021](2021-07-13-Survation.html) | Survation |  |  |  |  |  |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
