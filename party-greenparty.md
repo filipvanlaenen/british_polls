@@ -343,7 +343,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [7–12 July 2021](2021-07-12-Kantar.html) | Kantar |  |  |  |  |  |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1–2 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
