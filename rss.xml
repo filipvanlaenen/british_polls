@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 16 Jul 2021 20:10:32 +0200</pubDate>
+    <pubDate>Fri, 16 Jul 2021 21:14:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation, 5–13 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-07-13-Survation.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2021-07-16T19:09:03.459757+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 7–8 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 344–383 seats&lt;/li&gt;&lt;li&gt;Labour Party: 179–217 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 3–7 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–8 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov-seats.png"
+        length="161385"
+        type="image/png"/>
+      <pubDate>Fri, 16 Jul 2021 21:14:29 +0200</pubDate>
+      <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 7–8 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov-coalitions-seats.png"
+        length="436239"
+        type="image/png"/>
+      <pubDate>Fri, 16 Jul 2021 21:14:29 +0200</pubDate>
+      <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 7–8 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.4–45.7%&lt;/li&gt;&lt;li&gt;Labour Party: 29.1–33.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.1–10.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.8–6.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.6–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-YouGov.png"
         length="192249"
         type="image/png"/>
-      <pubDate>Fri, 16 Jul 2021 20:10:32 +0200</pubDate>
-      <dc:date>2021-07-16T20:10:32.098309+02:00</dc:date>
+      <pubDate>Fri, 16 Jul 2021 21:14:29 +0200</pubDate>
+      <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 2–8 July 2021 – Voting Intentions</title>
@@ -5049,6 +5069,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-07-16T20:10:32.098309+02:00</dc:date>
+    <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
   </channel>
 </rss>
