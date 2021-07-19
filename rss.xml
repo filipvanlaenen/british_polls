@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Fri, 16 Jul 2021 21:14:29 +0200</pubDate>
+    <pubDate>Mon, 19 Jul 2021 20:32:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation, 5–13 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-07-13-Survation.html#seats</link>
@@ -68,6 +68,66 @@
         type="image/png"/>
       <pubDate>Tue, 13 Jul 2021 16:15:08 +0200</pubDate>
       <dc:date>2021-07-13T16:15:08.171152+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 7–12 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 330–391 seats&lt;/li&gt;&lt;li&gt;Labour Party: 167–222 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6–21 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–59 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–9 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar-seats.png"
+        length="176536"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 19:14:35 +0200</pubDate>
+      <dc:date>2021-07-18T19:14:35.95762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 7–12 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar-coalitions-seats.png"
+        length="497993"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 19:14:35 +0200</pubDate>
+      <dc:date>2021-07-18T19:14:35.95762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 7–12 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.5–47.6%&lt;/li&gt;&lt;li&gt;Labour Party: 28.6–34.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 10.3–14.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-12-Kantar.png"
+        length="215702"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 19:14:35 +0200</pubDate>
+      <dc:date>2021-07-18T19:14:35.95762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 9–11 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 298–349 seats&lt;/li&gt;&lt;li&gt;Labour Party: 218–267 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4–10 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 44–58 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes-seats.png"
+        length="151649"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 20:54:12 +0200</pubDate>
+      <dc:date>2021-07-18T20:54:12.642755+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 9–11 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes-coalitions-seats.png"
+        length="489539"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 20:54:12 +0200</pubDate>
+      <dc:date>2021-07-18T20:54:12.642755+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 9–11 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.2%&lt;/li&gt;&lt;li&gt;Labour Party: 33.1–37.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-11-SavantaComRes.png"
+        length="166985"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jul 2021 20:54:12 +0200</pubDate>
+      <dc:date>2021-07-18T20:54:12.642755+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 8–9 July 2021 – Seat Projections for the Parties</title>
@@ -130,14 +190,34 @@
       <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 2–8 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 305–368 seats&lt;/li&gt;&lt;li&gt;Labour Party: 182–242 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8–30 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 55–59 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–10 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI-seats.png"
+        length="189593"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 18:11:09 +0200</pubDate>
+      <dc:date>2021-07-19T18:11:09.639854+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 2–8 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI-coalitions-seats.png"
+        length="535494"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 18:11:09 +0200</pubDate>
+      <dc:date>2021-07-19T18:11:09.639854+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 2–8 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.9–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 29.0–34.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11.4–15.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.0–0.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-08-IpsosMORI.png"
         length="227694"
         type="image/png"/>
-      <pubDate>Fri, 16 Jul 2021 16:39:24 +0200</pubDate>
-      <dc:date>2021-07-16T16:39:24.613059+02:00</dc:date>
+      <pubDate>Mon, 19 Jul 2021 18:11:09 +0200</pubDate>
+      <dc:date>2021-07-19T18:11:09.639854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 5 July 2021 – Seat Projections for the Parties</title>
@@ -310,14 +390,34 @@
       <dc:date>2021-07-03T12:10:36.913152+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Deltapoll, 17–20 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 323–371 seats&lt;/li&gt;&lt;li&gt;Labour Party: 233–283 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 11–17 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 1–25 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0–4 seats&lt;/li&gt;&lt;li&gt;UK Independence Party: 0 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll-seats.png"
+        length="176431"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 20:32:29 +0200</pubDate>
+      <dc:date>2021-07-19T20:32:29.804792+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Deltapoll, 17–20 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll-coalitions-seats.png"
+        length="486393"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 20:32:29 +0200</pubDate>
+      <dc:date>2021-07-19T20:32:29.804792+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Deltapoll, 17–20 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.0–45.1%&lt;/li&gt;&lt;li&gt;Labour Party: 34.8–38.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.3–11.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 1.6–2.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.4–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.6–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-20-Deltapoll.png"
         length="205966"
         type="image/png"/>
-      <pubDate>Sat, 03 Jul 2021 12:43:53 +0200</pubDate>
-      <dc:date>2021-07-03T12:43:53.311044+02:00</dc:date>
+      <pubDate>Mon, 19 Jul 2021 20:32:29 +0200</pubDate>
+      <dc:date>2021-07-19T20:32:29.804792+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 11–15 June 2021 – Voting Intentions</title>
@@ -5069,6 +5169,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-07-16T21:14:29.196648+02:00</dc:date>
+    <dc:date>2021-07-19T20:32:29.804792+02:00</dc:date>
   </channel>
 </rss>
