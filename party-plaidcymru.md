@@ -10,10 +10,10 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.2–2.0% | 0.2–2.2% | 0.2–2.4% | 0.1–2.7% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.9% | 0.2–2.2% | 0.2–2.4% | 0.1–2.7% |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 1.0% | N/A | N/A | N/A | N/A |
+| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.8% | 1.3–3.0% |
 | [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -320,10 +320,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% |  |
-| 0.5–1.5% | 48% | 68% | Last Result, Median |
-| 1.5–2.5% | 18% | 20% |  |
-| 2.5–3.5% | 1.3% | 1.3% |  |
+| 0.0–0.5% | 28% | 100% |  |
+| 0.5–1.5% | 54% | 72% | Last Result, Median |
+| 1.5–2.5% | 17% | 18% |  |
+| 2.5–3.5% | 1.1% | 1.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -338,11 +338,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 5 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation |  |  |  |  |  |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar |  |  |  |  |  |
+| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 5 | 5–7 | 4–8 | 4–9 | 3–10 |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 9 | 7–11 | 7–12 | 6–12 | 6–13 |
 | [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
-| [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–8 | 5–9 | 4–10 | 3–10 |
+| [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–7 | 5–9 | 5–10 | 4–10 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–9 | 5–9 |
@@ -647,19 +647,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% |  |
-| 1 | 9% | 88% |  |
-| 2 | 7% | 79% |  |
-| 3 | 0.8% | 72% |  |
-| 4 | 5% | 71% | Last Result |
-| 5 | 28% | 66% | Median |
-| 6 | 12% | 39% |  |
-| 7 | 12% | 27% |  |
-| 8 | 1.2% | 15% |  |
-| 9 | 5% | 14% |  |
-| 10 | 7% | 8% |  |
-| 11 | 0.8% | 2% |  |
-| 12 | 0.9% | 1.0% |  |
+| 0 | 11% | 100% |  |
+| 1 | 4% | 89% |  |
+| 2 | 7% | 84% |  |
+| 3 | 1.1% | 77% |  |
+| 4 | 5% | 76% | Last Result |
+| 5 | 31% | 71% | Median |
+| 6 | 14% | 40% |  |
+| 7 | 13% | 26% |  |
+| 8 | 0.9% | 13% |  |
+| 9 | 5% | 12% |  |
+| 10 | 6% | 7% |  |
+| 11 | 0.7% | 2% |  |
+| 12 | 0.7% | 0.9% |  |
 | 13 | 0.1% | 0.2% |  |
 | 14 | 0% | 0% |  |
 

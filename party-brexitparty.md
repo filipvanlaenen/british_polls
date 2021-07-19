@@ -10,10 +10,10 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.2–1.6% | 0.1–1.7% | 0.1–1.9% | 0.0–2.1% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.5% | 0.1–1.7% | 0.1–1.8% | 0.0–2.1% |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
-| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 0.4% | N/A | N/A | N/A | N/A |
+| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
@@ -320,9 +320,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 68% | 80% | Median |
-| 1.5–2.5% | 12% | 12% | Last Result |
+| 0.0–0.5% | 28% | 100% |  |
+| 0.5–1.5% | 62% | 72% | Median |
+| 1.5–2.5% | 10% | 10% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -337,7 +337,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation |  |  |  |  |  |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
-| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar |  |  |  |  |  |
+| [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
