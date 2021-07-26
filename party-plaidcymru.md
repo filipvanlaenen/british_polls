@@ -10,10 +10,13 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.1% | 0.2–2.3% | 0.2–2.5% | 0.1–2.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.6% | 0.2–1.7% | 0.1–2.0% |
+| [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
-| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
-| [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
@@ -324,10 +327,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 25% | 100% |  |
-| 0.5–1.5% | 46% | 75% | Last Result, Median |
-| 1.5–2.5% | 27% | 29% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 69% | 75% | Last Result, Median |
+| 1.5–2.5% | 6% | 6% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -338,10 +340,13 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–10 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–9 | 0–10 |
+| [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation |  |  |  |  |  |
-| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–7 | 4–10 |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation |  |  |  |  |  |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 5 | 5–7 | 4–8 | 4–9 | 3–10 |
@@ -653,21 +658,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 4% | 91% |  |
-| 2 | 7% | 87% |  |
-| 3 | 1.0% | 80% |  |
-| 4 | 5% | 79% | Last Result |
-| 5 | 25% | 73% | Median |
-| 6 | 11% | 49% |  |
-| 7 | 16% | 38% |  |
-| 8 | 1.3% | 22% |  |
-| 9 | 8% | 21% |  |
-| 10 | 10% | 13% |  |
-| 11 | 1.2% | 3% |  |
-| 12 | 1.3% | 2% |  |
-| 13 | 0.2% | 0.3% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 0 | 12% | 100% |  |
+| 1 | 2% | 88% |  |
+| 2 | 7% | 86% |  |
+| 3 | 0.7% | 79% |  |
+| 4 | 5% | 78% | Last Result |
+| 5 | 43% | 73% | Median |
+| 6 | 15% | 30% |  |
+| 7 | 12% | 15% |  |
+| 8 | 0.5% | 3% |  |
+| 9 | 1.3% | 3% |  |
+| 10 | 1.3% | 1.4% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
