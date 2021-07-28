@@ -8,7 +8,27 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 27 Jul 2021 17:11:26 +0200</pubDate>
+    <pubDate>Wed, 28 Jul 2021 18:55:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 22–23 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 318–364 seats&lt;/li&gt;&lt;li&gt;Labour Party: 202–245 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 1–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium-seats.png"
+        length="157293"
+        type="image/png"/>
+      <pubDate>Wed, 28 Jul 2021 16:29:35 +0200</pubDate>
+      <dc:date>2021-07-28T16:29:35.241809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 22–23 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium-coalitions-seats.png"
+        length="474058"
+        type="image/png"/>
+      <pubDate>Wed, 28 Jul 2021 16:29:35 +0200</pubDate>
+      <dc:date>2021-07-28T16:29:35.241809+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 22–23 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-23-Opinium.png"
         length="180195"
         type="image/png"/>
-      <pubDate>Mon, 26 Jul 2021 16:12:22 +0200</pubDate>
-      <dc:date>2021-07-26T16:12:22.47641+02:00</dc:date>
+      <pubDate>Wed, 28 Jul 2021 16:29:35 +0200</pubDate>
+      <dc:date>2021-07-28T16:29:35.241809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-21-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 285–342 seats&lt;/li&gt;&lt;li&gt;Labour Party: 219–274 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4–11 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 54–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-21-YouGov-seats.png"
+        length="170153"
+        type="image/png"/>
+      <pubDate>Wed, 28 Jul 2021 18:12:41 +0200</pubDate>
+      <dc:date>2021-07-28T18:12:41.596901+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-07-21-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-21-YouGov-coalitions-seats.png"
+        length="518320"
+        type="image/png"/>
+      <pubDate>Wed, 28 Jul 2021 18:12:41 +0200</pubDate>
+      <dc:date>2021-07-28T18:12:41.596901+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 July 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-21-YouGov.png"
         length="199251"
         type="image/png"/>
-      <pubDate>Tue, 27 Jul 2021 16:47:39 +0200</pubDate>
-      <dc:date>2021-07-27T16:47:39.683272+02:00</dc:date>
+      <pubDate>Wed, 28 Jul 2021 18:12:41 +0200</pubDate>
+      <dc:date>2021-07-28T18:12:41.596901+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 19–20 July 2021 – Seat Projections for the Parties</title>
@@ -66,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-07-19-RedfieldWiltonStrategies.png"
         length="194981"
         type="image/png"/>
-      <pubDate>Mon, 26 Jul 2021 16:42:48 +0200</pubDate>
-      <dc:date>2021-07-26T16:42:48.796978+02:00</dc:date>
+      <pubDate>Wed, 28 Jul 2021 18:55:59 +0200</pubDate>
+      <dc:date>2021-07-28T18:55:59.598401+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Savanta ComRes, 16–18 July 2021 – Voting Intentions</title>
@@ -5269,6 +5309,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-07-27T17:11:26.532382+02:00</dc:date>
+    <dc:date>2021-07-28T18:55:59.598401+02:00</dc:date>
   </channel>
 </rss>
