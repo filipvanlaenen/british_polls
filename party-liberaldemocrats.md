@@ -351,9 +351,9 @@ Last result: **11** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 3–20 | 2–22 | 2–25 | 1–30 |
 | [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 3 | 2–6 | 2–6 | 1–6 | 0–6 |
-| [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 5–11 | 4–11 | 3–16 |
+| [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 4–11 | 4–11 | 3–16 |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 16 | 7–22 | 7–24 | 6–25 | 6–30 |
-| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8 | 6–11 | 6–12 | 6–13 | 4–16 |
+| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8 | 6–11 | 6–12 | 6–13 | 4–17 |
 | [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 4 | 2–6 | 1–8 | 1–9 | 0–11 |
 | [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 3 | 2–6 | 1–6 | 1–7 | 0–9 |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 6 | 4–6 | 3–6 | 3–7 | 2–8 |
@@ -670,17 +670,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.2% | 100% |  |
 | 1 | 1.2% | 99.8% |  |
 | 2 | 5% | 98.5% |  |
-| 3 | 8% | 93% |  |
+| 3 | 9% | 93% |  |
 | 4 | 9% | 85% |  |
-| 5 | 1.4% | 76% |  |
+| 5 | 1.1% | 76% |  |
 | 6 | 16% | 75% |  |
 | 7 | 11% | 59% | Median |
 | 8 | 8% | 48% |  |
-| 9 | 4% | 40% |  |
-| 10 | 2% | 36% |  |
+| 9 | 3% | 40% |  |
+| 10 | 2% | 37% |  |
 | 11 | 3% | 35% | Last Result |
 | 12 | 5% | 32% |  |
-| 13 | 1.2% | 26% |  |
+| 13 | 1.1% | 26% |  |
 | 14 | 0.9% | 25% |  |
 | 15 | 0.7% | 24% |  |
 | 16 | 4% | 24% |  |
