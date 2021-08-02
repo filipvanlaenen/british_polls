@@ -10,11 +10,11 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.7–6.8% | 4.5–7.2% | 4.3–7.5% | 4.0–8.1% |
-| [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 3.1% | N/A | N/A | N/A | N/A |
-| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
-| [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [23 July 2021](2021-07-23-Survation.html) | Survation | 4.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.7% | 3.3–6.4% | 3.0–6.8% | 2.8–7.2% | 2.4–7.8% |
+| [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.1% | 2.1–4.5% |
+| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 4.1% | 3.6–4.7% | 3.4–4.8% | 3.3–5.0% | 3.1–5.3% |
+| [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
+| [23 July 2021](2021-07-23-Survation.html) | Survation | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.5% |
 | [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 5.2% | 4.5–5.9% | 4.3–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -330,12 +330,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 7% | 100% | Last Result |
-| 4.5–5.5% | 42% | 93% |  |
-| 5.5–6.5% | 36% | 51% | Median |
-| 6.5–7.5% | 14% | 16% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 13% | 99.1% |  |
+| 3.5–4.5% | 32% | 86% | Last Result |
+| 4.5–5.5% | 28% | 54% | Median |
+| 5.5–6.5% | 18% | 26% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 1.0% | 1.1% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -348,11 +350,11 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 56–58 | 55–59 | 54–59 | 51–59 |
-| [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23 July 2021](2021-07-23-Survation.html) | Survation |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 57 | 42–58 | 32–58 | 27–59 | 19–59 |
+| [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 36 | 22–49 | 20–53 | 16–53 | 8–55 |
+| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 53 | 47–58 | 44–58 | 43–58 | 38–58 |
+| [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 54 | 46–58 | 45–58 | 42–58 | 34–58 |
+| [23 July 2021](2021-07-23-Survation.html) | Survation | 54 | 42–58 | 37–58 | 33–58 | 25–58 |
 | [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 58 | 55–58 | 55–58 | 54–58 | 51–58 |
 | [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 58 | 58 | 56–58 | 54–58 | 52–58 |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 53 | 43–58 | 42–58 | 41–58 | 37–58 |
@@ -670,18 +672,58 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0% | 100% | Last Result |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.2% | 99.9% |  |
-| 51 | 0.3% | 99.7% |  |
-| 52 | 0.3% | 99.4% |  |
-| 53 | 1.0% | 99.1% |  |
-| 54 | 2% | 98% |  |
-| 55 | 5% | 96% |  |
-| 56 | 8% | 91% |  |
-| 57 | 4% | 83% |  |
-| 58 | 74% | 79% | Median |
-| 59 | 5% | 5% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 99.9% |  |
+| 10 | 0% | 99.9% |  |
+| 11 | 0% | 99.9% |  |
+| 12 | 0% | 99.9% |  |
+| 13 | 0% | 99.9% |  |
+| 14 | 0.1% | 99.8% |  |
+| 15 | 0.1% | 99.8% |  |
+| 16 | 0% | 99.7% |  |
+| 17 | 0% | 99.7% |  |
+| 18 | 0.1% | 99.6% |  |
+| 19 | 0.2% | 99.6% |  |
+| 20 | 0.1% | 99.4% |  |
+| 21 | 0.2% | 99.2% |  |
+| 22 | 0.4% | 99.0% |  |
+| 23 | 0.3% | 98.7% |  |
+| 24 | 0.3% | 98% |  |
+| 25 | 0.3% | 98% |  |
+| 26 | 0.1% | 98% |  |
+| 27 | 0.6% | 98% |  |
+| 28 | 0.6% | 97% |  |
+| 29 | 0.2% | 96% |  |
+| 30 | 0.5% | 96% |  |
+| 31 | 0.3% | 96% |  |
+| 32 | 1.0% | 95% |  |
+| 33 | 0.7% | 94% |  |
+| 34 | 0.3% | 94% |  |
+| 35 | 0.3% | 93% |  |
+| 36 | 0.3% | 93% |  |
+| 37 | 0.2% | 93% |  |
+| 38 | 0.5% | 93% |  |
+| 39 | 0.2% | 92% |  |
+| 40 | 0.8% | 92% |  |
+| 41 | 0.5% | 91% |  |
+| 42 | 0.6% | 91% |  |
+| 43 | 1.0% | 90% |  |
+| 44 | 0.7% | 89% |  |
+| 45 | 1.1% | 88% |  |
+| 46 | 2% | 87% |  |
+| 47 | 2% | 86% |  |
+| 48 | 2% | 84% | Last Result |
+| 49 | 2% | 82% |  |
+| 50 | 2% | 80% |  |
+| 51 | 2% | 78% |  |
+| 52 | 3% | 76% |  |
+| 53 | 5% | 73% |  |
+| 54 | 5% | 68% |  |
+| 55 | 6% | 63% |  |
+| 56 | 6% | 57% |  |
+| 57 | 4% | 50% | Median |
+| 58 | 44% | 47% |  |
+| 59 | 3% | 3% |  |
 | 60 | 0% | 0% |  |
 
 
