@@ -353,8 +353,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 55 | 42–58 | 32–58 | 27–59 | 19–59 |
-| [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 45–57 | 42–58 | 41–58 | 33–58 |
-| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 55 | 48–58 | 46–58 | 45–58 | 36–58 |
+| [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 45–56 | 43–58 | 42–58 | 36–58 |
+| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 55 | 48–58 | 46–58 | 44–58 | 36–58 |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 36 | 22–49 | 20–53 | 16–53 | 8–55 |
 | [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 53 | 47–58 | 44–58 | 43–58 | 38–58 |
 | [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 54 | 46–58 | 45–58 | 42–58 | 34–58 |
@@ -702,29 +702,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.4% | 96% |  |
 | 32 | 1.0% | 95% |  |
 | 33 | 0.7% | 94% |  |
-| 34 | 0.4% | 94% |  |
+| 34 | 0.3% | 94% |  |
 | 35 | 0.3% | 93% |  |
 | 36 | 0.4% | 93% |  |
 | 37 | 0.2% | 93% |  |
-| 38 | 0.5% | 93% |  |
-| 39 | 0.2% | 92% |  |
-| 40 | 0.9% | 92% |  |
+| 38 | 0.6% | 93% |  |
+| 39 | 0.3% | 92% |  |
+| 40 | 0.8% | 92% |  |
 | 41 | 0.6% | 91% |  |
-| 42 | 0.9% | 90% |  |
-| 43 | 1.2% | 89% |  |
+| 42 | 0.8% | 90% |  |
+| 43 | 1.2% | 90% |  |
 | 44 | 0.8% | 88% |  |
 | 45 | 2% | 87% |  |
 | 46 | 2% | 86% |  |
 | 47 | 2% | 84% |  |
-| 48 | 2% | 81% | Last Result |
+| 48 | 2% | 82% | Last Result |
 | 49 | 3% | 79% |  |
-| 50 | 2% | 76% |  |
+| 50 | 2% | 77% |  |
 | 51 | 3% | 74% |  |
-| 52 | 3% | 71% |  |
+| 52 | 4% | 71% |  |
 | 53 | 7% | 67% |  |
-| 54 | 5% | 60% |  |
-| 55 | 8% | 55% | Median |
-| 56 | 7% | 47% |  |
+| 54 | 6% | 60% |  |
+| 55 | 7% | 55% | Median |
+| 56 | 7% | 48% |  |
 | 57 | 4% | 41% |  |
 | 58 | 34% | 37% |  |
 | 59 | 3% | 3% |  |

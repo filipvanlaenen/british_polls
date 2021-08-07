@@ -356,9 +356,9 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 2–19 | 0–20 | 0–23 | 0–28 |
-| [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11 | 7–19 | 7–20 | 6–21 | 6–23 |
-| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 6 | 3–8 | 3–8 | 2–8 | 2–11 |
+| N/A | [Poll Average](average.html) | 7 | 1–19 | 0–20 | 0–23 | 0–28 |
+| [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11 | 8–18 | 7–20 | 6–21 | 6–23 |
+| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 6 | 3–7 | 3–8 | 2–9 | 1–11 |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 0 | 0–3 | 0–4 | 0–5 | 0–7 |
 | [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 8 | 6–12 | 6–14 | 6–16 | 5–20 |
 | [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–9 | 4–9 | 4–11 | 3–13 |
@@ -682,25 +682,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
 | 1 | 3% | 93% |  |
-| 2 | 4% | 90% |  |
-| 3 | 6% | 86% |  |
-| 4 | 8% | 80% |  |
-| 5 | 1.4% | 72% |  |
-| 6 | 11% | 71% |  |
-| 7 | 10% | 60% | Median |
+| 2 | 5% | 90% |  |
+| 3 | 6% | 85% |  |
+| 4 | 8% | 79% |  |
+| 5 | 1.4% | 71% |  |
+| 6 | 11% | 70% |  |
+| 7 | 10% | 59% | Median |
 | 8 | 8% | 50% |  |
 | 9 | 7% | 42% |  |
-| 10 | 3% | 35% |  |
+| 10 | 2% | 34% |  |
 | 11 | 3% | 32% | Last Result |
 | 12 | 5% | 29% |  |
 | 13 | 3% | 24% |  |
-| 14 | 1.2% | 22% |  |
-| 15 | 0.7% | 20% |  |
-| 16 | 4% | 20% |  |
+| 14 | 2% | 22% |  |
+| 15 | 0.9% | 20% |  |
+| 16 | 3% | 19% |  |
 | 17 | 3% | 16% |  |
-| 18 | 0.9% | 13% |  |
-| 19 | 4% | 12% |  |
-| 20 | 4% | 9% |  |
+| 18 | 1.0% | 13% |  |
+| 19 | 3% | 12% |  |
+| 20 | 4% | 8% |  |
 | 21 | 1.3% | 5% |  |
 | 22 | 0.7% | 4% |  |
 | 23 | 0.8% | 3% |  |

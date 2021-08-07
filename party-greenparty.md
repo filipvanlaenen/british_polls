@@ -354,7 +354,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
@@ -676,9 +676,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Last Result, Median |
-| 2 | 6% | 7% |  |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 94% | 100% | Last Result, Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
