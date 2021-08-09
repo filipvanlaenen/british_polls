@@ -11,7 +11,9 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.4–1.5% | 0.3–1.6% | 0.2–1.7% | 0.1–2.0% |
+| [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes | 0.2% | N/A | N/A | N/A | N/A |
 | [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–2.0% |
 | [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -21,7 +23,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -44,7 +46,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [16–17 June 2021](2021-06-17-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
-| [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
 | [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.0% | N/A | N/A | N/A | N/A |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
@@ -347,7 +349,9 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 2–7 | 0–7 | 0–7 | 0–10 |
+| [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
