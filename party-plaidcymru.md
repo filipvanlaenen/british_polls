@@ -10,7 +10,12 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.5% | 0.3–1.6% | 0.2–1.7% | 0.1–2.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| [6–8 August 2021](2021-08-08-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
+| [5–6 August 2021](2021-08-06-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
 | [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes | 0.2% | N/A | N/A | N/A | N/A |
@@ -334,9 +339,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% |  |
-| 0.5–1.5% | 79% | 85% | Last Result, Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 94% | 99.0% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -348,7 +353,12 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–7 | 0–7 | 0–7 | 0–10 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
+| [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 5–9 |
+| [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 5–7 | 5–9 | 5–9 | 4–10 |
+| [6–8 August 2021](2021-08-08-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [5–6 August 2021](2021-08-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -674,18 +684,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 2% | 94% |  |
-| 2 | 3% | 92% |  |
-| 3 | 0.6% | 89% |  |
-| 4 | 4% | 88% | Last Result |
-| 5 | 55% | 84% | Median |
-| 6 | 17% | 28% |  |
-| 7 | 9% | 12% |  |
-| 8 | 0.4% | 2% |  |
-| 9 | 1.0% | 2% |  |
-| 10 | 0.8% | 0.9% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0.1% | 99.9% |  |
+| 4 | 1.5% | 99.9% | Last Result |
+| 5 | 66% | 98% | Median |
+| 6 | 25% | 33% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.2% | 2% |  |
+| 9 | 1.2% | 2% |  |
+| 10 | 0.4% | 0.4% |  |
+| 11 | 0% | 0% |  |
 
 
