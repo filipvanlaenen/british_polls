@@ -53,10 +53,10 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.4% | 1.0–1.8% | 0.9–2.0% | 0.9–2.1% | 0.7–2.3% |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
-| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | N/A | N/A | N/A | N/A |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.9% | N/A | N/A | N/A | N/A |
+| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.8% |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 0.9% | N/A | N/A | N/A | N/A |
+| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 0.9% | 0.6–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.5% | N/A | N/A | N/A | N/A |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 0.9% | 0.6–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -397,10 +397,10 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation |  |  |  |  |  |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 0 | 0 | 0 | 0 | 0 |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
-| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation |  |  |  |  |  |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |

@@ -53,11 +53,11 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation | 8.2% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.1% | 4.4–5.9% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.4–8.9% | 7.2–9.2% | 7.0–9.4% | 6.7–9.8% |
-| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 7.3% | N/A | N/A | N/A | N/A |
-| [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 6.0% | N/A | N/A | N/A | N/A |
-| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 7.1% | N/A | N/A | N/A | N/A |
-| [9–10 June 2021](2021-06-10-Survation.html) | Survation | 9.1% | N/A | N/A | N/A | N/A |
+| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.5–10.2% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.7% | 5.8–9.2% |
+| [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
+| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 7.1% | 6.4–8.0% | 6.2–8.3% | 6.0–8.5% | 5.6–9.0% |
+| [9–10 June 2021](2021-06-10-Survation.html) | Survation | 9.1% | 8.3–10.0% | 8.1–10.3% | 7.9–10.5% | 7.6–10.9% |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | N/A | N/A | N/A | N/A |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 8.2% | 7.2–9.4% | 7.0–9.7% | 6.7–10.0% | 6.3–10.6% |
 | [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
@@ -407,11 +407,11 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [11–15 June 2021](2021-06-15-Survation.html) | Survation | 4 | 2–6 | 2–7 | 2–8 | 1–9 |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 4 | 3–6 | 2–6 | 2–6 | 1–6 |
-| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
-| [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [9–10 June 2021](2021-06-10-Survation.html) | Survation |  |  |  |  |  |
+| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 3–8 | 3–8 | 3–10 | 2–11 |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 5 | 3–7 | 2–8 | 2–8 | 0–9 |
+| [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
+| [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
+| [9–10 June 2021](2021-06-10-Survation.html) | Survation | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
 | [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 2 | 0–6 | 0–8 | 0–8 | 0–11 |
 | [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |

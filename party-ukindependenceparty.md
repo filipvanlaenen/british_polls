@@ -54,7 +54,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.2% | N/A | N/A | N/A | N/A |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
@@ -397,7 +397,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation |  |  |  |  |  |
