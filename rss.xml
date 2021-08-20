@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Thu, 19 Aug 2021 08:11:59 +0200</pubDate>
+    <pubDate>Fri, 20 Aug 2021 08:36:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 16 August 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-08-16-RedfieldWiltonStrategies.html</link>
@@ -960,6 +960,16 @@
       <dc:date>2021-08-19T08:11:59.169546+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 7 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-07-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 41.8–46.2%&lt;/li&gt;&lt;li&gt;Labour Party: 34.8–39.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.1–8.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-07-RedfieldWiltonStrategies.png"
+        length="193659"
+        type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 07:36:12 +0200</pubDate>
+      <dc:date>2021-08-20T07:36:12.427438+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar, 3–7 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-06-07-Kantar.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 43.1–49.1%&lt;/li&gt;&lt;li&gt;Labour Party: 30.0–35.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.7–10.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -970,6 +980,26 @@
       <dc:date>2021-07-03T13:59:41.889098+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 4–6 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-06-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.8–47.2%&lt;/li&gt;&lt;li&gt;Labour Party: 30.7–34.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.1–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-06-SavantaComRes.png"
+        length="180142"
+        type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 08:07:44 +0200</pubDate>
+      <dc:date>2021-08-20T08:07:44.809516+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 2–3 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-03-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 45.0–49.8%&lt;/li&gt;&lt;li&gt;Labour Party: 28.8–33.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 5.1–7.5%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 6.1–8.6%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-03-YouGov.png"
+        length="192134"
+        type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 08:25:01 +0200</pubDate>
+      <dc:date>2021-08-20T08:25:01.090489+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MORI for Evening Standard, 3 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-06-03-IpsosMORI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 42.3–48.5%&lt;/li&gt;&lt;li&gt;Labour Party: 33.2–39.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 4.9–7.9%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.0–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -978,6 +1008,16 @@
         type="image/png"/>
       <pubDate>Sat, 03 Jul 2021 14:23:28 +0200</pubDate>
       <dc:date>2021-07-03T14:23:28.534228+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 1–2 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-06-02-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.5–44.5%&lt;/li&gt;&lt;li&gt;Labour Party: 31.4–36.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.9–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-06-02-Survation.png"
+        length="179797"
+        type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 08:36:24 +0200</pubDate>
+      <dc:date>2021-08-20T08:36:24.440575+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 17 May 2021 – Voting Intentions</title>
@@ -5689,6 +5729,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-08-19T08:11:59.169546+02:00</dc:date>
+    <dc:date>2021-08-20T08:36:24.440575+02:00</dc:date>
   </channel>
 </rss>
