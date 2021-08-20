@@ -58,12 +58,12 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 7.1% | 6.4–8.0% | 6.2–8.3% | 6.0–8.5% | 5.6–9.0% |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 9.1% | 8.3–10.0% | 8.1–10.3% | 7.9–10.5% | 7.6–10.9% |
-| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | N/A | N/A | N/A | N/A |
+| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 8.2% | 7.2–9.4% | 7.0–9.7% | 6.7–10.0% | 6.3–10.6% |
-| [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
-| [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
+| [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.4–9.0% | 7.2–9.3% | 7.1–9.4% | 6.7–9.9% |
+| [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.1–7.5% | 4.8–7.9% |
 | [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.5% |
-| [1–2 June 2021](2021-06-02-Survation.html) | Survation | 9.2% | N/A | N/A | N/A | N/A |
+| [1–2 June 2021](2021-06-02-Survation.html) | Survation | 9.2% | 8.3–10.2% | 8.0–10.5% | 7.8–10.8% | 7.4–11.3% |
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | N/A | N/A | N/A | N/A |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 9.3% | N/A | N/A | N/A | N/A |
 | [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
@@ -412,12 +412,12 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
-| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 2 | 0–6 | 0–8 | 0–8 | 0–11 |
-| [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 3 | 2–6 | 2–7 | 1–7 | 0–8 |
+| [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [1–2 June 2021](2021-06-02-Survation.html) | Survation |  |  |  |  |  |
+| [1–2 June 2021](2021-06-02-Survation.html) | Survation | 6 | 4–9 | 3–10 | 3–11 | 2–12 |
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
