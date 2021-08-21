@@ -364,7 +364,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [16 August 2021](2021-08-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
 | [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 August 2021](2021-08-08-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [5–6 August 2021](2021-08-06-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
