@@ -10,8 +10,13 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.3–6.3% | 3.1–6.7% | 2.9–7.1% | 2.6–7.8% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.5–7.0% | 4.3–7.4% | 4.1–7.7% | 3.8–8.3% |
+| [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | N/A | N/A | N/A | N/A |
+| [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 3.2% | N/A | N/A | N/A | N/A |
+| [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer | 4.8% | N/A | N/A | N/A | N/A |
+| [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 6.4% | N/A | N/A | N/A | N/A |
 | [16 August 2021](2021-08-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [13–15 August 2021](2021-08-15-SavantaComRes.html) | Savanta ComRes | 3.2% | N/A | N/A | N/A | N/A |
 | [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.8–6.8% | 4.5–7.1% |
 | [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.8% | 4.2–5.5% | 4.1–5.7% | 3.9–5.8% | 3.7–6.2% |
 | [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
@@ -64,9 +69,9 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 7.3% | 6.5–8.2% | 6.3–8.4% | 6.1–8.6% | 5.8–9.1% |
 | [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5.7% | 4.8–6.8% | 4.6–7.1% | 4.4–7.3% | 4.0–7.9% |
 | [1–2 June 2021](2021-06-02-Survation.html) | Survation | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.4% |
-| [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 4.0% | N/A | N/A | N/A | N/A |
-| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 6.6% | N/A | N/A | N/A | N/A |
+| [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
+| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 6.6% | 5.8–7.4% | 5.6–7.7% | 5.5–7.9% | 5.1–8.3% |
 | [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
 | [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 4.0% | N/A | N/A | N/A | N/A |
 | [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 6.5% | N/A | N/A | N/A | N/A |
@@ -340,15 +345,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 17% | 99.6% | Last Result |
-| 3.5–4.5% | 36% | 82% | Median |
-| 4.5–5.5% | 22% | 46% |  |
-| 5.5–6.5% | 17% | 24% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.9% | 1.0% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.1% | 100% | Last Result |
+| 3.5–4.5% | 12% | 99.9% |  |
+| 4.5–5.5% | 36% | 88% |  |
+| 5.5–6.5% | 31% | 52% | Median |
+| 6.5–7.5% | 17% | 21% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -360,8 +364,13 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [16 August 2021](2021-08-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [13–15 August 2021](2021-08-15-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
 | [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -414,9 +423,9 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–2 June 2021](2021-06-02-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
-| [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
+| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
@@ -692,8 +701,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 1 | 75% | 100% | Last Result, Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 
