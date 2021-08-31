@@ -72,10 +72,10 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 34.5% | 33.2–35.9% | 32.8–36.3% | 32.4–36.7% | 31.8–37.4% |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 33.1% | 31.8–34.4% | 31.4–34.8% | 31.1–35.1% | 30.5–35.8% |
 | [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 30.3% | 28.9–31.8% | 28.5–32.2% | 28.1–32.6% | 27.5–33.3% |
-| [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail | 32.9% | N/A | N/A | N/A | N/A |
-| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 37.3% | N/A | N/A | N/A | N/A |
-| [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 32.9% | N/A | N/A | N/A | N/A |
-| [25–26 May 2021](2021-05-26-Survation.html) | Survation | 33.7% | N/A | N/A | N/A | N/A |
+| [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail | 32.9% | 31.1–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.9% |
+| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 37.3% | 36.0–38.8% | 35.6–39.2% | 35.2–39.5% | 34.6–40.2% |
+| [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 32.9% | 31.0–34.9% | 30.5–35.4% | 30.0–35.9% | 29.1–36.9% |
+| [25–26 May 2021](2021-05-26-Survation.html) | Survation | 33.7% | 31.8–35.6% | 31.3–36.2% | 30.9–36.6% | 30.0–37.6% |
 | [24 May 2021](2021-05-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33.6% | N/A | N/A | N/A | N/A |
 | [21–23 May 2021](2021-05-23-SavantaComRes.html) | Savanta ComRes | 34.0% | N/A | N/A | N/A | N/A |
 | [19–20 May 2021](2021-05-20-YouGov.html) | YouGov <br> The Times | 29.2% | N/A | N/A | N/A | N/A |
@@ -435,10 +435,10 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 208 | 197–223 | 196–226 | 193–229 | 185–237 |
 | [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 213 | 197–223 | 193–226 | 191–230 | 183–236 |
 | [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 185 | 174–199 | 167–202 | 166–207 | 154–215 |
-| [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
-| [25–26 May 2021](2021-05-26-Survation.html) | Survation |  |  |  |  |  |
+| [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail | 210 | 195–232 | 186–236 | 184–245 | 177–252 |
+| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 232 | 217–248 | 213–250 | 206–254 | 203–269 |
+| [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 197 | 180–217 | 176–223 | 172–226 | 164–238 |
+| [25–26 May 2021](2021-05-26-Survation.html) | Survation | 207 | 191–227 | 185–232 | 182–237 | 176–249 |
 | [24 May 2021](2021-05-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [21–23 May 2021](2021-05-23-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [19–20 May 2021](2021-05-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
