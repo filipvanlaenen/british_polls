@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 31 Aug 2021 07:54:19 +0200</pubDate>
+    <pubDate>Sun, 19 Sep 2021 18:11:14 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Redfield &amp; Wilton Strategies, 13 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-09-13-RedfieldWiltonStrategies.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.1–42.5%&lt;/li&gt;&lt;li&gt;Labour Party: 34.0–38.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.1–10.7%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.0–5.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.7–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-09-13-RedfieldWiltonStrategies.png"
+        length="201389"
+        type="image/png"/>
+      <pubDate>Sun, 19 Sep 2021 18:11:14 +0200</pubDate>
+      <dc:date>2021-09-19T18:11:14.307938+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 23 August 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-08-23-RedfieldWiltonStrategies.html</link>
@@ -5929,6 +5939,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-08-31T07:54:19.590152+02:00</dc:date>
+    <dc:date>2021-09-19T18:11:14.307938+02:00</dc:date>
   </channel>
 </rss>
