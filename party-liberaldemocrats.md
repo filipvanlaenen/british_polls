@@ -376,8 +376,8 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 4–10 | 4–11 | 3–14 |
-| [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7 | 6–9 | 4–10 | 4–11 | 3–14 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 4–10 | 4–12 | 3–14 |
+| [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7 | 6–9 | 4–10 | 4–12 | 3–14 |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -729,20 +729,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 100% |  |
 | 3 | 0.8% | 99.9% |  |
 | 4 | 6% | 99.2% |  |
-| 5 | 3% | 94% |  |
-| 6 | 33% | 90% |  |
-| 7 | 20% | 57% | Median |
-| 8 | 27% | 37% |  |
-| 9 | 5% | 10% |  |
+| 5 | 2% | 93% |  |
+| 6 | 38% | 91% |  |
+| 7 | 22% | 53% | Median |
+| 8 | 17% | 31% |  |
+| 9 | 8% | 14% |  |
 | 10 | 2% | 6% |  |
-| 11 | 1.4% | 4% | Last Result |
-| 12 | 1.2% | 2% |  |
-| 13 | 0.4% | 1.1% |  |
+| 11 | 1.2% | 4% | Last Result |
+| 12 | 1.2% | 3% |  |
+| 13 | 0.7% | 1.4% |  |
 | 14 | 0.2% | 0.7% |  |
-| 15 | 0.1% | 0.4% |  |
-| 16 | 0.1% | 0.3% |  |
+| 15 | 0.1% | 0.5% |  |
+| 16 | 0.2% | 0.4% |  |
 | 17 | 0.1% | 0.2% |  |
-| 18 | 0.1% | 0.1% |  |
+| 18 | 0% | 0.1% |  |
 | 19 | 0% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
