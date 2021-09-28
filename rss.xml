@@ -8,7 +8,17 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sun, 19 Sep 2021 19:52:32 +0200</pubDate>
+    <pubDate>Tue, 28 Sep 2021 07:59:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 22–23 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-09-23-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.1–42.9%&lt;/li&gt;&lt;li&gt;Labour Party: 31.0–35.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 9.0–12.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 6.1–8.7%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-09-23-YouGov.png"
+        length="201624"
+        type="image/png"/>
+      <pubDate>Tue, 28 Sep 2021 07:59:27 +0200</pubDate>
+      <dc:date>2021-09-28T07:59:27.28914+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 13 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-09-13-RedfieldWiltonStrategies.html#seats</link>
@@ -5959,6 +5969,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-09-19T19:52:32.777594+02:00</dc:date>
+    <dc:date>2021-09-28T07:59:27.28914+02:00</dc:date>
   </channel>
 </rss>
