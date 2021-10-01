@@ -10,15 +10,15 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.2–7.4% | 2.8–7.8% | 2.6–8.1% | 2.2–8.7% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.3–7.2% | 2.9–7.7% | 2.7–8.0% | 2.3–8.6% |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.8–9.1% |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 3.1% | 2.5–3.9% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.7–6.8% | 4.5–7.2% |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
-| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 5.8% | N/A | N/A | N/A | N/A |
-| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 3.9% | N/A | N/A | N/A | N/A |
-| [10–14 September 2021](2021-09-14-Survation.html) | Survation | 4.0% | N/A | N/A | N/A | N/A |
+| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.4% |
+| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 3.9% | 3.6–4.4% | 3.4–4.5% | 3.4–4.6% | 3.2–4.8% |
+| [10–14 September 2021](2021-09-14-Survation.html) | Survation | 4.0% | 3.5–4.6% | 3.3–4.7% | 3.2–4.9% | 3.0–5.2% |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.8% | 4.3–5.5% | 4.1–5.7% | 4.0–5.9% | 3.7–6.3% |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 4.6% | N/A | N/A | N/A | N/A |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 4.7% | N/A | N/A | N/A | N/A |
@@ -369,13 +369,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 16% | 98% | Last Result |
-| 3.5–4.5% | 26% | 83% |  |
-| 4.5–5.5% | 22% | 56% | Median |
-| 5.5–6.5% | 15% | 34% |  |
-| 6.5–7.5% | 12% | 19% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 15% | 98% | Last Result |
+| 3.5–4.5% | 37% | 84% | Median |
+| 4.5–5.5% | 19% | 47% |  |
+| 5.5–6.5% | 12% | 28% |  |
+| 6.5–7.5% | 10% | 16% |  |
+| 7.5–8.5% | 6% | 6% |  |
+| 8.5–9.5% | 0.6% | 0.6% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -393,9 +393,9 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [10–14 September 2021](2021-09-14-Survation.html) | Survation |  |  |  |  |  |
+| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
+| [10–14 September 2021](2021-09-14-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -746,9 +746,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Last Result, Median |
-| 2 | 13% | 13% |  |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 89% | 100% | Last Result, Median |
+| 2 | 11% | 11% |  |
+| 3 | 0.1% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
