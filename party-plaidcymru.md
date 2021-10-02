@@ -382,11 +382,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 1–6 | 0–7 | 0–7 | 0–9 |
-| [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–7 | 5–7 | 5–9 |
+| [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–7 | 5–7 | 4–9 |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 5 | 5–7 | 5–7 | 5–9 | 4–10 |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -740,17 +740,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 2% | 91% |  |
+| 0 | 8% | 100% |  |
+| 1 | 3% | 92% |  |
 | 2 | 5% | 89% |  |
-| 3 | 2% | 84% |  |
-| 4 | 2% | 82% | Last Result |
-| 5 | 59% | 80% | Median |
-| 6 | 14% | 20% |  |
-| 7 | 5% | 6% |  |
-| 8 | 0.1% | 0.9% |  |
-| 9 | 0.5% | 0.7% |  |
+| 3 | 0.8% | 84% |  |
+| 4 | 3% | 83% | Last Result |
+| 5 | 58% | 80% | Median |
+| 6 | 15% | 22% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.2% | 1.0% |  |
+| 9 | 0.6% | 0.8% |  |
 | 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

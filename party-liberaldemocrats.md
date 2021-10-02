@@ -387,12 +387,12 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–9 | 2–11 | 1–13 | 0–18 |
-| [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 8 | 7–16 | 6–17 | 6–19 | 4–21 |
-| [21–22 September 2021](2021-09-22-Survation.html) | Survation | 4 | 2–7 | 2–9 | 1–10 | 0–11 |
+| N/A | [Poll Average](average.html) | 6 | 2–9 | 2–12 | 1–14 | 0–19 |
+| [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 9 | 6–16 | 6–17 | 6–19 | 5–22 |
+| [21–22 September 2021](2021-09-22-Survation.html) | Survation | 5 | 2–8 | 2–9 | 1–10 | 0–12 |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
-| [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 7 | 4–8 | 4–9 | 4–10 | 3–12 |
-| [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 3 | 1–4 | 0–4 | 0–6 | 0–6 |
+| [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 7 | 4–9 | 4–9 | 4–10 | 3–13 |
+| [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 3 | 1–4 | 1–4 | 0–6 | 0–6 |
 | [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 3 | 1–4 | 1–6 | 1–6 | 0–6 |
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 8 | 6–10 | 6–11 | 6–12 | 6–14 |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 7 | 5–8 | 4–9 | 4–11 | 3–13 |
@@ -746,29 +746,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 2% | 98.9% |  |
-| 2 | 8% | 97% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 3% | 99.0% |  |
+| 2 | 8% | 96% |  |
 | 3 | 11% | 89% |  |
-| 4 | 16% | 78% |  |
-| 5 | 3% | 62% |  |
-| 6 | 16% | 59% | Median |
-| 7 | 15% | 43% |  |
-| 8 | 11% | 28% |  |
-| 9 | 8% | 17% |  |
-| 10 | 3% | 9% |  |
-| 11 | 1.3% | 6% | Last Result |
+| 4 | 14% | 77% |  |
+| 5 | 3% | 63% |  |
+| 6 | 18% | 60% | Median |
+| 7 | 13% | 43% |  |
+| 8 | 12% | 30% |  |
+| 9 | 8% | 18% |  |
+| 10 | 3% | 10% |  |
+| 11 | 2% | 7% | Last Result |
 | 12 | 2% | 5% |  |
-| 13 | 0.8% | 3% |  |
-| 14 | 0.3% | 2% |  |
-| 15 | 0.2% | 2% |  |
-| 16 | 1.0% | 2% |  |
-| 17 | 0.3% | 0.9% |  |
-| 18 | 0.2% | 0.6% |  |
-| 19 | 0.1% | 0.4% |  |
-| 20 | 0.1% | 0.3% |  |
+| 13 | 1.3% | 4% |  |
+| 14 | 0.4% | 3% |  |
+| 15 | 0.3% | 2% |  |
+| 16 | 0.6% | 2% |  |
+| 17 | 0.3% | 1.1% |  |
+| 18 | 0.3% | 0.8% |  |
+| 19 | 0.1% | 0.6% |  |
+| 20 | 0.2% | 0.4% |  |
 | 21 | 0.2% | 0.3% |  |
-| 22 | 0% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
