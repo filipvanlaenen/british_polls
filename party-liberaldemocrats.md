@@ -10,8 +10,12 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.1–10.5% | 6.7–10.9% | 6.5–11.2% | 6.1–11.9% |
+| N/A | [Poll Average](average.html) | 9.3% | 7.0–10.4% | 6.6–10.7% | 6.4–10.9% | 6.0–11.3% |
+| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
+| [29 September 2021](2021-09-29-Survation.html) | Survation | 8.2% | N/A | N/A | N/A | N/A |
+| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 10.4% | 9.5–11.4% | 9.2–11.7% | 9.0–12.0% | 8.6–12.5% |
+| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 9.2% | N/A | N/A | N/A | N/A |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.1–9.6% | 6.8–10.0% |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.4% | 7.6–10.8% |
@@ -27,7 +31,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 9.0% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 8.2% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
-| [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 9.6% | N/A | N/A | N/A | N/A |
+| [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 9.6% | 8.7–10.6% | 8.4–10.9% | 8.2–11.2% | 7.8–11.7% |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 10.3% | N/A | N/A | N/A | N/A |
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
@@ -368,15 +372,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 3% | 100% |  |
-| 6.5–7.5% | 16% | 97% |  |
-| 7.5–8.5% | 23% | 81% |  |
-| 8.5–9.5% | 24% | 58% | Median |
-| 9.5–10.5% | 24% | 34% |  |
-| 10.5–11.5% | 9% | 10% |  |
-| 11.5–12.5% | 1.2% | 1.2% | Last Result |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 4% | 100% |  |
+| 6.5–7.5% | 15% | 96% |  |
+| 7.5–8.5% | 12% | 81% |  |
+| 8.5–9.5% | 29% | 69% | Median |
+| 9.5–10.5% | 34% | 40% |  |
+| 10.5–11.5% | 7% | 7% |  |
+| 11.5–12.5% | 0.2% | 0.2% | Last Result |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -387,14 +390,18 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 2–9 | 2–12 | 1–14 | 0–19 |
+| N/A | [Poll Average](average.html) | 7 | 2–11 | 2–11 | 1–12 | 0–13 |
+| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
+| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 9 | 6–16 | 6–17 | 6–19 | 5–22 |
+| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 5 | 2–8 | 2–9 | 1–10 | 0–12 |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–7 | 2–7 | 2–8 | 1–9 |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 7 | 4–9 | 4–9 | 4–10 | 3–13 |
 | [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 3 | 1–4 | 1–4 | 0–6 | 0–6 |
 | [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 3 | 1–4 | 1–6 | 1–6 | 0–6 |
-| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 8 | 6–10 | 6–11 | 6–12 | 6–14 |
+| [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 8 | 6–10 | 6–11 | 6–12 | 6–15 |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 7 | 5–8 | 4–9 | 4–11 | 3–13 |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7 | 6–9 | 4–10 | 4–12 | 3–14 |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -404,7 +411,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday |  |  |  |  |  |
+| [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 9 | 6–11 | 5–12 | 4–12 | 3–13 |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -746,30 +753,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 3% | 99.0% |  |
-| 2 | 8% | 96% |  |
-| 3 | 11% | 89% |  |
-| 4 | 14% | 77% |  |
-| 5 | 3% | 63% |  |
-| 6 | 18% | 60% | Median |
-| 7 | 13% | 43% |  |
-| 8 | 12% | 30% |  |
-| 9 | 8% | 18% |  |
-| 10 | 3% | 10% |  |
-| 11 | 2% | 7% | Last Result |
-| 12 | 2% | 5% |  |
-| 13 | 1.3% | 4% |  |
-| 14 | 0.4% | 3% |  |
-| 15 | 0.3% | 2% |  |
-| 16 | 0.6% | 2% |  |
-| 17 | 0.3% | 1.1% |  |
-| 18 | 0.3% | 0.8% |  |
-| 19 | 0.1% | 0.6% |  |
-| 20 | 0.2% | 0.4% |  |
-| 21 | 0.2% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 0 | 1.1% | 100% |  |
+| 1 | 3% | 98.9% |  |
+| 2 | 8% | 95% |  |
+| 3 | 8% | 88% |  |
+| 4 | 7% | 80% |  |
+| 5 | 2% | 72% |  |
+| 6 | 14% | 70% |  |
+| 7 | 12% | 56% | Median |
+| 8 | 16% | 45% |  |
+| 9 | 15% | 28% |  |
+| 10 | 3% | 13% |  |
+| 11 | 8% | 10% | Last Result |
+| 12 | 2% | 3% |  |
+| 13 | 0.3% | 0.7% |  |
+| 14 | 0.1% | 0.4% |  |
+| 15 | 0.1% | 0.3% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
