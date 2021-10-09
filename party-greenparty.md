@@ -11,6 +11,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.7–6.0% | 3.5–6.4% | 3.4–6.7% | 3.2–7.2% |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 7.5% | N/A | N/A | N/A | N/A |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 3.9% | N/A | N/A | N/A | N/A |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
@@ -390,6 +391,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |

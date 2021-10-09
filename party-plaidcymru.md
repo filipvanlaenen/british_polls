@@ -10,7 +10,8 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 0.3% | N/A | N/A | N/A | N/A |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
@@ -385,7 +386,8 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -748,12 +750,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% |  |
-| 4 | 0.6% | 99.9% | Last Result |
-| 5 | 81% | 99.4% | Median |
-| 6 | 14% | 18% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.1% | 0.4% |  |
+| 4 | 0.5% | 100% | Last Result |
+| 5 | 79% | 99.5% | Median |
+| 6 | 15% | 21% |  |
+| 7 | 5% | 5% |  |
+| 8 | 0.1% | 0.5% |  |
 | 9 | 0.3% | 0.4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |

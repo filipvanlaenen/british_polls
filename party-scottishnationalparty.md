@@ -10,7 +10,8 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.2% | 2.9–5.5% | 2.7–5.8% | 2.4–6.2% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.1–6.2% | 2.9–6.6% | 2.7–6.8% | 2.4–7.3% |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 5.3% | N/A | N/A | N/A | N/A |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 5.1% | N/A | N/A | N/A | N/A |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
@@ -374,11 +375,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 1.2% | 100% |  |
 | 2.5–3.5% | 22% | 98.8% |  |
-| 3.5–4.5% | 51% | 77% | Last Result, Median |
-| 4.5–5.5% | 22% | 26% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 3.5–4.5% | 48% | 77% | Last Result, Median |
+| 4.5–5.5% | 8% | 30% |  |
+| 5.5–6.5% | 16% | 21% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -390,6 +392,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 53 | 39–58 | 34–58 | 24–58 | 18–58 |
+| [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -790,12 +793,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 3% | 69% |  |
 | 51 | 6% | 65% |  |
 | 52 | 5% | 60% |  |
-| 53 | 6% | 54% | Median |
-| 54 | 8% | 48% |  |
-| 55 | 8% | 40% |  |
-| 56 | 4% | 32% |  |
-| 57 | 1.5% | 28% |  |
-| 58 | 27% | 27% |  |
+| 53 | 6% | 55% | Median |
+| 54 | 7% | 48% |  |
+| 55 | 7% | 41% |  |
+| 56 | 3% | 34% |  |
+| 57 | 1.1% | 31% |  |
+| 58 | 30% | 30% |  |
 | 59 | 0% | 0% |  |
 
 
