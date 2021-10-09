@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2021-10-03T13:49:32.10549+02:00</updated>
+  <updated>2021-10-09T19:08:32.35692+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 37.4–41.7%, 290–340 seats</li><li>Labour Party: 33.3–37.6%, 223–271 seats</li><li>Liberal Democrats: 7.0–9.4%, 2–6 seats</li><li>Scottish National Party: 5.1–7.2%, 58 seats</li><li>Plaid Cymru: 0.7–1.6%, 5–7 seats</li><li>Green Party: 3.9–5.8%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-10-01-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-10-01-Opinium.html"/>
+    <title>Opinion Poll by Opinium for The Observer, 1 October 2021</title>
+    <updated>2021-10-09T19:08:32.35692+02:00</updated>
+    <dc:date>2021-10-09T19:08:32.35692+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 38.1–42.9%, 307–363 seats</li><li>Labour Party: 31.0–35.6%, 200–251 seats</li><li>Liberal Democrats: 9.0–12.0%, 6–19 seats</li><li>Scottish National Party: 3.3–5.3%, 44–58 seats</li><li>Plaid Cymru: 0.7–1.7%, 5–7 seats</li><li>Green Party: 6.1–8.7%, 1–2 seats</li><li>Brexit Party: 0.9–2.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2021-09-23-YouGov.html</id>
@@ -1287,5 +1295,5 @@
     <updated>2021-01-12T08:18:13.563288+01:00</updated>
     <dc:date>2021-01-12T08:18:13.563288+01:00</dc:date>
   </entry>
-  <dc:date>2021-10-03T13:49:32.10549+02:00</dc:date>
+  <dc:date>2021-10-09T19:08:32.35692+02:00</dc:date>
 </feed>
