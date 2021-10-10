@@ -10,11 +10,11 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.7–6.0% | 3.5–6.4% | 3.4–6.7% | 3.2–7.2% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.6–7.2% | 3.4–7.8% | 3.3–8.1% | 2.9–8.7% |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
-| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 7.5% | N/A | N/A | N/A | N/A |
-| [29 September 2021](2021-09-29-Survation.html) | Survation | 3.9% | N/A | N/A | N/A | N/A |
-| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
+| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 7.5% | 6.7–8.3% | 6.5–8.6% | 6.3–8.8% | 6.0–9.2% |
+| [29 September 2021](2021-09-29-Survation.html) | Survation | 3.9% | 3.2–4.9% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.8–9.1% |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.8% | N/A | N/A | N/A | N/A |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 3.1% | 2.5–3.9% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
@@ -372,14 +372,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% | Last Result |
-| 3.5–4.5% | 49% | 94% | Median |
-| 4.5–5.5% | 26% | 45% |  |
-| 5.5–6.5% | 16% | 19% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 8% | 99.9% | Last Result |
+| 3.5–4.5% | 47% | 92% | Median |
+| 4.5–5.5% | 19% | 45% |  |
+| 5.5–6.5% | 10% | 25% |  |
+| 6.5–7.5% | 9% | 15% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.7% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -390,11 +391,11 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
-| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
-| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [29 September 2021](2021-09-29-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
+| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
@@ -754,8 +755,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 1 | 88% | 100% | Last Result, Median |
+| 2 | 12% | 12% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
