@@ -10,13 +10,13 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.4–6.1% | 3.1–6.4% | 2.8–6.7% | 2.5–7.2% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.4–6.4% | 3.1–6.7% | 2.9–7.0% | 2.5–7.7% |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 5.3% | 4.7–6.1% | 4.5–6.3% | 4.3–6.5% | 4.1–6.8% |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 5.1% | 4.3–6.1% | 4.0–6.4% | 3.8–6.6% | 3.5–7.1% |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.6% |
-| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.2% | N/A | N/A | N/A | N/A |
+| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.4–8.4% |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.4% | 2.7–5.8% |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.5–5.0% | 3.3–5.1% | 3.1–5.4% |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -373,13 +373,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 14% | 99.3% |  |
-| 3.5–4.5% | 41% | 86% | Last Result, Median |
-| 4.5–5.5% | 23% | 44% |  |
-| 5.5–6.5% | 18% | 21% |  |
-| 6.5–7.5% | 3% | 4% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 12% | 99.4% |  |
+| 3.5–4.5% | 36% | 88% | Last Result |
+| 4.5–5.5% | 23% | 51% | Median |
+| 5.5–6.5% | 21% | 29% |  |
+| 6.5–7.5% | 7% | 7% |  |
+| 7.5–8.5% | 0.7% | 0.7% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -391,13 +391,13 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 44–58 | 37–58 | 31–58 | 20–58 |
+| N/A | [Poll Average](average.html) | 57 | 44–58 | 39–58 | 34–58 | 20–58 |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 58 | 58 | 58 |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 58 | 58 | 56–58 | 55–58 | 54–58 |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 58 | 55–58 | 53–58 | 51–58 | 46–58 |
-| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 46–58 | 43–58 | 38–58 | 31–58 |
+| [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–58 | 43–58 | 41–58 | 35–58 |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 54 | 48–58 | 45–58 | 44–58 | 39–58 |
-| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 58 |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 55 | 45–58 | 41–58 | 35–58 | 26–58 |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 48–58 | 46–58 | 45–58 | 37–58 |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 54 | 47–58 | 45–58 | 43–58 | 37–58 |
@@ -755,50 +755,50 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
+| 15 | 0% | 100% |  |
 | 16 | 0.1% | 99.9% |  |
-| 17 | 0% | 99.8% |  |
+| 17 | 0% | 99.9% |  |
 | 18 | 0.1% | 99.8% |  |
 | 19 | 0% | 99.7% |  |
 | 20 | 0.4% | 99.7% |  |
-| 21 | 0.1% | 99.3% |  |
-| 22 | 0.2% | 99.2% |  |
-| 23 | 0.1% | 99.0% |  |
-| 24 | 0.4% | 99.0% |  |
-| 25 | 0.2% | 98.6% |  |
-| 26 | 0.2% | 98% |  |
+| 21 | 0% | 99.4% |  |
+| 22 | 0.2% | 99.3% |  |
+| 23 | 0% | 99.1% |  |
+| 24 | 0.4% | 99.1% |  |
+| 25 | 0.2% | 98.7% |  |
+| 26 | 0.2% | 98.5% |  |
 | 27 | 0.1% | 98% |  |
 | 28 | 0% | 98% |  |
 | 29 | 0.2% | 98% |  |
 | 30 | 0.2% | 98% |  |
 | 31 | 0.1% | 98% |  |
-| 32 | 0.1% | 97% |  |
-| 33 | 0.2% | 97% |  |
-| 34 | 0.2% | 97% |  |
+| 32 | 0.1% | 98% |  |
+| 33 | 0.1% | 98% |  |
+| 34 | 0.2% | 98% |  |
 | 35 | 0.1% | 97% |  |
-| 36 | 2% | 97% |  |
-| 37 | 0.7% | 95% |  |
+| 36 | 1.4% | 97% |  |
+| 37 | 0.6% | 96% |  |
 | 38 | 0.2% | 95% |  |
-| 39 | 0.4% | 94% |  |
-| 40 | 0.4% | 94% |  |
+| 39 | 0.4% | 95% |  |
+| 40 | 0.4% | 95% |  |
 | 41 | 0.4% | 94% |  |
-| 42 | 0.9% | 93% |  |
-| 43 | 2% | 92% |  |
+| 42 | 0.9% | 94% |  |
+| 43 | 2% | 93% |  |
 | 44 | 2% | 91% |  |
-| 45 | 0.6% | 89% |  |
-| 46 | 1.0% | 88% |  |
-| 47 | 1.3% | 87% |  |
+| 45 | 0.9% | 90% |  |
+| 46 | 1.1% | 89% |  |
+| 47 | 1.4% | 88% |  |
 | 48 | 2% | 86% | Last Result |
-| 49 | 2% | 84% |  |
-| 50 | 2% | 82% |  |
-| 51 | 3% | 80% |  |
-| 52 | 3% | 76% |  |
-| 53 | 4% | 73% |  |
-| 54 | 5% | 69% |  |
-| 55 | 14% | 64% |  |
-| 56 | 3% | 50% | Median |
-| 57 | 2% | 47% |  |
-| 58 | 45% | 45% |  |
+| 49 | 3% | 84% |  |
+| 50 | 2% | 81% |  |
+| 51 | 4% | 79% |  |
+| 52 | 4% | 75% |  |
+| 53 | 5% | 71% |  |
+| 54 | 5% | 66% |  |
+| 55 | 6% | 60% |  |
+| 56 | 3% | 54% |  |
+| 57 | 1.2% | 51% | Median |
+| 58 | 49% | 50% |  |
 | 59 | 0% | 0% |  |
 
 
