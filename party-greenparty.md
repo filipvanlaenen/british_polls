@@ -25,7 +25,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 3.9% | 3.6–4.4% | 3.4–4.5% | 3.4–4.6% | 3.2–4.8% |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 4.0% | 3.5–4.6% | 3.3–4.7% | 3.2–4.9% | 3.0–5.2% |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.8% | 4.3–5.5% | 4.1–5.7% | 4.0–5.9% | 3.7–6.3% |
-| [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 4.6% | N/A | N/A | N/A | N/A |
+| [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.6% | 3.6–6.0% |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 4.7% | N/A | N/A | N/A | N/A |
 | [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 7.4% | N/A | N/A | N/A | N/A |
 | [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.8% | N/A | N/A | N/A | N/A |
@@ -406,7 +406,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 1 | 1 | 1 | 1 | 1 |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
