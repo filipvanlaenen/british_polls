@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 12 Oct 2021 07:01:13 +0200</pubDate>
+    <pubDate>Wed, 13 Oct 2021 06:55:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 1 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-10-01-Opinium.html#seats</link>
@@ -368,6 +368,16 @@
         type="image/png"/>
       <pubDate>Sun, 19 Sep 2021 19:52:32 +0200</pubDate>
       <dc:date>2021-09-19T19:52:32.777594+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 10–12 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-09-12-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 36.7–40.9%&lt;/li&gt;&lt;li&gt;Labour Party: 32.8–36.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.8–10.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.2–4.9%&lt;/li&gt;&lt;li&gt;Green Party: 3.8–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-09-12-SavantaComRes.png"
+        length="169057"
+        type="image/png"/>
+      <pubDate>Wed, 13 Oct 2021 06:55:11 +0200</pubDate>
+      <dc:date>2021-10-13T06:55:11.908953+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Sun on Sunday, 2–3 September 2021 – Seat Projections for the Parties</title>
@@ -6319,6 +6329,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-10-12T07:01:13.675633+02:00</dc:date>
+    <dc:date>2021-10-13T06:55:11.908953+02:00</dc:date>
   </channel>
 </rss>
