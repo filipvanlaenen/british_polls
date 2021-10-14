@@ -27,10 +27,10 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.2% | 1.9–2.7% | 1.8–2.9% | 1.7–3.0% | 1.5–3.3% |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 2.3% | N/A | N/A | N/A | N/A |
-| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | N/A | N/A | N/A | N/A |
+| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 2.3% | 1.9–2.9% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% |
+| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.4–2.2% | 1.3–2.3% | 1.3–2.5% | 1.1–2.7% |
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
-| [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 1.3% | N/A | N/A | N/A | N/A |
+| [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.4% |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 0.9% | N/A | N/A | N/A | N/A |
@@ -404,8 +404,8 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0–1 |
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |

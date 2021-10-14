@@ -26,11 +26,11 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 4.1% | 3.6–4.7% | 3.4–4.8% | 3.3–5.0% | 3.1–5.3% |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.1% | 3.1–5.4% |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 4.0% | 3.5–4.6% | 3.3–4.7% | 3.2–4.9% | 3.0–5.2% |
-| [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
-| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 5.3% | N/A | N/A | N/A | N/A |
-| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 4.0% | N/A | N/A | N/A | N/A |
-| [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 5.1% | N/A | N/A | N/A | N/A |
+| [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.5–5.8% | 4.3–5.9% | 4.2–6.1% | 3.9–6.5% |
+| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.3–6.5% | 4.0–6.9% |
+| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
+| [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 5.1% | 4.4–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 6.1% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.3% | 2.2–4.6% |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
@@ -397,20 +397,20 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 58 | 55–58 | 53–58 | 51–58 | 46–58 |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–58 | 43–58 | 41–58 | 35–58 |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 54 | 48–58 | 45–58 | 44–58 | 39–58 |
-| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 58 |
+| [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 58 | 58 | 58 | 55–59 |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 55 | 45–58 | 41–58 | 35–58 | 26–58 |
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 55 | 48–58 | 46–58 | 45–58 | 37–58 |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 54 | 47–58 | 45–58 | 43–58 | 37–58 |
 | [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 58 | 56–58 | 55–58 | 54–58 | 53–58 |
-| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 58 | 58 | 55–58 | 55–58 | 53–58 |
+| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 58 | 56–58 | 55–58 | 55–58 | 53–58 |
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 52 | 47–56 | 45–57 | 44–58 | 41–58 |
 | [10–14 September 2021](2021-09-14-Survation.html) | Survation | 54 | 47–58 | 45–58 | 42–58 | 33–58 |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 54 | 48–58 | 45–58 | 43–58 | 36–58 |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 54 | 48–58 | 44–58 | 43–58 | 38–58 |
-| [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 57–58 | 55–58 | 53–58 |
+| [8–9 September 2021](2021-09-09-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 56–58 | 54–58 |
+| [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51 | 47–56 | 45–57 | 42–58 | 38–58 |
+| [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 54 | 48–58 | 45–58 | 42–58 | 35–58 |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 43 | 24–51 | 20–51 | 20–53 | 15–55 |
@@ -797,8 +797,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 5% | 66% |  |
 | 55 | 6% | 60% |  |
 | 56 | 3% | 54% |  |
-| 57 | 1.2% | 51% | Median |
-| 58 | 49% | 50% |  |
-| 59 | 0% | 0% |  |
+| 57 | 1.3% | 51% | Median |
+| 58 | 49% | 49% |  |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 
