@@ -10,8 +10,10 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–10.6% | 8.1–10.8% | 7.8–11.1% | 7.3–11.6% |
-| [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.0% | 6.1–9.9% | 5.7–10.3% | 5.4–10.6% | 4.9–11.3% |
+| [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.5–10.2% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 6.3% | 5.4–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
+| [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.3% | 5.7–8.7% |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9.4% | N/A | N/A | N/A | N/A |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 9.4% | N/A | N/A | N/A | N/A |
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
@@ -382,13 +384,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.2% | 100% |  |
-| 7.5–8.5% | 10% | 98.8% |  |
-| 8.5–9.5% | 29% | 89% |  |
-| 9.5–10.5% | 49% | 60% | Median |
-| 10.5–11.5% | 11% | 11% |  |
-| 11.5–12.5% | 0.5% | 0.5% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 15% | 97% |  |
+| 6.5–7.5% | 24% | 81% |  |
+| 7.5–8.5% | 15% | 57% | Median |
+| 8.5–9.5% | 24% | 42% |  |
+| 9.5–10.5% | 15% | 18% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.3% | Last Result |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -400,8 +405,10 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 4–11 | 4–12 | 2–16 |
-| [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 0–8 | 0–9 | 0–10 | 0–14 |
+| [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7 | 5–9 | 4–9 | 4–11 | 3–12 |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
+| [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 2 | 1–4 | 0–4 | 0–4 | 0–6 |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov |  |  |  |  |  |
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -774,25 +781,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% |  |
-| 2 | 0.5% | 99.9% |  |
-| 3 | 1.2% | 99.5% |  |
-| 4 | 5% | 98% |  |
-| 5 | 1.4% | 93% |  |
-| 6 | 32% | 92% |  |
-| 7 | 23% | 59% | Median |
-| 8 | 14% | 37% |  |
-| 9 | 13% | 23% |  |
-| 10 | 3% | 9% |  |
-| 11 | 3% | 6% | Last Result |
-| 12 | 1.2% | 3% |  |
-| 13 | 0.4% | 2% |  |
-| 14 | 0.2% | 1.4% |  |
-| 15 | 0.5% | 1.1% |  |
-| 16 | 0.5% | 0.7% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 0 | 13% | 100% |  |
+| 1 | 9% | 87% |  |
+| 2 | 15% | 79% |  |
+| 3 | 10% | 64% |  |
+| 4 | 9% | 53% | Median |
+| 5 | 4% | 45% |  |
+| 6 | 20% | 41% |  |
+| 7 | 10% | 21% |  |
+| 8 | 5% | 11% |  |
+| 9 | 3% | 6% |  |
+| 10 | 0.5% | 3% |  |
+| 11 | 1.4% | 2% | Last Result |
+| 12 | 0.3% | 0.8% |  |
+| 13 | 0% | 0.5% |  |
+| 14 | 0% | 0.5% |  |
+| 15 | 0.2% | 0.5% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0% | 0.1% |  |
+| 18 | 0% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

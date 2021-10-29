@@ -10,7 +10,9 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.1–1.7% | 0.1–1.9% | 0.0–2.1% | 0.0–2.4% |
+| [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.3% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.6–2.6% |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.9% | N/A | N/A | N/A | N/A |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 1.8% | N/A | N/A | N/A | N/A |
@@ -382,9 +384,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 97% | 100% | Median |
-| 0.5–1.5% | 3% | 3% |  |
-| 1.5–2.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 47% | 68% | Median |
+| 1.5–2.5% | 20% | 20% | Last Result |
+| 2.5–3.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -396,6 +400,8 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 0 | 0 | 0 | 0 | 0–1 |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov |  |  |  |  |  |
@@ -769,6 +775,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0.1% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
