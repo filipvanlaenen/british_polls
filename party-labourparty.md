@@ -19,9 +19,9 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 37.2% | 35.8–38.7% | 35.4–39.1% | 35.1–39.4% | 34.4–40.1% |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes | 35.4% | 34.0–36.7% | 33.7–37.1% | 33.3–37.5% | 32.7–38.1% |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 36.0% | 34.1–37.9% | 33.5–38.5% | 33.1–39.0% | 32.2–39.9% |
-| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 32.0% | N/A | N/A | N/A | N/A |
-| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.3% | N/A | N/A | N/A | N/A |
-| [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes | 35.0% | N/A | N/A | N/A | N/A |
+| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 32.0% | 30.6–33.6% | 30.1–34.0% | 29.8–34.4% | 29.1–35.1% |
+| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38.3% | 36.9–39.7% | 36.5–40.1% | 36.2–40.5% | 35.5–41.2% |
+| [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes | 35.0% | 33.6–36.3% | 33.3–36.7% | 32.9–37.0% | 32.3–37.7% |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 35.4% | 34.1–36.8% | 33.7–37.2% | 33.3–37.6% | 32.7–38.3% |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 32.7% | 31.3–34.2% | 30.9–34.6% | 30.5–34.9% | 29.9–35.7% |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 36.7% | 34.7–38.7% | 34.2–39.2% | 33.7–39.7% | 32.8–40.7% |
@@ -418,9 +418,9 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 246 | 231–267 | 227–272 | 225–277 | 218–281 |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes | 240 | 225–255 | 222–260 | 218–266 | 210–274 |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 245 | 226–271 | 219–276 | 215–279 | 204–289 |
-| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 219 | 196–230 | 193–238 | 191–242 | 183–250 |
+| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 257 | 241–272 | 238–274 | 231–278 | 226–284 |
+| [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes | 245 | 226–258 | 223–262 | 218–266 | 209–274 |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 244 | 228–263 | 225–267 | 223–271 | 216–276 |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 217 | 201–230 | 197–235 | 194–241 | 189–249 |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 240 | 220–265 | 215–271 | 210–277 | 202–283 |

@@ -19,8 +19,8 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.6% |
-| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 1.8% | N/A | N/A | N/A | N/A |
-| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | N/A | N/A | N/A | N/A |
+| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.3–2.6% | 1.1–2.9% |
+| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.8% |
@@ -408,8 +408,8 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 0 | 0 | 0 | 0 | 0 |
-| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–2 |
+| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–2 |
