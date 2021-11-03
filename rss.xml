@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Tue, 02 Nov 2021 08:03:21 +0100</pubDate>
+    <pubDate>Tue, 02 Nov 2021 20:57:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 18 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-10-18-RedfieldWiltonStrategies.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-15-Opinium.png"
         length="182464"
         type="image/png"/>
-      <pubDate>Fri, 29 Oct 2021 08:04:35 +0200</pubDate>
-      <dc:date>2021-10-29T08:04:35.902022+02:00</dc:date>
+      <pubDate>Tue, 02 Nov 2021 20:46:45 +0100</pubDate>
+      <dc:date>2021-11-02T20:46:45.382595+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 13–15 October 2021 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-10-SavantaComRes.png"
         length="167684"
         type="image/png"/>
-      <pubDate>Mon, 01 Nov 2021 08:12:34 +0100</pubDate>
-      <dc:date>2021-11-01T08:12:34.718479+01:00</dc:date>
+      <pubDate>Tue, 02 Nov 2021 20:52:00 +0100</pubDate>
+      <dc:date>2021-11-02T20:52:00.854749+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Sunday Mirror, 6–7 October 2021 – Voting Intentions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-03-SavantaComRes.png"
         length="166881"
         type="image/png"/>
-      <pubDate>Tue, 02 Nov 2021 08:03:21 +0100</pubDate>
-      <dc:date>2021-11-02T08:03:21.870736+01:00</dc:date>
+      <pubDate>Tue, 02 Nov 2021 20:57:49 +0100</pubDate>
+      <dc:date>2021-11-02T20:57:49.298339+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 1 October 2021 – Seat Projections for the Parties</title>
@@ -6539,6 +6539,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-11-02T08:03:21.870736+01:00</dc:date>
+    <dc:date>2021-11-02T20:57:49.298339+01:00</dc:date>
   </channel>
 </rss>
