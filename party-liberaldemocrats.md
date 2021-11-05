@@ -10,9 +10,17 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 6.6–10.1% | 6.1–10.4% | 5.7–10.7% | 5.1–11.4% |
+| N/A | [Poll Average](average.html) | 9.0% | 6.4–10.6% | 5.9–10.9% | 5.5–11.2% | 5.0–11.8% |
+| [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.5–11.2% | 9.2–11.5% | 9.0–11.8% | 8.6–12.2% |
+| [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
+| [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.5–10.2% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
 | [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 6.3% | 5.4–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
+| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 8.4% | N/A | N/A | N/A | N/A |
+| [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.3% | 5.7–8.7% |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9.4% | 8.7–10.2% | 8.6–10.3% | 8.4–10.5% | 8.1–10.9% |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 9.4% | 8.5–10.4% | 8.2–10.6% | 8.0–10.9% | 7.6–11.4% |
@@ -384,15 +392,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 8% | 98% |  |
-| 6.5–7.5% | 15% | 91% |  |
-| 7.5–8.5% | 19% | 76% |  |
-| 8.5–9.5% | 33% | 57% | Median |
-| 9.5–10.5% | 20% | 24% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% | Last Result |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 9% | 97% |  |
+| 6.5–7.5% | 11% | 88% |  |
+| 7.5–8.5% | 18% | 77% |  |
+| 8.5–9.5% | 26% | 60% | Median |
+| 9.5–10.5% | 24% | 34% |  |
+| 10.5–11.5% | 9% | 10% |  |
+| 11.5–12.5% | 1.1% | 1.1% | Last Result |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -404,9 +413,17 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 1–8 | 0–9 | 0–12 | 0–16 |
+| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–12 | 0–14 | 0–19 |
+| [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8 | 7–11 | 6–13 | 6–16 | 6–20 |
+| [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7 | 5–9 | 4–9 | 4–11 | 3–12 |
 | [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 1 | 0–3 | 0–4 | 0–4 | 0–6 |
+| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar |  |  |  |  |  |
+| [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 2 | 1–4 | 0–4 | 0–4 | 0–6 |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6 | 6–9 | 6–9 | 6–10 | 4–13 |
 | [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 7 | 4–9 | 4–10 | 3–11 | 2–13 |
@@ -780,27 +797,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 5% | 94% |  |
-| 2 | 7% | 88% |  |
-| 3 | 8% | 81% |  |
-| 4 | 11% | 73% |  |
-| 5 | 4% | 62% |  |
-| 6 | 26% | 58% | Median |
-| 7 | 14% | 32% |  |
-| 8 | 8% | 18% |  |
-| 9 | 5% | 10% |  |
-| 10 | 0.7% | 5% |  |
-| 11 | 1.4% | 4% | Last Result |
-| 12 | 0.9% | 3% |  |
-| 13 | 0.6% | 2% |  |
-| 14 | 0.1% | 1.0% |  |
-| 15 | 0.2% | 0.9% |  |
-| 16 | 0.4% | 0.7% |  |
-| 17 | 0.1% | 0.3% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 0 | 11% | 100% |  |
+| 1 | 5% | 89% |  |
+| 2 | 5% | 84% |  |
+| 3 | 3% | 79% |  |
+| 4 | 3% | 76% |  |
+| 5 | 0.8% | 73% |  |
+| 6 | 21% | 72% |  |
+| 7 | 19% | 51% | Median |
+| 8 | 10% | 32% |  |
+| 9 | 13% | 22% |  |
+| 10 | 0.9% | 9% |  |
+| 11 | 1.4% | 8% | Last Result |
+| 12 | 2% | 6% |  |
+| 13 | 2% | 4% |  |
+| 14 | 0.6% | 3% |  |
+| 15 | 0.2% | 2% |  |
+| 16 | 0.9% | 2% |  |
+| 17 | 0.1% | 0.9% |  |
+| 18 | 0.2% | 0.8% |  |
+| 19 | 0% | 0.5% |  |
+| 20 | 0.3% | 0.5% |  |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
