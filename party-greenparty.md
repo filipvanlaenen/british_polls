@@ -10,11 +10,11 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.0–7.4% | 3.7–8.0% | 3.4–8.4% | 3.0–9.2% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.1–8.2% | 3.8–8.6% | 3.5–9.0% | 3.0–9.6% |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.8% | 4.3–5.5% | 4.1–5.7% | 4.0–5.9% | 3.7–6.2% |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 5.5% | 4.9–6.3% | 4.7–6.5% | 4.6–6.6% | 4.3–7.0% |
-| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 8.1% | N/A | N/A | N/A | N/A |
-| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | N/A | N/A | N/A | N/A |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | 4.3–5.6% | 4.1–5.8% | 4.0–5.9% | 3.7–6.3% |
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 5.6% | N/A | N/A | N/A | N/A |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 8.1% | N/A | N/A | N/A | N/A |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -394,13 +394,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% | Last Result |
-| 3.5–4.5% | 20% | 97% |  |
-| 4.5–5.5% | 42% | 76% | Median |
-| 5.5–6.5% | 16% | 34% |  |
-| 6.5–7.5% | 9% | 18% |  |
-| 7.5–8.5% | 7% | 9% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 17% | 97% |  |
+| 4.5–5.5% | 35% | 80% | Median |
+| 5.5–6.5% | 13% | 45% |  |
+| 6.5–7.5% | 11% | 32% |  |
+| 7.5–8.5% | 15% | 21% |  |
+| 8.5–9.5% | 6% | 6% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -412,11 +412,11 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–4 |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 2 | 2 | 1–3 | 1–4 | 1–4 |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
@@ -796,10 +796,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 83% | 100% | Last Result, Median |
-| 2 | 16% | 17% |  |
-| 3 | 0.6% | 0.7% |  |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 68% | 100% | Last Result, Median |
+| 2 | 30% | 32% |  |
+| 3 | 1.4% | 2% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 

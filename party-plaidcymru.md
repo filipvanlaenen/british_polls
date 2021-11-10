@@ -13,8 +13,8 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–2.0% |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
-| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
-| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -392,8 +392,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 75% | 80% | Last Result, Median |
+| 0.0–0.5% | 17% | 100% |  |
+| 0.5–1.5% | 78% | 83% | Last Result, Median |
 | 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -406,11 +406,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–7 | 0–7 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 1–6 | 0–7 | 0–7 | 0–9 |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–9 |
+| [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -790,19 +790,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 5% | 89% |  |
-| 2 | 5% | 84% |  |
-| 3 | 2% | 79% |  |
-| 4 | 4% | 77% | Last Result |
-| 5 | 53% | 74% | Median |
-| 6 | 14% | 21% |  |
-| 7 | 5% | 7% |  |
-| 8 | 0.1% | 2% |  |
-| 9 | 1.2% | 2% |  |
-| 10 | 0.3% | 0.5% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 0 | 9% | 100% |  |
+| 1 | 4% | 91% |  |
+| 2 | 4% | 87% |  |
+| 3 | 2% | 84% |  |
+| 4 | 3% | 82% | Last Result |
+| 5 | 53% | 79% | Median |
+| 6 | 18% | 25% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.3% | 2% |  |
+| 9 | 1.1% | 1.5% |  |
+| 10 | 0.3% | 0.4% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
