@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 10 Nov 2021 19:22:53 +0100</pubDate>
+    <pubDate>Wed, 10 Nov 2021 22:49:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 1 November 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-11-01-RedfieldWiltonStrategies.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Fri, 05 Nov 2021 07:38:51 +0100</pubDate>
       <dc:date>2021-11-05T07:38:51.965723+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 27–29 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-10-29-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.0–42.4%&lt;/li&gt;&lt;li&gt;Labour Party: 33.1–37.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.6–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-29-Opinium.png"
+        length="183402"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 22:49:41 +0100</pubDate>
+      <dc:date>2021-11-10T22:49:41.494731+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 27–28 October 2021 – Voting Intentions</title>
@@ -40,6 +50,26 @@
       <dc:date>2021-11-10T19:22:53.320565+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Savanta ComRes, 22–24 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-10-24-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.6–39.8%&lt;/li&gt;&lt;li&gt;Labour Party: 33.6–37.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.4%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 4.7–6.7%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.3–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-24-SavantaComRes.png"
+        length="196952"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 19:55:39 +0100</pubDate>
+      <dc:date>2021-11-10T19:55:39.300688+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-10-21-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.9–40.7%&lt;/li&gt;&lt;li&gt;Labour Party: 31.9–36.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.0–10.8%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 6.9–9.6%&lt;/li&gt;&lt;li&gt;Brexit Party: 1.2–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-21-YouGov.png"
+        length="201354"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 20:15:51 +0100</pubDate>
+      <dc:date>2021-11-10T20:15:51.491348+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 18 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-10-18-RedfieldWiltonStrategies.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 39.0–43.4%&lt;/li&gt;&lt;li&gt;Labour Party: 35.9–40.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.0–10.6%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.9–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -58,6 +88,26 @@
         type="image/png"/>
       <pubDate>Fri, 29 Oct 2021 07:46:22 +0200</pubDate>
       <dc:date>2021-10-29T07:46:22.415375+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 14–18 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-10-18-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 37.9–43.9%&lt;/li&gt;&lt;li&gt;Labour Party: 32.8–38.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.6–1.9%&lt;/li&gt;&lt;li&gt;UK Independence Party: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Green Party: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-18-Kantar.png"
+        length="222793"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 20:33:28 +0100</pubDate>
+      <dc:date>2021-11-10T20:33:28.7939+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Savanta ComRes, 15–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-10-17-SavantaComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 38.3–42.6%&lt;/li&gt;&lt;li&gt;Labour Party: 33.3–37.5%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.0–9.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.3–5.0%&lt;/li&gt;&lt;li&gt;Green Party: 3.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-10-17-SavantaComRes.png"
+        length="167714"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 20:51:31 +0100</pubDate>
+      <dc:date>2021-11-10T20:51:31.721396+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 13–15 October 2021 – Voting Intentions</title>
@@ -6569,6 +6619,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28.79904+02:00</dc:date>
     </item>
-    <dc:date>2021-11-10T19:22:53.320565+01:00</dc:date>
+    <dc:date>2021-11-10T22:49:41.494731+01:00</dc:date>
   </channel>
 </rss>
