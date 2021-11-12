@@ -34,7 +34,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.8% |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
-| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 1.3% | N/A | N/A | N/A | N/A |
+| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.6% |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 1.4% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.3% |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
@@ -57,7 +57,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
 | [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
-| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 1.0% | N/A | N/A | N/A | N/A |
+| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
 | [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.8–2.3% |
@@ -420,7 +420,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
-| [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–2 |
+| [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–2 |
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 0 | 0 | 0 | 0 | 0 |
@@ -431,7 +431,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–2 |
 | [29 September 2021](2021-09-29-Survation.html) | Survation |  |  |  |  |  |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
-| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0–2 |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation |  |  |  |  |  |
@@ -454,7 +454,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0–1 |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–2 | 0–2 |
 | [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
-| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar |  |  |  |  |  |
+| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |

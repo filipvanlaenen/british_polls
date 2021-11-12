@@ -34,7 +34,7 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 41.1% | 39.6–42.7% | 39.2–43.1% | 38.9–43.5% | 38.1–44.2% |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 41.8% | 39.8–43.9% | 39.3–44.4% | 38.8–44.9% | 37.8–45.9% |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.1% | 40.6–43.5% | 40.2–43.9% | 39.9–44.3% | 39.2–45.0% |
-| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 44.7% | N/A | N/A | N/A | N/A |
+| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 44.7% | 42.8–46.7% | 42.2–47.3% | 41.7–47.8% | 40.8–48.7% |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 40.5% | 38.9–42.1% | 38.5–42.5% | 38.1–42.9% | 37.4–43.7% |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 39.9% | 37.9–41.9% | 37.4–42.5% | 36.9–43.0% | 36.0–44.0% |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 40.3% | 38.4–42.3% | 37.9–42.9% | 37.4–43.3% | 36.5–44.3% |
@@ -51,13 +51,13 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.1% | 40.7–43.5% | 40.3–44.0% | 39.9–44.3% | 39.2–45.0% |
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 40.0% | 38.6–41.4% | 38.2–41.8% | 37.9–42.1% | 37.2–42.8% |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 38.7% | 37.2–40.3% | 36.7–40.8% | 36.4–41.2% | 35.6–41.9% |
-| [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 40.4% | 39.0–42.0% | 38.5–42.4% | 38.3–42.7% | 37.6–43.3% |
+| [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 40.4% | 39.0–41.9% | 38.6–42.3% | 38.3–42.6% | 37.6–43.3% |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 43.5% | 41.9–45.2% | 41.4–45.7% | 41.0–46.1% | 40.3–46.9% |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 41.3% | 39.9–42.8% | 39.5–43.2% | 39.2–43.5% | 38.5–44.2% |
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.9% | 41.4–44.3% | 41.0–44.7% | 40.7–45.1% | 40.0–45.8% |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 40.7% | 39.1–42.3% | 38.7–42.7% | 38.3–43.1% | 37.6–43.9% |
 | [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.6% | 43.2–46.1% | 42.8–46.5% | 42.4–46.9% | 41.7–47.6% |
-| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 38.6% | N/A | N/A | N/A | N/A |
+| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 38.6% | 36.7–40.5% | 36.1–41.1% | 35.7–41.6% | 34.8–42.5% |
 | [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 41.8% | 40.4–43.2% | 40.0–43.6% | 39.7–43.9% | 39.0–44.6% |
 | [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer | 39.5% | 38.1–40.9% | 37.7–41.3% | 37.4–41.7% | 36.7–42.4% |
 | [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 41.0% | 39.4–42.5% | 39.0–43.0% | 38.6–43.4% | 37.9–44.1% |
@@ -91,7 +91,7 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 40.9% | 38.9–42.9% | 38.4–43.5% | 37.9–43.9% | 37.0–44.9% |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.1% | 42.7–45.6% | 42.3–46.0% | 41.9–46.3% | 41.2–47.1% |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 42.1% | 40.7–43.5% | 40.3–43.9% | 40.0–44.2% | 39.3–44.9% |
-| [2 July 2021](2021-07-02-Panelbase.html) | Panelbase <br> Sunday Times | 44.0% | N/A | N/A | N/A | N/A |
+| [2 July 2021](2021-07-02-Panelbase.html) | Panelbase <br> Sunday Times | 44.0% | 42.9–45.1% | 42.6–45.5% | 42.3–45.7% | 41.8–46.2% |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 43.3% | 41.8–44.9% | 41.3–45.3% | 41.0–45.7% | 40.2–46.4% |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.5% | 41.1–43.9% | 40.6–44.4% | 40.3–44.7% | 39.6–45.4% |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 42.5% | 41.1–43.9% | 40.7–44.3% | 40.4–44.6% | 39.7–45.3% |
@@ -416,20 +416,20 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 322 | 292–345 | 287–353 | 285–358 | 279–371 |
+| N/A | [Poll Average](average.html) | 322 | 293–346 | 287–354 | 285–358 | 279–371 |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 325 | 305–342 | 301–346 | 297–350 | 289–359 |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 325 | 307–339 | 302–343 | 296–347 | 288–355 |
 | [27–28 October 2021](2021-10-28-YouGov.html) | YouGov <br> The Times | 334 | 313–345 | 306–351 | 303–356 | 294–366 |
 | [25 October 2021](2021-10-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 316 | 292–332 | 287–336 | 285–337 | 276–343 |
-| [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 306 | 286–322 | 283–327 | 282–331 | 275–337 |
+| [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 305 | 286–322 | 283–327 | 282–331 | 274–337 |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 325 | 293–335 | 289–338 | 285–339 | 276–351 |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 314 | 294–331 | 290–337 | 285–340 | 281–345 |
 | [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 347 | 335–361 | 323–369 | 311–374 | 298–384 |
-| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 329 | 303–338 | 286–342 | 283–355 | 279–368 |
+| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 330 | 298–346 | 292–351 | 288–355 | 282–364 |
 | [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes | 328 | 310–344 | 304–347 | 298–351 | 291–359 |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 319 | 300–336 | 297–339 | 292–342 | 287–349 |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 296 | 286–309 | 285–314 | 282–319 | 275–323 |
-| [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 357 | 342–373 | 336–375 | 333–381 | 325–386 |
+| [12–13 October 2021](2021-10-13-YouGov.html) | YouGov | 358 | 340–373 | 336–377 | 333–382 | 324–387 |
 | [11 October 2021](2021-10-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 325 | 301–341 | 299–342 | 292–347 | 286–353 |
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes | 325 | 307–340 | 302–343 | 297–347 | 290–355 |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 319 | 291–339 | 285–347 | 284–352 | 274–360 |
@@ -440,7 +440,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 344 | 330–360 | 325–364 | 320–367 | 311–373 |
 | [29 September 2021](2021-09-29-Survation.html) | Survation | 326 | 300–347 | 294–354 | 288–359 | 282–369 |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 334 | 315–348 | 310–353 | 305–357 | 295–364 |
-| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 367 | 351–389 | 345–390 | 340–395 | 330–410 |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 337 | 318–355 | 312–359 | 307–363 | 296–370 |
 | [17–23 September 2021](2021-09-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 310 | 285–333 | 282–337 | 275–340 | 268–351 |
 | [21–22 September 2021](2021-09-22-Survation.html) | Survation | 328 | 302–349 | 296–355 | 290–361 | 283–370 |
@@ -457,13 +457,13 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [6 September 2021](2021-09-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 346 | 331–364 | 325–368 | 323–369 | 315–378 |
 | [3–5 September 2021](2021-09-05-SavantaComRes.html) | Savanta ComRes | 319 | 300–337 | 296–341 | 292–343 | 285–351 |
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 320 | 297–335 | 293–339 | 288–342 | 281–354 |
-| [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 329 | 312–343 | 308–347 | 301–352 | 293–360 |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 353 | 335–369 | 330–376 | 322–379 | 314–386 |
 | [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 332 | 316–345 | 308–353 | 302–355 | 295–360 |
 | [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 343 | 325–364 | 324–365 | 317–369 | 311–373 |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 344 | 330–360 | 327–367 | 318–368 | 311–373 |
 | [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 366 | 347–378 | 345–382 | 341–386 | 333–394 |
-| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar |  |  |  |  |  |
+| [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 297 | 260–328 | 256–328 | 256–333 | 247–339 |
 | [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 339 | 323–355 | 317–359 | 313–363 | 305–369 |
 | [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer | 311 | 293–328 | 288–334 | 285–336 | 281–340 |
 | [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 343 | 326–359 | 320–362 | 316–365 | 307–371 |
@@ -497,7 +497,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 330 | 317–353 | 310–361 | 305–368 | 287–377 |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 351 | 337–367 | 332–370 | 328–374 | 319–380 |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 341 | 323–355 | 318–361 | 314–363 | 304–372 |
-| [2 July 2021](2021-07-02-Panelbase.html) | Panelbase <br> Sunday Times |  |  |  |  |  |
+| [2 July 2021](2021-07-02-Panelbase.html) | Panelbase <br> Sunday Times | 368 | 368 | 368 | 368 | 368 |
 | [29–30 June 2021](2021-06-30-YouGov.html) | YouGov <br> The Times | 359 | 343–371 | 337–377 | 334–379 | 327–384 |
 | [28 June 2021](2021-06-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 338 | 322–355 | 320–355 | 313–359 | 305–366 |
 | [25–27 June 2021](2021-06-27-SavantaComRes.html) | Savanta ComRes | 347 | 335–364 | 332–367 | 328–371 | 319–378 |
@@ -800,7 +800,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 268 | 0% | 100% |  |
+| 267 | 0% | 100% |  |
+| 268 | 0% | 99.9% |  |
 | 269 | 0% | 99.9% |  |
 | 270 | 0% | 99.9% |  |
 | 271 | 0% | 99.9% |  |
@@ -808,88 +809,88 @@ The following table shows the probability mass function per seat for the [poll a
 | 273 | 0% | 99.9% |  |
 | 274 | 0% | 99.8% |  |
 | 275 | 0.1% | 99.8% |  |
-| 276 | 0.1% | 99.7% |  |
-| 277 | 0.1% | 99.6% |  |
-| 278 | 0% | 99.5% |  |
+| 276 | 0% | 99.7% |  |
+| 277 | 0.1% | 99.7% |  |
+| 278 | 0% | 99.6% |  |
 | 279 | 0.1% | 99.5% |  |
-| 280 | 0.1% | 99.4% |  |
+| 280 | 0.2% | 99.5% |  |
 | 281 | 0.2% | 99.3% |  |
 | 282 | 0.2% | 99.1% |  |
-| 283 | 0.7% | 98.9% |  |
-| 284 | 0.6% | 98% |  |
+| 283 | 0.5% | 98.9% |  |
+| 284 | 0.4% | 98% |  |
 | 285 | 0.7% | 98% |  |
 | 286 | 1.3% | 97% |  |
-| 287 | 1.3% | 96% |  |
-| 288 | 2% | 94% |  |
+| 287 | 1.2% | 96% |  |
+| 288 | 2% | 95% |  |
 | 289 | 1.3% | 93% |  |
-| 290 | 0.4% | 91% |  |
+| 290 | 0.5% | 92% |  |
 | 291 | 0.3% | 91% |  |
 | 292 | 0.7% | 91% |  |
-| 293 | 0.6% | 90% |  |
-| 294 | 0.4% | 89% |  |
-| 295 | 1.3% | 89% |  |
-| 296 | 3% | 88% |  |
-| 297 | 0.9% | 84% |  |
-| 298 | 0.9% | 83% |  |
-| 299 | 0.2% | 83% |  |
-| 300 | 0.8% | 82% |  |
-| 301 | 0.7% | 82% |  |
-| 302 | 0.5% | 81% |  |
+| 293 | 0.7% | 90% |  |
+| 294 | 0.9% | 90% |  |
+| 295 | 1.2% | 89% |  |
+| 296 | 4% | 87% |  |
+| 297 | 1.1% | 84% |  |
+| 298 | 1.1% | 83% |  |
+| 299 | 0.2% | 82% |  |
+| 300 | 0.7% | 82% |  |
+| 301 | 0.6% | 81% |  |
+| 302 | 0.7% | 80% |  |
 | 303 | 1.2% | 80% |  |
-| 304 | 0.2% | 79% |  |
-| 305 | 1.1% | 79% |  |
-| 306 | 1.4% | 78% |  |
-| 307 | 3% | 77% |  |
-| 308 | 0.6% | 74% |  |
-| 309 | 3% | 73% |  |
-| 310 | 2% | 71% |  |
-| 311 | 1.1% | 69% |  |
-| 312 | 0.6% | 68% |  |
-| 313 | 2% | 67% |  |
-| 314 | 2% | 65% |  |
-| 315 | 1.2% | 64% |  |
-| 316 | 1.0% | 63% |  |
-| 317 | 3% | 62% |  |
-| 318 | 0.8% | 59% |  |
-| 319 | 3% | 58% |  |
-| 320 | 1.4% | 54% |  |
-| 321 | 1.0% | 53% |  |
-| 322 | 2% | 52% | Median |
-| 323 | 0.7% | 50% |  |
-| 324 | 2% | 49% |  |
-| 325 | 3% | 47% |  |
-| 326 | 1.0% | 45% | Majority |
+| 304 | 0.3% | 78% |  |
+| 305 | 0.9% | 78% |  |
+| 306 | 2% | 77% |  |
+| 307 | 3% | 75% |  |
+| 308 | 0.6% | 73% |  |
+| 309 | 3% | 72% |  |
+| 310 | 1.2% | 69% |  |
+| 311 | 2% | 68% |  |
+| 312 | 0.7% | 66% |  |
+| 313 | 2% | 66% |  |
+| 314 | 2% | 64% |  |
+| 315 | 0.9% | 62% |  |
+| 316 | 1.4% | 61% |  |
+| 317 | 3% | 60% |  |
+| 318 | 1.0% | 57% |  |
+| 319 | 2% | 56% |  |
+| 320 | 1.2% | 53% |  |
+| 321 | 1.1% | 52% |  |
+| 322 | 2% | 51% | Median |
+| 323 | 0.7% | 49% |  |
+| 324 | 1.2% | 48% |  |
+| 325 | 2% | 47% |  |
+| 326 | 0.8% | 45% | Majority |
 | 327 | 2% | 44% |  |
 | 328 | 2% | 42% |  |
 | 329 | 2% | 40% |  |
-| 330 | 1.4% | 38% |  |
-| 331 | 2% | 36% |  |
-| 332 | 4% | 35% |  |
-| 333 | 1.2% | 31% |  |
-| 334 | 3% | 30% |  |
-| 335 | 3% | 27% |  |
-| 336 | 2% | 24% |  |
-| 337 | 2% | 22% |  |
-| 338 | 1.1% | 20% |  |
-| 339 | 2% | 19% |  |
-| 340 | 1.4% | 17% |  |
-| 341 | 0.9% | 15% |  |
-| 342 | 2% | 15% |  |
-| 343 | 0.9% | 13% |  |
-| 344 | 0.7% | 12% |  |
-| 345 | 1.2% | 11% |  |
-| 346 | 0.5% | 10% |  |
-| 347 | 1.2% | 9% |  |
-| 348 | 1.0% | 8% |  |
-| 349 | 0.7% | 7% |  |
-| 350 | 0.6% | 6% |  |
-| 351 | 0.4% | 6% |  |
-| 352 | 0.3% | 5% |  |
-| 353 | 0.2% | 5% |  |
-| 354 | 0.3% | 5% |  |
+| 330 | 0.9% | 38% |  |
+| 331 | 1.4% | 37% |  |
+| 332 | 3% | 36% |  |
+| 333 | 0.9% | 33% |  |
+| 334 | 3% | 32% |  |
+| 335 | 2% | 28% |  |
+| 336 | 2% | 26% |  |
+| 337 | 2% | 24% |  |
+| 338 | 1.4% | 22% |  |
+| 339 | 2% | 20% |  |
+| 340 | 2% | 19% |  |
+| 341 | 0.9% | 17% |  |
+| 342 | 2% | 16% |  |
+| 343 | 0.8% | 14% |  |
+| 344 | 0.9% | 13% |  |
+| 345 | 1.4% | 12% |  |
+| 346 | 0.8% | 11% |  |
+| 347 | 1.2% | 10% |  |
+| 348 | 1.0% | 9% |  |
+| 349 | 0.8% | 8% |  |
+| 350 | 0.7% | 7% |  |
+| 351 | 0.5% | 6% |  |
+| 352 | 0.4% | 6% |  |
+| 353 | 0.3% | 5% |  |
+| 354 | 0.4% | 5% |  |
 | 355 | 1.0% | 5% |  |
 | 356 | 0.3% | 4% |  |
-| 357 | 0.5% | 3% |  |
+| 357 | 0.6% | 3% |  |
 | 358 | 0.5% | 3% |  |
 | 359 | 0.3% | 2% |  |
 | 360 | 0.2% | 2% |  |
@@ -897,13 +898,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 362 | 0.1% | 1.4% |  |
 | 363 | 0.2% | 1.3% |  |
 | 364 | 0.1% | 1.1% |  |
-| 365 | 0.2% | 1.1% | Last Result |
+| 365 | 0.2% | 1.0% | Last Result |
 | 366 | 0.1% | 0.9% |  |
 | 367 | 0.1% | 0.8% |  |
-| 368 | 0% | 0.8% |  |
+| 368 | 0% | 0.7% |  |
 | 369 | 0.1% | 0.7% |  |
 | 370 | 0.1% | 0.7% |  |
-| 371 | 0.1% | 0.6% |  |
+| 371 | 0% | 0.5% |  |
 | 372 | 0.1% | 0.5% |  |
 | 373 | 0% | 0.4% |  |
 | 374 | 0% | 0.4% |  |
