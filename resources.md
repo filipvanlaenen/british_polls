@@ -62,5 +62,5 @@ The following websites provide similar information to this website:
 
 ## Previous Elections
 
-+ [8 June 2017](20170608/index.html)
++ [8 June 2017](https://filipvanlaenen.github.io/british_polls_20170608/)
 + [12 December 2019](20191212/index.html)
