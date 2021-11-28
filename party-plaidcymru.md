@@ -37,7 +37,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | N/A | N/A | N/A | N/A |
-| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | N/A | N/A | N/A | N/A |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.4–2.2% |
 | [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 1.1% | N/A | N/A | N/A | N/A |
 | [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
@@ -452,7 +452,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 5 | 5–7 | 5–8 | 4–9 | 4–10 |
 | [14–18 October 2021](2021-10-18-Kantar.html) | Kantar |  |  |  |  |  |
 | [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
