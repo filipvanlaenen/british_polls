@@ -8,7 +8,7 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Sat, 27 Nov 2021 20:15:06 +0100</pubDate>
+    <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 24–25 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-11-25-YouGov.html#seats</link>
@@ -248,6 +248,36 @@
         type="image/png"/>
       <pubDate>Sat, 27 Nov 2021 20:15:06 +0100</pubDate>
       <dc:date>2021-11-27T20:15:06.718638+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 245–317 seats&lt;/li&gt;&lt;li&gt;Labour Party: 241–305 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6–19 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 53–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 4–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-seats.png"
+        length="180657"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-coalitions-seats.png"
+        length="572510"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 33.1–39.1%&lt;/li&gt;&lt;li&gt;Labour Party: 34.2–40.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 7.6–11.3%&lt;/li&gt;&lt;li&gt;Scottish National Party: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party: 7.3–10.9%&lt;/li&gt;&lt;li&gt;Brexit Party: 0.2–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.png"
+        length="208534"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 11–12 August 2021 – Voting Intentions</title>
@@ -5799,6 +5829,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28+02:00</dc:date>
     </item>
-    <dc:date>2021-11-27T20:15:06.718638+01:00</dc:date>
+    <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
   </channel>
 </rss>
