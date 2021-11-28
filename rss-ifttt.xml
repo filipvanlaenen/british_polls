@@ -197,5 +197,29 @@
       <pubDate>Sat, 27 Nov 2021 20:15:06 +0100</pubDate>
       <dc:date>2021-11-27T20:15:06.718638+01:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Ipsos MORI for Evening Standard, 4 November 2021<br/>Details on https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-seating-plan.png" length="866932" type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html#seats</link>
+      <description><![CDATA[Seat projections for the House of Commons<br/>326 seats needed for a majority<br/>Opinion poll by Ipsos MORI for Evening Standard, 4 November 2021<br/>Details on https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI-seats.png" length="180657" type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 4 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html</link>
+      <description><![CDATA[Voting intentions for the House of Commons<br/>Opinion poll by Ipsos MORI for Evening Standard, 4 November 2021<br/>Details on https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.html<br/><img src="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-11-04-IpsosMORI.png" length="208534" type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 09:45:43 +0100</pubDate>
+      <dc:date>2021-11-28T09:45:43.294027+01:00</dc:date>
+    </item>
   </channel>
 </rss>
