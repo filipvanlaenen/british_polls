@@ -10,7 +10,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–2.7% | 0.7–3.0% | 0.6–3.2% | 0.5–3.6% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.6–2.6% | 0.4–2.9% | 0.3–3.2% | 0.2–3.6% |
 | [24–25 November 2021](2021-11-25-YouGov.html) | YouGov <br> The Times | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
 | [18–22 November 2021](2021-11-22-Kantar.html) | Kantar | 0.9% | 0.6–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [19–21 November 2021](2021-11-21-SavantaComRes.html) | Savanta ComRes | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
@@ -28,7 +28,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [5–6 November 2021](2021-11-06-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 November 2021](2021-11-05-Deltapoll.html) | Deltapoll | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.5–1.8% |
 | [3–4 November 2021](2021-11-04-YouGov.html) | YouGov <br> The Times | 2.3% | N/A | N/A | N/A | N/A |
-| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.4% | N/A | N/A | N/A | N/A |
+| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.1% | 0.1–1.3% |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | N/A | N/A | N/A | N/A |
 | [29–31 October 2021](2021-10-31-SavantaComRes.html) | Savanta ComRes | 1.3% | N/A | N/A | N/A | N/A |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -411,11 +411,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 72% | 98.9% | Median |
-| 1.5–2.5% | 15% | 27% | Last Result |
-| 2.5–3.5% | 11% | 12% |  |
-| 3.5–4.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 10% | 100% |  |
+| 0.5–1.5% | 67% | 90% | Median |
+| 1.5–2.5% | 13% | 23% | Last Result |
+| 2.5–3.5% | 10% | 10% |  |
+| 3.5–4.5% | 0.6% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -427,7 +427,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–3 |
 | [24–25 November 2021](2021-11-25-YouGov.html) | YouGov <br> The Times | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [18–22 November 2021](2021-11-22-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [19–21 November 2021](2021-11-21-SavantaComRes.html) | Savanta ComRes | 0 | 0 | 0 | 0 | 0 |
@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [5–6 November 2021](2021-11-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [3–5 November 2021](2021-11-05-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [3–4 November 2021](2021-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–31 October 2021](2021-10-31-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -830,9 +830,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0.8% | 6% |  |
-| 2 | 3% | 5% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0.7% | 5% |  |
+| 2 | 3% | 4% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 

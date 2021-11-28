@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.3–1.6% | 0.2–1.7% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.5% | 0.3–1.6% | 0.2–1.7% | 0.2–2.0% |
 | [24–25 November 2021](2021-11-25-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
 | [18–22 November 2021](2021-11-22-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [19–21 November 2021](2021-11-21-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -28,7 +28,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [5–6 November 2021](2021-11-06-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
 | [3–5 November 2021](2021-11-05-Deltapoll.html) | Deltapoll | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–2.0% |
 | [3–4 November 2021](2021-11-04-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
-| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | N/A | N/A | N/A | N/A |
+| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
 | [29–31 October 2021](2021-10-31-SavantaComRes.html) | Savanta ComRes | 1.0% | N/A | N/A | N/A | N/A |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
@@ -411,9 +411,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% |  |
-| 0.5–1.5% | 80% | 85% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 81% | 87% | Last Result, Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -425,7 +425,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 0–6 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 2–6 | 1–7 | 0–7 | 0–9 |
 | [24–25 November 2021](2021-11-25-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [18–22 November 2021](2021-11-22-Kantar.html) | Kantar | 5 | 5–6 | 5–7 | 4–7 | 4–9 |
 | [19–21 November 2021](2021-11-21-SavantaComRes.html) | Savanta ComRes | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -443,7 +443,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [5–6 November 2021](2021-11-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [3–5 November 2021](2021-11-05-Deltapoll.html) | Deltapoll | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [3–4 November 2021](2021-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [4 November 2021](2021-11-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5 | 5–7 | 5–7 | 4–7 | 4–10 |
 | [1 November 2021](2021-11-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–31 October 2021](2021-10-31-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [27–29 October 2021](2021-10-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -828,18 +828,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 2% | 95% |  |
+| 0 | 4% | 100% |  |
+| 1 | 2% | 96% |  |
 | 2 | 4% | 93% |  |
-| 3 | 2% | 88% |  |
-| 4 | 2% | 86% | Last Result |
-| 5 | 64% | 84% | Median |
-| 6 | 16% | 20% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.1% | 0.6% |  |
-| 9 | 0.3% | 0.5% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0.1% |  |
+| 3 | 2% | 90% |  |
+| 4 | 2% | 88% | Last Result |
+| 5 | 65% | 86% | Median |
+| 6 | 16% | 21% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.1% | 0.8% |  |
+| 9 | 0.4% | 0.7% |  |
+| 10 | 0.1% | 0.2% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 
