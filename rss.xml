@@ -8,7 +8,37 @@
     <title>All Registered Polls for the House of Commons</title>
     <link>https://filipvanlaenen.github.io/british_polls</link>
     <description>All Registered Polls for the House of Commons</description>
-    <pubDate>Wed, 01 Dec 2021 18:46:24 +0100</pubDate>
+    <pubDate>Fri, 03 Dec 2021 18:24:24 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–2 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 280–337 seats&lt;/li&gt;&lt;li&gt;Labour Party: 221–275 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats: 6–15 seats&lt;/li&gt;&lt;li&gt;Scottish National Party: 56–58 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru: 5–7 seats&lt;/li&gt;&lt;li&gt;Green Party: 1–3 seats&lt;/li&gt;&lt;li&gt;Brexit Party: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov-seats.png"
+        length="173330"
+        type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 18:24:24 +0100</pubDate>
+      <dc:date>2021-12-03T18:24:24.79467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–2 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov-coalitions-seats.png"
+        length="520212"
+        type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 18:24:24 +0100</pubDate>
+      <dc:date>2021-12-03T18:24:24.79467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 1–2 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party: 35.7–40.5%&lt;/li&gt;&lt;li&gt;Labour Party: 32.6–37.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats: 8.2–11.0%&lt;/li&gt;&lt;li&gt;Scottish National Party: 4.3–6.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Green Party: 6.2–8.8%&lt;/li&gt;&lt;li&gt;Brexit Party: 2.0–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_polls/2021-12-02-YouGov.png"
+        length="200280"
+        type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 18:24:24 +0100</pubDate>
+      <dc:date>2021-12-03T18:24:24.79467+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Redfield &amp; Wilton Strategies, 29 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_polls/2021-11-29-RedfieldWiltonStrategies.html#seats</link>
@@ -5949,6 +5979,6 @@
       <pubDate>Fri, 28 Aug 2020 10:38:28 +0200</pubDate>
       <dc:date>2020-08-28T10:38:28+02:00</dc:date>
     </item>
-    <dc:date>2021-12-01T18:46:24.092135+01:00</dc:date>
+    <dc:date>2021-12-03T18:24:24.79467+01:00</dc:date>
   </channel>
 </rss>
