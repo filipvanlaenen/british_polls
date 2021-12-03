@@ -11,6 +11,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.5–2.7% | 0.4–3.0% | 0.3–3.2% | 0.2–3.6% |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -430,7 +431,8 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -836,10 +838,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0.8% | 6% |  |
-| 2 | 3% | 5% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0.9% | 8% |  |
+| 2 | 4% | 7% |  |
+| 3 | 3% | 3% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

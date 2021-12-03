@@ -11,6 +11,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.3–1.6% | 0.2–1.7% | 0.1–2.0% |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -429,6 +430,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 2–6 | 0–7 | 0–7 | 0–9 |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 5 | 5–7 | 5–7 | 5–7 | 4–9 |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -839,11 +841,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 4% | 93% |  |
 | 3 | 2% | 88% |  |
 | 4 | 2% | 86% | Last Result |
-| 5 | 63% | 84% | Median |
-| 6 | 16% | 21% |  |
-| 7 | 5% | 5% |  |
-| 8 | 0.1% | 0.7% |  |
-| 9 | 0.4% | 0.6% |  |
+| 5 | 62% | 84% | Median |
+| 6 | 16% | 22% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.1% | 0.8% |  |
+| 9 | 0.5% | 0.7% |  |
 | 10 | 0.1% | 0.2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

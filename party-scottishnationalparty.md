@@ -11,6 +11,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.7% | 3.5–5.6% | 3.1–5.9% | 2.8–6.1% | 2.5–6.7% |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.1% | 4.5–6.3% | 4.3–6.5% | 4.0–6.9% |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.5–5.0% | 3.3–5.1% | 3.1–5.5% |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.5% |
@@ -433,6 +434,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 58 | 44–58 | 33–58 | 26–58 | 18–58 |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 58 | 58 | 57–58 | 56–58 | 54–58 |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 46–58 | 43–58 | 41–58 | 35–58 |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 58 | 58 | 58 | 56–58 | 54–58 |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 58 | 58 | 57–58 | 57–58 | 54–58 |
