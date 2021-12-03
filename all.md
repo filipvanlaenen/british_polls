@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
+| [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 36–40% <br> 280–337 | 33–37% <br> 221–275 | 8–11% <br> 6–15 | 4–7% <br> 56–58 | 6–9% <br> 1–3 | 2–4% <br> 0–3 | 1–2% <br> 5–7 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 37–42% <br> 276–331 | 35–40% <br> 232–282 | 9–12% <br> 6–20 | 3–5% <br> 41–58 | 4–6% <br> 1 | 1–3% <br> 0 | 1–2% <br> 5–7 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 35–39% <br> 270–316 | 35–39% <br> 247–292 | 7–9% <br> 3–7 | 4–6% <br> 56–58 | 3–5% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 34–38% <br> 259–300 | 36–40% <br> 261–301 | 7–9% <br> 3–7 | 4–6% <br> 57–58 | 4–6% <br> 1 | N/A <br> N/A | 1–2% <br> 5–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
