@@ -10,8 +10,18 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [8 December 2021](2021-12-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [6 December 2021](2021-12-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 December 2021](2021-12-05-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 December 2021](2021-12-04-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [1 December 2021](2021-12-01-Survation.html) | Survation | 0.1% | N/A | N/A | N/A | N/A |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -415,8 +425,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Last Result, Median |
-| 0.5–1.5% | 4% | 4% |  |
+| 0.0–0.5% | 97% | 100% | Last Result, Median |
+| 0.5–1.5% | 3% | 3% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -429,7 +439,17 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail |  |  |  |  |  |
+| [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 0 | 0 | 0 | 0 | 0 |
+| [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio |  |  |  |  |  |
+| [8 December 2021](2021-12-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [6 December 2021](2021-12-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [3–5 December 2021](2021-12-05-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [2–4 December 2021](2021-12-04-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1 December 2021](2021-12-01-Survation.html) | Survation |  |  |  |  |  |
 | [29 November 2021](2021-11-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [26–28 November 2021](2021-11-28-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [24–26 November 2021](2021-11-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
