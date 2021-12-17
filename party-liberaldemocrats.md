@@ -10,9 +10,15 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 7.7–11.5% | 7.3–12.0% | 6.9–12.4% | 6.3–13.1% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.3–12.0% | 7.6–12.4% | 7.1–12.8% | 6.3–13.5% |
+| [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 10.4% | 9.5–11.5% | 9.3–11.8% | 9.0–12.0% | 8.6–12.5% |
+| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.8% | 10.8–12.8% | 10.6–13.0% | 10.4–13.3% | 10.0–13.8% |
+| [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 11.5% | 10.3–12.8% | 9.9–13.2% | 9.6–13.6% | 9.1–14.3% |
+| [10–11 December 2021](2021-12-11-Survation.html) | Survation <br> GMB | 9.4% | 8.4–10.6% | 8.1–11.0% | 7.9–11.3% | 7.4–11.8% |
 | [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times | 8.4% | 7.6–9.3% | 7.3–9.6% | 7.1–9.8% | 6.8–10.3% |
 | [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.7–10.9% |
+| [8–10 December 2021](2021-12-10-Opinium.html) | Opinium <br> The Observer | 9.1% | 8.3–9.9% | 8.1–10.2% | 7.9–10.4% | 7.5–10.8% |
+| [3–10 December 2021](2021-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.7–13.9% |
 | [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
 | [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 10.3% | 9.2–11.5% | 8.9–11.9% | 8.7–12.2% | 8.2–12.8% |
 | [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
@@ -426,15 +432,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 7% | 99.0% |  |
-| 7.5–8.5% | 20% | 92% |  |
-| 8.5–9.5% | 27% | 72% | Median |
-| 9.5–10.5% | 20% | 45% |  |
-| 10.5–11.5% | 16% | 25% |  |
-| 11.5–12.5% | 7% | 9% | Last Result |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 4% | 99.1% |  |
+| 7.5–8.5% | 10% | 95% |  |
+| 8.5–9.5% | 27% | 86% |  |
+| 9.5–10.5% | 23% | 59% | Median |
+| 10.5–11.5% | 20% | 36% |  |
+| 11.5–12.5% | 12% | 16% | Last Result |
+| 12.5–13.5% | 4% | 4% |  |
+| 13.5–14.5% | 0.4% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -446,9 +452,15 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–20 | 4–22 | 4–24 | 2–29 |
+| N/A | [Poll Average](average.html) | 11 | 6–24 | 6–26 | 4–28 | 2–33 |
+| [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 16 | 11–21 | 7–23 | 7–24 | 7–27 |
+| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 22 | 18–29 | 17–30 | 16–33 | 11–36 |
+| [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 23 | 20–27 | 16–29 | 12–31 | 8–40 |
+| [10–11 December 2021](2021-12-11-Survation.html) | Survation <br> GMB | 11 | 7–18 | 6–19 | 6–20 | 6–24 |
 | [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times | 7 | 6–11 | 6–14 | 6–16 | 4–19 |
 | [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 10 | 7–16 | 6–16 | 6–18 | 6–19 |
+| [8–10 December 2021](2021-12-10-Opinium.html) | Opinium <br> The Observer | 10 | 7–16 | 6–18 | 6–19 | 6–20 |
+| [3–10 December 2021](2021-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 11–25 | 7–28 | 7–30 | 6–37 |
 | [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 17 | 7–22 | 7–24 | 6–25 | 6–28 |
 | [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 6 | 3–7 | 2–7 | 2–9 | 1–14 |
@@ -864,39 +876,45 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 0.5% | 99.8% |  |
-| 3 | 1.5% | 99.3% |  |
-| 4 | 4% | 98% |  |
-| 5 | 0.7% | 94% |  |
-| 6 | 26% | 93% |  |
-| 7 | 21% | 67% | Median |
-| 8 | 5% | 46% |  |
-| 9 | 4% | 41% |  |
-| 10 | 2% | 37% |  |
-| 11 | 5% | 35% | Last Result |
-| 12 | 3% | 30% |  |
-| 13 | 2% | 27% |  |
-| 14 | 1.1% | 25% |  |
-| 15 | 3% | 24% |  |
-| 16 | 3% | 21% |  |
-| 17 | 3% | 18% |  |
-| 18 | 2% | 15% |  |
-| 19 | 2% | 12% |  |
-| 20 | 2% | 10% |  |
-| 21 | 2% | 8% |  |
-| 22 | 1.0% | 6% |  |
-| 23 | 1.4% | 5% |  |
-| 24 | 1.3% | 4% |  |
-| 25 | 0.6% | 2% |  |
-| 26 | 0.5% | 2% |  |
-| 27 | 0.3% | 1.2% |  |
-| 28 | 0.3% | 0.9% |  |
-| 29 | 0.3% | 0.6% |  |
-| 30 | 0.1% | 0.3% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0.1% |  |
-| 34 | 0% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 2 | 0.4% | 99.9% |  |
+| 3 | 1.0% | 99.4% |  |
+| 4 | 2% | 98% |  |
+| 5 | 0.3% | 96% |  |
+| 6 | 13% | 96% |  |
+| 7 | 19% | 83% |  |
+| 8 | 3% | 64% |  |
+| 9 | 2% | 62% |  |
+| 10 | 4% | 60% |  |
+| 11 | 7% | 56% | Last Result, Median |
+| 12 | 1.5% | 50% |  |
+| 13 | 0.7% | 48% |  |
+| 14 | 1.1% | 48% |  |
+| 15 | 6% | 46% |  |
+| 16 | 6% | 41% |  |
+| 17 | 3% | 34% |  |
+| 18 | 5% | 32% |  |
+| 19 | 3% | 27% |  |
+| 20 | 4% | 23% |  |
+| 21 | 4% | 20% |  |
+| 22 | 2% | 15% |  |
+| 23 | 3% | 14% |  |
+| 24 | 4% | 11% |  |
+| 25 | 2% | 7% |  |
+| 26 | 2% | 5% |  |
+| 27 | 0.6% | 4% |  |
+| 28 | 0.9% | 3% |  |
+| 29 | 0.7% | 2% |  |
+| 30 | 0.5% | 1.4% |  |
+| 31 | 0.2% | 0.9% |  |
+| 32 | 0.2% | 0.8% |  |
+| 33 | 0.1% | 0.6% |  |
+| 34 | 0.2% | 0.5% |  |
+| 35 | 0.1% | 0.3% |  |
+| 36 | 0% | 0.2% |  |
+| 37 | 0% | 0.2% |  |
+| 38 | 0% | 0.1% |  |
+| 39 | 0% | 0.1% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0% | 0% |  |
 
 

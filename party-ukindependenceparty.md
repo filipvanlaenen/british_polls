@@ -10,9 +10,15 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [10–11 December 2021](2021-12-11-Survation.html) | Survation <br> GMB | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 December 2021](2021-12-10-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [3–10 December 2021](2021-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 0.0% | N/A | N/A | N/A | N/A |
@@ -425,8 +431,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 97% | 100% | Last Result, Median |
-| 0.5–1.5% | 3% | 3% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -439,8 +445,14 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
+| [10–11 December 2021](2021-12-11-Survation.html) | Survation <br> GMB | 0 | 0 | 0 | 0 | 0 |
 | [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail |  |  |  |  |  |
+| [8–10 December 2021](2021-12-10-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [3–10 December 2021](2021-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 0 | 0 | 0 | 0 | 0 |
 | [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio |  |  |  |  |  |
