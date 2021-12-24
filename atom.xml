@@ -6,7 +6,39 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2021-12-17T19:28:45.186601+01:00</updated>
+  <updated>2021-12-24T12:26:42.749253+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 32.1–38.1%, 225–283 seats</li><li>Labour Party: 39.2–45.3%, 282–338 seats</li><li>Liberal Democrats: 7.7–11.3%, 6–22 seats</li><li>Scottish National Party: 3.0–5.5%, 32–58 seats</li><li>Green Party: 2.3–4.5%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-12-21-Focaldata.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-12-21-Focaldata.html"/>
+    <title>Opinion Poll by Focaldata, 20–21 December 2021</title>
+    <updated>2021-12-23T21:45:55.479096+01:00</updated>
+    <dc:date>2021-12-23T21:45:55.479096+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 29.0–33.4%, 209–258 seats</li><li>Labour Party: 35.1–39.7%, 283–321 seats</li><li>Liberal Democrats: 11.0–14.1%, 19–39 seats</li><li>Scottish National Party: 5.2–7.5%, 56–58 seats</li><li>Plaid Cymru: 0.7–1.7%, 5–7 seats</li><li>Green Party: 5.4–7.8%, 1–4 seats</li><li>Brexit Party: 1.7–3.1%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-12-20-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-12-20-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 19–20 December 2021</title>
+    <updated>2021-12-23T22:13:43.15133+01:00</updated>
+    <dc:date>2021-12-23T22:13:43.15133+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 29.9–34.1%, 205–246 seats</li><li>Labour Party: 38.1–42.5%, 294–325 seats</li><li>Liberal Democrats: 11.9–15.0%, 23–43 seats</li><li>Scottish National Party: 4.3–6.2%, 52–58 seats</li><li>Plaid Cymru: 0.7–1.6%, 5–6 seats</li><li>Green Party: 4.0–5.9%, 1 seats</li><li>Brexit Party: 1.7–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-12-20-RedfieldWiltonStrategies.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-12-20-RedfieldWiltonStrategies.html"/>
+    <title>Opinion Poll by Redfield &amp; Wilton Strategies, 20 December 2021</title>
+    <updated>2021-12-24T09:22:47.046514+01:00</updated>
+    <dc:date>2021-12-24T09:22:47.046514+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 30.4–34.4%, 215–264 seats</li><li>Labour Party: 35.4–39.6%, 279–320 seats</li><li>Liberal Democrats: 11.7–14.6%, 24–43 seats</li><li>Scottish National Party: 3.3–5.0%, 43–56 seats</li><li>Green Party: 3.2–4.9%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2021-12-19-SavantaComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2021-12-19-SavantaComRes.html"/>
+    <title>Opinion Poll by Savanta ComRes, 17–19 December 2021</title>
+    <updated>2021-12-24T12:26:42.749253+01:00</updated>
+    <dc:date>2021-12-24T12:26:42.749253+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 31.1–35.7%, 228–277 seats</li><li>Labour Party: 36.2–40.9%, 276–319 seats</li><li>Liberal Democrats: 9.0–12.0%, 7–24 seats</li><li>Scottish National Party: 4.2–6.4%, 55–58 seats</li><li>Plaid Cymru: 0.7–1.7%, 5–7 seats</li><li>Green Party: 4.7–7.0%, 1 seats</li><li>Brexit Party: 2.0–3.6%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2021-12-15-YouGov.html</id>
@@ -1399,5 +1431,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2021-12-17T19:28:45.186601+01:00</dc:date>
+  <dc:date>2021-12-24T12:26:42.749253+01:00</dc:date>
 </feed>
