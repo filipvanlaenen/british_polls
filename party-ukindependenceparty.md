@@ -10,13 +10,33 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
+| [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
+| [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 January 2022](2022-01-16-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
+| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 January 2022](2022-01-14-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 0.0% | N/A | N/A | N/A | N/A |
+| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [10 January 2022](2022-01-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 January 2022](2022-01-09-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 January 2022](2022-01-07-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 January 2022](2022-01-07-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.1% | N/A | N/A | N/A | N/A |
+| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 December 2021](2021-12-20-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [20 December 2021](2021-12-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 December 2021](2021-12-19-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [16 December 2021](2021-12-16-SavantaComRes.html) | Savanta ComRes <br> The Daily Express | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 0.1% | N/A | N/A | N/A | N/A |
 | [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society | 0.0% | N/A | N/A | N/A | N/A |
 | [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
@@ -437,9 +457,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 100% | 100% | Last Result, Median |
+| 0.5–1.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -451,12 +470,32 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 0 | 0 | 0 | 0 | 0 |
+| [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [14–16 January 2022](2022-01-16-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–14 January 2022](2022-01-14-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata |  |  |  |  |  |
+| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now |  |  |  |  |  |
+| [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [10 January 2022](2022-01-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [7–9 January 2022](2022-01-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [6–7 January 2022](2022-01-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [5–7 January 2022](2022-01-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata |  |  |  |  |  |
 | [19–20 December 2021](2021-12-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [20 December 2021](2021-12-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [17–19 December 2021](2021-12-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [16 December 2021](2021-12-16-SavantaComRes.html) | Savanta ComRes <br> The Daily Express |  |  |  |  |  |
 | [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph |  |  |  |  |  |
+| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees |  |  |  |  |  |
 | [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society |  |  |  |  |  |
 | [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
