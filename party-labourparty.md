@@ -10,33 +10,33 @@ Last result: **32.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.7% | 40.4–45.6% | 39.8–46.1% | 39.4–46.5% | 38.6–47.2% |
+| N/A | [Poll Average](average.html) | 42.7% | 40.2–45.1% | 39.6–45.6% | 39.2–46.1% | 38.3–47.0% |
 | [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 44.2% | 42.7–45.6% | 42.3–46.0% | 42.0–46.4% | 41.3–47.1% |
 | [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.7% | 43.2–46.1% | 42.8–46.5% | 42.5–46.9% | 41.8–47.6% |
 | [14–16 January 2022](2022-01-16-SavantaComRes.html) | Savanta ComRes | 40.9% | 39.6–42.3% | 39.2–42.7% | 38.9–43.0% | 38.2–43.7% |
-| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll | 42.8% | N/A | N/A | N/A | N/A |
-| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times | 40.6% | N/A | N/A | N/A | N/A |
+| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll | 42.8% | 41.8–43.8% | 41.5–44.0% | 41.2–44.3% | 40.8–44.8% |
+| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times | 40.6% | 39.1–42.2% | 38.7–42.7% | 38.3–43.1% | 37.5–43.8% |
 | [13–14 January 2022](2022-01-14-SavantaComRes.html) | Savanta ComRes | 42.4% | N/A | N/A | N/A | N/A |
-| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer | 41.5% | N/A | N/A | N/A | N/A |
+| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer | 41.5% | 39.8–43.3% | 39.3–43.9% | 38.8–44.3% | 38.0–45.2% |
 | [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times | 42.9% | N/A | N/A | N/A | N/A |
-| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 43.6% | N/A | N/A | N/A | N/A |
-| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now | 42.9% | N/A | N/A | N/A | N/A |
+| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 43.6% | 41.6–45.7% | 41.0–46.2% | 40.5–46.7% | 39.6–47.7% |
+| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now | 42.9% | 41.5–44.4% | 41.1–44.8% | 40.8–45.1% | 40.1–45.8% |
 | [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times | 40.3% | N/A | N/A | N/A | N/A |
 | [10 January 2022](2022-01-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 40.2% | N/A | N/A | N/A | N/A |
 | [7–9 January 2022](2022-01-09-SavantaComRes.html) | Savanta ComRes | 37.3% | N/A | N/A | N/A | N/A |
 | [6–7 January 2022](2022-01-07-YouGov.html) | YouGov <br> The Times | 38.6% | N/A | N/A | N/A | N/A |
 | [5–7 January 2022](2022-01-07-Opinium.html) | Opinium <br> The Observer | 39.4% | N/A | N/A | N/A | N/A |
 | [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 39.6% | N/A | N/A | N/A | N/A |
-| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41.8% | N/A | N/A | N/A | N/A |
-| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer | 39.2% | N/A | N/A | N/A | N/A |
+| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 41.8% | 40.2–43.5% | 39.8–43.9% | 39.4–44.3% | 38.6–45.1% |
+| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer | 39.2% | 37.4–41.0% | 36.9–41.5% | 36.4–42.0% | 35.6–42.8% |
 | [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata | 42.2% | 40.3–44.3% | 39.7–44.8% | 39.2–45.3% | 38.3–46.3% |
 | [19–20 December 2021](2021-12-20-YouGov.html) | YouGov <br> The Times | 37.3% | 35.8–38.9% | 35.4–39.3% | 35.1–39.7% | 34.4–40.4% |
 | [20 December 2021](2021-12-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 40.3% | 38.8–41.7% | 38.4–42.1% | 38.1–42.5% | 37.4–43.2% |
 | [17–19 December 2021](2021-12-19-SavantaComRes.html) | Savanta ComRes | 37.4% | 36.1–38.8% | 35.7–39.2% | 35.4–39.6% | 34.7–40.2% |
 | [16 December 2021](2021-12-16-SavantaComRes.html) | Savanta ComRes <br> The Daily Express | 39.3% | N/A | N/A | N/A | N/A |
 | [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 38.5% | 37.0–40.1% | 36.6–40.5% | 36.2–40.9% | 35.5–41.7% |
-| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph | 40.4% | N/A | N/A | N/A | N/A |
-| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 42.5% | N/A | N/A | N/A | N/A |
+| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph | 40.4% | 38.4–42.5% | 37.8–43.1% | 37.3–43.6% | 36.4–44.6% |
+| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 42.5% | 41.1–44.0% | 40.7–44.4% | 40.4–44.7% | 39.7–45.4% |
 | [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society | 40.5% | N/A | N/A | N/A | N/A |
 | [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 39.5% | 38.1–41.0% | 37.6–41.4% | 37.3–41.7% | 36.6–42.4% |
 | [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 39.6% | 37.7–41.6% | 37.1–42.2% | 36.6–42.6% | 35.7–43.6% |
@@ -462,17 +462,17 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 0% | 100% |  |
 | 34.5–35.5% | 0% | 100% |  |
 | 35.5–36.5% | 0% | 100% |  |
-| 36.5–37.5% | 0% | 100% |  |
-| 37.5–38.5% | 0.4% | 100% |  |
-| 38.5–39.5% | 3% | 99.6% |  |
-| 39.5–40.5% | 9% | 97% |  |
-| 40.5–41.5% | 12% | 88% |  |
-| 41.5–42.5% | 10% | 76% |  |
-| 42.5–43.5% | 13% | 65% |  |
-| 43.5–44.5% | 22% | 52% | Median |
-| 44.5–45.5% | 20% | 30% |  |
-| 45.5–46.5% | 9% | 11% |  |
-| 46.5–47.5% | 2% | 2% |  |
+| 36.5–37.5% | 0.1% | 100% |  |
+| 37.5–38.5% | 0.8% | 99.9% |  |
+| 38.5–39.5% | 4% | 99.1% |  |
+| 39.5–40.5% | 9% | 96% |  |
+| 40.5–41.5% | 14% | 86% |  |
+| 41.5–42.5% | 19% | 72% |  |
+| 42.5–43.5% | 20% | 53% | Median |
+| 43.5–44.5% | 17% | 33% |  |
+| 44.5–45.5% | 10% | 16% |  |
+| 45.5–46.5% | 4% | 6% |  |
+| 46.5–47.5% | 1.1% | 1.3% |  |
 | 47.5–48.5% | 0.2% | 0.2% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
@@ -485,33 +485,33 @@ Last result: **202** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 324 | 313–343 | 309–350 | 304–356 | 298–366 |
+| N/A | [Poll Average](average.html) | 323 | 310–346 | 306–353 | 301–358 | 292–367 |
 | [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 323 | 314–333 | 310–336 | 306–340 | 299–348 |
 | [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 336 | 325–353 | 322–359 | 320–363 | 317–372 |
 | [14–16 January 2022](2022-01-16-SavantaComRes.html) | Savanta ComRes | 318 | 309–326 | 303–328 | 300–332 | 293–337 |
-| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [12–16 January 2022](2022-01-16-Deltapoll.html) | Deltapoll | 318 | 309–321 | 309–325 | 307–325 | 301–327 |
+| [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times | 315 | 300–322 | 297–325 | 292–327 | 285–335 |
 | [13–14 January 2022](2022-01-14-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer | 324 | 311–338 | 305–344 | 301–349 | 292–360 |
 | [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata |  |  |  |  |  |
-| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now |  |  |  |  |  |
+| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 331 | 312–348 | 306–352 | 300–356 | 289–368 |
+| [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now | 343 | 328–359 | 325–362 | 324–366 | 319–373 |
 | [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10 January 2022](2022-01-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [7–9 January 2022](2022-01-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [6–7 January 2022](2022-01-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [5–7 January 2022](2022-01-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
-| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 298 | 283–312 | 278–317 | 276–318 | 267–323 |
+| [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer | 309 | 292–320 | 288–325 | 283–326 | 276–335 |
 | [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata | 313 | 293–330 | 288–334 | 282–338 | 276–346 |
 | [19–20 December 2021](2021-12-20-YouGov.html) | YouGov <br> The Times | 306 | 290–318 | 286–319 | 283–321 | 276–325 |
 | [20 December 2021](2021-12-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 315 | 300–322 | 297–324 | 294–325 | 288–331 |
 | [17–19 December 2021](2021-12-19-SavantaComRes.html) | Savanta ComRes | 300 | 287–314 | 284–318 | 279–320 | 276–325 |
 | [16 December 2021](2021-12-16-SavantaComRes.html) | Savanta ComRes <br> The Daily Express |  |  |  |  |  |
 | [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 299 | 284–313 | 279–317 | 276–319 | 270–322 |
-| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph |  |  |  |  |  |
-| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees |  |  |  |  |  |
+| [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph | 337 | 315–353 | 309–357 | 304–362 | 292–374 |
+| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 301 | 289–317 | 286–319 | 281–320 | 277–323 |
 | [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society |  |  |  |  |  |
 | [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 301 | 288–317 | 282–320 | 279–323 | 274–327 |
 | [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 304 | 282–326 | 277–329 | 269–335 | 257–340 |
@@ -1015,100 +1015,102 @@ The following table shows the probability mass function per seat for the [poll a
 | 280 | 0% | 100% |  |
 | 281 | 0% | 100% |  |
 | 282 | 0% | 100% |  |
-| 283 | 0% | 100% |  |
-| 284 | 0% | 100% |  |
-| 285 | 0% | 100% |  |
-| 286 | 0% | 100% |  |
-| 287 | 0% | 100% |  |
-| 288 | 0% | 100% |  |
-| 289 | 0% | 100% |  |
-| 290 | 0% | 100% |  |
-| 291 | 0% | 99.9% |  |
-| 292 | 0.1% | 99.9% |  |
-| 293 | 0.1% | 99.9% |  |
-| 294 | 0.1% | 99.8% |  |
-| 295 | 0.1% | 99.7% |  |
-| 296 | 0% | 99.6% |  |
-| 297 | 0% | 99.6% |  |
-| 298 | 0.1% | 99.6% |  |
-| 299 | 0.3% | 99.5% |  |
-| 300 | 0.3% | 99.2% |  |
-| 301 | 0.5% | 98.9% |  |
-| 302 | 0.3% | 98% |  |
-| 303 | 0.5% | 98% |  |
-| 304 | 0.2% | 98% |  |
-| 305 | 0.5% | 97% |  |
-| 306 | 0.3% | 97% |  |
-| 307 | 0.3% | 97% |  |
-| 308 | 0.4% | 96% |  |
-| 309 | 1.2% | 96% |  |
-| 310 | 2% | 95% |  |
-| 311 | 1.1% | 93% |  |
-| 312 | 2% | 92% |  |
-| 313 | 1.0% | 90% |  |
-| 314 | 4% | 89% |  |
-| 315 | 1.1% | 85% |  |
-| 316 | 0.7% | 84% |  |
-| 317 | 4% | 83% |  |
-| 318 | 6% | 79% |  |
-| 319 | 2% | 73% |  |
-| 320 | 7% | 71% |  |
-| 321 | 4% | 64% |  |
-| 322 | 3% | 60% |  |
-| 323 | 4% | 57% |  |
-| 324 | 4% | 53% | Median |
-| 325 | 3% | 49% |  |
-| 326 | 2% | 46% | Majority |
-| 327 | 4% | 43% |  |
-| 328 | 3% | 39% |  |
-| 329 | 3% | 36% |  |
-| 330 | 3% | 33% |  |
-| 331 | 2% | 30% |  |
-| 332 | 3% | 28% |  |
-| 333 | 2% | 25% |  |
-| 334 | 2% | 23% |  |
-| 335 | 2% | 21% |  |
-| 336 | 1.3% | 19% |  |
-| 337 | 2% | 18% |  |
-| 338 | 2% | 16% |  |
-| 339 | 1.0% | 15% |  |
-| 340 | 1.5% | 14% |  |
-| 341 | 0.8% | 12% |  |
-| 342 | 1.0% | 11% |  |
-| 343 | 1.0% | 10% |  |
-| 344 | 1.1% | 10% |  |
-| 345 | 0.5% | 8% |  |
-| 346 | 0.7% | 8% |  |
-| 347 | 0.8% | 7% |  |
-| 348 | 0.7% | 6% |  |
-| 349 | 0.5% | 6% |  |
-| 350 | 0.6% | 5% |  |
-| 351 | 0.4% | 5% |  |
-| 352 | 0.8% | 4% |  |
-| 353 | 0.2% | 3% |  |
-| 354 | 0.4% | 3% |  |
-| 355 | 0.3% | 3% |  |
-| 356 | 0.2% | 3% |  |
-| 357 | 0.4% | 2% |  |
-| 358 | 0.2% | 2% |  |
-| 359 | 0.2% | 2% |  |
-| 360 | 0.2% | 2% |  |
-| 361 | 0.2% | 1.4% |  |
-| 362 | 0.2% | 1.2% |  |
-| 363 | 0.3% | 1.0% |  |
-| 364 | 0.1% | 0.7% |  |
+| 283 | 0% | 99.9% |  |
+| 284 | 0% | 99.9% |  |
+| 285 | 0% | 99.9% |  |
+| 286 | 0% | 99.9% |  |
+| 287 | 0% | 99.9% |  |
+| 288 | 0% | 99.8% |  |
+| 289 | 0% | 99.8% |  |
+| 290 | 0.1% | 99.7% |  |
+| 291 | 0.1% | 99.7% |  |
+| 292 | 0.2% | 99.6% |  |
+| 293 | 0.1% | 99.4% |  |
+| 294 | 0.1% | 99.3% |  |
+| 295 | 0.1% | 99.2% |  |
+| 296 | 0.1% | 99.1% |  |
+| 297 | 0.1% | 98.9% |  |
+| 298 | 0.3% | 98.8% |  |
+| 299 | 0.5% | 98% |  |
+| 300 | 0.4% | 98% |  |
+| 301 | 0.5% | 98% |  |
+| 302 | 0.6% | 97% |  |
+| 303 | 0.5% | 96% |  |
+| 304 | 0.3% | 96% |  |
+| 305 | 0.5% | 96% |  |
+| 306 | 0.5% | 95% |  |
+| 307 | 0.5% | 95% |  |
+| 308 | 1.5% | 94% |  |
+| 309 | 2% | 93% |  |
+| 310 | 2% | 91% |  |
+| 311 | 1.4% | 89% |  |
+| 312 | 1.2% | 87% |  |
+| 313 | 3% | 86% |  |
+| 314 | 2% | 83% |  |
+| 315 | 0.9% | 81% |  |
+| 316 | 2% | 80% |  |
+| 317 | 4% | 77% |  |
+| 318 | 4% | 73% |  |
+| 319 | 7% | 69% |  |
+| 320 | 5% | 63% |  |
+| 321 | 3% | 58% |  |
+| 322 | 3% | 54% |  |
+| 323 | 3% | 52% | Median |
+| 324 | 3% | 49% |  |
+| 325 | 3% | 46% |  |
+| 326 | 3% | 43% | Majority |
+| 327 | 2% | 40% |  |
+| 328 | 2% | 38% |  |
+| 329 | 2% | 36% |  |
+| 330 | 2% | 34% |  |
+| 331 | 2% | 31% |  |
+| 332 | 2% | 30% |  |
+| 333 | 2% | 28% |  |
+| 334 | 2% | 26% |  |
+| 335 | 2% | 24% |  |
+| 336 | 2% | 23% |  |
+| 337 | 2% | 21% |  |
+| 338 | 2% | 20% |  |
+| 339 | 1.2% | 18% |  |
+| 340 | 2% | 17% |  |
+| 341 | 1.0% | 15% |  |
+| 342 | 1.1% | 14% |  |
+| 343 | 1.1% | 13% |  |
+| 344 | 0.9% | 12% |  |
+| 345 | 0.9% | 11% |  |
+| 346 | 0.7% | 10% |  |
+| 347 | 1.0% | 10% |  |
+| 348 | 0.9% | 9% |  |
+| 349 | 0.7% | 8% |  |
+| 350 | 0.7% | 7% |  |
+| 351 | 0.4% | 6% |  |
+| 352 | 0.6% | 6% |  |
+| 353 | 0.4% | 5% |  |
+| 354 | 0.4% | 5% |  |
+| 355 | 0.3% | 4% |  |
+| 356 | 0.5% | 4% |  |
+| 357 | 0.8% | 4% |  |
+| 358 | 0.5% | 3% |  |
+| 359 | 0.3% | 2% |  |
+| 360 | 0.3% | 2% |  |
+| 361 | 0.3% | 2% |  |
+| 362 | 0.3% | 1.4% |  |
+| 363 | 0.2% | 1.1% |  |
+| 364 | 0.1% | 0.9% |  |
 | 365 | 0.1% | 0.7% |  |
-| 366 | 0.1% | 0.6% |  |
+| 366 | 0.1% | 0.7% |  |
 | 367 | 0.1% | 0.5% |  |
 | 368 | 0.1% | 0.4% |  |
 | 369 | 0.1% | 0.3% |  |
 | 370 | 0% | 0.3% |  |
 | 371 | 0.1% | 0.2% |  |
 | 372 | 0% | 0.2% |  |
-| 373 | 0.1% | 0.1% |  |
+| 373 | 0% | 0.2% |  |
 | 374 | 0% | 0.1% |  |
 | 375 | 0% | 0.1% |  |
 | 376 | 0% | 0.1% |  |
-| 377 | 0% | 0% |  |
+| 377 | 0% | 0.1% |  |
+| 378 | 0% | 0.1% |  |
+| 379 | 0% | 0% |  |
 
 
