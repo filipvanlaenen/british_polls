@@ -10,20 +10,20 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.1–5.5% | 2.8–5.7% | 2.6–5.9% | 2.2–6.3% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.3–5.4% | 2.9–5.7% | 2.7–5.9% | 2.3–6.3% |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 4.9% | 4.3–5.6% | 4.1–5.9% | 3.9–6.0% | 3.7–6.4% |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–6.0% | 3.7–6.3% |
 | [11–13 February 2022](2022-02-13-SavantaComRes.html) | Savanta ComRes | 3.1% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [10–11 February 2022](2022-02-11-YouGov.html) | YouGov <br> The Times | 6.4% | N/A | N/A | N/A | N/A |
-| [9–11 February 2022](2022-02-11-Opinium.html) | Opinium <br> The Observer | 4.8% | N/A | N/A | N/A | N/A |
+| [9–11 February 2022](2022-02-11-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.1–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
 | [8–9 February 2022](2022-02-09-TechneUK.html) | Techne UK | 4.6% | N/A | N/A | N/A | N/A |
 | [7 February 2022](2022-02-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | N/A | N/A | N/A | N/A |
 | [4–6 February 2022](2022-02-06-SavantaComRes.html) | Savanta ComRes | 3.9% | N/A | N/A | N/A | N/A |
-| [3–4 February 2022](2022-02-04-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4.1% | N/A | N/A | N/A | N/A |
+| [3–4 February 2022](2022-02-04-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.6% |
 | [1–2 February 2022](2022-02-02-YouGov.html) | YouGov <br> The Times | 4.9% | N/A | N/A | N/A | N/A |
 | [1–2 February 2022](2022-02-02-TechneUK.html) | Techne UK | 4.6% | N/A | N/A | N/A | N/A |
-| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | N/A | N/A | N/A | N/A |
+| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–6.0% | 3.7–6.3% |
 | [28–30 January 2022](2022-01-30-SavantaComRes.html) | Savanta ComRes | 2.3% | N/A | N/A | N/A | N/A |
 | [28 January 2022](2022-01-28-TechneUK.html) | Techne UK | 4.9% | N/A | N/A | N/A | N/A |
 | [27–28 January 2022](2022-01-28-Opinium.html) | Opinium <br> The Observer | 4.0% | N/A | N/A | N/A | N/A |
@@ -483,10 +483,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 16% | 98% | Last Result |
-| 3.5–4.5% | 26% | 82% |  |
-| 4.5–5.5% | 47% | 55% | Median |
-| 5.5–6.5% | 8% | 8% |  |
+| 2.5–3.5% | 13% | 98% | Last Result |
+| 3.5–4.5% | 34% | 86% |  |
+| 4.5–5.5% | 44% | 52% | Median |
+| 5.5–6.5% | 7% | 7% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -505,14 +505,14 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [11–13 February 2022](2022-02-13-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [10–11 February 2022](2022-02-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [9–11 February 2022](2022-02-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [9–11 February 2022](2022-02-11-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [8–9 February 2022](2022-02-09-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [7 February 2022](2022-02-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–6 February 2022](2022-02-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [3–4 February 2022](2022-02-04-Deltapoll.html) | Deltapoll <br> The Sun on Sunday |  |  |  |  |  |
+| [3–4 February 2022](2022-02-04-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 1 | 1 | 1 | 1 | 1 |
 | [1–2 February 2022](2022-02-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–2 February 2022](2022-02-02-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [28–30 January 2022](2022-01-30-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [28 January 2022](2022-01-28-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [27–28 January 2022](2022-01-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
