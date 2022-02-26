@@ -11,6 +11,11 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -495,6 +500,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation |  |  |  |  |  |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |

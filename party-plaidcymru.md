@@ -10,7 +10,12 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.4% | 0.3–1.5% | 0.2–1.7% | 0.1–1.9% |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -481,9 +486,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% |  |
-| 0.5–1.5% | 92% | 99.0% | Last Result, Median |
-| 1.5–2.5% | 7% | 7% |  |
+| 0.0–0.5% | 12% | 100% |  |
+| 0.5–1.5% | 83% | 88% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -495,7 +500,12 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 2–6 | 0–6 | 0–7 |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation | 5 | 5 | 5–6 | 4–6 | 4–6 |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -968,15 +978,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 3% | 99.7% | Last Result |
-| 5 | 81% | 97% | Median |
-| 6 | 12% | 16% |  |
-| 7 | 3% | 4% |  |
-| 8 | 0% | 0.4% |  |
-| 9 | 0.1% | 0.3% |  |
-| 10 | 0.2% | 0.3% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 0 | 3% | 100% |  |
+| 1 | 0.4% | 97% |  |
+| 2 | 3% | 96% |  |
+| 3 | 3% | 94% |  |
+| 4 | 5% | 90% | Last Result |
+| 5 | 73% | 85% | Median |
+| 6 | 9% | 12% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0% | 0.2% |  |
+| 9 | 0% | 0.2% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

@@ -10,7 +10,12 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.7–6.6% | 2.3–7.4% | 2.1–7.9% | 1.7–8.7% |
+| N/A | [Poll Average](average.html) | 4.7% | 2.9–6.5% | 2.4–7.3% | 2.2–7.9% | 1.9–8.7% |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 4.8% | 4.1–5.5% | 4.0–5.7% | 3.8–5.9% | 3.6–6.3% |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.7% | 5.0–6.4% | 4.9–6.6% | 4.7–6.8% | 4.4–7.2% |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 4.8% | 4.1–5.8% | 3.9–6.1% | 3.7–6.3% | 3.4–6.8% |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent | 4.0% | 3.5–4.6% | 3.3–4.7% | 3.2–4.9% | 3.0–5.2% |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 4.9% | 4.3–5.6% | 4.1–5.9% | 3.9–6.0% | 3.7–6.4% |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–6.0% | 3.7–6.3% |
@@ -481,13 +486,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 7% | 99.8% |  |
-| 2.5–3.5% | 13% | 92% | Last Result |
-| 3.5–4.5% | 23% | 79% |  |
-| 4.5–5.5% | 34% | 56% | Median |
-| 5.5–6.5% | 12% | 22% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 7% | 93% | Last Result |
+| 3.5–4.5% | 29% | 86% |  |
+| 4.5–5.5% | 33% | 57% | Median |
+| 5.5–6.5% | 14% | 23% |  |
 | 6.5–7.5% | 6% | 10% |  |
 | 7.5–8.5% | 3% | 4% |  |
 | 8.5–9.5% | 0.6% | 0.7% |  |
@@ -504,6 +508,11 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–3 | 1–4 |
+| [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [17–21 February 2022](2022-02-21-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1 |
+| [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1 |
+| [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent | 1 | 1 | 1 | 1 | 1 |
 | [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
