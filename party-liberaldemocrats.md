@@ -10,7 +10,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.6–12.9% | 9.3–13.5% | 9.1–14.0% | 8.6–14.9% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.5–12.0% | 8.0–12.7% | 7.7–13.4% | 7.1–14.4% |
 | [23–24 March 2022](2022-03-24-YouGov.html) | YouGov | 10.4% | 9.5–11.4% | 9.2–11.7% | 9.0–11.9% | 8.6–12.5% |
 | [23–24 March 2022](2022-03-24-Techne.html) | Techne | 10.1% | 9.2–11.1% | 8.9–11.4% | 8.7–11.7% | 8.3–12.2% |
 | [22–23 March 2022](2022-03-23-YouGov.html) | YouGov | 9.3% | N/A | N/A | N/A | N/A |
@@ -18,19 +18,19 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.2% | 10.4–12.2% | 10.1–12.5% | 9.9–12.7% | 9.5–13.2% |
 | [16–17 March 2022](2022-03-17-YouGov.html) | YouGov <br> The Times | 10.3% | N/A | N/A | N/A | N/A |
 | [16–17 March 2022](2022-03-17-Techne.html) | Techne | 10.2% | N/A | N/A | N/A | N/A |
-| [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.1% | N/A | N/A | N/A | N/A |
-| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
+| [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.8% |
+| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 9.2% | 8.5–10.1% | 8.3–10.3% | 8.1–10.5% | 7.7–11.0% |
 | [13 March 2022](2022-03-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
-| [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 9.2% | N/A | N/A | N/A | N/A |
-| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 10.4% | N/A | N/A | N/A | N/A |
+| [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 9.2% | 8.4–10.0% | 8.1–10.3% | 8.0–10.5% | 7.6–11.0% |
+| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 10.4% | 9.6–11.4% | 9.3–11.6% | 9.1–11.9% | 8.7–12.3% |
 | [9–10 March 2022](2022-03-10-Techne.html) | Techne | 9.1% | N/A | N/A | N/A | N/A |
 | [8–9 March 2022](2022-03-09-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
 | [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [4–6 March 2022](2022-03-06-SavantaComRes.html) | Savanta ComRes | 9.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2022](2022-03-04-YouGov.html) | YouGov <br> The Times | 7.3% | N/A | N/A | N/A | N/A |
-| [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 10.1% | N/A | N/A | N/A | N/A |
-| [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
-| [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 8.1% | N/A | N/A | N/A | N/A |
+| [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 10.1% | 9.2–11.2% | 9.0–11.4% | 8.7–11.7% | 8.3–12.2% |
+| [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | 11.4–13.4% | 11.2–13.7% | 11.0–13.9% | 10.5–14.4% |
+| [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 8.1% | 7.3–8.9% | 7.1–9.2% | 7.0–9.4% | 6.6–9.8% |
 | [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
 | [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 9.2% | N/A | N/A | N/A | N/A |
 | [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 11.3% | N/A | N/A | N/A | N/A |
@@ -510,17 +510,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 8% | 99.6% |  |
-| 9.5–10.5% | 28% | 92% |  |
-| 10.5–11.5% | 31% | 64% | Median |
-| 11.5–12.5% | 18% | 33% | Last Result |
-| 12.5–13.5% | 10% | 14% |  |
-| 13.5–14.5% | 4% | 5% |  |
-| 14.5–15.5% | 0.9% | 1.0% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 9% | 98% |  |
+| 8.5–9.5% | 22% | 89% |  |
+| 9.5–10.5% | 30% | 67% | Median |
+| 10.5–11.5% | 22% | 37% |  |
+| 11.5–12.5% | 9% | 15% | Last Result |
+| 12.5–13.5% | 4% | 6% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.3% | 0.4% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -531,27 +531,27 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 8–25 | 7–28 | 7–31 | 6–36 |
+| N/A | [Poll Average](average.html) | 12 | 6–23 | 6–24 | 6–28 | 4–34 |
 | [23–24 March 2022](2022-03-24-YouGov.html) | YouGov | 13 | 7–20 | 7–21 | 7–23 | 6–26 |
 | [23–24 March 2022](2022-03-24-Techne.html) | Techne | 13 | 7–20 | 7–22 | 6–23 | 6–25 |
 | [22–23 March 2022](2022-03-23-YouGov.html) | YouGov |  |  |  |  |  |
 | [17–21 March 2022](2022-03-21-Kantar.html) | Kantar | 24 | 19–31 | 16–33 | 12–35 | 9–41 |
-| [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 19 | 13–24 | 11–25 | 9–28 | 7–29 |
+| [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 19 | 13–24 | 11–25 | 9–27 | 7–29 |
 | [16–17 March 2022](2022-03-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [16–17 March 2022](2022-03-17-Techne.html) | Techne |  |  |  |  |  |
-| [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 11 | 7–19 | 6–21 | 6–23 | 6–27 |
+| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 8 | 6–13 | 6–16 | 6–17 | 6–20 |
 | [13 March 2022](2022-03-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 8 | 6–13 | 6–16 | 6–17 | 6–20 |
+| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 15 | 7–19 | 7–19 | 7–20 | 6–23 |
 | [9–10 March 2022](2022-03-10-Techne.html) | Techne |  |  |  |  |  |
 | [8–9 March 2022](2022-03-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–6 March 2022](2022-03-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [3–4 March 2022](2022-03-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV |  |  |  |  |  |
+| [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 13 | 7–20 | 7–22 | 6–23 | 6–26 |
+| [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 21 | 17–27 | 16–29 | 15–31 | 11–35 |
+| [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 6 | 4–7 | 4–7 | 4–7 | 3–11 |
 | [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -1033,43 +1033,45 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.3% | 100% |  |
-| 7 | 6% | 98.7% |  |
-| 8 | 4% | 93% |  |
-| 9 | 4% | 89% |  |
-| 10 | 1.2% | 85% |  |
-| 11 | 4% | 84% | Last Result |
-| 12 | 5% | 80% |  |
-| 13 | 6% | 75% |  |
-| 14 | 2% | 69% |  |
-| 15 | 2% | 67% |  |
-| 16 | 6% | 64% |  |
-| 17 | 7% | 59% |  |
-| 18 | 8% | 52% | Median |
-| 19 | 3% | 44% |  |
-| 20 | 7% | 41% |  |
-| 21 | 7% | 34% |  |
-| 22 | 2% | 26% |  |
-| 23 | 5% | 24% |  |
-| 24 | 8% | 19% |  |
-| 25 | 2% | 11% |  |
-| 26 | 2% | 10% |  |
-| 27 | 1.4% | 8% |  |
-| 28 | 2% | 7% |  |
-| 29 | 1.1% | 5% |  |
-| 30 | 1.2% | 4% |  |
-| 31 | 0.9% | 3% |  |
-| 32 | 0.2% | 2% |  |
-| 33 | 0.4% | 2% |  |
-| 34 | 0.1% | 1.2% |  |
-| 35 | 0.6% | 1.2% |  |
-| 36 | 0.1% | 0.6% |  |
-| 37 | 0.1% | 0.5% |  |
-| 38 | 0% | 0.4% |  |
-| 39 | 0.1% | 0.3% |  |
-| 40 | 0% | 0.2% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0.1% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 1.0% | 99.8% |  |
+| 5 | 0.2% | 98.8% |  |
+| 6 | 12% | 98.6% |  |
+| 7 | 16% | 87% |  |
+| 8 | 6% | 71% |  |
+| 9 | 5% | 65% |  |
+| 10 | 2% | 60% |  |
+| 11 | 6% | 59% | Last Result |
+| 12 | 5% | 53% | Median |
+| 13 | 4% | 48% |  |
+| 14 | 1.4% | 44% |  |
+| 15 | 4% | 42% |  |
+| 16 | 6% | 38% |  |
+| 17 | 5% | 33% |  |
+| 18 | 5% | 28% |  |
+| 19 | 4% | 23% |  |
+| 20 | 4% | 20% |  |
+| 21 | 4% | 16% |  |
+| 22 | 1.1% | 12% |  |
+| 23 | 3% | 11% |  |
+| 24 | 3% | 8% |  |
+| 25 | 0.7% | 5% |  |
+| 26 | 0.8% | 4% |  |
+| 27 | 0.6% | 3% |  |
+| 28 | 0.7% | 3% |  |
+| 29 | 0.5% | 2% |  |
+| 30 | 0.5% | 2% |  |
+| 31 | 0.3% | 1.1% |  |
+| 32 | 0.1% | 0.7% |  |
+| 33 | 0.2% | 0.7% |  |
+| 34 | 0% | 0.5% |  |
+| 35 | 0.2% | 0.5% |  |
+| 36 | 0% | 0.2% |  |
+| 37 | 0% | 0.2% |  |
+| 38 | 0% | 0.2% |  |
+| 39 | 0% | 0.1% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
