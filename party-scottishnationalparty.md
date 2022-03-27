@@ -31,9 +31,9 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.6% |
 | [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
-| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
-| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 5.1% | N/A | N/A | N/A | N/A |
-| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 4.1% | N/A | N/A | N/A | N/A |
+| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
+| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.1–6.2% | 3.8–6.6% |
+| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.6–4.7% | 3.5–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [17–21 February 2022](2022-02-21-Survation.html) | Survation | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.4% |
 | [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.9% | 4.4–6.1% | 4.2–6.2% | 4.0–6.6% |
@@ -549,9 +549,9 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 55 | 45–58 | 41–58 | 37–58 | 33–58 |
 | [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 57 | 55–58 | 54–58 | 53–58 | 50–58 |
 | [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 58 | 57–58 | 56–58 | 55–58 | 51–58 |
-| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 54 | 43–57 | 40–58 | 38–58 | 32–58 |
+| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 58 | 57–58 | 57–58 | 55–58 | 52–58 |
+| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 54 | 46–57 | 44–58 | 41–58 | 35–58 |
 | [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 56 | 46–58 | 40–58 | 37–58 | 32–58 |
 | [17–21 February 2022](2022-02-21-Survation.html) | Survation | 54 | 43–57 | 40–58 | 37–58 | 32–58 |
 | [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 55–58 | 54–58 | 51–58 |

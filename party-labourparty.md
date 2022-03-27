@@ -31,9 +31,9 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 38.5% | 37.0–40.1% | 36.5–40.5% | 36.2–40.9% | 35.4–41.7% |
 | [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 39.2% | 37.8–40.7% | 37.4–41.1% | 37.1–41.4% | 36.4–42.1% |
 | [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 42.6% | 41.2–44.1% | 40.8–44.5% | 40.4–44.8% | 39.8–45.5% |
-| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 43.0% | N/A | N/A | N/A | N/A |
-| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 39.9% | N/A | N/A | N/A | N/A |
-| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 38.9% | N/A | N/A | N/A | N/A |
+| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 43.0% | 41.6–44.4% | 41.2–44.7% | 40.9–45.1% | 40.2–45.7% |
+| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 39.9% | 38.3–41.4% | 37.9–41.9% | 37.5–42.2% | 36.8–43.0% |
+| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 38.9% | 37.5–40.3% | 37.1–40.7% | 36.8–41.0% | 36.2–41.7% |
 | [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 39.5% | 38.0–41.1% | 37.5–41.6% | 37.2–41.9% | 36.4–42.7% |
 | [17–21 February 2022](2022-02-21-Survation.html) | Survation | 42.8% | 41.4–44.2% | 41.0–44.6% | 40.6–44.9% | 39.9–45.6% |
 | [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 40.1% | 38.7–41.5% | 38.3–42.0% | 37.9–42.3% | 37.3–43.0% |
@@ -62,7 +62,7 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [24 January 2022](2022-01-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.1% | N/A | N/A | N/A | N/A |
 | [20–24 January 2022](2022-01-24-Kantar.html) | Kantar | 39.4% | 37.5–41.4% | 37.0–42.0% | 36.5–42.4% | 35.6–43.4% |
 | [21–23 January 2022](2022-01-23-SavantaComRes.html) | Savanta ComRes | 41.1% | N/A | N/A | N/A | N/A |
-| [11–23 January 2022](2022-01-23-JLPartnersPolls.html) | JL Partners Polls <br> Sunday Times | 45.8% | N/A | N/A | N/A | N/A |
+| [11–23 January 2022](2022-01-23-JLPartnersPolls.html) | JL Partners Polls <br> Sunday Times | 45.8% | 44.8–46.7% | 44.6–47.0% | 44.3–47.2% | 43.9–47.7% |
 | [20–21 January 2022](2022-01-21-YouGov.html) | YouGov <br> The Times | 41.0% | N/A | N/A | N/A | N/A |
 | [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 44.2% | 42.7–45.6% | 42.3–46.0% | 42.0–46.4% | 41.3–47.1% |
 | [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.7% | 43.2–46.1% | 42.8–46.5% | 42.5–46.9% | 41.8–47.6% |
@@ -557,9 +557,9 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 290 | 277–305 | 271–311 | 268–314 | 256–322 |
 | [28 February 2022](2022-02-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 289 | 278–302 | 273–307 | 269–310 | 260–317 |
 | [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 309 | 293–320 | 291–321 | 287–322 | 280–327 |
-| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 316 | 302–327 | 299–330 | 294–332 | 289–338 |
+| [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 298 | 284–313 | 278–316 | 276–318 | 270–322 |
+| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 294 | 280–309 | 277–312 | 275–315 | 268–321 |
 | [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 295 | 280–312 | 277–317 | 275–321 | 266–328 |
 | [17–21 February 2022](2022-02-21-Survation.html) | Survation | 311 | 295–323 | 292–327 | 290–330 | 283–335 |
 | [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 303 | 291–317 | 287–319 | 283–319 | 277–324 |
@@ -588,7 +588,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [24 January 2022](2022-01-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [20–24 January 2022](2022-01-24-Kantar.html) | Kantar | 292 | 277–309 | 274–313 | 268–317 | 254–323 |
 | [21–23 January 2022](2022-01-23-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
-| [11–23 January 2022](2022-01-23-JLPartnersPolls.html) | JL Partners Polls <br> Sunday Times |  |  |  |  |  |
+| [11–23 January 2022](2022-01-23-JLPartnersPolls.html) | JL Partners Polls <br> Sunday Times | 334 | 328–346 | 327–349 | 326–351 | 325–358 |
 | [20–21 January 2022](2022-01-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 323 | 314–333 | 310–336 | 306–340 | 299–348 |
 | [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 336 | 325–353 | 322–359 | 320–363 | 317–372 |
