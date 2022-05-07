@@ -10,29 +10,40 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.1–5.9% | 2.8–6.4% | 2.6–6.7% | 2.3–7.2% |
-| [6–7 April 2022](2022-04-07-TechneUK.html) | TechneUK | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.7–5.6% | 3.5–5.9% | 3.4–6.1% | 3.1–6.6% |
+| [19–20 April 2022](2022-04-20-YouGov.html) | YouGov <br> The Times | 4.1% | 3.6–4.8% | 3.5–4.9% | 3.3–5.1% | 3.1–5.4% |
+| [17 April 2022](2022-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.9% | 4.4–6.1% | 4.2–6.2% | 4.0–6.6% |
+| [13–14 April 2022](2022-04-14-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
+| [13–14 April 2022](2022-04-14-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.2–6.4% | 3.9–6.9% |
+| [12–13 April 2022](2022-04-13-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
+| [7–11 April 2022](2022-04-11-Kantar.html) | Kantar | 5.1% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.6–7.1% |
+| [8–10 April 2022](2022-04-10-SavantaComRes.html) | Savanta ComRes | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.4–5.1% | 3.2–5.4% |
+| [10 April 2022](2022-04-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
+| [6–8 April 2022](2022-04-08-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [6–7 April 2022](2022-04-07-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
+| [6–7 April 2022](2022-04-07-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
 | [1–3 April 2022](2022-04-03-SavantaComRes.html) | Savanta ComRes | 5.0% | 4.5–5.7% | 4.3–5.8% | 4.2–6.0% | 3.9–6.3% |
 | [3 April 2022](2022-04-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | 2.6–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
-| [1 April 2022](2022-04-01-TechneUK.html) | TechneUK | 5.1% | N/A | N/A | N/A | N/A |
+| [1 April 2022](2022-04-01-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
+| [30–31 March 2022](2022-03-31-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
 | [29–30 March 2022](2022-03-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [28–30 March 2022](2022-03-30-Survation.html) | Survation | 4.1% | 3.5–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.3% |
 | [25–27 March 2022](2022-03-27-SavantaComRes.html) | Savanta ComRes | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.3–6.1% | 4.0–6.4% |
 | [27 March 2022](2022-03-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [23–25 March 2022](2022-03-25-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [23–24 March 2022](2022-03-24-YouGov.html) | YouGov | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.2% | 3.0–5.5% |
-| [23–24 March 2022](2022-03-24-Techne.html) | Techne | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 3.0–5.5% |
+| [23–24 March 2022](2022-03-24-TechneUK.html) | Techne UK | 4.1% | N/A | N/A | N/A | N/A |
 | [22–23 March 2022](2022-03-23-YouGov.html) | YouGov | 4.2% | N/A | N/A | N/A | N/A |
 | [17–21 March 2022](2022-03-21-Kantar.html) | Kantar | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [16–17 March 2022](2022-03-17-YouGov.html) | YouGov <br> The Times | 5.1% | N/A | N/A | N/A | N/A |
-| [16–17 March 2022](2022-03-17-Techne.html) | Techne | 4.0% | N/A | N/A | N/A | N/A |
+| [16–17 March 2022](2022-03-17-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
 | [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.2% |
 | [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
 | [13 March 2022](2022-03-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
 | [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.3% |
 | [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.6% |
-| [9–10 March 2022](2022-03-10-Techne.html) | Techne | 4.1% | N/A | N/A | N/A | N/A |
+| [9–10 March 2022](2022-03-10-TechneUK.html) | Techne UK | 4.1% | N/A | N/A | N/A | N/A |
 | [8–9 March 2022](2022-03-09-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
 | [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
 | [4–6 March 2022](2022-03-06-SavantaComRes.html) | Savanta ComRes | 5.0% | N/A | N/A | N/A | N/A |
@@ -519,15 +530,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 19% | 98% |  |
-| 3.5–4.5% | 37% | 79% | Last Result, Median |
-| 4.5–5.5% | 26% | 42% |  |
-| 5.5–6.5% | 13% | 16% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 50% | 94% | Last Result, Median |
+| 4.5–5.5% | 33% | 44% |  |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -538,29 +547,40 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 34–58 | 28–58 | 22–58 | 12–58 |
-| [6–7 April 2022](2022-04-07-TechneUK.html) | TechneUK | 54 | 42–58 | 38–58 | 35–58 | 31–58 |
+| N/A | [Poll Average](average.html) | 57 | 49–58 | 44–58 | 40–58 | 35–58 |
+| [19–20 April 2022](2022-04-20-YouGov.html) | YouGov <br> The Times | 56 | 48–58 | 45–58 | 41–58 | 36–58 |
+| [17 April 2022](2022-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 56–58 | 55–58 | 54–58 | 51–58 |
+| [13–14 April 2022](2022-04-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–14 April 2022](2022-04-14-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 57 | 55–58 | 54–58 | 52–58 | 49–58 |
+| [12–13 April 2022](2022-04-13-TechneUK.html) | Techne UK | 55 | 43–58 | 40–58 | 37–58 | 31–58 |
+| [7–11 April 2022](2022-04-11-Kantar.html) | Kantar | 58 | 55–58 | 54–58 | 52–58 | 46–58 |
+| [8–10 April 2022](2022-04-10-SavantaComRes.html) | Savanta ComRes | 56 | 47–58 | 43–58 | 40–58 | 35–58 |
+| [10 April 2022](2022-04-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [6–8 April 2022](2022-04-08-Opinium.html) | Opinium <br> The Observer | 56 | 48–58 | 45–58 | 41–58 | 35–58 |
+| [6–7 April 2022](2022-04-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [6–7 April 2022](2022-04-07-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [1–3 April 2022](2022-04-03-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 54–58 | 52–58 |
 | [3 April 2022](2022-04-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 32 | 22–45 | 16–49 | 12–51 | 9–55 |
-| [1 April 2022](2022-04-01-TechneUK.html) | TechneUK |  |  |  |  |  |
+| [1 April 2022](2022-04-01-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [30–31 March 2022](2022-03-31-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [29–30 March 2022](2022-03-30-YouGov.html) | YouGov <br> The Times | 58 | 58 | 58 | 58 | 58 |
 | [28–30 March 2022](2022-03-30-Survation.html) | Survation | 54 | 43–57 | 40–58 | 37–58 | 32–58 |
 | [25–27 March 2022](2022-03-27-SavantaComRes.html) | Savanta ComRes | 58 | 56–58 | 55–58 | 55–58 | 52–58 |
 | [27 March 2022](2022-03-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 58 | 58 | 58 | 58 | 58 |
 | [23–25 March 2022](2022-03-25-Opinium.html) | Opinium <br> The Observer | 56 | 48–58 | 44–58 | 40–58 | 34–58 |
 | [23–24 March 2022](2022-03-24-YouGov.html) | YouGov | 55 | 46–58 | 42–58 | 39–58 | 34–58 |
-| [23–24 March 2022](2022-03-24-Techne.html) | Techne | 55 | 44–58 | 39–58 | 36–58 | 31–58 |
+| [23–24 March 2022](2022-03-24-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [22–23 March 2022](2022-03-23-YouGov.html) | YouGov |  |  |  |  |  |
 | [17–21 March 2022](2022-03-21-Kantar.html) | Kantar | 39 | 19–49 | 16–53 | 13–55 | 6–56 |
 | [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 53 | 44–57 | 39–58 | 37–58 | 33–58 |
 | [16–17 March 2022](2022-03-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–17 March 2022](2022-03-17-Techne.html) | Techne |  |  |  |  |  |
+| [16–17 March 2022](2022-03-17-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 58 | 56–58 | 54–58 | 51–58 | 45–58 |
 | [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 55 | 46–58 | 42–58 | 39–58 | 34–58 |
 | [13 March 2022](2022-03-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 57 | 50–58 | 47–58 | 43–58 | 35–58 |
 | [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 58 | 57–58 | 56–58 | 55–58 | 51–58 |
-| [9–10 March 2022](2022-03-10-Techne.html) | Techne |  |  |  |  |  |
+| [9–10 March 2022](2022-03-10-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [8–9 March 2022](2022-03-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–6 March 2022](2022-03-06-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -1049,59 +1069,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0% | 100% |  |
-| 7 | 0.1% | 99.9% |  |
-| 8 | 0.1% | 99.9% |  |
-| 9 | 0% | 99.8% |  |
-| 10 | 0.1% | 99.8% |  |
-| 11 | 0% | 99.6% |  |
-| 12 | 0.1% | 99.6% |  |
-| 13 | 0.1% | 99.5% |  |
-| 14 | 0.1% | 99.4% |  |
-| 15 | 0.1% | 99.2% |  |
-| 16 | 0.4% | 99.1% |  |
-| 17 | 0.2% | 98.8% |  |
-| 18 | 0.2% | 98.6% |  |
-| 19 | 0.3% | 98% |  |
-| 20 | 0.1% | 98% |  |
-| 21 | 0.2% | 98% |  |
-| 22 | 0.3% | 98% |  |
-| 23 | 0.1% | 97% |  |
-| 24 | 0.4% | 97% |  |
-| 25 | 0.5% | 97% |  |
-| 26 | 0.7% | 97% |  |
-| 27 | 0.5% | 96% |  |
-| 28 | 0.9% | 95% |  |
-| 29 | 0.6% | 94% |  |
-| 30 | 0.5% | 94% |  |
-| 31 | 1.4% | 93% |  |
-| 32 | 0.6% | 92% |  |
-| 33 | 1.1% | 91% |  |
-| 34 | 0.9% | 90% |  |
-| 35 | 0.7% | 89% |  |
-| 36 | 0.7% | 89% |  |
-| 37 | 1.2% | 88% |  |
-| 38 | 0.7% | 87% |  |
-| 39 | 1.0% | 86% |  |
-| 40 | 0.9% | 85% |  |
-| 41 | 1.1% | 84% |  |
-| 42 | 1.0% | 83% |  |
-| 43 | 1.0% | 82% |  |
-| 44 | 0.9% | 81% |  |
-| 45 | 1.1% | 80% |  |
-| 46 | 2% | 79% |  |
-| 47 | 1.2% | 77% |  |
-| 48 | 2% | 76% | Last Result |
-| 49 | 3% | 74% |  |
-| 50 | 2% | 72% |  |
-| 51 | 2% | 69% |  |
-| 52 | 2% | 67% |  |
-| 53 | 3% | 65% |  |
-| 54 | 3% | 62% |  |
-| 55 | 5% | 60% |  |
-| 56 | 7% | 55% | Median |
-| 57 | 11% | 48% |  |
-| 58 | 38% | 38% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0% | 99.9% |  |
+| 30 | 0% | 99.9% |  |
+| 31 | 0.1% | 99.9% |  |
+| 32 | 0.1% | 99.8% |  |
+| 33 | 0.1% | 99.7% |  |
+| 34 | 0.2% | 99.7% |  |
+| 35 | 0.2% | 99.5% |  |
+| 36 | 0.1% | 99.3% |  |
+| 37 | 0.3% | 99.1% |  |
+| 38 | 0.3% | 98.8% |  |
+| 39 | 0.3% | 98.5% |  |
+| 40 | 0.8% | 98% |  |
+| 41 | 0.7% | 97% |  |
+| 42 | 0.5% | 97% |  |
+| 43 | 0.8% | 96% |  |
+| 44 | 0.6% | 95% |  |
+| 45 | 1.0% | 95% |  |
+| 46 | 0.7% | 94% |  |
+| 47 | 1.0% | 93% |  |
+| 48 | 2% | 92% | Last Result |
+| 49 | 2% | 90% |  |
+| 50 | 2% | 88% |  |
+| 51 | 3% | 86% |  |
+| 52 | 3% | 83% |  |
+| 53 | 4% | 80% |  |
+| 54 | 5% | 76% |  |
+| 55 | 8% | 71% |  |
+| 56 | 9% | 63% |  |
+| 57 | 22% | 54% | Median |
+| 58 | 32% | 32% |  |
 | 59 | 0% | 0% |  |
 
 
