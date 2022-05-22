@@ -27,7 +27,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [29 April–1 May 2022](2022-05-01-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [1 May 2022](2022-05-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 April 2022](2022-04-28-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
-| [20–28 April 2022](2022-04-28-IpsosMORI.html) | Ipsos MORI | 0.1% | N/A | N/A | N/A | N/A |
+| [20–28 April 2022](2022-04-28-IpsosMORI.html) | Ipsos MORI | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [26–27 April 2022](2022-04-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [22–26 April 2022](2022-04-26-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [14–26 April 2022](2022-04-26-Opinium.html) | Opinium | 0.0% | N/A | N/A | N/A | N/A |
@@ -584,7 +584,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [29 April–1 May 2022](2022-05-01-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [1 May 2022](2022-05-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [27–28 April 2022](2022-04-28-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [20–28 April 2022](2022-04-28-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [20–28 April 2022](2022-04-28-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [26–27 April 2022](2022-04-27-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–26 April 2022](2022-04-26-Survation.html) | Survation |  |  |  |  |  |
 | [14–26 April 2022](2022-04-26-Opinium.html) | Opinium |  |  |  |  |  |
