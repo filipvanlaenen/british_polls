@@ -10,21 +10,21 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.1–5.9% | 2.9–6.2% | 2.8–6.5% | 2.5–7.0% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.6–5.5% | 2.3–5.9% | 2.0–6.2% | 1.7–6.8% |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.7–6.9% | 4.4–7.3% |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.3% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.8–3.8% | 2.7–3.9% | 2.5–4.1% | 2.3–4.3% |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.5–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.4% |
-| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 4.8% | N/A | N/A | N/A | N/A |
+| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times | 4.8% | N/A | N/A | N/A | N/A |
 | [7 July 2022](2022-07-07-Techne.html) | Techne | 4.8% | N/A | N/A | N/A | N/A |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.5% | N/A | N/A | N/A | N/A |
-| [6 July 2022](2022-07-06-Survation.html) | Survation | 2.3% | N/A | N/A | N/A | N/A |
+| [6 July 2022](2022-07-06-Survation.html) | Survation | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes | 2.4% | N/A | N/A | N/A | N/A |
 | [3 July 2022](2022-07-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent | 3.3% | N/A | N/A | N/A | N/A |
-| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
-| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
+| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent | 3.3% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
+| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.9–5.4% |
+| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.6% |
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 4.9% | N/A | N/A | N/A | N/A |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 4.7% | N/A | N/A | N/A | N/A |
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 1.6% | N/A | N/A | N/A | N/A |
@@ -603,15 +603,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 22% | 99.4% | Last Result |
-| 3.5–4.5% | 32% | 78% | Median |
-| 4.5–5.5% | 28% | 46% |  |
-| 5.5–6.5% | 16% | 18% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 8% | 99.7% |  |
+| 2.5–3.5% | 26% | 92% | Last Result |
+| 3.5–4.5% | 32% | 66% | Median |
+| 4.5–5.5% | 24% | 34% |  |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 1.0% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -627,16 +627,16 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 1 | 1 | 1 | 1 | 1 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [7 July 2022](2022-07-07-Techne.html) | Techne |  |  |  |  |  |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [6 July 2022](2022-07-06-Survation.html) | Survation |  |  |  |  |  |
+| [6 July 2022](2022-07-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–1 |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [3 July 2022](2022-07-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
-| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1 | 1 | 1 |
+| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [27 June 2022](2022-06-27-Survation.html) | Survation |  |  |  |  |  |
@@ -1217,9 +1217,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.7% | 100% | Last Result, Median |
-| 2 | 0.9% | 1.3% |  |
-| 3 | 0.4% | 0.4% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 99.2% | 99.8% | Last Result, Median |
+| 2 | 0.4% | 0.7% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
