@@ -10,7 +10,45 @@ Last result: **43.6%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.1% | 31.3–35.3% | 30.8–35.9% | 30.4–36.3% | 29.7–37.3% |
+| N/A | [Poll Average](average.html) | 30.7% | 28.4–32.9% | 27.9–33.4% | 27.5–33.8% | 26.7–34.6% |
+| [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 30.2% | 28.7–31.6% | 28.3–32.1% | 28.0–32.4% | 27.3–33.1% |
+| [14 July 2022](2022-07-14-Techne.html) | Techne | 31.4% | 29.9–32.9% | 29.5–33.3% | 29.2–33.7% | 28.5–34.4% |
+| [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 28.7% | 27.5–30.0% | 27.1–30.4% | 26.8–30.7% | 26.3–31.3% |
+| [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 32.3% | 30.9–33.7% | 30.5–34.0% | 30.2–34.4% | 29.6–35.1% |
+| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 33.4% | N/A | N/A | N/A | N/A |
+| [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times | 29.6% | N/A | N/A | N/A | N/A |
+| [7 July 2022](2022-07-07-Techne.html) | Techne | 29.4% | N/A | N/A | N/A | N/A |
+| [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 31.5% | N/A | N/A | N/A | N/A |
+| [6 July 2022](2022-07-06-Survation.html) | Survation | 31.2% | N/A | N/A | N/A | N/A |
+| [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes | 32.6% | N/A | N/A | N/A | N/A |
+| [3 July 2022](2022-07-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 35.9% | N/A | N/A | N/A | N/A |
+| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent | 33.0% | N/A | N/A | N/A | N/A |
+| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK | 33.4% | N/A | N/A | N/A | N/A |
+| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33.2% | N/A | N/A | N/A | N/A |
+| [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 34.4% | N/A | N/A | N/A | N/A |
+| [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 30.6% | N/A | N/A | N/A | N/A |
+| [27 June 2022](2022-06-27-Survation.html) | Survation | 35.6% | N/A | N/A | N/A | N/A |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 34.5% | N/A | N/A | N/A | N/A |
+| [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33.4% | N/A | N/A | N/A | N/A |
+| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 34.4% | N/A | N/A | N/A | N/A |
+| [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 35.1% | N/A | N/A | N/A | N/A |
+| [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK | 32.4% | N/A | N/A | N/A | N/A |
+| [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 32.7% | N/A | N/A | N/A | N/A |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 35.9% | N/A | N/A | N/A | N/A |
+| [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes | 32.2% | N/A | N/A | N/A | N/A |
+| [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33.9% | N/A | N/A | N/A | N/A |
+| [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times | 35.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2022](2022-06-16-TechneUK.html) | Techne UK | 33.4% | N/A | N/A | N/A | N/A |
+| [15 June 2022](2022-06-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 35.2% | N/A | N/A | N/A | N/A |
+| [10–12 June 2022](2022-06-12-SavantaComRes.html) | Savanta ComRes | 34.7% | N/A | N/A | N/A | N/A |
+| [12 June 2022](2022-06-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 32.1% | N/A | N/A | N/A | N/A |
+| [10 June 2022](2022-06-10-TechneUK.html) | Techne UK | 33.5% | N/A | N/A | N/A | N/A |
+| [10 June 2022](2022-06-10-Survation.html) | Survation | 34.6% | N/A | N/A | N/A | N/A |
+| [8–10 June 2022](2022-06-10-Opinium.html) | Opinium <br> The Observer | 34.5% | N/A | N/A | N/A | N/A |
+| [8–9 June 2022](2022-06-09-YouGov.html) | YouGov <br> The Times | 33.1% | N/A | N/A | N/A | N/A |
+| [8–9 June 2022](2022-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33.0% | N/A | N/A | N/A | N/A |
+| [5 June 2022](2022-06-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 35.0% | N/A | N/A | N/A | N/A |
+| [1–3 June 2022](2022-06-03-YouGov.html) | YouGov <br> The Times | 33.7% | N/A | N/A | N/A | N/A |
 | [1 June 2022](2022-06-01-TechneUK.html) | Techne UK | 32.4% | 30.9–33.9% | 30.5–34.4% | 30.1–34.7% | 29.5–35.5% |
 | [1 June 2022](2022-06-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 34.6% | 33.2–36.0% | 32.8–36.4% | 32.5–36.8% | 31.8–37.4% |
 | [27–29 May 2022](2022-05-29-SavantaComRes.html) | Savanta ComRes | 32.1% | 30.8–33.4% | 30.4–33.8% | 30.1–34.1% | 29.5–34.7% |
@@ -565,17 +603,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.3% | 100% |  |
-| 29.5–30.5% | 3% | 99.6% |  |
-| 30.5–31.5% | 11% | 97% |  |
-| 31.5–32.5% | 22% | 86% |  |
-| 32.5–33.5% | 24% | 64% | Median |
-| 33.5–34.5% | 20% | 40% |  |
-| 34.5–35.5% | 12% | 20% |  |
-| 35.5–36.5% | 6% | 7% |  |
-| 36.5–37.5% | 2% | 2% |  |
-| 37.5–38.5% | 0.3% | 0.3% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.3% | 100% |  |
+| 26.5–27.5% | 3% | 99.7% |  |
+| 27.5–28.5% | 9% | 97% |  |
+| 28.5–29.5% | 16% | 88% |  |
+| 29.5–30.5% | 18% | 72% |  |
+| 30.5–31.5% | 20% | 53% | Median |
+| 31.5–32.5% | 19% | 33% |  |
+| 32.5–33.5% | 11% | 14% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 0.5% | 0.5% |  |
+| 35.5–36.5% | 0% | 0% |  |
+| 36.5–37.5% | 0% | 0% |  |
+| 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
 | 39.5–40.5% | 0% | 0% |  |
 | 40.5–41.5% | 0% | 0% |  |
@@ -592,7 +633,45 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 235 | 218–262 | 213–269 | 209–275 | 200–287 |
+| N/A | [Poll Average](average.html) | 211 | 183–227 | 175–232 | 171–236 | 162–246 |
+| [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 208 | 190–220 | 185–224 | 179–228 | 167–236 |
+| [14 July 2022](2022-07-14-Techne.html) | Techne | 219 | 207–234 | 202–240 | 198–244 | 188–252 |
+| [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 188 | 172–206 | 168–211 | 163–214 | 154–220 |
+| [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 219 | 205–229 | 200–232 | 195–235 | 186–243 |
+| [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [7 July 2022](2022-07-07-Techne.html) | Techne |  |  |  |  |  |
+| [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [6 July 2022](2022-07-06-Survation.html) | Survation |  |  |  |  |  |
+| [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [3 July 2022](2022-07-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [27 June 2022](2022-06-27-Survation.html) | Survation |  |  |  |  |  |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
+| [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar |  |  |  |  |  |
+| [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–16 June 2022](2022-06-16-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [15 June 2022](2022-06-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10–12 June 2022](2022-06-12-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [12 June 2022](2022-06-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10 June 2022](2022-06-10-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [10 June 2022](2022-06-10-Survation.html) | Survation |  |  |  |  |  |
+| [8–10 June 2022](2022-06-10-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [8–9 June 2022](2022-06-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8–9 June 2022](2022-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5 June 2022](2022-06-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1–3 June 2022](2022-06-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1 June 2022](2022-06-01-TechneUK.html) | Techne UK | 229 | 217–246 | 213–251 | 209–255 | 202–263 |
 | [1 June 2022](2022-06-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 241 | 226–257 | 223–262 | 220–266 | 214–273 |
 | [27–29 May 2022](2022-05-29-SavantaComRes.html) | Savanta ComRes | 222 | 211–231 | 206–235 | 203–237 | 194–245 |
@@ -1149,122 +1228,160 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 188 | 0% | 100% |  |
-| 189 | 0% | 99.9% |  |
-| 190 | 0% | 99.9% |  |
-| 191 | 0% | 99.9% |  |
-| 192 | 0% | 99.9% |  |
-| 193 | 0% | 99.9% |  |
-| 194 | 0% | 99.9% |  |
-| 195 | 0% | 99.8% |  |
-| 196 | 0% | 99.8% |  |
-| 197 | 0% | 99.8% |  |
-| 198 | 0.1% | 99.7% |  |
-| 199 | 0.1% | 99.7% |  |
-| 200 | 0.1% | 99.6% |  |
-| 201 | 0.1% | 99.5% |  |
-| 202 | 0.1% | 99.4% |  |
-| 203 | 0.1% | 99.3% |  |
-| 204 | 0.2% | 99.2% |  |
-| 205 | 0.3% | 99.0% |  |
-| 206 | 0.3% | 98.7% |  |
-| 207 | 0.3% | 98% |  |
-| 208 | 0.5% | 98% |  |
-| 209 | 0.4% | 98% |  |
-| 210 | 0.6% | 97% |  |
-| 211 | 0.5% | 97% |  |
-| 212 | 0.7% | 96% |  |
-| 213 | 1.2% | 95% |  |
-| 214 | 1.3% | 94% |  |
-| 215 | 0.9% | 93% |  |
-| 216 | 0.9% | 92% |  |
-| 217 | 1.1% | 91% |  |
-| 218 | 2% | 90% |  |
-| 219 | 2% | 88% |  |
-| 220 | 2% | 86% |  |
-| 221 | 2% | 84% |  |
-| 222 | 2% | 82% |  |
-| 223 | 3% | 80% |  |
-| 224 | 3% | 77% |  |
-| 225 | 3% | 74% |  |
-| 226 | 3% | 71% |  |
-| 227 | 2% | 69% |  |
-| 228 | 2% | 66% |  |
-| 229 | 3% | 64% |  |
-| 230 | 3% | 61% |  |
-| 231 | 2% | 59% |  |
-| 232 | 2% | 57% |  |
-| 233 | 2% | 55% |  |
-| 234 | 2% | 53% |  |
-| 235 | 2% | 51% | Median |
-| 236 | 3% | 49% |  |
-| 237 | 2% | 46% |  |
-| 238 | 2% | 44% |  |
-| 239 | 2% | 42% |  |
-| 240 | 1.5% | 41% |  |
-| 241 | 1.3% | 39% |  |
-| 242 | 1.0% | 38% |  |
-| 243 | 2% | 37% |  |
-| 244 | 2% | 35% |  |
-| 245 | 2% | 33% |  |
-| 246 | 2% | 31% |  |
-| 247 | 2% | 29% |  |
-| 248 | 3% | 28% |  |
-| 249 | 2% | 25% |  |
-| 250 | 1.0% | 23% |  |
-| 251 | 0.9% | 22% |  |
-| 252 | 1.4% | 21% |  |
-| 253 | 1.0% | 20% |  |
-| 254 | 0.9% | 19% |  |
-| 255 | 1.1% | 18% |  |
-| 256 | 1.3% | 17% |  |
-| 257 | 0.9% | 16% |  |
-| 258 | 1.0% | 15% |  |
-| 259 | 0.9% | 14% |  |
-| 260 | 1.2% | 13% |  |
-| 261 | 1.4% | 12% |  |
-| 262 | 0.6% | 10% |  |
-| 263 | 1.0% | 10% |  |
-| 264 | 0.7% | 9% |  |
-| 265 | 0.7% | 8% |  |
-| 266 | 0.7% | 7% |  |
-| 267 | 0.7% | 7% |  |
-| 268 | 0.5% | 6% |  |
-| 269 | 0.4% | 5% |  |
-| 270 | 0.5% | 5% |  |
-| 271 | 0.5% | 4% |  |
-| 272 | 0.5% | 4% |  |
-| 273 | 0.4% | 3% |  |
-| 274 | 0.4% | 3% |  |
-| 275 | 0.4% | 3% |  |
-| 276 | 0.3% | 2% |  |
-| 277 | 0.2% | 2% |  |
-| 278 | 0.2% | 2% |  |
-| 279 | 0.2% | 2% |  |
-| 280 | 0.2% | 1.3% |  |
-| 281 | 0.1% | 1.1% |  |
-| 282 | 0.1% | 1.0% |  |
-| 283 | 0.2% | 0.9% |  |
-| 284 | 0.1% | 0.7% |  |
-| 285 | 0.1% | 0.6% |  |
-| 286 | 0.1% | 0.6% |  |
-| 287 | 0.1% | 0.5% |  |
-| 288 | 0.1% | 0.5% |  |
-| 289 | 0% | 0.4% |  |
-| 290 | 0% | 0.4% |  |
-| 291 | 0% | 0.3% |  |
-| 292 | 0% | 0.3% |  |
-| 293 | 0% | 0.3% |  |
-| 294 | 0% | 0.2% |  |
-| 295 | 0% | 0.2% |  |
-| 296 | 0% | 0.2% |  |
-| 297 | 0% | 0.2% |  |
-| 298 | 0% | 0.1% |  |
-| 299 | 0% | 0.1% |  |
-| 300 | 0% | 0.1% |  |
-| 301 | 0% | 0.1% |  |
-| 302 | 0% | 0.1% |  |
-| 303 | 0% | 0.1% |  |
+| 150 | 0% | 100% |  |
+| 151 | 0% | 99.9% |  |
+| 152 | 0% | 99.9% |  |
+| 153 | 0% | 99.9% |  |
+| 154 | 0% | 99.9% |  |
+| 155 | 0% | 99.9% |  |
+| 156 | 0% | 99.8% |  |
+| 157 | 0.1% | 99.8% |  |
+| 158 | 0% | 99.7% |  |
+| 159 | 0% | 99.7% |  |
+| 160 | 0% | 99.7% |  |
+| 161 | 0.1% | 99.6% |  |
+| 162 | 0.1% | 99.5% |  |
+| 163 | 0.1% | 99.4% |  |
+| 164 | 0.1% | 99.3% |  |
+| 165 | 0.1% | 99.2% |  |
+| 166 | 0.2% | 99.1% |  |
+| 167 | 0.2% | 98.8% |  |
+| 168 | 0.3% | 98.6% |  |
+| 169 | 0.3% | 98% |  |
+| 170 | 0.4% | 98% |  |
+| 171 | 0.3% | 98% |  |
+| 172 | 0.4% | 97% |  |
+| 173 | 0.6% | 97% |  |
+| 174 | 0.8% | 96% |  |
+| 175 | 0.9% | 96% |  |
+| 176 | 0.8% | 95% |  |
+| 177 | 0.6% | 94% |  |
+| 178 | 0.5% | 93% |  |
+| 179 | 0.5% | 93% |  |
+| 180 | 0.5% | 92% |  |
+| 181 | 0.6% | 92% |  |
+| 182 | 1.0% | 91% |  |
+| 183 | 0.8% | 90% |  |
+| 184 | 0.9% | 89% |  |
+| 185 | 0.8% | 89% |  |
+| 186 | 0.7% | 88% |  |
+| 187 | 1.3% | 87% |  |
+| 188 | 1.0% | 86% |  |
+| 189 | 0.6% | 85% |  |
+| 190 | 1.2% | 84% |  |
+| 191 | 0.9% | 83% |  |
+| 192 | 1.1% | 82% |  |
+| 193 | 0.9% | 81% |  |
+| 194 | 2% | 80% |  |
+| 195 | 1.1% | 79% |  |
+| 196 | 1.0% | 77% |  |
+| 197 | 1.5% | 76% |  |
+| 198 | 1.3% | 75% |  |
+| 199 | 1.4% | 74% |  |
+| 200 | 1.4% | 72% |  |
+| 201 | 1.3% | 71% |  |
+| 202 | 2% | 70% |  |
+| 203 | 2% | 68% |  |
+| 204 | 2% | 66% |  |
+| 205 | 2% | 65% |  |
+| 206 | 2% | 63% |  |
+| 207 | 2% | 61% |  |
+| 208 | 3% | 59% |  |
+| 209 | 2% | 56% |  |
+| 210 | 3% | 54% |  |
+| 211 | 2% | 51% | Median |
+| 212 | 3% | 49% |  |
+| 213 | 4% | 46% |  |
+| 214 | 4% | 43% |  |
+| 215 | 2% | 39% |  |
+| 216 | 2% | 36% |  |
+| 217 | 3% | 35% |  |
+| 218 | 3% | 32% |  |
+| 219 | 3% | 29% |  |
+| 220 | 3% | 26% |  |
+| 221 | 2% | 23% |  |
+| 222 | 2% | 21% |  |
+| 223 | 3% | 19% |  |
+| 224 | 2% | 16% |  |
+| 225 | 2% | 14% |  |
+| 226 | 2% | 12% |  |
+| 227 | 1.2% | 10% |  |
+| 228 | 1.2% | 9% |  |
+| 229 | 1.3% | 8% |  |
+| 230 | 1.0% | 7% |  |
+| 231 | 0.7% | 6% |  |
+| 232 | 0.6% | 5% |  |
+| 233 | 0.6% | 4% |  |
+| 234 | 0.6% | 4% |  |
+| 235 | 0.4% | 3% |  |
+| 236 | 0.4% | 3% |  |
+| 237 | 0.3% | 2% |  |
+| 238 | 0.3% | 2% |  |
+| 239 | 0.3% | 2% |  |
+| 240 | 0.2% | 2% |  |
+| 241 | 0.2% | 1.3% |  |
+| 242 | 0.2% | 1.1% |  |
+| 243 | 0.1% | 1.0% |  |
+| 244 | 0.1% | 0.8% |  |
+| 245 | 0.1% | 0.7% |  |
+| 246 | 0.1% | 0.6% |  |
+| 247 | 0.1% | 0.5% |  |
+| 248 | 0.1% | 0.4% |  |
+| 249 | 0.1% | 0.3% |  |
+| 250 | 0% | 0.3% |  |
+| 251 | 0% | 0.2% |  |
+| 252 | 0% | 0.2% |  |
+| 253 | 0% | 0.1% |  |
+| 254 | 0% | 0.1% |  |
+| 255 | 0% | 0.1% |  |
+| 256 | 0% | 0.1% |  |
+| 257 | 0% | 0.1% |  |
+| 258 | 0% | 0% |  |
+| 259 | 0% | 0% |  |
+| 260 | 0% | 0% |  |
+| 261 | 0% | 0% |  |
+| 262 | 0% | 0% |  |
+| 263 | 0% | 0% |  |
+| 264 | 0% | 0% |  |
+| 265 | 0% | 0% |  |
+| 266 | 0% | 0% |  |
+| 267 | 0% | 0% |  |
+| 268 | 0% | 0% |  |
+| 269 | 0% | 0% |  |
+| 270 | 0% | 0% |  |
+| 271 | 0% | 0% |  |
+| 272 | 0% | 0% |  |
+| 273 | 0% | 0% |  |
+| 274 | 0% | 0% |  |
+| 275 | 0% | 0% |  |
+| 276 | 0% | 0% |  |
+| 277 | 0% | 0% |  |
+| 278 | 0% | 0% |  |
+| 279 | 0% | 0% |  |
+| 280 | 0% | 0% |  |
+| 281 | 0% | 0% |  |
+| 282 | 0% | 0% |  |
+| 283 | 0% | 0% |  |
+| 284 | 0% | 0% |  |
+| 285 | 0% | 0% |  |
+| 286 | 0% | 0% |  |
+| 287 | 0% | 0% |  |
+| 288 | 0% | 0% |  |
+| 289 | 0% | 0% |  |
+| 290 | 0% | 0% |  |
+| 291 | 0% | 0% |  |
+| 292 | 0% | 0% |  |
+| 293 | 0% | 0% |  |
+| 294 | 0% | 0% |  |
+| 295 | 0% | 0% |  |
+| 296 | 0% | 0% |  |
+| 297 | 0% | 0% |  |
+| 298 | 0% | 0% |  |
+| 299 | 0% | 0% |  |
+| 300 | 0% | 0% |  |
+| 301 | 0% | 0% |  |
+| 302 | 0% | 0% |  |
+| 303 | 0% | 0% |  |
 | 304 | 0% | 0% |  |
 | 305 | 0% | 0% |  |
 | 306 | 0% | 0% |  |
