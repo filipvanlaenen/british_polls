@@ -28,7 +28,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 13.5% | 12.5–14.7% | 12.2–15.0% | 11.9–15.3% | 11.4–15.8% |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.6–18.3% |
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.3% | 8.8–13.9% |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 10.1% | N/A | N/A | N/A | N/A |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 10.1% | 9.3–11.0% | 9.1–11.3% | 8.9–11.5% | 8.6–11.9% |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 15.2% | N/A | N/A | N/A | N/A |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 11.1% | N/A | N/A | N/A | N/A |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
@@ -642,8 +642,8 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 23–39 | 21–41 | 20–43 | 18–46 |
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 30 | 23–38 | 21–40 | 19–42 | 18–44 |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 46 | 37–56 | 34–60 | 31–62 | 26–67 |
-| [27 June 2022](2022-06-27-Survation.html) | Survation | 21 | 12–26 | 12–28 | 9–29 | 8–34 |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
+| [27 June 2022](2022-06-27-Survation.html) | Survation | 21 | 12–26 | 12–28 | 9–29 | 7–34 |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 15 | 7–18 | 7–19 | 7–20 | 6–22 |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |

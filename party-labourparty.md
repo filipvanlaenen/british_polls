@@ -28,7 +28,7 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 37.5% | 36.0–39.1% | 35.6–39.5% | 35.2–39.9% | 34.5–40.7% |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 41.8% | 39.8–43.8% | 39.3–44.3% | 38.8–44.8% | 37.9–45.8% |
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 43.7% | 41.7–45.7% | 41.1–46.3% | 40.6–46.8% | 39.7–47.7% |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 41.6% | N/A | N/A | N/A | N/A |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 41.6% | 40.2–43.0% | 39.9–43.3% | 39.5–43.7% | 38.9–44.3% |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 41.5% | N/A | N/A | N/A | N/A |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 37.5% | N/A | N/A | N/A | N/A |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 40.2% | N/A | N/A | N/A | N/A |
@@ -649,8 +649,8 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 315 | 300–324 | 295–326 | 292–328 | 285–337 |
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 287 | 274–301 | 270–307 | 265–309 | 254–316 |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 323 | 311–339 | 306–344 | 301–352 | 294–361 |
-| [27 June 2022](2022-06-27-Survation.html) | Survation | 328 | 306–345 | 300–349 | 295–353 | 285–361 |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
+| [27 June 2022](2022-06-27-Survation.html) | Survation | 328 | 306–345 | 300–349 | 295–352 | 285–361 |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 311 | 295–322 | 293–323 | 291–325 | 285–329 |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |

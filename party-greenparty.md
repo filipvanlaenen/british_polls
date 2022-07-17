@@ -28,7 +28,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 4.9% | 4.3–5.6% | 4.1–5.9% | 3.9–6.1% | 3.6–6.4% |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 4.0% | N/A | N/A | N/A | N/A |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 4.8% | N/A | N/A | N/A | N/A |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 6.4% | N/A | N/A | N/A | N/A |
@@ -640,7 +640,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 1 | 1–2 |
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
+| [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 1 | 1 | 1 | 1 | 1 |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
