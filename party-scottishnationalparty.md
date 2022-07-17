@@ -638,7 +638,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 56 | 53–58 | 52–58 | 51–58 | 49–58 |
 | [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 56 | 53–58 | 53–58 | 52–58 | 51–58 |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 54 | 52–57 | 50–57 | 49–58 | 43–58 |
-| [27 June 2022](2022-06-27-Survation.html) | Survation | 32 | 15–49 | 11–52 | 9–54 | 5–57 |
+| [27 June 2022](2022-06-27-Survation.html) | Survation | 32 | 16–49 | 11–52 | 9–54 | 5–57 |
 | [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
