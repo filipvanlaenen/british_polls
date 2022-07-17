@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -34,7 +34,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 0.2% | N/A | N/A | N/A | N/A |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -603,8 +603,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
+| 0.0–0.5% | 96% | 100% | Last Result, Median |
+| 0.5–1.5% | 4% | 4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -640,7 +640,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar |  |  |  |  |  |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |

@@ -10,7 +10,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.7–5.6% | 2.3–5.9% | 2.1–6.2% | 1.7–6.8% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.8–5.5% | 2.4–5.9% | 2.1–6.2% | 1.7–6.7% |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.7–6.9% | 4.4–7.3% |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.3% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.8–3.8% | 2.7–3.9% | 2.5–4.1% | 2.3–4.3% |
@@ -30,11 +30,11 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
-| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 4.8% | N/A | N/A | N/A | N/A |
+| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times | 6.4% | N/A | N/A | N/A | N/A |
 | [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK | 4.8% | N/A | N/A | N/A | N/A |
 | [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
-| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 4.2% | N/A | N/A | N/A | N/A |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes | 4.1% | N/A | N/A | N/A | N/A |
 | [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
 | [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times | 5.0% | N/A | N/A | N/A | N/A |
@@ -606,11 +606,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
 | 1.5–2.5% | 7% | 99.8% |  |
-| 2.5–3.5% | 23% | 92% | Last Result |
-| 3.5–4.5% | 32% | 69% | Median |
-| 4.5–5.5% | 27% | 37% |  |
+| 2.5–3.5% | 22% | 93% | Last Result |
+| 3.5–4.5% | 35% | 71% | Median |
+| 4.5–5.5% | 27% | 36% |  |
 | 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -642,11 +642,11 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [27 June 2022](2022-06-27-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 1 | 1 | 1 | 1 | 1 |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [22–23 June 2022](2022-06-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar |  |  |  |  |  |
+| [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1 |
 | [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -1218,7 +1218,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.2% | 99.9% | Last Result, Median |
+| 1 | 99.3% | 99.9% | Last Result, Median |
 | 2 | 0.4% | 0.6% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
