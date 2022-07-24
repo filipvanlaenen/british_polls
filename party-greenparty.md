@@ -10,9 +10,16 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.8–5.5% | 2.4–5.9% | 2.1–6.2% | 1.7–6.7% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.8–5.9% | 2.4–6.3% | 2.1–6.6% | 1.7–7.2% |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 5.5% | 4.9–6.2% | 4.7–6.5% | 4.6–6.6% | 4.3–7.0% |
+| [21 July 2022](2022-07-21-Techne.html) | Techne | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.3% |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.6% |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.9% |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.7–6.9% | 4.4–7.3% |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.3% |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 4.8% | 4.4–5.3% | 4.3–5.4% | 4.2–5.5% | 4.0–5.7% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 3.2% | 2.8–3.8% | 2.7–3.9% | 2.5–4.1% | 2.3–4.3% |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.5–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.4% |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 4.8% | 4.2–5.4% | 4.0–5.6% | 3.9–5.8% | 3.6–6.1% |
@@ -605,13 +612,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 7% | 99.8% |  |
-| 2.5–3.5% | 22% | 93% | Last Result |
-| 3.5–4.5% | 35% | 71% | Median |
-| 4.5–5.5% | 27% | 36% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 6% | 99.8% |  |
+| 2.5–3.5% | 19% | 94% | Last Result |
+| 3.5–4.5% | 25% | 75% |  |
+| 4.5–5.5% | 31% | 49% | Median |
+| 5.5–6.5% | 16% | 19% |  |
+| 6.5–7.5% | 2% | 3% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -623,8 +631,15 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [21 July 2022](2022-07-21-Techne.html) | Techne | 1 | 1 | 1 | 1 | 1 |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 1–3 |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 1 | 1 | 1 | 1 | 1 |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 1 | 1 | 1 | 1 | 1 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 1 | 1 | 1 | 1 | 1 |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |

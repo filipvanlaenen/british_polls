@@ -11,8 +11,15 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [21 July 2022](2022-07-21-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 1.0% | 0.9–1.3% | 0.8–1.3% | 0.8–1.4% | 0.7–1.5% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
@@ -603,8 +610,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% |  |
-| 0.5–1.5% | 93% | 98.8% | Last Result, Median |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 93% | 99.0% | Last Result, Median |
 | 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -617,9 +624,16 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 3–7 |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [21 July 2022](2022-07-21-Techne.html) | Techne |  |  |  |  |  |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 5 | 5 | 5–6 | 4–6 | 4–6 |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [14 July 2022](2022-07-14-Techne.html) | Techne |  |  |  |  |  |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 5 | 5 | 5 | 5 | 5–6 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -1212,15 +1226,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 4% | 99.4% | Last Result |
-| 5 | 82% | 95% | Median |
-| 6 | 11% | 13% |  |
-| 7 | 2% | 3% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 3% | 99.5% | Last Result |
+| 5 | 84% | 96% | Median |
+| 6 | 10% | 12% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0.2% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0.1% | 0.2% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 9 | 0% | 0.2% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

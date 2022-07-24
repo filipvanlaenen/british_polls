@@ -10,9 +10,16 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [21 July 2022](2022-07-21-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14 July 2022](2022-07-14-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -603,8 +610,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Last Result, Median |
-| 0.5–1.5% | 4% | 4% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -617,8 +624,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [21 July 2022](2022-07-21-Techne.html) | Techne |  |  |  |  |  |
+| [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
+| [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [14 July 2022](2022-07-14-Techne.html) | Techne |  |  |  |  |  |
+| [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
