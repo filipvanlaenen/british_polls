@@ -10,21 +10,56 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [1–2 September 2022](2022-09-02-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [28 August 2022](2022-08-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [23–24 August 2022](2022-08-24-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [22 August 2022](2022-08-22-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [18–22 August 2022](2022-08-22-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
+| [19–22 August 2022](2022-08-22-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [21 August 2022](2022-08-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 August 2022](2022-08-19-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
+| [16–17 August 2022](2022-08-17-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [14 August 2022](2022-08-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 August 2022](2022-08-12-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [8 August 2022](2022-08-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [3–8 August 2022](2022-08-08-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 August 2022](2022-08-05-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 August 2022](2022-08-04-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [4 August 2022](2022-08-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [1 August 2022](2022-08-01-Kantar.html) | Kantar | 0.1% | N/A | N/A | N/A | N/A |
+| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 July 2022](2022-07-28-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [27 July 2022](2022-07-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21–27 July 2022](2022-07-27-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
+| [24 July 2022](2022-07-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 July 2022](2022-07-23-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.2% | N/A | N/A | N/A | N/A |
+| [21–22 July 2022](2022-07-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [21 July 2022](2022-07-21-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [21 July 2022](2022-07-21-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [21 July 2022](2022-07-21-SavantaComRes.html) | Savanta ComRes <br> Daily Express | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
-| [14 July 2022](2022-07-14-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [14 July 2022](2022-07-14-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
-| [7 July 2022](2022-07-07-Techne.html) | Techne | 0.0% | N/A | N/A | N/A | N/A |
+| [7 July 2022](2022-07-07-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [6 July 2022](2022-07-06-Survation.html) | Survation | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
@@ -610,8 +645,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
+| 0.0–0.5% | 99.8% | 100% | Last Result, Median |
+| 0.5–1.5% | 0.2% | 0.2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -624,20 +659,55 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–2 September 2022](2022-09-02-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 0 | 0 | 0 | 0 | 0 |
+| [28 August 2022](2022-08-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [23–24 August 2022](2022-08-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22 August 2022](2022-08-22-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [18–22 August 2022](2022-08-22-Kantar.html) | Kantar |  |  |  |  |  |
+| [19–22 August 2022](2022-08-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21 August 2022](2022-08-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [18–19 August 2022](2022-08-19-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [16–17 August 2022](2022-08-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14 August 2022](2022-08-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10–12 August 2022](2022-08-12-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8 August 2022](2022-08-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [3–8 August 2022](2022-08-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–5 August 2022](2022-08-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–4 August 2022](2022-08-04-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [4 August 2022](2022-08-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1 August 2022](2022-08-01-Kantar.html) | Kantar |  |  |  |  |  |
+| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [27–28 July 2022](2022-07-28-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [27 July 2022](2022-07-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21–27 July 2022](2022-07-27-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
+| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent |  |  |  |  |  |
+| [24 July 2022](2022-07-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21–23 July 2022](2022-07-23-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [21–22 July 2022](2022-07-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [21 July 2022](2022-07-21-Techne.html) | Techne |  |  |  |  |  |
+| [21 July 2022](2022-07-21-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [21 July 2022](2022-07-21-SavantaComRes.html) | Savanta ComRes <br> Daily Express |  |  |  |  |  |
 | [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [14 July 2022](2022-07-14-Techne.html) | Techne |  |  |  |  |  |
+| [14 July 2022](2022-07-14-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [7 July 2022](2022-07-07-Techne.html) | Techne |  |  |  |  |  |
+| [7 July 2022](2022-07-07-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6 July 2022](2022-07-06-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |

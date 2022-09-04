@@ -10,21 +10,56 @@ Last result: **32.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.3% | 37.8–45.4% | 36.9–46.2% | 36.3–46.9% | 35.3–48.1% |
+| N/A | [Poll Average](average.html) | 42.4% | 38.6–45.2% | 37.7–45.9% | 37.0–46.5% | 35.9–47.6% |
+| [1–2 September 2022](2022-09-02-TechneUK.html) | Techne UK | 42.5% | 40.9–44.1% | 40.5–44.5% | 40.1–44.9% | 39.3–45.7% |
+| [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 38.1% | 36.5–39.7% | 36.1–40.2% | 35.7–40.6% | 34.9–41.4% |
+| [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.0% | 41.5–44.4% | 41.1–44.8% | 40.8–45.2% | 40.1–45.9% |
+| [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 43.2% | 41.3–45.1% | 40.8–45.6% | 40.3–46.1% | 39.5–47.0% |
+| [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 45.3% | 43.7–47.0% | 43.3–47.4% | 42.9–47.8% | 42.1–48.6% |
+| [28 August 2022](2022-08-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.2% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-TechneUK.html) | Techne UK | 41.5% | 39.9–43.1% | 39.5–43.6% | 39.1–44.0% | 38.4–44.7% |
+| [24–25 August 2022](2022-08-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.9% | N/A | N/A | N/A | N/A |
+| [23–24 August 2022](2022-08-24-YouGov.html) | YouGov <br> The Times | 40.3% | 38.9–41.8% | 38.5–42.2% | 38.2–42.6% | 37.5–43.3% |
+| [22 August 2022](2022-08-22-PeoplePolling.html) | PeoplePolling <br> GB News | 41.7% | N/A | N/A | N/A | N/A |
+| [18–22 August 2022](2022-08-22-Kantar.html) | Kantar | 40.6% | 38.7–42.5% | 38.1–43.1% | 37.7–43.5% | 36.8–44.5% |
+| [19–22 August 2022](2022-08-22-Deltapoll.html) | Deltapoll | 44.1% | N/A | N/A | N/A | N/A |
+| [21 August 2022](2022-08-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.3% | N/A | N/A | N/A | N/A |
+| [18–19 August 2022](2022-08-19-Opinium.html) | Opinium <br> The Observer | 40.0% | 38.4–41.7% | 38.0–42.1% | 37.6–42.5% | 36.8–43.3% |
+| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research | 43.9% | 42.5–45.3% | 42.1–45.7% | 41.7–46.1% | 41.1–46.7% |
+| [16–17 August 2022](2022-08-17-YouGov.html) | YouGov <br> The Times | 44.2% | N/A | N/A | N/A | N/A |
+| [14 August 2022](2022-08-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 41.7% | N/A | N/A | N/A | N/A |
+| [10–12 August 2022](2022-08-12-TechneUK.html) | Techne UK | 39.4% | N/A | N/A | N/A | N/A |
+| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times | 40.9% | N/A | N/A | N/A | N/A |
+| [8 August 2022](2022-08-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 40.7% | N/A | N/A | N/A | N/A |
+| [3–8 August 2022](2022-08-08-Opinium.html) | Opinium <br> The Observer | 37.1% | N/A | N/A | N/A | N/A |
+| [4–5 August 2022](2022-08-05-YouGov.html) | YouGov <br> The Times | 38.3% | N/A | N/A | N/A | N/A |
+| [3–4 August 2022](2022-08-04-TechneUK.html) | Techne UK | 39.5% | N/A | N/A | N/A | N/A |
+| [4 August 2022](2022-08-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 41.3% | N/A | N/A | N/A | N/A |
+| [1 August 2022](2022-08-01-Kantar.html) | Kantar | 37.4% | N/A | N/A | N/A | N/A |
+| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 39.8% | N/A | N/A | N/A | N/A |
+| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times | 36.5% | N/A | N/A | N/A | N/A |
+| [27–28 July 2022](2022-07-28-TechneUK.html) | Techne UK | 40.5% | N/A | N/A | N/A | N/A |
+| [27 July 2022](2022-07-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 42.4% | N/A | N/A | N/A | N/A |
+| [21–27 July 2022](2022-07-27-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 45.3% | 43.3–47.4% | 42.8–47.9% | 42.3–48.4% | 41.4–49.4% |
+| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent | 43.8% | 42.5–45.2% | 42.1–45.6% | 41.7–45.9% | 41.1–46.6% |
+| [24 July 2022](2022-07-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 41.0% | N/A | N/A | N/A | N/A |
+| [21–23 July 2022](2022-07-23-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 44.1% | N/A | N/A | N/A | N/A |
+| [21–22 July 2022](2022-07-22-YouGov.html) | YouGov <br> The Times | 39.8% | N/A | N/A | N/A | N/A |
 | [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 37.2% | 35.8–38.6% | 35.4–39.0% | 35.1–39.4% | 34.4–40.0% |
-| [21 July 2022](2022-07-21-Techne.html) | Techne | 41.5% | 39.9–43.1% | 39.5–43.5% | 39.1–43.9% | 38.4–44.7% |
+| [21 July 2022](2022-07-21-TechneUK.html) | Techne UK | 41.5% | N/A | N/A | N/A | N/A |
+| [21 July 2022](2022-07-21-SavantaComRes.html) | Savanta ComRes <br> Daily Express | 45.0% | N/A | N/A | N/A | N/A |
 | [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 45.2% | 43.6–46.9% | 43.1–47.4% | 42.7–47.8% | 41.9–48.6% |
 | [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 38.7% | 36.7–40.6% | 36.2–41.2% | 35.7–41.7% | 34.8–42.6% |
 | [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 44.1% | 42.6–45.6% | 42.2–46.0% | 41.9–46.3% | 41.2–47.0% |
 | [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.2% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 41.5% | 40.0–43.1% | 39.6–43.6% | 39.2–43.9% | 38.5–44.7% |
-| [14 July 2022](2022-07-14-Techne.html) | Techne | 40.5% | 39.0–42.1% | 38.5–42.5% | 38.1–42.9% | 37.4–43.7% |
+| [14 July 2022](2022-07-14-TechneUK.html) | Techne UK | 40.5% | N/A | N/A | N/A | N/A |
 | [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 43.3% | 42.3–44.2% | 42.0–44.5% | 41.8–44.8% | 41.3–45.2% |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 44.1% | 42.7–45.5% | 42.4–45.9% | 42.0–46.3% | 41.4–46.9% |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.7% | 42.2–45.2% | 41.9–45.6% | 41.5–45.9% | 40.8–46.6% |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 38.5% | 37.1–39.9% | 36.7–40.3% | 36.4–40.7% | 35.7–41.4% |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times | 40.8% | N/A | N/A | N/A | N/A |
-| [7 July 2022](2022-07-07-Techne.html) | Techne | 41.5% | N/A | N/A | N/A | N/A |
+| [7 July 2022](2022-07-07-TechneUK.html) | Techne UK | 41.5% | N/A | N/A | N/A | N/A |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.8% | N/A | N/A | N/A | N/A |
 | [6 July 2022](2022-07-06-Survation.html) | Survation | 45.3% | 43.3–47.3% | 42.8–47.9% | 42.3–48.4% | 41.3–49.3% |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes | 41.8% | N/A | N/A | N/A | N/A |
@@ -612,22 +647,22 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 31.5–32.5% | 0% | 100% | Last Result |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.1% | 100% |  |
-| 34.5–35.5% | 0.7% | 99.9% |  |
-| 35.5–36.5% | 3% | 99.3% |  |
-| 36.5–37.5% | 5% | 97% |  |
-| 37.5–38.5% | 6% | 92% |  |
-| 38.5–39.5% | 7% | 85% |  |
-| 39.5–40.5% | 8% | 78% |  |
-| 40.5–41.5% | 10% | 70% |  |
-| 41.5–42.5% | 12% | 59% | Median |
-| 42.5–43.5% | 15% | 47% |  |
-| 43.5–44.5% | 13% | 32% |  |
-| 44.5–45.5% | 9% | 18% |  |
-| 45.5–46.5% | 5% | 9% |  |
-| 46.5–47.5% | 3% | 4% |  |
-| 47.5–48.5% | 0.8% | 1.1% |  |
-| 48.5–49.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 100% |  |
+| 34.5–35.5% | 0.2% | 100% |  |
+| 35.5–36.5% | 1.1% | 99.8% |  |
+| 36.5–37.5% | 3% | 98.6% |  |
+| 37.5–38.5% | 5% | 96% |  |
+| 38.5–39.5% | 7% | 90% |  |
+| 39.5–40.5% | 10% | 83% |  |
+| 40.5–41.5% | 12% | 73% |  |
+| 41.5–42.5% | 14% | 62% | Median |
+| 42.5–43.5% | 16% | 47% |  |
+| 43.5–44.5% | 15% | 31% |  |
+| 44.5–45.5% | 9% | 16% |  |
+| 45.5–46.5% | 5% | 7% |  |
+| 46.5–47.5% | 2% | 2% |  |
+| 47.5–48.5% | 0.4% | 0.5% |  |
+| 48.5–49.5% | 0.1% | 0.1% |  |
 | 49.5–50.5% | 0% | 0% |  |
 
 
@@ -639,21 +674,56 @@ Last result: **202** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 323 | 294–341 | 285–348 | 279–354 | 268–365 |
+| N/A | [Poll Average](average.html) | 323 | 297–355 | 289–366 | 282–377 | 274–390 |
+| [1–2 September 2022](2022-09-02-TechneUK.html) | Techne UK | 325 | 313–337 | 309–341 | 304–345 | 297–354 |
+| [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 293 | 278–311 | 275–315 | 271–319 | 262–325 |
+| [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 328 | 320–340 | 315–345 | 313–350 | 306–359 |
+| [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 362 | 341–384 | 335–389 | 329–394 | 321–407 |
+| [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 333 | 321–351 | 320–356 | 318–363 | 311–374 |
+| [28 August 2022](2022-08-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-TechneUK.html) | Techne UK | 317 | 301–329 | 297–333 | 293–336 | 286–342 |
+| [24–25 August 2022](2022-08-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [23–24 August 2022](2022-08-24-YouGov.html) | YouGov <br> The Times | 315 | 300–322 | 298–325 | 295–326 | 289–333 |
+| [22 August 2022](2022-08-22-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [18–22 August 2022](2022-08-22-Kantar.html) | Kantar | 310 | 290–325 | 286–329 | 282–332 | 274–341 |
+| [19–22 August 2022](2022-08-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21 August 2022](2022-08-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [18–19 August 2022](2022-08-19-Opinium.html) | Opinium <br> The Observer | 326 | 309–340 | 304–343 | 300–347 | 291–355 |
+| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research | 323 | 315–330 | 311–334 | 308–336 | 301–344 |
+| [16–17 August 2022](2022-08-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14 August 2022](2022-08-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10–12 August 2022](2022-08-12-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8 August 2022](2022-08-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [3–8 August 2022](2022-08-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–5 August 2022](2022-08-05-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–4 August 2022](2022-08-04-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [4 August 2022](2022-08-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1 August 2022](2022-08-01-Kantar.html) | Kantar |  |  |  |  |  |
+| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [27–28 July 2022](2022-07-28-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [27 July 2022](2022-07-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21–27 July 2022](2022-07-27-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 338 | 325–363 | 322–367 | 319–374 | 312–384 |
+| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent | 347 | 336–363 | 333–369 | 331–373 | 326–381 |
+| [24 July 2022](2022-07-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21–23 July 2022](2022-07-23-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [21–22 July 2022](2022-07-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21–22 July 2022](2022-07-22-Opinium.html) | Opinium <br> The Observer | 296 | 280–312 | 278–317 | 272–320 | 264–328 |
-| [21 July 2022](2022-07-21-Techne.html) | Techne | 321 | 308–332 | 302–336 | 300–339 | 292–348 |
+| [21 July 2022](2022-07-21-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [21 July 2022](2022-07-21-SavantaComRes.html) | Savanta ComRes <br> Daily Express |  |  |  |  |  |
 | [20–21 July 2022](2022-07-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 333 | 317–346 | 312–350 | 307–352 | 299–359 |
 | [14–18 July 2022](2022-07-18-Kantar.html) | Kantar | 296 | 275–311 | 268–316 | 266–318 | 254–330 |
 | [15–17 July 2022](2022-07-17-SavantaComRes.html) | Savanta ComRes | 335 | 324–352 | 321–358 | 320–363 | 316–371 |
 | [17 July 2022](2022-07-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-YouGov.html) | YouGov <br> The Times | 326 | 318–341 | 315–347 | 311–352 | 303–361 |
-| [14 July 2022](2022-07-14-Techne.html) | Techne | 321 | 309–331 | 303–336 | 299–339 | 292–348 |
+| [14 July 2022](2022-07-14-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [12–14 July 2022](2022-07-14-JLPartners.html) | J&L Partners <br> The Sunday Telegraph | 326 | 320–335 | 319–337 | 318–339 | 313–344 |
 | [8–10 July 2022](2022-07-10-SavantaComRes.html) | Savanta ComRes | 351 | 336–366 | 331–369 | 328–373 | 323–381 |
 | [10 July 2022](2022-07-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 328 | 320–340 | 317–345 | 313–349 | 306–358 |
 | [6–8 July 2022](2022-07-08-Opinium.html) | Opinium <br> The Observer | 309 | 293–324 | 289–329 | 284–332 | 278–338 |
 | [6–7 July 2022](2022-07-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [7 July 2022](2022-07-07-Techne.html) | Techne |  |  |  |  |  |
+| [7 July 2022](2022-07-07-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [7 July 2022](2022-07-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6 July 2022](2022-07-06-Survation.html) | Survation | 334 | 321–357 | 319–363 | 316–365 | 309–378 |
 | [1–3 July 2022](2022-07-03-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
@@ -1294,131 +1364,160 @@ The following table shows the probability mass function per seat for the [poll a
 | 252 | 0% | 100% |  |
 | 253 | 0% | 100% |  |
 | 254 | 0% | 100% |  |
-| 255 | 0% | 99.9% |  |
-| 256 | 0% | 99.9% |  |
-| 257 | 0% | 99.9% |  |
-| 258 | 0% | 99.9% |  |
-| 259 | 0% | 99.8% |  |
-| 260 | 0% | 99.8% |  |
-| 261 | 0% | 99.8% |  |
-| 262 | 0% | 99.8% |  |
-| 263 | 0% | 99.8% |  |
-| 264 | 0% | 99.8% |  |
-| 265 | 0% | 99.8% |  |
-| 266 | 0.1% | 99.7% |  |
-| 267 | 0% | 99.7% |  |
-| 268 | 0.3% | 99.6% |  |
-| 269 | 0% | 99.3% |  |
-| 270 | 0% | 99.3% |  |
-| 271 | 0.1% | 99.2% |  |
-| 272 | 0% | 99.1% |  |
-| 273 | 0% | 99.1% |  |
-| 274 | 0.2% | 99.1% |  |
-| 275 | 0.4% | 98.9% |  |
-| 276 | 0.3% | 98.5% |  |
-| 277 | 0.3% | 98% |  |
-| 278 | 0.3% | 98% |  |
-| 279 | 0.7% | 98% |  |
-| 280 | 0.2% | 97% |  |
-| 281 | 0.1% | 97% |  |
-| 282 | 0.4% | 97% |  |
-| 283 | 0.5% | 96% |  |
-| 284 | 0.3% | 96% |  |
-| 285 | 0.8% | 96% |  |
-| 286 | 0.4% | 95% |  |
-| 287 | 0.5% | 94% |  |
-| 288 | 0.6% | 94% |  |
-| 289 | 0.5% | 93% |  |
-| 290 | 0.5% | 93% |  |
-| 291 | 0.7% | 92% |  |
-| 292 | 0.8% | 92% |  |
-| 293 | 0.6% | 91% |  |
-| 294 | 0.6% | 90% |  |
-| 295 | 0.6% | 90% |  |
-| 296 | 0.7% | 89% |  |
-| 297 | 0.8% | 88% |  |
-| 298 | 0.8% | 88% |  |
-| 299 | 1.2% | 87% |  |
-| 300 | 1.1% | 86% |  |
-| 301 | 2% | 84% |  |
-| 302 | 1.0% | 83% |  |
-| 303 | 1.0% | 82% |  |
-| 304 | 0.8% | 81% |  |
-| 305 | 0.8% | 80% |  |
-| 306 | 0.8% | 79% |  |
-| 307 | 0.7% | 78% |  |
-| 308 | 0.7% | 78% |  |
-| 309 | 0.9% | 77% |  |
-| 310 | 1.4% | 76% |  |
-| 311 | 1.2% | 75% |  |
-| 312 | 1.3% | 73% |  |
-| 313 | 1.2% | 72% |  |
-| 314 | 1.2% | 71% |  |
-| 315 | 1.2% | 70% |  |
-| 316 | 1.4% | 68% |  |
-| 317 | 2% | 67% |  |
-| 318 | 2% | 65% |  |
-| 319 | 3% | 63% |  |
+| 255 | 0% | 100% |  |
+| 256 | 0% | 100% |  |
+| 257 | 0% | 100% |  |
+| 258 | 0% | 100% |  |
+| 259 | 0% | 100% |  |
+| 260 | 0% | 100% |  |
+| 261 | 0% | 99.9% |  |
+| 262 | 0% | 99.9% |  |
+| 263 | 0% | 99.9% |  |
+| 264 | 0% | 99.9% |  |
+| 265 | 0% | 99.9% |  |
+| 266 | 0% | 99.9% |  |
+| 267 | 0% | 99.8% |  |
+| 268 | 0.1% | 99.8% |  |
+| 269 | 0% | 99.7% |  |
+| 270 | 0% | 99.7% |  |
+| 271 | 0.1% | 99.7% |  |
+| 272 | 0.1% | 99.6% |  |
+| 273 | 0% | 99.6% |  |
+| 274 | 0.1% | 99.5% |  |
+| 275 | 0.2% | 99.4% |  |
+| 276 | 0.3% | 99.2% |  |
+| 277 | 0.2% | 99.0% |  |
+| 278 | 0.3% | 98.8% |  |
+| 279 | 0.2% | 98% |  |
+| 280 | 0.2% | 98% |  |
+| 281 | 0.3% | 98% |  |
+| 282 | 0.3% | 98% |  |
+| 283 | 0.3% | 97% |  |
+| 284 | 0.4% | 97% |  |
+| 285 | 0.4% | 97% |  |
+| 286 | 0.4% | 96% |  |
+| 287 | 0.4% | 96% |  |
+| 288 | 0.5% | 96% |  |
+| 289 | 0.6% | 95% |  |
+| 290 | 0.8% | 94% |  |
+| 291 | 0.7% | 94% |  |
+| 292 | 1.0% | 93% |  |
+| 293 | 0.5% | 92% |  |
+| 294 | 0.5% | 91% |  |
+| 295 | 0.4% | 91% |  |
+| 296 | 0.5% | 90% |  |
+| 297 | 0.7% | 90% |  |
+| 298 | 0.9% | 89% |  |
+| 299 | 0.9% | 88% |  |
+| 300 | 1.1% | 88% |  |
+| 301 | 0.8% | 86% |  |
+| 302 | 0.9% | 86% |  |
+| 303 | 0.8% | 85% |  |
+| 304 | 0.6% | 84% |  |
+| 305 | 0.7% | 83% |  |
+| 306 | 0.8% | 83% |  |
+| 307 | 0.7% | 82% |  |
+| 308 | 1.0% | 81% |  |
+| 309 | 2% | 80% |  |
+| 310 | 2% | 79% |  |
+| 311 | 2% | 77% |  |
+| 312 | 1.2% | 75% |  |
+| 313 | 2% | 74% |  |
+| 314 | 1.0% | 72% |  |
+| 315 | 1.5% | 71% |  |
+| 316 | 2% | 70% |  |
+| 317 | 2% | 68% |  |
+| 318 | 2% | 66% |  |
+| 319 | 4% | 64% |  |
 | 320 | 3% | 60% |  |
 | 321 | 3% | 57% |  |
 | 322 | 3% | 54% |  |
 | 323 | 4% | 51% | Median |
-| 324 | 3% | 47% |  |
-| 325 | 3% | 44% |  |
-| 326 | 3% | 41% | Majority |
-| 327 | 3% | 38% |  |
-| 328 | 3% | 35% |  |
-| 329 | 3% | 32% |  |
-| 330 | 3% | 30% |  |
-| 331 | 2% | 27% |  |
-| 332 | 2% | 25% |  |
-| 333 | 2% | 23% |  |
-| 334 | 2% | 21% |  |
-| 335 | 2% | 19% |  |
-| 336 | 1.4% | 18% |  |
-| 337 | 1.4% | 16% |  |
-| 338 | 1.2% | 15% |  |
-| 339 | 2% | 14% |  |
-| 340 | 1.0% | 12% |  |
-| 341 | 1.1% | 11% |  |
-| 342 | 0.9% | 10% |  |
-| 343 | 1.1% | 9% |  |
-| 344 | 0.6% | 8% |  |
-| 345 | 0.8% | 7% |  |
-| 346 | 0.8% | 6% |  |
-| 347 | 0.4% | 6% |  |
-| 348 | 0.5% | 5% |  |
-| 349 | 0.4% | 5% |  |
-| 350 | 0.5% | 4% |  |
-| 351 | 0.3% | 4% |  |
-| 352 | 0.4% | 3% |  |
-| 353 | 0.4% | 3% |  |
-| 354 | 0.2% | 3% |  |
-| 355 | 0.2% | 2% |  |
-| 356 | 0.2% | 2% |  |
-| 357 | 0.4% | 2% |  |
-| 358 | 0.3% | 2% |  |
-| 359 | 0.2% | 1.4% |  |
-| 360 | 0.1% | 1.2% |  |
-| 361 | 0.2% | 1.1% |  |
-| 362 | 0.1% | 1.0% |  |
-| 363 | 0.1% | 0.8% |  |
-| 364 | 0.2% | 0.7% |  |
-| 365 | 0.1% | 0.5% |  |
-| 366 | 0% | 0.4% |  |
-| 367 | 0.1% | 0.4% |  |
-| 368 | 0% | 0.3% |  |
-| 369 | 0% | 0.3% |  |
-| 370 | 0% | 0.2% |  |
-| 371 | 0% | 0.2% |  |
-| 372 | 0% | 0.1% |  |
-| 373 | 0% | 0.1% |  |
-| 374 | 0% | 0.1% |  |
-| 375 | 0% | 0.1% |  |
-| 376 | 0% | 0.1% |  |
-| 377 | 0% | 0.1% |  |
-| 378 | 0% | 0.1% |  |
-| 379 | 0% | 0.1% |  |
-| 380 | 0% | 0% |  |
+| 324 | 3% | 48% |  |
+| 325 | 3% | 45% |  |
+| 326 | 3% | 42% | Majority |
+| 327 | 3% | 39% |  |
+| 328 | 2% | 37% |  |
+| 329 | 2% | 34% |  |
+| 330 | 3% | 32% |  |
+| 331 | 1.5% | 29% |  |
+| 332 | 2% | 28% |  |
+| 333 | 2% | 26% |  |
+| 334 | 1.4% | 24% |  |
+| 335 | 1.3% | 23% |  |
+| 336 | 1.0% | 22% |  |
+| 337 | 0.7% | 21% |  |
+| 338 | 1.1% | 20% |  |
+| 339 | 1.0% | 19% |  |
+| 340 | 0.9% | 18% |  |
+| 341 | 0.7% | 17% |  |
+| 342 | 0.6% | 16% |  |
+| 343 | 0.5% | 16% |  |
+| 344 | 0.4% | 15% |  |
+| 345 | 0.4% | 15% |  |
+| 346 | 0.9% | 14% |  |
+| 347 | 0.5% | 14% |  |
+| 348 | 0.3% | 13% |  |
+| 349 | 0.4% | 13% |  |
+| 350 | 0.3% | 12% |  |
+| 351 | 0.7% | 12% |  |
+| 352 | 0.4% | 11% |  |
+| 353 | 0.4% | 11% |  |
+| 354 | 0.4% | 10% |  |
+| 355 | 0.6% | 10% |  |
+| 356 | 0.6% | 10% |  |
+| 357 | 0.3% | 9% |  |
+| 358 | 0.5% | 9% |  |
+| 359 | 0.5% | 8% |  |
+| 360 | 0.4% | 8% |  |
+| 361 | 0.4% | 7% |  |
+| 362 | 0.3% | 7% |  |
+| 363 | 0.4% | 7% |  |
+| 364 | 0.4% | 6% |  |
+| 365 | 0.2% | 6% |  |
+| 366 | 0.6% | 6% |  |
+| 367 | 0.3% | 5% |  |
+| 368 | 0.2% | 5% |  |
+| 369 | 0.2% | 4% |  |
+| 370 | 0.3% | 4% |  |
+| 371 | 0.3% | 4% |  |
+| 372 | 0.2% | 4% |  |
+| 373 | 0.2% | 3% |  |
+| 374 | 0.2% | 3% |  |
+| 375 | 0.1% | 3% |  |
+| 376 | 0.2% | 3% |  |
+| 377 | 0.2% | 3% |  |
+| 378 | 0.2% | 2% |  |
+| 379 | 0.1% | 2% |  |
+| 380 | 0.3% | 2% |  |
+| 381 | 0.2% | 2% |  |
+| 382 | 0.1% | 2% |  |
+| 383 | 0.2% | 2% |  |
+| 384 | 0.1% | 1.3% |  |
+| 385 | 0.1% | 1.2% |  |
+| 386 | 0.1% | 1.0% |  |
+| 387 | 0.1% | 0.9% |  |
+| 388 | 0.1% | 0.8% |  |
+| 389 | 0.1% | 0.7% |  |
+| 390 | 0.1% | 0.6% |  |
+| 391 | 0% | 0.5% |  |
+| 392 | 0% | 0.4% |  |
+| 393 | 0.1% | 0.4% |  |
+| 394 | 0% | 0.3% |  |
+| 395 | 0% | 0.3% |  |
+| 396 | 0% | 0.2% |  |
+| 397 | 0% | 0.2% |  |
+| 398 | 0% | 0.2% |  |
+| 399 | 0% | 0.2% |  |
+| 400 | 0% | 0.1% |  |
+| 401 | 0% | 0.1% |  |
+| 402 | 0% | 0.1% |  |
+| 403 | 0% | 0.1% |  |
+| 404 | 0% | 0.1% |  |
+| 405 | 0% | 0.1% |  |
+| 406 | 0% | 0.1% |  |
+| 407 | 0% | 0.1% |  |
+| 408 | 0% | 0.1% |  |
+| 409 | 0% | 0% |  |
 
 
