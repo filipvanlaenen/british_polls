@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–2.2% | 0.7–2.4% | 0.6–2.7% | 0.5–3.1% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.5–3.0% |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,7 +27,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% | 0.5–1.9% |
 | [2 September 2022](2022-09-02-Deltapoll.html) | Deltapoll | 1.1% | N/A | N/A | N/A | N/A |
 | [1 September 2022](2022-09-01-YouGov.html) | YouGov | 1.0% | N/A | N/A | N/A | N/A |
-| [31 August 2022](2022-08-31-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
+| [31 August 2022](2022-08-31-Survation.html) | Survation | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.4–2.2% |
 | [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
@@ -660,10 +660,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 76% | 99.3% | Last Result, Median |
-| 1.5–2.5% | 19% | 23% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 78% | 99.0% | Last Result, Median |
+| 1.5–2.5% | 18% | 21% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -693,7 +693,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [2 September 2022](2022-09-02-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [1 September 2022](2022-09-01-YouGov.html) | YouGov |  |  |  |  |  |
-| [31 August 2022](2022-08-31-Survation.html) | Survation |  |  |  |  |  |
+| [31 August 2022](2022-08-31-Survation.html) | Survation | 5 | 5–6 | 4–6 | 4–7 | 3–7 |
 | [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 7 | 6–12 | 6–12 | 5–13 | 5–13 |
 | [26–30 August 2022](2022-08-30-Deltapoll.html) | Deltapoll <br> The Mirror | 5 | 5 | 4–6 | 4–6 | 3–7 |
@@ -1328,17 +1328,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 3% | 99.7% | Last Result |
-| 5 | 67% | 97% | Median |
-| 6 | 11% | 30% |  |
-| 7 | 9% | 19% |  |
-| 8 | 0.2% | 10% |  |
-| 9 | 1.0% | 9% |  |
-| 10 | 4% | 8% |  |
-| 11 | 0.1% | 5% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 3% | 99.5% | Last Result |
+| 5 | 69% | 97% | Median |
+| 6 | 12% | 28% |  |
+| 7 | 8% | 16% |  |
+| 8 | 0.2% | 8% |  |
+| 9 | 0.9% | 8% |  |
+| 10 | 3% | 7% |  |
+| 11 | 0.1% | 4% |  |
 | 12 | 3% | 4% |  |
-| 13 | 0.9% | 1.0% |  |
+| 13 | 0.8% | 0.8% |  |
 | 14 | 0% | 0% |  |
 
 
