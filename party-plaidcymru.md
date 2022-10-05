@@ -10,10 +10,35 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.5–3.0% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.4% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [29–30 September 2022](2022-09-30-Omnisis.html) | Omnisis | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [28–29 September 2022](2022-09-29-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [28–29 September 2022](2022-09-29-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [29 September 2022](2022-09-29-Survation.html) | Survation | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 1.0% | N/A | N/A | N/A | N/A |
+| [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
+| [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 | 1.0% | N/A | N/A | N/A | N/A |
+| [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis | 1.0% | N/A | N/A | N/A | N/A |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 1.0% | N/A | N/A | N/A | N/A |
+| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll | 1.0% | N/A | N/A | N/A | N/A |
+| [21–23 September 2022](2022-09-23-Opinium.html) | Opinium | 1.0% | N/A | N/A | N/A | N/A |
+| [21–22 September 2022](2022-09-22-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [21–22 September 2022](2022-09-22-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [21 September 2022](2022-09-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21 September 2022](2022-09-21-PeoplePolling.html) | PeoplePolling <br> GB News | 1.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [7–15 September 2022](2022-09-15-IpsosMORI.html) | Ipsos MORI | 0.0% | N/A | N/A | N/A | N/A |
 | [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll | 1.1% | N/A | N/A | N/A | N/A |
@@ -660,12 +685,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% |  |
-| 0.5–1.5% | 78% | 99.0% | Last Result, Median |
-| 1.5–2.5% | 18% | 21% |  |
-| 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 38% | 100% |  |
+| 0.5–1.5% | 58% | 62% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -676,10 +699,35 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–7 | 5–10 | 4–12 | 4–13 |
+| N/A | [Poll Average](average.html) | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 3–6 |
+| [29–30 September 2022](2022-09-30-Omnisis.html) | Omnisis | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [28–29 September 2022](2022-09-29-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [28–29 September 2022](2022-09-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [29 September 2022](2022-09-29-Survation.html) | Survation | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
+| [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
+| [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 |  |  |  |  |  |
+| [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21–23 September 2022](2022-09-23-Opinium.html) | Opinium |  |  |  |  |  |
+| [21–22 September 2022](2022-09-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [21–22 September 2022](2022-09-22-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [21 September 2022](2022-09-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21 September 2022](2022-09-21-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List |  |  |  |  |  |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [7–15 September 2022](2022-09-15-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News | 7 | 6–12 | 6–12 | 5–13 | 5–13 |
 | [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -1328,17 +1376,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 3% | 99.5% | Last Result |
-| 5 | 69% | 97% | Median |
-| 6 | 12% | 28% |  |
-| 7 | 8% | 16% |  |
-| 8 | 0.2% | 8% |  |
-| 9 | 0.9% | 8% |  |
-| 10 | 3% | 7% |  |
-| 11 | 0.1% | 4% |  |
-| 12 | 3% | 4% |  |
-| 13 | 0.8% | 0.8% |  |
-| 14 | 0% | 0% |  |
+| 0 | 11% | 100% |  |
+| 1 | 14% | 89% |  |
+| 2 | 9% | 76% |  |
+| 3 | 7% | 67% |  |
+| 4 | 9% | 60% | Last Result |
+| 5 | 49% | 51% | Median |
+| 6 | 2% | 2% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 

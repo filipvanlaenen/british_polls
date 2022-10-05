@@ -10,10 +10,35 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 September 2022](2022-09-30-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 September 2022](2022-09-29-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 September 2022](2022-09-29-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [29 September 2022](2022-09-29-Survation.html) | Survation | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | N/A | N/A | N/A | N/A |
+| [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
+| [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 | 0.0% | N/A | N/A | N/A | N/A |
+| [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 0.2% | N/A | N/A | N/A | N/A |
+| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
+| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
+| [21–23 September 2022](2022-09-23-Opinium.html) | Opinium | 0.0% | N/A | N/A | N/A | N/A |
+| [21–22 September 2022](2022-09-22-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [21–22 September 2022](2022-09-22-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [21 September 2022](2022-09-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21 September 2022](2022-09-21-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.6% |
 | [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [7–15 September 2022](2022-09-15-IpsosMORI.html) | Ipsos MORI | 0.0% | N/A | N/A | N/A | N/A |
 | [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
@@ -674,9 +699,34 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [29–30 September 2022](2022-09-30-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [28–29 September 2022](2022-09-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [28–29 September 2022](2022-09-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [29 September 2022](2022-09-29-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
+| [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
+| [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 |  |  |  |  |  |
+| [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
+| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21–23 September 2022](2022-09-23-Opinium.html) | Opinium |  |  |  |  |  |
+| [21–22 September 2022](2022-09-22-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [21–22 September 2022](2022-09-22-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [21 September 2022](2022-09-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21 September 2022](2022-09-21-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List |  |  |  |  |  |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [7–15 September 2022](2022-09-15-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll |  |  |  |  |  |
