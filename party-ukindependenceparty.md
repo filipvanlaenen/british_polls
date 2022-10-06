@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -20,11 +20,11 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [29 September 2022](2022-09-29-Survation.html) | Survation | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
-| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | N/A | N/A | N/A | N/A |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
-| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 0.2% | N/A | N/A | N/A | N/A |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -685,8 +685,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
+| 0.0–0.5% | 97% | 100% | Last Result, Median |
+| 0.5–1.5% | 3% | 3% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -708,11 +708,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [29 September 2022](2022-09-29-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror |  |  |  |  |  |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 0 | 0 | 0 | 0 | 0 |
 | [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [23–27 September 2022](2022-09-27-FindOutNow.html) | FindOutNow <br> Channel 4 |  |  |  |  |  |
 | [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar |  |  |  |  |  |
+| [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
