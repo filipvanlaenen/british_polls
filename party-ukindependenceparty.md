@@ -11,6 +11,13 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 October 2022](2022-10-07-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
+| [5–6 October 2022](2022-10-06-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [6 October 2022](2022-10-06-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -685,8 +692,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 97% | 100% | Last Result, Median |
-| 0.5–1.5% | 3% | 3% |  |
+| 0.0–0.5% | 96% | 100% | Last Result, Median |
+| 0.5–1.5% | 4% | 4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -699,6 +706,13 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [6–7 October 2022](2022-10-07-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [5–6 October 2022](2022-10-06-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [6 October 2022](2022-10-06-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |

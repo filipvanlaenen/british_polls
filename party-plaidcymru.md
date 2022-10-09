@@ -10,7 +10,14 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.4% | 0.3–1.5% | 0.2–1.7% | 0.1–2.0% |
+| [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 October 2022](2022-10-07-Omnisis.html) | Omnisis | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [5–6 October 2022](2022-10-06-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [6 October 2022](2022-10-06-PeoplePolling.html) | PeoplePolling <br> GB News | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
@@ -685,9 +692,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 24% | 100% |  |
-| 0.5–1.5% | 72% | 76% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 12% | 100% |  |
+| 0.5–1.5% | 83% | 88% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -699,7 +706,14 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–5 | 0–5 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 3–5 | 1–5 | 1–6 | 0–7 |
+| [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [6–7 October 2022](2022-10-07-Omnisis.html) | Omnisis | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [5–6 October 2022](2022-10-06-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [6 October 2022](2022-10-06-PeoplePolling.html) | PeoplePolling <br> GB News | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 3–6 |
@@ -1376,12 +1390,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 8% | 93% |  |
-| 2 | 6% | 85% |  |
-| 3 | 5% | 79% |  |
-| 4 | 7% | 75% | Last Result |
-| 5 | 64% | 67% | Median |
+| 0 | 2% | 100% |  |
+| 1 | 3% | 98% |  |
+| 2 | 3% | 94% |  |
+| 3 | 6% | 92% |  |
+| 4 | 10% | 86% | Last Result |
+| 5 | 72% | 76% | Median |
 | 6 | 3% | 4% |  |
 | 7 | 0.6% | 0.7% |  |
 | 8 | 0% | 0.1% |  |
