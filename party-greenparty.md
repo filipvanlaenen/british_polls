@@ -10,11 +10,11 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 1.8–5.8% | 1.5–6.0% | 1.4–6.3% | 1.2–6.9% |
+| N/A | [Poll Average](average.html) | 3.9% | 1.9–5.8% | 1.5–6.0% | 1.4–6.2% | 1.2–6.8% |
 | [18–19 October 2022](2022-10-19-Survation.html) | Survation | 2.5% | 2.0–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
 | [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% |
-| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | N/A | N/A | N/A | N/A |
+| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.0% | 3.5–4.7% | 3.4–4.9% | 3.2–5.0% | 3.0–5.3% |
 | [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis | 4.0% | N/A | N/A | N/A | N/A |
 | [12–13 October 2022](2022-10-13-TechneUK.html) | Techne UK | 4.8% | N/A | N/A | N/A | N/A |
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.3% | N/A | N/A | N/A | N/A |
@@ -705,15 +705,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 15% | 94% |  |
-| 2.5–3.5% | 23% | 80% | Last Result |
-| 3.5–4.5% | 20% | 57% | Median |
-| 4.5–5.5% | 19% | 37% |  |
-| 5.5–6.5% | 17% | 18% |  |
-| 6.5–7.5% | 1.2% | 1.3% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 13% | 95% |  |
+| 2.5–3.5% | 21% | 82% | Last Result |
+| 3.5–4.5% | 26% | 61% | Median |
+| 4.5–5.5% | 19% | 35% |  |
+| 5.5–6.5% | 15% | 16% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -728,7 +727,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [18–19 October 2022](2022-10-19-Survation.html) | Survation | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [12–13 October 2022](2022-10-13-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -1420,10 +1419,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 85% | 90% | Last Result, Median |
-| 2 | 5% | 5% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 9% | 100% |  |
+| 1 | 87% | 91% | Last Result, Median |
+| 2 | 4% | 4% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
