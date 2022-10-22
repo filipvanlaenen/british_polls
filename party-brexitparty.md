@@ -10,16 +10,21 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% | 0.5–2.5% |
+| [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 2.3% | N/A | N/A | N/A | N/A |
+| [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 2.3% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-Omnisis.html) | Omnisis | 1.3% | N/A | N/A | N/A | N/A |
 | [18–19 October 2022](2022-10-19-Survation.html) | Survation | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
+| [19 October 2022](2022-10-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.8% | N/A | N/A | N/A | N/A |
 | [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
 | [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
-| [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis | 1.8% | N/A | N/A | N/A | N/A |
+| [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis | 1.8% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% | 1.0–3.0% |
 | [12–13 October 2022](2022-10-13-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.9% | N/A | N/A | N/A | N/A |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times | 1.4% | N/A | N/A | N/A | N/A |
-| [12 October 2022](2022-10-12-PeoplePolling.html) | People Polling <br> GB News | 1.8% | N/A | N/A | N/A | N/A |
+| [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News | 1.8% | N/A | N/A | N/A | N/A |
 | [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.9% | N/A | N/A | N/A | N/A |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes | 0.0% | N/A | N/A | N/A | N/A |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.3% | N/A | N/A | N/A | N/A |
@@ -704,10 +709,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% |  |
-| 0.5–1.5% | 71% | 99.0% | Median |
-| 1.5–2.5% | 27% | 28% | Last Result |
-| 2.5–3.5% | 0.8% | 0.8% |  |
+| 0.0–0.5% | 0.9% | 100% |  |
+| 0.5–1.5% | 76% | 99.1% | Median |
+| 1.5–2.5% | 23% | 23% | Last Result |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -720,15 +725,20 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [20 October 2022](2022-10-20-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [18–19 October 2022](2022-10-19-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
+| [19 October 2022](2022-10-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
-| [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis | 0 | 0 | 0 | 0 | 0 |
 | [12–13 October 2022](2022-10-13-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12 October 2022](2022-10-12-PeoplePolling.html) | People Polling <br> GB News |  |  |  |  |  |
+| [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
