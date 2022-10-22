@@ -6,7 +6,39 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2022-10-21T23:36:50.617432+02:00</updated>
+  <updated>2022-10-22T23:17:52.868933+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 17.9–21.7%, 18–64 seats</li><li>Labour Party: 55.7–60.5%, 478–523 seats</li><li>Liberal Democrats: 9.0–12.0%, 28–55 seats</li><li>Scottish National Party: 3.3–5.2%, 27–54 seats</li><li>Plaid Cymru: 0.6–1.7%, 3–5 seats</li><li>Green Party: 2.5–4.2%, 1 seats</li><li>Brexit Party: 1.6–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-10-21-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-10-21-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 20–21 October 2022</title>
+    <updated>2022-10-22T20:43:54.647677+02:00</updated>
+    <dc:date>2022-10-22T20:43:54.647677+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 20.3–24.3%, 44–106 seats</li><li>Labour Party: 51.2–56.0%, 438–493 seats</li><li>Liberal Democrats: 9.7–12.8%, 29–55 seats</li><li>Scottish National Party: 3.2–5.1%, 30–55 seats</li><li>Green Party: 3.1–5.0%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-10-20-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-10-20-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 19–20 October 2022</title>
+    <updated>2022-10-22T21:20:26.349833+02:00</updated>
+    <dc:date>2022-10-22T21:20:26.349833+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 12.8–16.9%, 0–19 seats</li><li>Labour Party: 53.0–58.6%, 494–525 seats</li><li>Liberal Democrats: 9.8–13.5%, 46–65 seats</li><li>Scottish National Party: 4.1–6.7%, 40–58 seats</li><li>Green Party: 3.9–6.4%, 1–2 seats</li><li>Brexit Party: 1.6–3.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-10-20-PeoplePolling.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-10-20-PeoplePolling.html"/>
+    <title>Opinion Poll by PeoplePolling for GB News, 20 October 2022</title>
+    <updated>2022-10-22T22:00:31.26521+02:00</updated>
+    <dc:date>2022-10-22T22:00:31.26521+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 20.4–24.9%, 50–109 seats</li><li>Labour Party: 55.8–61.1%, 460–516 seats</li><li>Liberal Democrats: 5.9–8.7%, 7–24 seats</li><li>Scottish National Party: 3.1–5.3%, 30–54 seats</li><li>Green Party: 2.4–4.3%, 1 seats</li><li>Brexit Party: 0.8–2.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-10-20-Omnisis.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-10-20-Omnisis.html"/>
+    <title>Opinion Poll by Omnisis, 20 October 2022</title>
+    <updated>2022-10-22T22:38:25.001878+02:00</updated>
+    <dc:date>2022-10-22T22:38:25.001878+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 21.3–26.1%, 50–136 seats</li><li>Labour Party: 50.6–56.2%, 408–483 seats</li><li>Liberal Democrats: 9.7–13.2%, 23–56 seats</li><li>Scottish National Party: 3.1–5.4%, 29–56 seats</li><li>Plaid Cymru: 0.6–1.8%, 4–6 seats</li><li>UK Independence Party: 0.0–0.5%, 0 seats</li><li>Green Party: 1.7–3.5%, 0–1 seats</li><li>Brexit Party: 0.5–1.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2022-10-19-Survation.html</id>
@@ -14,6 +46,14 @@
     <title>Opinion Poll by Survation, 18–19 October 2022</title>
     <updated>2022-10-20T21:38:13.985679+02:00</updated>
     <dc:date>2022-10-20T21:38:13.985679+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 18.3–21.5%, 17–50 seats</li><li>Labour Party: 55.4–59.3%, 479–512 seats</li><li>Liberal Democrats: 11.2–13.9%, 46–64 seats</li><li>Scottish National Party: 3.4–5.0%, 32–51 seats</li><li>Green Party: 2.6–4.1%, 1 seats</li><li>Brexit Party: 1.4–2.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-10-19-RedfieldWiltonStrategies.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-10-19-RedfieldWiltonStrategies.html"/>
+    <title>Opinion Poll by Redfield &amp; Wilton Strategies, 19 October 2022</title>
+    <updated>2022-10-22T23:17:52.868933+02:00</updated>
+    <dc:date>2022-10-22T23:17:52.868933+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 21.5–26.8%, 61–143 seats</li><li>Labour Party: 54.5–60.6%, 424–502 seats</li><li>Liberal Democrats: 5.9–9.1%, 6–24 seats</li><li>Scottish National Party: 3.1–5.6%, 30–56 seats</li><li>Plaid Cymru: 0.6–1.9%, 3–5 seats</li><li>Green Party: 2.4–4.6%, 1 seats</li><li>Brexit Party: 0.8–2.3%, 0 seats</li></ul></div></content>
@@ -2591,5 +2631,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2022-10-21T23:36:50.617432+02:00</dc:date>
+  <dc:date>2022-10-22T23:17:52.868933+02:00</dc:date>
 </feed>
