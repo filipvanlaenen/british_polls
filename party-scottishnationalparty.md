@@ -743,7 +743,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 53 | 37–55 | 34–57 | 28–58 | 23–58 |
+| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 49 | 38–57 | 34–57 | 32–58 | 23–58 |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 55 | 48–58 | 46–58 | 45–58 | 42–58 |
@@ -1451,8 +1451,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.1% | 92% |  |
 | 20 | 0.1% | 92% |  |
 | 21 | 0.2% | 92% |  |
-| 22 | 0.2% | 92% |  |
-| 23 | 0.1% | 91% |  |
+| 22 | 0.3% | 92% |  |
+| 23 | 0.2% | 91% |  |
 | 24 | 0.3% | 91% |  |
 | 25 | 0.3% | 91% |  |
 | 26 | 0.5% | 91% |  |
@@ -1462,31 +1462,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0.7% | 89% |  |
 | 31 | 0.4% | 88% |  |
 | 32 | 2% | 88% |  |
-| 33 | 0.5% | 86% |  |
+| 33 | 0.4% | 86% |  |
 | 34 | 5% | 86% |  |
 | 35 | 0.6% | 81% |  |
 | 36 | 3% | 80% |  |
 | 37 | 2% | 77% |  |
 | 38 | 4% | 75% |  |
 | 39 | 4% | 71% |  |
-| 40 | 2% | 68% |  |
-| 41 | 6% | 65% |  |
+| 40 | 3% | 67% |  |
+| 41 | 5% | 64% |  |
 | 42 | 2% | 59% |  |
-| 43 | 5% | 56% |  |
-| 44 | 4% | 51% | Median |
-| 45 | 3% | 47% |  |
-| 46 | 5% | 44% |  |
-| 47 | 1.2% | 39% |  |
-| 48 | 2% | 38% | Last Result |
-| 49 | 1.0% | 36% |  |
-| 50 | 1.3% | 34% |  |
-| 51 | 2% | 33% |  |
-| 52 | 2% | 32% |  |
-| 53 | 3% | 30% |  |
-| 54 | 6% | 27% |  |
-| 55 | 2% | 21% |  |
+| 43 | 6% | 56% |  |
+| 44 | 5% | 51% | Median |
+| 45 | 3% | 46% |  |
+| 46 | 5% | 43% |  |
+| 47 | 1.4% | 37% |  |
+| 48 | 2% | 36% | Last Result |
+| 49 | 1.2% | 34% |  |
+| 50 | 2% | 32% |  |
+| 51 | 2% | 31% |  |
+| 52 | 2% | 29% |  |
+| 53 | 3% | 27% |  |
+| 54 | 2% | 24% |  |
+| 55 | 2% | 22% |  |
 | 56 | 2% | 19% |  |
-| 57 | 7% | 17% |  |
+| 57 | 7% | 18% |  |
 | 58 | 10% | 10% |  |
 | 59 | 0% | 0% |  |
 

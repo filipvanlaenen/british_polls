@@ -723,7 +723,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–5 | 0–5 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 3–5 | 1–5 | 1–6 | 0–7 |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
@@ -1424,11 +1424,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 0.5% | 90% |  |
-| 2 | 0.7% | 89% |  |
-| 3 | 3% | 88% |  |
-| 4 | 13% | 85% | Last Result |
+| 0 | 2% | 100% |  |
+| 1 | 3% | 98% |  |
+| 2 | 3% | 94% |  |
+| 3 | 7% | 91% |  |
+| 4 | 11% | 85% | Last Result |
 | 5 | 69% | 73% | Median |
 | 6 | 3% | 4% |  |
 | 7 | 0.7% | 0.8% |  |

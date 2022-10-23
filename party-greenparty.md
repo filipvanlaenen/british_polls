@@ -730,7 +730,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–3 | 0–3 |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 1 | 1 | 1–2 | 1–2 | 1–3 |
@@ -745,7 +745,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -1432,9 +1432,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% |  |
-| 1 | 88% | 94% | Last Result, Median |
-| 2 | 0.7% | 6% |  |
-| 3 | 6% | 6% |  |
+| 1 | 89% | 94% | Last Result, Median |
+| 2 | 2% | 5% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 

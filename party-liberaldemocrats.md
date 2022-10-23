@@ -731,7 +731,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 14–55 | 9–58 | 7–61 | 6–64 |
+| N/A | [Poll Average](average.html) | 32 | 14–55 | 9–58 | 7–61 | 6–64 |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 42 | 31–51 | 29–53 | 28–55 | 25–59 |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 42 | 33–51 | 31–53 | 29–55 | 25–59 |
 | [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 56 | 51–61 | 48–63 | 46–65 | 40–72 |
@@ -746,7 +746,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 18–36 | 17–37 | 15–41 | 10–49 |
+| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 25 | 18–36 | 17–39 | 15–41 | 10–49 |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 26 | 20–32 | 19–34 | 18–36 | 16–44 |
@@ -1442,33 +1442,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 1.3% | 91% |  |
 | 14 | 2% | 90% |  |
 | 15 | 3% | 88% |  |
-| 16 | 2% | 86% |  |
+| 16 | 2% | 85% |  |
 | 17 | 3% | 83% |  |
-| 18 | 3% | 81% |  |
-| 19 | 2% | 78% |  |
-| 20 | 4% | 76% |  |
-| 21 | 4% | 72% |  |
-| 22 | 2% | 68% |  |
-| 23 | 2% | 65% |  |
-| 24 | 1.2% | 63% |  |
-| 25 | 0.8% | 62% |  |
-| 26 | 6% | 61% |  |
-| 27 | 1.1% | 56% |  |
-| 28 | 0.7% | 54% |  |
-| 29 | 0.7% | 54% |  |
-| 30 | 0.9% | 53% |  |
-| 31 | 2% | 52% | Median |
-| 32 | 1.3% | 50% |  |
-| 33 | 1.3% | 49% |  |
-| 34 | 2% | 47% |  |
-| 35 | 2% | 46% |  |
-| 36 | 2% | 44% |  |
+| 18 | 3% | 80% |  |
+| 19 | 2% | 77% |  |
+| 20 | 5% | 75% |  |
+| 21 | 5% | 70% |  |
+| 22 | 2% | 66% |  |
+| 23 | 3% | 63% |  |
+| 24 | 2% | 61% |  |
+| 25 | 1.1% | 59% |  |
+| 26 | 1.4% | 58% |  |
+| 27 | 1.4% | 57% |  |
+| 28 | 0.9% | 55% |  |
+| 29 | 0.9% | 54% |  |
+| 30 | 1.0% | 53% |  |
+| 31 | 1.4% | 52% |  |
+| 32 | 1.3% | 51% | Median |
+| 33 | 2% | 50% |  |
+| 34 | 1.5% | 48% |  |
+| 35 | 2% | 47% |  |
+| 36 | 2% | 45% |  |
 | 37 | 2% | 42% |  |
 | 38 | 3% | 40% |  |
 | 39 | 2% | 37% |  |
 | 40 | 2% | 35% |  |
 | 41 | 2% | 33% |  |
-| 42 | 1.3% | 31% |  |
+| 42 | 1.3% | 32% |  |
 | 43 | 1.3% | 30% |  |
 | 44 | 1.1% | 29% |  |
 | 45 | 1.4% | 28% |  |
@@ -1477,7 +1477,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 2% | 23% |  |
 | 49 | 2% | 21% |  |
 | 50 | 2% | 20% |  |
-| 51 | 2% | 18% |  |
+| 51 | 2% | 17% |  |
 | 52 | 1.4% | 16% |  |
 | 53 | 1.3% | 14% |  |
 | 54 | 2% | 13% |  |
