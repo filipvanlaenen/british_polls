@@ -10,21 +10,21 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.1–0.8% | 0.1–0.8% | 0.1–1.1% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–2.0% |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | NaN% | N/A | N/A | N/A | N/A |
+| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
 | [6 November 2022](2022-11-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 November 2022](2022-11-04-Omnisis.html) | Omnisis | 0.2% | N/A | N/A | N/A | N/A |
 | [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
-| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 1.1% | N/A | N/A | N/A | N/A |
+| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [2–3 November 2022](2022-11-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
-| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.7–1.7% | 0.5–1.9% |
 | [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News | 1.0% | N/A | N/A | N/A | N/A |
-| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 1.0% | N/A | N/A | N/A | N/A |
+| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 1.1% | N/A | N/A | N/A | N/A |
@@ -738,9 +738,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 82% | 100% | Median |
-| 0.5–1.5% | 18% | 18% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 41% | 100% |  |
+| 0.5–1.5% | 54% | 59% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -751,7 +752,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -761,11 +762,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [3–4 November 2022](2022-11-04-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [1–3 November 2022](2022-11-03-Survation.html) | Survation |  |  |  |  |  |
+| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 5 | 4–5 | 4–6 | 3–6 | 3–7 |
 | [2–3 November 2022](2022-11-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis |  |  |  |  |  |
@@ -1481,12 +1482,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 18% | 73% |  |
-| 2 | 13% | 56% | Median |
-| 3 | 27% | 43% |  |
-| 4 | 11% | 15% | Last Result |
-| 5 | 4% | 4% |  |
-| 6 | 0% | 0% |  |
+| 0 | 13% | 100% |  |
+| 1 | 9% | 87% |  |
+| 2 | 6% | 78% |  |
+| 3 | 15% | 71% |  |
+| 4 | 12% | 57% | Last Result, Median |
+| 5 | 43% | 45% |  |
+| 6 | 1.5% | 2% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 

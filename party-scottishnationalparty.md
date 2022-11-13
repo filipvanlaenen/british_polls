@@ -10,23 +10,23 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.7% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.2% | 2.8–5.6% | 2.6–6.0% | 2.3–6.7% |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 3.2% | 2.6–3.9% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
-| [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | N/A | N/A | N/A | N/A |
-| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | NaN% | N/A | N/A | N/A | N/A |
-| [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll | 4.1% | N/A | N/A | N/A | N/A |
+| [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | 2.6–3.8% | 2.4–4.0% | 2.3–4.1% | 2.1–4.5% |
+| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | 5.4% | 4.6–6.3% | 4.3–6.6% | 4.2–6.9% | 3.8–7.4% |
+| [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [6 November 2022](2022-11-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | N/A | N/A | N/A | N/A |
-| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 4.1% | N/A | N/A | N/A | N/A |
+| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.6% |
 | [3–4 November 2022](2022-11-04-Omnisis.html) | Omnisis | 4.2% | N/A | N/A | N/A | N/A |
 | [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK | 4.1% | N/A | N/A | N/A | N/A |
-| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 4.3% | N/A | N/A | N/A | N/A |
+| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [2–3 November 2022](2022-11-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | N/A | N/A | N/A | N/A |
-| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
+| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.2–5.2% | 3.0–5.6% |
 | [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News | 5.3% | N/A | N/A | N/A | N/A |
-| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
-| [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 4.1% | N/A | N/A | N/A | N/A |
+| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
+| [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
+| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.5–4.9% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 4.1% | N/A | N/A | N/A | N/A |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
 | [26–27 October 2022](2022-10-27-Survation.html) | Survation | 5.1% | N/A | N/A | N/A | N/A |
@@ -739,12 +739,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 31% | 97% |  |
-| 3.5–4.5% | 51% | 66% | Last Result, Median |
-| 4.5–5.5% | 14% | 15% |  |
-| 5.5–6.5% | 0.9% | 1.0% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 24% | 98% |  |
+| 3.5–4.5% | 47% | 74% | Last Result, Median |
+| 4.5–5.5% | 21% | 27% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -755,23 +756,23 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 29–55 | 23–57 | 19–57 | 16–58 |
+| N/A | [Poll Average](average.html) | 47 | 31–57 | 24–58 | 20–58 | 16–58 |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 37 | 21–46 | 18–46 | 16–50 | 11–54 |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 48 | 40–55 | 37–56 | 34–57 | 28–58 |
-| [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 31 | 19–41 | 17–43 | 16–45 | 11–51 |
+| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | 58 | 56–58 | 54–58 | 53–58 | 46–58 |
+| [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll | 51 | 39–57 | 35–58 | 31–58 | 23–58 |
 | [6 November 2022](2022-11-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 52 | 43–57 | 39–57 | 36–58 | 31–58 |
 | [3–4 November 2022](2022-11-04-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [1–3 November 2022](2022-11-03-Survation.html) | Survation |  |  |  |  |  |
+| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 48 | 40–56 | 37–57 | 35–57 | 25–58 |
 | [2–3 November 2022](2022-11-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 46 | 39–54 | 36–55 | 34–57 | 29–57 |
 | [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 46 | 38–54 | 37–55 | 35–56 | 25–57 |
+| [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 46 | 40–54 | 37–55 | 36–56 | 30–57 |
+| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 53 | 42–57 | 40–58 | 37–58 | 31–58 |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [26–27 October 2022](2022-10-27-Survation.html) | Survation |  |  |  |  |  |
@@ -1485,57 +1486,56 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 0% | 99.9% |  |
+| 9 | 0% | 100% |  |
 | 10 | 0% | 99.9% |  |
-| 11 | 0.1% | 99.9% |  |
-| 12 | 0% | 99.8% |  |
-| 13 | 0% | 99.8% |  |
+| 11 | 0% | 99.9% |  |
+| 12 | 0% | 99.9% |  |
+| 13 | 0% | 99.9% |  |
 | 14 | 0% | 99.8% |  |
-| 15 | 0.2% | 99.7% |  |
-| 16 | 0.5% | 99.5% |  |
-| 17 | 0.5% | 99.0% |  |
-| 18 | 0.5% | 98% |  |
+| 15 | 0.1% | 99.8% |  |
+| 16 | 0.3% | 99.7% |  |
+| 17 | 0.5% | 99.3% |  |
+| 18 | 0.6% | 98.8% |  |
 | 19 | 0.6% | 98% |  |
-| 20 | 0.5% | 97% |  |
-| 21 | 0.8% | 97% |  |
-| 22 | 0.9% | 96% |  |
-| 23 | 0.7% | 95% |  |
-| 24 | 0.9% | 94% |  |
-| 25 | 1.1% | 94% |  |
-| 26 | 0.9% | 92% |  |
-| 27 | 0.8% | 91% |  |
-| 28 | 0.6% | 91% |  |
-| 29 | 0.9% | 90% |  |
-| 30 | 1.2% | 89% |  |
-| 31 | 0.8% | 88% |  |
-| 32 | 1.1% | 87% |  |
-| 33 | 0.7% | 86% |  |
-| 34 | 3% | 85% |  |
-| 35 | 1.5% | 83% |  |
-| 36 | 2% | 81% |  |
-| 37 | 2% | 80% |  |
-| 38 | 3% | 77% |  |
-| 39 | 4% | 74% |  |
-| 40 | 2% | 70% |  |
-| 41 | 5% | 68% |  |
-| 42 | 2% | 63% |  |
-| 43 | 6% | 61% |  |
-| 44 | 3% | 55% |  |
-| 45 | 4% | 52% | Median |
-| 46 | 10% | 48% |  |
-| 47 | 2% | 38% |  |
-| 48 | 5% | 36% | Last Result |
-| 49 | 1.2% | 32% |  |
-| 50 | 3% | 31% |  |
-| 51 | 2% | 28% |  |
-| 52 | 3% | 26% |  |
-| 53 | 6% | 23% |  |
-| 54 | 5% | 17% |  |
-| 55 | 4% | 12% |  |
-| 56 | 2% | 8% |  |
-| 57 | 4% | 6% |  |
-| 58 | 2% | 2% |  |
+| 20 | 0.4% | 98% |  |
+| 21 | 0.6% | 97% |  |
+| 22 | 0.6% | 97% |  |
+| 23 | 0.6% | 96% |  |
+| 24 | 0.7% | 95% |  |
+| 25 | 0.7% | 95% |  |
+| 26 | 0.9% | 94% |  |
+| 27 | 0.6% | 93% |  |
+| 28 | 0.4% | 93% |  |
+| 29 | 0.9% | 92% |  |
+| 30 | 0.7% | 91% |  |
+| 31 | 1.0% | 90% |  |
+| 32 | 1.1% | 89% |  |
+| 33 | 0.6% | 88% |  |
+| 34 | 2% | 88% |  |
+| 35 | 0.9% | 85% |  |
+| 36 | 2% | 84% |  |
+| 37 | 1.5% | 83% |  |
+| 38 | 2% | 81% |  |
+| 39 | 3% | 79% |  |
+| 40 | 2% | 76% |  |
+| 41 | 3% | 74% |  |
+| 42 | 2% | 71% |  |
+| 43 | 5% | 70% |  |
+| 44 | 4% | 65% |  |
+| 45 | 4% | 61% |  |
+| 46 | 7% | 57% |  |
+| 47 | 2% | 50% | Median |
+| 48 | 5% | 49% | Last Result |
+| 49 | 0.9% | 43% |  |
+| 50 | 3% | 43% |  |
+| 51 | 2% | 40% |  |
+| 52 | 3% | 38% |  |
+| 53 | 6% | 35% |  |
+| 54 | 5% | 29% |  |
+| 55 | 6% | 24% |  |
+| 56 | 3% | 19% |  |
+| 57 | 7% | 16% |  |
+| 58 | 9% | 9% |  |
 | 59 | 0% | 0% |  |
 
 
