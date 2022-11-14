@@ -27,10 +27,10 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
-| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 1.1% | N/A | N/A | N/A | N/A |
+| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 1.0% | N/A | N/A | N/A | N/A |
-| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 1.0% | N/A | N/A | N/A | N/A |
+| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [25–26 October 2022](2022-10-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent | 0.0% | N/A | N/A | N/A | N/A |
@@ -769,10 +769,10 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [26–27 October 2022](2022-10-27-Survation.html) | Survation |  |  |  |  |  |
-| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [25–26 October 2022](2022-10-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent |  |  |  |  |  |

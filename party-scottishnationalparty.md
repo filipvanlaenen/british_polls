@@ -10,7 +10,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.2% | 2.8–5.6% | 2.6–6.0% | 2.3–6.7% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.3% | 2.9–5.7% | 2.7–6.0% | 2.3–6.6% |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 3.2% | 2.6–3.9% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | 2.6–3.8% | 2.4–4.0% | 2.3–4.1% | 2.1–4.5% |
@@ -27,20 +27,20 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.5–4.9% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% |
-| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 4.1% | N/A | N/A | N/A | N/A |
-| [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
-| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 5.1% | N/A | N/A | N/A | N/A |
-| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
+| [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 2.9–5.5% |
+| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.5% |
+| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 5.2% | 4.5–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [25–26 October 2022](2022-10-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
-| [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News | 5.2% | N/A | N/A | N/A | N/A |
-| [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent | 4.1% | N/A | N/A | N/A | N/A |
-| [21–23 October 2022](2022-10-23-SavantaComRes.html) | Savanta ComRes <br> Independent | 4.0% | N/A | N/A | N/A | N/A |
+| [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.1–6.6% | 3.7–7.1% |
+| [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent | 4.1% | 3.5–4.8% | 3.4–5.1% | 3.2–5.2% | 3.0–5.6% |
+| [21–23 October 2022](2022-10-23-SavantaComRes.html) | Savanta ComRes <br> Independent | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [23 October 2022](2022-10-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | N/A | N/A | N/A | N/A |
 | [22–23 October 2022](2022-10-23-Deltapoll.html) | Deltapoll <br> Sky News | 4.1% | N/A | N/A | N/A | N/A |
 | [21–22 October 2022](2022-10-22-Omnisis.html) | Omnisis | 4.1% | N/A | N/A | N/A | N/A |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.2% | 3.0–5.6% |
 | [19–21 October 2022](2022-10-21-Opinium.html) | Opinium <br> The Observer | 3.2% | N/A | N/A | N/A | N/A |
-| [19–21 October 2022](2022-10-21-JLPartners.html) | J&L Partners | 5.1% | N/A | N/A | N/A | N/A |
+| [19–21 October 2022](2022-10-21-JLPartners.html) | J&L Partners | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.2% | 4.0–6.6% |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
 | [20 October 2022](2022-10-20-Omnisis.html) | Omnisis | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
@@ -739,12 +739,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 24% | 98% |  |
-| 3.5–4.5% | 47% | 74% | Last Result, Median |
-| 4.5–5.5% | 21% | 27% |  |
-| 5.5–6.5% | 5% | 6% |  |
-| 6.5–7.5% | 0.6% | 0.7% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 20% | 98.6% |  |
+| 3.5–4.5% | 48% | 79% | Last Result, Median |
+| 4.5–5.5% | 24% | 31% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -756,7 +756,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 31–57 | 24–58 | 20–58 | 16–58 |
+| N/A | [Poll Average](average.html) | 48 | 34–57 | 26–58 | 21–58 | 17–58 |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 37 | 21–46 | 18–46 | 16–50 | 11–54 |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 48 | 40–55 | 37–56 | 34–57 | 28–58 |
 | [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 31 | 19–41 | 17–43 | 16–45 | 11–51 |
@@ -773,20 +773,20 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 46 | 38–54 | 37–55 | 35–56 | 25–57 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 46 | 40–54 | 37–55 | 36–56 | 30–57 |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 53 | 42–57 | 40–58 | 37–58 | 31–58 |
-| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [26–27 October 2022](2022-10-27-Survation.html) | Survation |  |  |  |  |  |
-| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 46 | 39–53 | 36–55 | 33–56 | 26–57 |
+| [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 45 | 38–54 | 34–55 | 34–57 | 27–57 |
+| [26–27 October 2022](2022-10-27-Survation.html) | Survation | 55 | 51–58 | 48–58 | 46–58 | 45–58 |
+| [25–26 October 2022](2022-10-26-YouGov.html) | YouGov <br> The Times | 56 | 48–58 | 46–58 | 45–58 | 42–58 |
 | [25–26 October 2022](2022-10-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent |  |  |  |  |  |
-| [21–23 October 2022](2022-10-23-SavantaComRes.html) | Savanta ComRes <br> Independent |  |  |  |  |  |
+| [26 October 2022](2022-10-26-PeoplePolling.html) | PeoplePolling <br> GB News | 56 | 48–58 | 46–58 | 44–58 | 40–58 |
+| [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent | 46 | 38–55 | 35–56 | 34–57 | 28–58 |
+| [21–23 October 2022](2022-10-23-SavantaComRes.html) | Savanta ComRes <br> Independent | 46 | 40–54 | 38–55 | 37–55 | 32–57 |
 | [23 October 2022](2022-10-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [22–23 October 2022](2022-10-23-Deltapoll.html) | Deltapoll <br> Sky News |  |  |  |  |  |
 | [21–22 October 2022](2022-10-22-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 42 | 34–50 | 31–53 | 27–54 | 25–55 |
 | [19–21 October 2022](2022-10-21-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [19–21 October 2022](2022-10-21-JLPartners.html) | J&L Partners |  |  |  |  |  |
+| [19–21 October 2022](2022-10-21-JLPartners.html) | J&L Partners | 55 | 51–58 | 48–58 | 46–58 | 45–58 |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 43 | 34–52 | 32–54 | 30–55 | 25–57 |
 | [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 54 | 44–57 | 43–58 | 40–58 | 36–58 |
 | [20 October 2022](2022-10-20-Omnisis.html) | Omnisis | 43 | 35–48 | 32–53 | 30–54 | 27–56 |
@@ -1486,56 +1486,55 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0% | 100% |  |
-| 10 | 0% | 99.9% |  |
+| 10 | 0% | 100% |  |
 | 11 | 0% | 99.9% |  |
 | 12 | 0% | 99.9% |  |
 | 13 | 0% | 99.9% |  |
-| 14 | 0% | 99.8% |  |
-| 15 | 0.1% | 99.8% |  |
-| 16 | 0.3% | 99.7% |  |
-| 17 | 0.5% | 99.3% |  |
-| 18 | 0.6% | 98.8% |  |
-| 19 | 0.6% | 98% |  |
-| 20 | 0.4% | 98% |  |
-| 21 | 0.6% | 97% |  |
-| 22 | 0.6% | 97% |  |
-| 23 | 0.6% | 96% |  |
-| 24 | 0.7% | 95% |  |
-| 25 | 0.7% | 95% |  |
-| 26 | 0.9% | 94% |  |
-| 27 | 0.6% | 93% |  |
-| 28 | 0.4% | 93% |  |
-| 29 | 0.9% | 92% |  |
-| 30 | 0.7% | 91% |  |
-| 31 | 1.0% | 90% |  |
-| 32 | 1.1% | 89% |  |
-| 33 | 0.6% | 88% |  |
-| 34 | 2% | 88% |  |
-| 35 | 0.9% | 85% |  |
-| 36 | 2% | 84% |  |
-| 37 | 1.5% | 83% |  |
-| 38 | 2% | 81% |  |
-| 39 | 3% | 79% |  |
-| 40 | 2% | 76% |  |
-| 41 | 3% | 74% |  |
-| 42 | 2% | 71% |  |
-| 43 | 5% | 70% |  |
-| 44 | 4% | 65% |  |
-| 45 | 4% | 61% |  |
-| 46 | 7% | 57% |  |
-| 47 | 2% | 50% | Median |
-| 48 | 5% | 49% | Last Result |
-| 49 | 0.9% | 43% |  |
-| 50 | 3% | 43% |  |
-| 51 | 2% | 40% |  |
-| 52 | 3% | 38% |  |
-| 53 | 6% | 35% |  |
-| 54 | 5% | 29% |  |
-| 55 | 6% | 24% |  |
+| 14 | 0% | 99.9% |  |
+| 15 | 0.1% | 99.9% |  |
+| 16 | 0.2% | 99.7% |  |
+| 17 | 0.4% | 99.5% |  |
+| 18 | 0.4% | 99.1% |  |
+| 19 | 0.5% | 98.7% |  |
+| 20 | 0.3% | 98% |  |
+| 21 | 0.5% | 98% |  |
+| 22 | 0.5% | 97% |  |
+| 23 | 0.4% | 97% |  |
+| 24 | 0.5% | 97% |  |
+| 25 | 0.5% | 96% |  |
+| 26 | 0.7% | 96% |  |
+| 27 | 0.5% | 95% |  |
+| 28 | 0.3% | 94% |  |
+| 29 | 0.7% | 94% |  |
+| 30 | 0.6% | 93% |  |
+| 31 | 0.8% | 93% |  |
+| 32 | 0.9% | 92% |  |
+| 33 | 0.5% | 91% |  |
+| 34 | 2% | 91% |  |
+| 35 | 0.7% | 89% |  |
+| 36 | 2% | 88% |  |
+| 37 | 1.4% | 86% |  |
+| 38 | 2% | 85% |  |
+| 39 | 2% | 83% |  |
+| 40 | 2% | 80% |  |
+| 41 | 3% | 79% |  |
+| 42 | 2% | 76% |  |
+| 43 | 5% | 74% |  |
+| 44 | 4% | 69% |  |
+| 45 | 4% | 65% |  |
+| 46 | 8% | 61% |  |
+| 47 | 2% | 53% |  |
+| 48 | 5% | 52% | Last Result, Median |
+| 49 | 0.9% | 46% |  |
+| 50 | 3% | 45% |  |
+| 51 | 2% | 42% |  |
+| 52 | 3% | 40% |  |
+| 53 | 6% | 37% |  |
+| 54 | 6% | 31% |  |
+| 55 | 6% | 25% |  |
 | 56 | 3% | 19% |  |
-| 57 | 7% | 16% |  |
-| 58 | 9% | 9% |  |
+| 57 | 8% | 16% |  |
+| 58 | 8% | 8% |  |
 | 59 | 0% | 0% |  |
 
 
