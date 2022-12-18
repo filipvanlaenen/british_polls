@@ -50,7 +50,7 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell | 51.2% | N/A | N/A | N/A | N/A |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 52.8% | 51.2–54.5% | 50.7–54.9% | 50.3–55.3% | 49.5–56.1% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 51.4% | 50.0–52.9% | 49.6–53.3% | 49.2–53.7% | 48.5–54.4% |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 50.5% | N/A | N/A | N/A | N/A |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 50.5% | 49.0–51.9% | 48.6–52.3% | 48.2–52.7% | 47.5–53.4% |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 44.9% | 43.3–46.6% | 42.8–47.1% | 42.4–47.5% | 41.6–48.3% |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 54.3% | 52.5–56.0% | 52.0–56.5% | 51.6–56.9% | 50.7–57.8% |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 50.6% | 49.0–52.2% | 48.5–52.6% | 48.1–53.0% | 47.3–53.8% |
@@ -849,7 +849,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell |  |  |  |  |  |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 408 | 396–441 | 389–443 | 381–447 | 374–464 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 400 | 383–417 | 377–422 | 373–428 | 366–442 |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain |  |  |  |  |  |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 379 | 365–398 | 360–403 | 356–406 | 348–414 |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 360 | 339–377 | 334–384 | 330–389 | 325–399 |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 438 | 408–465 | 402–472 | 398–477 | 390–485 |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 407 | 390–431 | 384–440 | 379–446 | 370–457 |

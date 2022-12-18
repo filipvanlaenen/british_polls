@@ -50,7 +50,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell | 9.4% | N/A | N/A | N/A | N/A |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 9.3% | 8.4–10.3% | 8.2–10.6% | 8.0–10.9% | 7.5–11.4% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.5–10.2% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 8.3% | N/A | N/A | N/A | N/A |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.1–9.6% | 6.8–10.0% |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 10.2% | 9.2–11.3% | 9.0–11.6% | 8.7–11.8% | 8.3–12.4% |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 7.2% | 6.3–8.2% | 6.1–8.4% | 5.9–8.7% | 5.5–9.2% |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 10.1% | 9.2–11.2% | 9.0–11.5% | 8.7–11.7% | 8.3–12.2% |
@@ -834,7 +834,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell |  |  |  |  |  |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 19 | 15–26 | 14–28 | 10–31 | 7–35 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 18 | 14–23 | 11–24 | 10–26 | 7–30 |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain |  |  |  |  |  |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 10 | 7–15 | 6–17 | 6–19 | 6–20 |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 22 | 17–29 | 15–32 | 14–35 | 10–39 |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 10 | 6–17 | 6–18 | 6–19 | 6–22 |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 24 | 19–34 | 18–36 | 17–38 | 15–41 |

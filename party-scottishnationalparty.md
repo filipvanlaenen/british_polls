@@ -50,7 +50,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell | 4.2% | N/A | N/A | N/A | N/A |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 4.1% | N/A | N/A | N/A | N/A |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.1% | 3.1–5.4% |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.5–4.9% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 2.9–5.5% |
@@ -831,7 +831,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell |  |  |  |  |  |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 46 | 38–54 | 37–55 | 35–56 | 25–57 |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 46 | 40–54 | 37–55 | 36–56 | 30–57 |
-| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain |  |  |  |  |  |
+| [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 48 | 42–55 | 40–55 | 37–57 | 32–57 |
 | [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 53 | 42–57 | 40–58 | 37–58 | 31–58 |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 46 | 39–53 | 36–55 | 33–56 | 26–57 |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 45 | 38–54 | 34–55 | 34–57 | 27–57 |
