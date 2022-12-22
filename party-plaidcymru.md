@@ -10,9 +10,9 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
-| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
@@ -794,9 +794,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% |  |
-| 0.5–1.5% | 94% | 99.4% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 0.5% | 100% |  |
+| 0.5–1.5% | 94% | 99.5% | Last Result, Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -810,7 +810,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–6 | 3–6 |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 3–7 |
-| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [15 December 2022](2022-12-15-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
@@ -1594,11 +1594,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.8% | 100% |  |
-| 4 | 6% | 99.2% | Last Result |
-| 5 | 88% | 93% | Median |
-| 6 | 4% | 4% |  |
-| 7 | 0.5% | 0.5% |  |
+| 3 | 1.0% | 100% |  |
+| 4 | 7% | 99.0% | Last Result |
+| 5 | 88% | 92% | Median |
+| 6 | 3% | 4% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

@@ -10,11 +10,11 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.8–11.1% | 8.5–11.4% | 8.2–11.7% | 7.7–12.2% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.2–10.8% | 7.9–11.1% | 7.7–11.4% | 7.2–11.9% |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 9.4% | 8.4–10.5% | 8.2–10.8% | 8.0–11.1% | 7.5–11.6% |
-| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 8.5% | N/A | N/A | N/A | N/A |
-| [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 9.4% | N/A | N/A | N/A | N/A |
-| [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 9.4% | N/A | N/A | N/A | N/A |
+| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 8.5% | 7.7–9.5% | 7.4–9.8% | 7.2–10.0% | 6.8–10.5% |
+| [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 9.4% | 8.5–10.5% | 8.3–10.7% | 8.1–11.0% | 7.7–11.5% |
+| [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 9.4% | 8.4–10.6% | 8.1–10.9% | 7.8–11.2% | 7.4–11.8% |
 | [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 7.5% | N/A | N/A | N/A | N/A |
 | [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 13.3% | N/A | N/A | N/A | N/A |
 | [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 9.4% | N/A | N/A | N/A | N/A |
@@ -795,12 +795,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 6% | 99.7% |  |
-| 8.5–9.5% | 26% | 94% |  |
-| 9.5–10.5% | 41% | 68% | Median |
-| 10.5–11.5% | 24% | 28% |  |
-| 11.5–12.5% | 3% | 3% | Last Result |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 16% | 98% |  |
+| 8.5–9.5% | 36% | 83% | Median |
+| 9.5–10.5% | 32% | 47% |  |
+| 10.5–11.5% | 13% | 15% |  |
+| 11.5–12.5% | 2% | 2% | Last Result |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -813,11 +813,11 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 13–30 | 10–34 | 9–36 | 7–39 |
+| N/A | [Poll Average](average.html) | 20 | 14–27 | 11–30 | 10–33 | 7–38 |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 19 | 10–24 | 9–26 | 7–27 | 7–31 |
-| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [15 December 2022](2022-12-15-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 19 | 15–25 | 14–27 | 10–28 | 7–32 |
+| [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 20 | 12–25 | 11–26 | 9–28 | 7–32 |
+| [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 18 | 14–26 | 10–28 | 10–30 | 7–36 |
 | [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [9–12 December 2022](2022-12-12-Kantar.html) | Kantar |  |  |  |  |  |
@@ -1600,42 +1600,41 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.2% | 100% |  |
-| 7 | 1.2% | 99.8% |  |
-| 8 | 0.7% | 98.6% |  |
-| 9 | 1.3% | 98% |  |
-| 10 | 2% | 97% |  |
-| 11 | 1.1% | 95% | Last Result |
-| 12 | 3% | 93% |  |
-| 13 | 1.5% | 91% |  |
-| 14 | 1.3% | 89% |  |
-| 15 | 4% | 88% |  |
-| 16 | 2% | 84% |  |
-| 17 | 5% | 83% |  |
-| 18 | 4% | 78% |  |
-| 19 | 6% | 74% |  |
-| 20 | 10% | 68% |  |
-| 21 | 6% | 58% |  |
-| 22 | 9% | 53% | Median |
-| 23 | 9% | 44% |  |
-| 24 | 6% | 34% |  |
-| 25 | 4% | 29% |  |
-| 26 | 4% | 25% |  |
-| 27 | 4% | 20% |  |
-| 28 | 3% | 16% |  |
-| 29 | 2% | 13% |  |
-| 30 | 2% | 11% |  |
-| 31 | 1.2% | 9% |  |
-| 32 | 2% | 8% |  |
-| 33 | 0.9% | 6% |  |
-| 34 | 2% | 5% |  |
-| 35 | 1.0% | 4% |  |
-| 36 | 1.1% | 3% |  |
-| 37 | 0.5% | 2% |  |
-| 38 | 0.5% | 1.2% |  |
-| 39 | 0.3% | 0.7% |  |
-| 40 | 0.2% | 0.4% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 7 | 0.9% | 99.8% |  |
+| 8 | 0.6% | 98.9% |  |
+| 9 | 0.8% | 98% |  |
+| 10 | 3% | 98% |  |
+| 11 | 0.9% | 95% | Last Result |
+| 12 | 2% | 94% |  |
+| 13 | 0.9% | 92% |  |
+| 14 | 4% | 91% |  |
+| 15 | 5% | 88% |  |
+| 16 | 3% | 83% |  |
+| 17 | 6% | 80% |  |
+| 18 | 10% | 74% |  |
+| 19 | 8% | 64% |  |
+| 20 | 11% | 56% | Median |
+| 21 | 7% | 45% |  |
+| 22 | 7% | 38% |  |
+| 23 | 7% | 30% |  |
+| 24 | 4% | 24% |  |
+| 25 | 4% | 20% |  |
+| 26 | 4% | 16% |  |
+| 27 | 3% | 12% |  |
+| 28 | 2% | 9% |  |
+| 29 | 1.0% | 7% |  |
+| 30 | 1.1% | 6% |  |
+| 31 | 0.8% | 5% |  |
+| 32 | 1.1% | 4% |  |
+| 33 | 0.4% | 3% |  |
+| 34 | 0.7% | 2% |  |
+| 35 | 0.5% | 2% |  |
+| 36 | 0.5% | 1.3% |  |
+| 37 | 0.2% | 0.8% |  |
+| 38 | 0.2% | 0.5% |  |
+| 39 | 0.1% | 0.3% |  |
+| 40 | 0.1% | 0.2% |  |
+| 41 | 0% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
