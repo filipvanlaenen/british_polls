@@ -10,15 +10,15 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 1.7–5.2% | 1.5–5.5% | 1.4–5.8% | 1.2–6.3% |
+| N/A | [Poll Average](average.html) | 4.1% | 1.9–5.3% | 1.7–5.6% | 1.5–5.9% | 1.3–6.5% |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.2–5.3% | 2.9–5.7% |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 4.2% | 3.6–5.0% | 3.5–5.2% | 3.3–5.3% | 3.1–5.7% |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.2% | 3.0–5.6% |
 | [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.3% | 3.5–6.8% |
-| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 5.0% | N/A | N/A | N/A | N/A |
-| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 2.4% | N/A | N/A | N/A | N/A |
-| [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 4.0% | N/A | N/A | N/A | N/A |
-| [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 4.0% | N/A | N/A | N/A | N/A |
+| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
+| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.0% |
+| [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [9–11 December 2022](2022-12-11-Savanta.html) | Savanta | 2.5% | N/A | N/A | N/A | N/A |
 | [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
 | [8–9 December 2022](2022-12-09-Omnisis.html) | Omnisis | 4.9% | N/A | N/A | N/A | N/A |
@@ -795,13 +795,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 14% | 94% |  |
-| 2.5–3.5% | 6% | 80% | Last Result |
-| 3.5–4.5% | 44% | 74% | Median |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 14% | 97% |  |
+| 2.5–3.5% | 13% | 83% | Last Result |
+| 3.5–4.5% | 40% | 70% | Median |
 | 4.5–5.5% | 25% | 30% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -813,15 +813,15 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [15 December 2022](2022-12-15-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1–2 | 1–3 |
-| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
-| [9–12 December 2022](2022-12-12-Kantar.html) | Kantar |  |  |  |  |  |
-| [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 1 | 1 | 1–2 | 1–3 | 1–3 |
+| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1 | 0–1 | 0–1 |
+| [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1 |
+| [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [9–11 December 2022](2022-12-11-Savanta.html) | Savanta |  |  |  |  |  |
 | [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [8–9 December 2022](2022-12-09-Omnisis.html) | Omnisis |  |  |  |  |  |
@@ -1599,10 +1599,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 92% | 93% | Last Result, Median |
-| 2 | 0.4% | 0.6% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 4% | 100% |  |
+| 1 | 94% | 96% | Last Result, Median |
+| 2 | 0.9% | 1.3% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
