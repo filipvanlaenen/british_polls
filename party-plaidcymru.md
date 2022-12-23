@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–1.9% |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -20,7 +20,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [9–11 December 2022](2022-12-11-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
-| [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.1% | N/A | N/A | N/A | N/A |
+| [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [8–9 December 2022](2022-12-09-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 December 2022](2022-12-08-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 December 2022](2022-12-07-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
@@ -32,7 +32,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [2 December 2022](2022-12-02-Opinium.html) | Opinium <br> The Observer | 1.0% | N/A | N/A | N/A | N/A |
 | [1–2 December 2022](2022-12-02-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [1 December 2022](2022-12-01-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
-| [1 December 2022](2022-12-01-BMGResearch.html) | BMG Research <br> The i | 0.3% | N/A | N/A | N/A | N/A |
+| [1 December 2022](2022-12-01-BMGResearch.html) | BMG Research <br> The i | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [29–30 November 2022](2022-11-30-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.7% | 0.7–1.8% | 0.6–2.0% |
 | [30 November 2022](2022-11-30-PeoplePolling.html) | PeoplePolling <br> GB News | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% |
 | [24–28 November 2022](2022-11-28-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
@@ -794,9 +794,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 93% | 98.9% | Last Result, Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 79% | 84% | Last Result, Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -808,7 +808,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 4–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 2–5 | 1–5 | 0–6 | 0–6 |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 3–7 |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK |  |  |  |  |  |
@@ -818,7 +818,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [9–12 December 2022](2022-12-12-Kantar.html) | Kantar |  |  |  |  |  |
 | [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
 | [9–11 December 2022](2022-12-11-Savanta.html) | Savanta |  |  |  |  |  |
-| [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [11 December 2022](2022-12-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [8–9 December 2022](2022-12-09-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [7–8 December 2022](2022-12-08-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [6–7 December 2022](2022-12-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -830,7 +830,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [2 December 2022](2022-12-02-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [1–2 December 2022](2022-12-02-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [1 December 2022](2022-12-01-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [1 December 2022](2022-12-01-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [1 December 2022](2022-12-01-BMGResearch.html) | BMG Research <br> The i | 2 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [29–30 November 2022](2022-11-30-YouGov.html) | YouGov <br> The Times | 5 | 5 | 4–5 | 4–6 | 3–6 |
 | [30 November 2022](2022-11-30-PeoplePolling.html) | PeoplePolling <br> GB News | 5 | 5–6 | 4–6 | 4–6 | 3–7 |
 | [24–28 November 2022](2022-11-28-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -1594,11 +1594,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.2% | 100% |  |
-| 4 | 8% | 98.8% | Last Result |
-| 5 | 85% | 90% | Median |
-| 6 | 4% | 5% |  |
-| 7 | 0.6% | 0.6% |  |
+| 0 | 4% | 100% |  |
+| 1 | 4% | 96% |  |
+| 2 | 4% | 92% |  |
+| 3 | 4% | 88% |  |
+| 4 | 8% | 84% | Last Result |
+| 5 | 72% | 76% | Median |
+| 6 | 3% | 4% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 
