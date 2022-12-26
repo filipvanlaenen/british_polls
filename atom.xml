@@ -6,7 +6,39 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2022-12-23T13:39:42.227453+01:00</updated>
+  <updated>2022-12-26T14:10:08.354825+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 27.2–31.8%, 168–226 seats</li><li>Labour Party: 44.9–49.9%, 338–395 seats</li><li>Liberal Democrats: 7.2–9.9%, 6–20 seats</li><li>Scottish National Party: 3.3–5.3%, 39–58 seats</li><li>Green Party: 3.2–5.2%, 1 seats</li><li>Brexit Party: 2.5–4.2%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-12-22-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-12-22-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 21–22 December 2022</title>
+    <updated>2022-12-26T12:14:57.95041+01:00</updated>
+    <dc:date>2022-12-26T12:14:57.95041+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 23.7–28.7%, 99–177 seats</li><li>Labour Party: 50.4–56.1%, 390–468 seats</li><li>Liberal Democrats: 6.0–9.0%, 6–20 seats</li><li>Scottish National Party: 3.2–5.5%, 36–57 seats</li><li>Plaid Cymru: 0.1–0.7%, 0–4 seats</li><li>Green Party: 3.1–5.4%, 1 seats</li><li>Brexit Party: 1.9–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-12-22-Omnisis.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-12-22-Omnisis.html"/>
+    <title>Opinion Poll by Omnisis, 22 December 2022</title>
+    <updated>2022-12-26T12:54:06.720329+01:00</updated>
+    <dc:date>2022-12-26T12:54:06.720329+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 21.4–26.5%, 77–166 seats</li><li>Labour Party: 46.9–52.8%, 385–464 seats</li><li>Liberal Democrats: 7.1–10.5%, 10–34 seats</li><li>Scottish National Party: 4.2–7.0%, 48–58 seats</li><li>Green Party: 3.9–6.6%, 1–3 seats</li><li>Brexit Party: 2.8–5.1%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-12-21-PeoplePolling.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-12-21-PeoplePolling.html"/>
+    <title>Opinion Poll by PeoplePolling for GB News, 21 December 2022</title>
+    <updated>2022-12-26T13:32:32.559231+01:00</updated>
+    <dc:date>2022-12-26T13:32:32.559231+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 27.0–31.1%, 168–220 seats</li><li>Labour Party: 44.4–48.8%, 335–384 seats</li><li>Liberal Democrats: 8.1–10.7%, 7–22 seats</li><li>Scottish National Party: 4.3–6.2%, 53–58 seats</li><li>Green Party: 1.9–3.2%, 1 seats</li><li>Brexit Party: 1.7–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2022-12-18-Savanta.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2022-12-18-Savanta.html"/>
+    <title>Opinion Poll by Savanta, 16–18 December 2022</title>
+    <updated>2022-12-26T14:10:08.354825+01:00</updated>
+    <dc:date>2022-12-26T14:10:08.354825+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 28.0–32.9%, 178–239 seats</li><li>Labour Party: 43.5–48.8%, 332–391 seats</li><li>Liberal Democrats: 8.0–11.1%, 7–27 seats</li><li>Scottish National Party: 2.3–4.2%, 17–53 seats</li><li>Plaid Cymru: 0.6–1.8%, 4–6 seats</li><li>Green Party: 3.2–5.3%, 1 seats</li><li>Brexit Party: 2.8–4.8%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2022-12-16-Opinium.html</id>
@@ -2967,5 +2999,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2022-12-23T13:39:42.227453+01:00</dc:date>
+  <dc:date>2022-12-26T14:10:08.354825+01:00</dc:date>
 </feed>
