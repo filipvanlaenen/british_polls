@@ -10,7 +10,11 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.2–1.7% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.4% | 0.2–1.5% | 0.1–1.6% | 0.1–1.9% |
+| [21–22 December 2022](2022-12-22-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [22 December 2022](2022-12-22-Omnisis.html) | Omnisis | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 December 2022](2022-12-18-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -794,9 +798,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% |  |
-| 0.5–1.5% | 79% | 84% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 26% | 100% |  |
+| 0.5–1.5% | 69% | 74% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -808,7 +812,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–5 | 1–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 5 | 1–5 | 0–5 | 0–6 | 0–6 |
+| [21–22 December 2022](2022-12-22-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [22 December 2022](2022-12-22-Omnisis.html) | Omnisis | 1 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [16–18 December 2022](2022-12-18-Savanta.html) | Savanta |  |  |  |  |  |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 4–6 | 4–6 | 3–7 |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK |  |  |  |  |  |
@@ -1594,14 +1602,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 4% | 96% |  |
-| 2 | 4% | 92% |  |
-| 3 | 4% | 88% |  |
-| 4 | 8% | 84% | Last Result |
-| 5 | 72% | 76% | Median |
-| 6 | 3% | 4% |  |
-| 7 | 0.4% | 0.4% |  |
+| 0 | 8% | 100% |  |
+| 1 | 8% | 92% |  |
+| 2 | 6% | 85% |  |
+| 3 | 6% | 79% |  |
+| 4 | 7% | 73% | Last Result |
+| 5 | 62% | 65% | Median |
+| 6 | 3% | 3% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

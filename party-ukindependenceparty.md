@@ -11,6 +11,10 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [21–22 December 2022](2022-12-22-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [22 December 2022](2022-12-22-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 December 2022](2022-12-18-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -808,6 +812,10 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–22 December 2022](2022-12-22-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [22 December 2022](2022-12-22-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [16–18 December 2022](2022-12-18-Savanta.html) | Savanta |  |  |  |  |  |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK |  |  |  |  |  |
