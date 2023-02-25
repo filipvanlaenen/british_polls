@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [16–20 February 2023](2023-02-20-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [17–20 February 2023](2023-02-20-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [17–19 February 2023](2023-02-19-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,7 +27,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [8–9 February 2023](2023-02-09-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 February 2023](2023-02-09-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 February 2023](2023-02-09-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
-| [1–6 February 2023](2023-02-06-Survation.html) | Survation | 0.1% | N/A | N/A | N/A | N/A |
+| [1–6 February 2023](2023-02-06-Survation.html) | Survation | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
 | [3–6 February 2023](2023-02-06-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
 | [3–5 February 2023](2023-02-05-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [5 February 2023](2023-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -853,8 +853,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
+| 0.0–0.5% | 98.6% | 100% | Last Result, Median |
+| 0.5–1.5% | 1.4% | 1.4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -883,7 +883,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [8–9 February 2023](2023-02-09-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [8–9 February 2023](2023-02-09-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [8–9 February 2023](2023-02-09-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [1–6 February 2023](2023-02-06-Survation.html) | Survation |  |  |  |  |  |
+| [1–6 February 2023](2023-02-06-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [3–6 February 2023](2023-02-06-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [3–5 February 2023](2023-02-05-Savanta.html) | Savanta |  |  |  |  |  |
 | [5 February 2023](2023-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
