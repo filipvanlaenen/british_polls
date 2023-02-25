@@ -42,7 +42,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [25–26 January 2023](2023-01-26-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 January 2023](2023-01-26-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 January 2023](2023-01-25-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
-| [18–25 January 2023](2023-01-25-IpsosMORI.html) | Ipsos MORI | 0.1% | N/A | N/A | N/A | N/A |
+| [18–25 January 2023](2023-01-25-IpsosMORI.html) | Ipsos MORI | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [24 January 2023](2023-01-24-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [22 January 2023](2023-01-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 January 2023](2023-01-21-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
@@ -853,8 +853,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.6% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -898,7 +898,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [25–26 January 2023](2023-01-26-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [24–26 January 2023](2023-01-26-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [24–25 January 2023](2023-01-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [18–25 January 2023](2023-01-25-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [18–25 January 2023](2023-01-25-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [24 January 2023](2023-01-24-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [22 January 2023](2023-01-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [19–21 January 2023](2023-01-21-Deltapoll.html) | Deltapoll |  |  |  |  |  |
