@@ -10,38 +10,38 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.3–5.1% | 3.1–5.4% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.5–5.7% | 2.2–6.1% | 2.0–6.4% | 1.7–7.1% |
 | [23 April 2023](2023-04-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.1% | 3.1–5.5% |
-| [20–21 April 2023](2023-04-21-Omnisis.html) | Omnisis | 5.0% | N/A | N/A | N/A | N/A |
-| [19–20 April 2023](2023-04-20-YouGov.html) | YouGov <br> The Times | 5.0% | N/A | N/A | N/A | N/A |
-| [20 April 2023](2023-04-20-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
-| [13–17 April 2023](2023-04-17-Deltapoll.html) | Deltapoll | 4.1% | N/A | N/A | N/A | N/A |
-| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta | 2.5% | N/A | N/A | N/A | N/A |
+| [20–21 April 2023](2023-04-21-Omnisis.html) | Omnisis | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
+| [19–20 April 2023](2023-04-20-YouGov.html) | YouGov <br> The Times | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.4% |
+| [20 April 2023](2023-04-20-TechneUK.html) | Techne UK | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.2–5.1% | 2.9–5.5% |
+| [13–17 April 2023](2023-04-17-Deltapoll.html) | Deltapoll | 4.1% | 3.5–4.9% | 3.4–5.1% | 3.2–5.3% | 3.0–5.7% |
+| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta | 2.5% | 2.1–2.9% | 2.0–3.1% | 1.9–3.2% | 1.7–3.5% |
 | [16 April 2023](2023-04-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
-| [12–14 April 2023](2023-04-14-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
+| [12–14 April 2023](2023-04-14-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
 | [12–13 April 2023](2023-04-13-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
 | [12–13 April 2023](2023-04-13-TechneUK.html) | Techne UK | 3.3% | N/A | N/A | N/A | N/A |
 | [12–13 April 2023](2023-04-13-Omnisis.html) | Omnisis | 4.1% | N/A | N/A | N/A | N/A |
-| [6–11 April 2023](2023-04-11-MoreinCommon.html) | More in Common | 4.9% | N/A | N/A | N/A | N/A |
+| [6–11 April 2023](2023-04-11-MoreinCommon.html) | More in Common | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–5.9% | 3.8–6.3% |
 | [9 April 2023](2023-04-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-YouGov.html) | YouGov <br> The Times | 5.8% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-TechneUK.html) | Techne UK | 4.1% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-Opinium.html) | Opinium <br> The Observer | 4.2% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-Omnisis.html) | Omnisis | 4.1% | N/A | N/A | N/A | N/A |
 | [3 April 2023](2023-04-03-Deltapoll.html) | Deltapoll | 3.3% | N/A | N/A | N/A | N/A |
-| [2 April 2023](2023-04-02-Survation.html) | Survation | 2.4% | N/A | N/A | N/A | N/A |
+| [2 April 2023](2023-04-02-Survation.html) | Survation | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [2 April 2023](2023-04-02-Savanta.html) | Savanta | 2.4% | N/A | N/A | N/A | N/A |
 | [2 April 2023](2023-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
-| [29–31 March 2023](2023-03-31-Opinium.html) | Opinium <br> The Observer | 4.2% | N/A | N/A | N/A | N/A |
-| [29–30 March 2023](2023-03-30-YouGov.html) | YouGov <br> The Times | 5.8% | N/A | N/A | N/A | N/A |
-| [29–30 March 2023](2023-03-30-TechneUK.html) | Techne UK | 3.2% | N/A | N/A | N/A | N/A |
-| [29 March 2023](2023-03-29-PeoplePolling.html) | PeoplePolling <br> GB News | 5.8% | N/A | N/A | N/A | N/A |
-| [28–29 March 2023](2023-03-29-Omnisis.html) | Omnisis | 3.2% | N/A | N/A | N/A | N/A |
-| [22–29 March 2023](2023-03-29-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.8% | N/A | N/A | N/A | N/A |
-| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll | 3.2% | N/A | N/A | N/A | N/A |
-| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta | 2.5% | N/A | N/A | N/A | N/A |
-| [26 March 2023](2023-03-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
-| [23–24 March 2023](2023-03-24-Survation.html) | Survation | 2.5% | N/A | N/A | N/A | N/A |
+| [29–31 March 2023](2023-03-31-Opinium.html) | Opinium <br> The Observer | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.4–5.2% | 3.1–5.5% |
+| [29–30 March 2023](2023-03-30-YouGov.html) | YouGov <br> The Times | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.3% |
+| [29–30 March 2023](2023-03-30-TechneUK.html) | Techne UK | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
+| [29 March 2023](2023-03-29-PeoplePolling.html) | PeoplePolling <br> GB News | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.3% | 4.2–7.8% |
+| [28–29 March 2023](2023-03-29-Omnisis.html) | Omnisis | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% | 2.1–4.7% |
+| [22–29 March 2023](2023-03-29-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.4–4.3% | 2.2–4.6% |
+| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% | 1.7–3.5% |
+| [26 March 2023](2023-03-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | 2.9–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
+| [23–24 March 2023](2023-03-24-Survation.html) | Survation | 2.5% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [23–24 March 2023](2023-03-24-Omnisis.html) | Omnisis | 4.2% | N/A | N/A | N/A | N/A |
 | [22–23 March 2023](2023-03-23-TechneUK.html) | Techne UK | 3.3% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.3–4.6% |
 | [21–22 March 2023](2023-03-22-YouGov.html) | YouGov <br> The Times | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.4% |
@@ -54,7 +54,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [15–17 March 2023](2023-03-17-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
 | [15–16 March 2023](2023-03-16-YouGov.html) | YouGov <br> The Times | 4.9% | N/A | N/A | N/A | N/A |
 | [15–16 March 2023](2023-03-16-TechneUK.html) | Techne UK | 3.3% | N/A | N/A | N/A | N/A |
-| [15–16 March 2023](2023-03-16-BMGResearch.html) | BMG Research | 3.3% | N/A | N/A | N/A | N/A |
+| [15–16 March 2023](2023-03-16-BMGResearch.html) | BMG Research | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.4% | 2.3–4.7% |
 | [13–15 March 2023](2023-03-15-Survation.html) | Survation | 1.6% | N/A | N/A | N/A | N/A |
 | [15 March 2023](2023-03-15-Omnisis.html) | Omnisis | 5.8% | 4.9–7.0% | 4.7–7.3% | 4.5–7.6% | 4.1–8.2% |
 | [10–13 March 2023](2023-03-13-Deltapoll.html) | Deltapoll | 3.2% | N/A | N/A | N/A | N/A |
@@ -928,12 +928,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 8% | 100% | Last Result |
-| 3.5–4.5% | 72% | 92% | Median |
-| 4.5–5.5% | 20% | 20% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 10% | 99.8% |  |
+| 2.5–3.5% | 11% | 89% | Last Result |
+| 3.5–4.5% | 30% | 79% |  |
+| 4.5–5.5% | 36% | 49% | Median |
+| 5.5–6.5% | 12% | 14% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -944,38 +948,38 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–3 | 1–3 |
 | [23 April 2023](2023-04-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
-| [20–21 April 2023](2023-04-21-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [19–20 April 2023](2023-04-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [20 April 2023](2023-04-20-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [13–17 April 2023](2023-04-17-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta |  |  |  |  |  |
+| [20–21 April 2023](2023-04-21-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1–3 |
+| [19–20 April 2023](2023-04-20-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1 |
+| [20 April 2023](2023-04-20-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [13–17 April 2023](2023-04-17-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
 | [16 April 2023](2023-04-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [12–14 April 2023](2023-04-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [12–14 April 2023](2023-04-14-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1–2 |
 | [12–13 April 2023](2023-04-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [12–13 April 2023](2023-04-13-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [12–13 April 2023](2023-04-13-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [6–11 April 2023](2023-04-11-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [6–11 April 2023](2023-04-11-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [9 April 2023](2023-04-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [5–6 April 2023](2023-04-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [5–6 April 2023](2023-04-06-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [5–6 April 2023](2023-04-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [5–6 April 2023](2023-04-06-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [3 April 2023](2023-04-03-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [2 April 2023](2023-04-02-Survation.html) | Survation |  |  |  |  |  |
+| [2 April 2023](2023-04-02-Survation.html) | Survation | 1 | 1 | 1 | 0–1 | 0–1 |
 | [2 April 2023](2023-04-02-Savanta.html) | Savanta |  |  |  |  |  |
 | [2 April 2023](2023-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [29–31 March 2023](2023-03-31-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [29–30 March 2023](2023-03-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [29–30 March 2023](2023-03-30-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [29 March 2023](2023-03-29-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [28–29 March 2023](2023-03-29-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [22–29 March 2023](2023-03-29-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta |  |  |  |  |  |
-| [26 March 2023](2023-03-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23–24 March 2023](2023-03-24-Survation.html) | Survation |  |  |  |  |  |
+| [29–31 March 2023](2023-03-31-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [29–30 March 2023](2023-03-30-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [29–30 March 2023](2023-03-30-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [29 March 2023](2023-03-29-PeoplePolling.html) | PeoplePolling <br> GB News | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [28–29 March 2023](2023-03-29-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1 |
+| [22–29 March 2023](2023-03-29-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1–2 | 1–3 |
+| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
+| [26 March 2023](2023-03-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [23–24 March 2023](2023-03-24-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–1 |
 | [23–24 March 2023](2023-03-24-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [22–23 March 2023](2023-03-23-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [21–22 March 2023](2023-03-22-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -988,7 +992,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [15–17 March 2023](2023-03-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [15–16 March 2023](2023-03-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [15–16 March 2023](2023-03-16-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [15–16 March 2023](2023-03-16-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [15–16 March 2023](2023-03-16-BMGResearch.html) | BMG Research | 1 | 1 | 1 | 1 | 1 |
 | [13–15 March 2023](2023-03-15-Survation.html) | Survation |  |  |  |  |  |
 | [15 March 2023](2023-03-15-Omnisis.html) | Omnisis | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [10–13 March 2023](2023-03-13-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -1864,6 +1868,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 0 | 0.2% | 100% |  |
+| 1 | 95% | 99.8% | Last Result, Median |
+| 2 | 2% | 5% |  |
+| 3 | 3% | 3% |  |
+| 4 | 0% | 0% |  |
 
 
