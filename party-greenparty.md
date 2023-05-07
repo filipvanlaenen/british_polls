@@ -10,12 +10,12 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 4.3–5.7% | 4.2–5.9% | 4.0–6.1% | 3.7–6.5% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.5–5.3% | 2.3–5.5% | 2.1–5.8% | 1.9–6.2% |
 | [4–5 May 2023](2023-05-05-Omnisis.html) | Omnisis | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
-| [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK | 4.0% | N/A | N/A | N/A | N/A |
-| [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 3.3% | N/A | N/A | N/A | N/A |
-| [28–30 April 2023](2023-04-30-Savanta.html) | Savanta | 2.4% | N/A | N/A | N/A | N/A |
-| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
+| [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% |
+| [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.3% | 2.3–4.7% |
+| [28–30 April 2023](2023-04-30-Savanta.html) | Savanta | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.7–3.4% |
+| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
 | [24–28 April 2023](2023-04-28-Survation.html) | Survation | 3.2% | N/A | N/A | N/A | N/A |
 | [26–28 April 2023](2023-04-28-Opinium.html) | Opinium <br> The Observer | 5.9% | N/A | N/A | N/A | N/A |
 | [27–28 April 2023](2023-04-28-Omnisis.html) | Omnisis | 4.9% | N/A | N/A | N/A | N/A |
@@ -940,12 +940,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% | Last Result |
-| 3.5–4.5% | 21% | 99.9% |  |
-| 4.5–5.5% | 64% | 79% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 30% | 89% | Last Result |
+| 3.5–4.5% | 29% | 58% | Median |
+| 4.5–5.5% | 25% | 29% |  |
+| 5.5–6.5% | 5% | 5% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -959,10 +960,10 @@ Last result: **1** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [4–5 May 2023](2023-05-05-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1–2 |
-| [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [28–30 April 2023](2023-04-30-Savanta.html) | Savanta |  |  |  |  |  |
-| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [28–30 April 2023](2023-04-30-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
+| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [24–28 April 2023](2023-04-28-Survation.html) | Survation |  |  |  |  |  |
 | [26–28 April 2023](2023-04-28-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [27–28 April 2023](2023-04-28-Omnisis.html) | Omnisis |  |  |  |  |  |
@@ -1889,9 +1890,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Last Result, Median |
-| 2 | 0.2% | 0.4% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 99.9% | 100% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
