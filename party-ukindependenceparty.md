@@ -11,7 +11,19 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
+| [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [14 May 2023](2023-05-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 May 2023](2023-05-12-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 May 2023](2023-05-12-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 May 2023](2023-05-11-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 May 2023](2023-05-09-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
+| [5–7 May 2023](2023-05-07-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 May 2023](2023-05-05-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 May 2023](2023-05-04-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 May 2023](2023-05-04-BMGResearch.html) | BMG Research <br> The i | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [28–30 April 2023](2023-04-30-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
@@ -940,8 +952,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.8% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -954,7 +966,19 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [12–14 May 2023](2023-05-14-Savanta.html) | Savanta |  |  |  |  |  |
+| [14 May 2023](2023-05-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [10–12 May 2023](2023-05-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [11–12 May 2023](2023-05-12-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [10–11 May 2023](2023-05-11-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [5–9 May 2023](2023-05-09-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [5–7 May 2023](2023-05-07-Savanta.html) | Savanta |  |  |  |  |  |
+| [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–5 May 2023](2023-05-05-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [3–4 May 2023](2023-05-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–4 May 2023](2023-05-04-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
 | [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [28–30 April 2023](2023-04-30-Savanta.html) | Savanta |  |  |  |  |  |
