@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2023-05-18T18:48:39.796426+02:00</updated>
+  <updated>2023-05-20T18:12:12.092308+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 24.4–28.4%, 127–188 seats</li><li>Labour Party: 43.1–47.6%, 358–412 seats</li><li>Liberal Democrats: 11.2–14.2%, 33–54 seats</li><li>Scottish National Party: 2.5–4.0%, 22–49 seats</li><li>Plaid Cymru: 0.7–1.6%, 4–6 seats</li><li>Green Party: 5.5–7.8%, 1–3 seats</li><li>Brexit Party: 2.1–3.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-05-18-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-05-18-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 17–18 May 2023</title>
+    <updated>2023-05-20T16:56:54.682026+02:00</updated>
+    <dc:date>2023-05-20T16:56:54.682026+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 28.2–32.7%, 171–229 seats</li><li>Labour Party: 44.7–49.7%, 341–397 seats</li><li>Liberal Democrats: 9.1–12.1%, 15–33 seats</li><li>Scottish National Party: 2.4–4.1%, 17–51 seats</li><li>Green Party: 2.5–4.3%, 1 seats</li><li>Brexit Party: 1.6–3.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-05-18-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-05-18-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 17–18 May 2023</title>
+    <updated>2023-05-20T17:34:08.181302+02:00</updated>
+    <dc:date>2023-05-20T17:34:08.181302+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 23.9–28.6%, 105–185 seats</li><li>Labour Party: 46.5–51.9%, 379–452 seats</li><li>Liberal Democrats: 8.9–12.3%, 19–42 seats</li><li>Scottish National Party: 2.3–4.3%, 18–51 seats</li><li>Green Party: 3.1–5.3%, 1 seats</li><li>Brexit Party: 2.0–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-05-18-Omnisis.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-05-18-Omnisis.html"/>
+    <title>Opinion Poll by Omnisis, 17–18 May 2023</title>
+    <updated>2023-05-20T18:12:12.092308+02:00</updated>
+    <dc:date>2023-05-20T18:12:12.092308+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 29.9–34.0%, 193–236 seats</li><li>Labour Party: 41.1–45.5%, 321–362 seats</li><li>Liberal Democrats: 12.0–15.0%, 26–44 seats</li><li>Scottish National Party: 2.4–4.0%, 18–49 seats</li><li>Green Party: 3.2–5.0%, 1 seats</li><li>Brexit Party: 1.7–3.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2023-05-15-MoreinCommon.html</id>
@@ -3607,5 +3631,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2023-05-18T18:48:39.796426+02:00</dc:date>
+  <dc:date>2023-05-20T18:12:12.092308+02:00</dc:date>
 </feed>
