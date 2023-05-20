@@ -10,7 +10,10 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.6–5.4% | 2.4–5.9% | 2.2–6.2% | 1.9–6.8% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.7–5.8% | 2.4–6.6% | 2.2–7.0% | 1.9–7.6% |
+| [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 6.6% | 5.9–7.4% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
+| [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 3.3% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% |
+| [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 4.1% | 3.4–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.4% | 2.2–4.7% |
 | [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 2.4% | 2.1–2.9% | 2.0–3.1% | 1.9–3.2% | 1.7–3.4% |
@@ -18,6 +21,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [10–12 May 2023](2023-05-12-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.6–4.8% | 3.5–5.0% | 3.3–5.1% | 3.1–5.4% |
 | [11–12 May 2023](2023-05-12-Omnisis.html) | Omnisis | 3.2% | 2.7–4.0% | 2.5–4.2% | 2.4–4.4% | 2.2–4.7% |
 | [10–11 May 2023](2023-05-11-TechneUK.html) | Techne UK | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 2.9–5.5% |
+| [9–10 May 2023](2023-05-10-YouGov.html) | YouGov <br> The Times | 6.7% | N/A | N/A | N/A | N/A |
 | [5–9 May 2023](2023-05-09-Deltapoll.html) | Deltapoll | 4.1% | N/A | N/A | N/A | N/A |
 | [5–7 May 2023](2023-05-07-Savanta.html) | Savanta | 2.4% | N/A | N/A | N/A | N/A |
 | [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
@@ -956,10 +960,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 8% | 100% |  |
 | 2.5–3.5% | 27% | 92% | Last Result |
 | 3.5–4.5% | 39% | 65% | Median |
-| 4.5–5.5% | 17% | 26% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 4.5–5.5% | 15% | 26% |  |
+| 5.5–6.5% | 6% | 11% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.5% | 0.6% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -970,7 +975,10 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–3 | 1–3 | 1–3 |
+| [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1 |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
@@ -978,6 +986,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [10–12 May 2023](2023-05-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [11–12 May 2023](2023-05-12-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1 |
 | [10–11 May 2023](2023-05-11-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
+| [9–10 May 2023](2023-05-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [5–9 May 2023](2023-05-09-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [5–7 May 2023](2023-05-07-Savanta.html) | Savanta |  |  |  |  |  |
 | [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -1914,9 +1923,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98% | 100% | Last Result, Median |
-| 2 | 1.1% | 2% |  |
-| 3 | 1.1% | 1.1% |  |
+| 1 | 92% | 100% | Last Result, Median |
+| 2 | 2% | 8% |  |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 
