@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
+| [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 29–33% <br> 181–225 | 41–46% <br> 318–357 | 12–15% <br> 26–48 | 3–5% <br> 38–56 | 3–4% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 24–28% <br> 127–188 | 43–48% <br> 358–412 | 11–14% <br> 33–54 | 2–4% <br> 22–49 | 6–8% <br> 1–3 | 2–4% <br> 0 | 1–2% <br> 4–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 28–33% <br> 171–229 | 45–50% <br> 341–397 | 9–12% <br> 15–33 | 2–4% <br> 17–51 | 3–4% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 24–29% <br> 105–185 | 47–52% <br> 379–452 | 9–12% <br> 19–42 | 2–4% <br> 18–51 | 3–5% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
