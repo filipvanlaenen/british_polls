@@ -10,7 +10,8 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.7–5.8% | 2.4–6.6% | 2.2–7.0% | 1.9–7.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.6–5.8% | 2.4–6.6% | 2.2–7.0% | 1.9–7.6% |
+| [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | 2.8–3.9% | 2.7–4.0% | 2.6–4.2% | 2.3–4.5% |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 6.6% | 5.9–7.4% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 3.3% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 4.1% | 3.4–4.9% | 3.3–5.1% | 3.1–5.3% | 2.9–5.7% |
@@ -958,9 +959,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 27% | 92% | Last Result |
-| 3.5–4.5% | 39% | 65% | Median |
-| 4.5–5.5% | 15% | 26% |  |
+| 2.5–3.5% | 33% | 92% | Last Result |
+| 3.5–4.5% | 35% | 59% | Median |
+| 4.5–5.5% | 12% | 24% |  |
 | 5.5–6.5% | 6% | 11% |  |
 | 6.5–7.5% | 5% | 5% |  |
 | 7.5–8.5% | 0.5% | 0.6% |  |
@@ -976,6 +977,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–3 | 1–3 | 1–3 |
+| [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1 |
