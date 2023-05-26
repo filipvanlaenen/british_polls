@@ -10,11 +10,14 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
@@ -971,10 +974,13 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
+| [19–21 May 2023](2023-05-21-Savanta.html) | Savanta |  |  |  |  |  |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [12–14 May 2023](2023-05-14-Savanta.html) | Savanta |  |  |  |  |  |
