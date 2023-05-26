@@ -986,7 +986,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 1 | 1 | 1 | 1 | 1 |
-| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1–2 | 1–3 |
+| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 1 | 1 | 1 | 1–3 |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
 | [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
