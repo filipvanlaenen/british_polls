@@ -10,8 +10,27 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.7–4.4% | 2.5–4.7% | 2.4–5.0% | 2.1–5.5% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.6% | 2.6–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [11 June 2023](2023-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
+| [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.4–4.3% | 2.2–4.6% |
+| [8–9 June 2023](2023-06-09-Omnisis.html) | Omnisis | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
+| [7–8 June 2023](2023-06-08-TechneUK.html) | Techne UK | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.4–4.1% | 2.1–4.5% |
+| [2–5 June 2023](2023-06-05-Deltapoll.html) | Deltapoll | 3.1% | N/A | N/A | N/A | N/A |
+| [2–4 June 2023](2023-06-04-Savanta.html) | Savanta | 3.1% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
+| [4 June 2023](2023-06-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | N/A | N/A | N/A | N/A |
+| [1–2 June 2023](2023-06-02-Omnisis.html) | Omnisis | 3.2% | N/A | N/A | N/A | N/A |
+| [1 June 2023](2023-06-01-TechneUK.html) | Techne UK | 3.1% | N/A | N/A | N/A | N/A |
+| [30–31 May 2023](2023-05-31-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [30–31 May 2023](2023-05-31-BMGResearch.html) | BMG Research <br> The i | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.4% | 3.0–5.8% |
+| [26–28 May 2023](2023-05-28-Savanta.html) | Savanta | 3.1% | 2.7–3.7% | 2.6–3.8% | 2.5–4.0% | 2.3–4.2% |
+| [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.1% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
+| [25–26 May 2023](2023-05-26-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
+| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
+| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 3.1% | N/A | N/A | N/A | N/A |
+| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 3.1% | N/A | N/A | N/A | N/A |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 4.1% | 3.4–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–5.9% |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 3.1% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.3–5.2% | 3.1–5.5% |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
@@ -961,11 +980,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 57% | 95% | Median |
-| 3.5–4.5% | 30% | 37% | Last Result |
-| 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 51% | 96% | Median |
+| 3.5–4.5% | 34% | 45% | Last Result |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -977,8 +996,27 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 24–52 | 20–55 | 18–56 | 12–58 |
+| N/A | [Poll Average](average.html) | 40 | 27–55 | 22–56 | 19–57 | 14–58 |
+| [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 52 | 40–57 | 37–57 | 33–58 | 27–58 |
+| [11 June 2023](2023-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 33 | 22–41 | 19–45 | 17–48 | 11–50 |
+| [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer | 37 | 26–48 | 22–51 | 19–53 | 12–55 |
+| [8–9 June 2023](2023-06-09-Omnisis.html) | Omnisis | 34 | 21–44 | 18–47 | 17–51 | 12–55 |
+| [7–8 June 2023](2023-06-08-TechneUK.html) | Techne UK | 36 | 25–48 | 21–49 | 18–51 | 12–54 |
+| [2–5 June 2023](2023-06-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [2–4 June 2023](2023-06-04-Savanta.html) | Savanta | 33 | 23–42 | 20–45 | 18–49 | 13–52 |
+| [4 June 2023](2023-06-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1–2 June 2023](2023-06-02-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [1 June 2023](2023-06-01-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [30–31 May 2023](2023-05-31-YouGov.html) | YouGov <br> The Times | 36 | 27–43 | 24–47 | 21–50 | 18–53 |
+| [30–31 May 2023](2023-05-31-BMGResearch.html) | BMG Research <br> The i | 53 | 42–57 | 40–58 | 38–58 | 31–58 |
+| [26–28 May 2023](2023-05-28-Savanta.html) | Savanta | 35 | 23–45 | 20–48 | 17–51 | 12–54 |
+| [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 35 | 25–43 | 21–47 | 18–49 | 15–52 |
+| [25–26 May 2023](2023-05-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 52 | 41–57 | 38–58 | 35–58 | 29–58 |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 32 | 20–44 | 18–46 | 17–48 | 12–53 |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 50 | 43–55 | 40–56 | 38–56 | 34–57 |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 38 | 29–43 | 25–48 | 22–49 | 17–52 |
@@ -1929,58 +1967,57 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 0.1% | 99.9% |  |
-| 9 | 0.1% | 99.8% |  |
-| 10 | 0.1% | 99.7% |  |
-| 11 | 0.1% | 99.6% |  |
-| 12 | 0.2% | 99.5% |  |
-| 13 | 0.1% | 99.4% |  |
-| 14 | 0.2% | 99.3% |  |
-| 15 | 0.2% | 99.1% |  |
-| 16 | 0.5% | 98.9% |  |
-| 17 | 0.8% | 98% |  |
-| 18 | 1.4% | 98% |  |
-| 19 | 0.9% | 96% |  |
-| 20 | 1.0% | 95% |  |
-| 21 | 0.9% | 94% |  |
-| 22 | 1.4% | 93% |  |
-| 23 | 1.4% | 92% |  |
-| 24 | 0.9% | 91% |  |
-| 25 | 1.2% | 90% |  |
-| 26 | 2% | 88% |  |
-| 27 | 2% | 87% |  |
-| 28 | 2% | 85% |  |
-| 29 | 2% | 83% |  |
-| 30 | 3% | 81% |  |
-| 31 | 5% | 78% |  |
-| 32 | 3% | 73% |  |
-| 33 | 3% | 70% |  |
-| 34 | 4% | 66% |  |
-| 35 | 4% | 62% |  |
-| 36 | 4% | 58% |  |
-| 37 | 2% | 54% |  |
-| 38 | 6% | 53% | Median |
-| 39 | 2% | 47% |  |
-| 40 | 3% | 44% |  |
-| 41 | 7% | 41% |  |
-| 42 | 1.1% | 34% |  |
-| 43 | 4% | 33% |  |
-| 44 | 1.4% | 29% |  |
-| 45 | 2% | 27% |  |
-| 46 | 1.2% | 25% |  |
-| 47 | 1.2% | 24% |  |
-| 48 | 3% | 23% | Last Result |
-| 49 | 2% | 19% |  |
-| 50 | 3% | 17% |  |
-| 51 | 2% | 14% |  |
-| 52 | 3% | 12% |  |
-| 53 | 2% | 9% |  |
-| 54 | 2% | 7% |  |
-| 55 | 2% | 6% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.9% | 0.9% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 99.9% |  |
+| 10 | 0.1% | 99.9% |  |
+| 11 | 0.1% | 99.8% |  |
+| 12 | 0.1% | 99.7% |  |
+| 13 | 0.1% | 99.6% |  |
+| 14 | 0.1% | 99.6% |  |
+| 15 | 0.2% | 99.5% |  |
+| 16 | 0.3% | 99.3% |  |
+| 17 | 0.6% | 99.1% |  |
+| 18 | 0.6% | 98% |  |
+| 19 | 0.6% | 98% |  |
+| 20 | 0.6% | 97% |  |
+| 21 | 0.8% | 97% |  |
+| 22 | 1.2% | 96% |  |
+| 23 | 1.1% | 95% |  |
+| 24 | 0.7% | 94% |  |
+| 25 | 1.1% | 93% |  |
+| 26 | 2% | 92% |  |
+| 27 | 2% | 90% |  |
+| 28 | 3% | 89% |  |
+| 29 | 1.5% | 86% |  |
+| 30 | 3% | 85% |  |
+| 31 | 3% | 81% |  |
+| 32 | 3% | 78% |  |
+| 33 | 3% | 76% |  |
+| 34 | 3% | 72% |  |
+| 35 | 4% | 69% |  |
+| 36 | 3% | 65% |  |
+| 37 | 2% | 62% |  |
+| 38 | 6% | 59% |  |
+| 39 | 2% | 53% |  |
+| 40 | 3% | 51% | Median |
+| 41 | 6% | 48% |  |
+| 42 | 1.2% | 42% |  |
+| 43 | 4% | 41% |  |
+| 44 | 1.2% | 36% |  |
+| 45 | 2% | 35% |  |
+| 46 | 1.5% | 33% |  |
+| 47 | 1.3% | 32% |  |
+| 48 | 4% | 30% | Last Result |
+| 49 | 2% | 27% |  |
+| 50 | 2% | 24% |  |
+| 51 | 3% | 22% |  |
+| 52 | 3% | 19% |  |
+| 53 | 3% | 16% |  |
+| 54 | 3% | 13% |  |
+| 55 | 3% | 11% |  |
+| 56 | 3% | 8% |  |
+| 57 | 3% | 5% |  |
+| 58 | 2% | 2% |  |
 | 59 | 0% | 0% |  |
 
 
