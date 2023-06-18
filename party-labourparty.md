@@ -1028,7 +1028,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [26–28 May 2023](2023-05-28-Savanta.html) | Savanta | 348 | 337–364 | 334–368 | 332–373 | 327–381 |
 | [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 363 | 345–381 | 341–386 | 337–390 | 331–399 |
 | [25–26 May 2023](2023-05-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer | 364 | 344–381 | 341–384 | 338–389 | 331–399 |
 | [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 339 | 324–362 | 320–369 | 318–374 | 310–385 |
