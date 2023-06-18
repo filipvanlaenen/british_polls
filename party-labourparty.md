@@ -27,10 +27,10 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 44.5% | 43.0–45.9% | 42.6–46.3% | 42.2–46.7% | 41.5–47.4% |
 | [25–26 May 2023](2023-05-26-YouGov.html) | YouGov <br> The Times | 45.5% | N/A | N/A | N/A | N/A |
 | [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer | 45.2% | 43.8–46.7% | 43.4–47.1% | 43.0–47.4% | 42.3–48.1% |
-| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 48.9% | N/A | N/A | N/A | N/A |
-| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 45.5% | N/A | N/A | N/A | N/A |
+| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 48.9% | 47.2–50.7% | 46.7–51.2% | 46.2–51.6% | 45.4–52.5% |
+| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 45.5% | 43.9–47.2% | 43.5–47.6% | 43.1–48.0% | 42.3–48.8% |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 43.6% | 41.7–45.6% | 41.2–46.1% | 40.7–46.6% | 39.8–47.5% |
-| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 49.4% | N/A | N/A | N/A | N/A |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 49.4% | 47.8–51.1% | 47.3–51.5% | 46.9–51.9% | 46.1–52.7% |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 47.7% | 46.2–49.1% | 45.8–49.5% | 45.5–49.9% | 44.8–50.6% |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43.6% | 42.1–45.1% | 41.7–45.5% | 41.4–45.8% | 40.7–46.5% |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 45.3% | 43.9–46.8% | 43.5–47.2% | 43.1–47.6% | 42.4–48.3% |
@@ -1028,11 +1028,11 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [26–28 May 2023](2023-05-28-Savanta.html) | Savanta | 348 | 337–364 | 334–368 | 332–373 | 327–381 |
 | [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 363 | 345–381 | 341–386 | 337–390 | 331–399 |
 | [25–26 May 2023](2023-05-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer | 364 | 344–381 | 341–384 | 338–389 | 331–399 |
-| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [23–26 May 2023](2023-05-26-Opinium.html) | Opinium <br> The Observer | 363 | 345–380 | 340–384 | 337–388 | 331–397 |
+| [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 386 | 367–408 | 360–414 | 355–418 | 345–427 |
+| [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 353 | 338–373 | 335–379 | 332–383 | 326–392 |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 339 | 324–362 | 320–369 | 318–374 | 310–385 |
-| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 363 | 344–380 | 339–385 | 334–390 | 328–401 |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 367 | 350–384 | 346–388 | 343–393 | 337–401 |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 331 | 322–347 | 320–352 | 318–357 | 312–366 |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 385 | 368–403 | 363–408 | 358–412 | 349–420 |

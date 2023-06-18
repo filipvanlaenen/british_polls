@@ -30,7 +30,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
-| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -1012,7 +1012,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
-| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta |  |  |  |  |  |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
