@@ -10,12 +10,30 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [23–26 June 2023](2023-06-26-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [25 June 2023](2023-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 June 2023](2023-06-23-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 June 2023](2023-06-23-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [21–22 June 2023](2023-06-22-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 June 2023](2023-06-21-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [14–20 June 2023](2023-06-20-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 June 2023](2023-06-19-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 June 2023](2023-06-19-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
+| [16–19 June 2023](2023-06-19-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 June 2023](2023-06-18-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [18 June 2023](2023-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2023](2023-06-16-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [15–16 June 2023](2023-06-16-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 June 2023](2023-06-15-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
+| [2–11 June 2023](2023-06-11-YouGov.html) | YouGov <br> Times Radio | 1.0% | N/A | N/A | N/A | N/A |
+| [9–11 June 2023](2023-06-11-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [11 June 2023](2023-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 June 2023](2023-06-09-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2023](2023-06-08-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 June 2023](2023-06-07-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
 | [2–5 June 2023](2023-06-05-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 June 2023](2023-06-04-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [4 June 2023](2023-06-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -979,9 +997,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 41% | 100% |  |
-| 0.5–1.5% | 57% | 59% | Last Result, Median |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 97% | 99.9% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -993,12 +1011,30 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [23–26 June 2023](2023-06-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [25 June 2023](2023-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [21–23 June 2023](2023-06-23-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [22–23 June 2023](2023-06-23-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [21–22 June 2023](2023-06-22-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [20–21 June 2023](2023-06-21-YouGov.html) | YouGov <br> The Times | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [14–20 June 2023](2023-06-20-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [15–19 June 2023](2023-06-19-Survation.html) | Survation |  |  |  |  |  |
+| [15–19 June 2023](2023-06-19-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [16–19 June 2023](2023-06-19-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [16–18 June 2023](2023-06-18-Savanta.html) | Savanta |  |  |  |  |  |
+| [18 June 2023](2023-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [15–16 June 2023](2023-06-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–16 June 2023](2023-06-16-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [14–15 June 2023](2023-06-15-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [2–11 June 2023](2023-06-11-YouGov.html) | YouGov <br> Times Radio |  |  |  |  |  |
+| [9–11 June 2023](2023-06-11-Savanta.html) | Savanta |  |  |  |  |  |
 | [11 June 2023](2023-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [8–9 June 2023](2023-06-09-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [7–8 June 2023](2023-06-08-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [6–7 June 2023](2023-06-07-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [2–5 June 2023](2023-06-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [2–4 June 2023](2023-06-04-Savanta.html) | Savanta |  |  |  |  |  |
 | [4 June 2023](2023-06-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -1964,14 +2000,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 5% | 82% |  |
-| 2 | 4% | 77% |  |
-| 3 | 13% | 73% |  |
-| 4 | 10% | 60% | Last Result |
-| 5 | 49% | 51% | Median |
-| 6 | 1.4% | 2% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 6% | 99.7% | Last Result |
+| 5 | 93% | 94% | Median |
+| 6 | 1.2% | 1.2% |  |
+| 7 | 0% | 0% |  |
 
 
