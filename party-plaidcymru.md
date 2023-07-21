@@ -10,11 +10,24 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [19–20 July 2023](2023-07-20-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [18 July 2023](2023-07-18-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
+| [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.5–2.3% |
+| [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 July 2023](2023-07-11-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [7–10 July 2023](2023-07-10-Deltapoll.html) | Deltapoll | 1.0% | N/A | N/A | N/A | N/A |
+| [7–9 July 2023](2023-07-09-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 July 2023](2023-07-09-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [9 July 2023](2023-07-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 July 2023](2023-07-07-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 July 2023](2023-07-07-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 July 2023](2023-07-06-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 July 2023](2023-07-06-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [3 July 2023](2023-07-03-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [2 July 2023](2023-07-02-Survation.html) | Survation | 0.3% | N/A | N/A | N/A | N/A |
 | [2 July 2023](2023-07-02-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [2 July 2023](2023-07-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 June 2023](2023-06-30-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
@@ -1009,9 +1022,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Median |
-| 0.5–1.5% | 4% | 4% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 85% | 98% | Last Result, Median |
+| 1.5–2.5% | 13% | 13% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1022,11 +1037,24 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 3–6 | 3–7 |
+| [19–20 July 2023](2023-07-20-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [18 July 2023](2023-07-18-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 5 | 4–5 | 4–6 | 3–6 | 3–7 |
+| [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [10–11 July 2023](2023-07-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [7–10 July 2023](2023-07-10-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [7–9 July 2023](2023-07-09-Survation.html) | Survation |  |  |  |  |  |
+| [7–9 July 2023](2023-07-09-Savanta.html) | Savanta |  |  |  |  |  |
+| [9 July 2023](2023-07-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [5–7 July 2023](2023-07-07-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [6–7 July 2023](2023-07-07-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [5–6 July 2023](2023-07-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [5–6 July 2023](2023-07-06-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [3 July 2023](2023-07-03-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [2 July 2023](2023-07-02-Survation.html) | Survation |  |  |  |  |  |
 | [2 July 2023](2023-07-02-Savanta.html) | Savanta |  |  |  |  |  |
 | [2 July 2023](2023-07-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [29–30 June 2023](2023-06-30-Omnisis.html) | Omnisis |  |  |  |  |  |
@@ -2023,12 +2051,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 18% | 68% | Median |
-| 2 | 30% | 50% |  |
-| 3 | 16% | 20% |  |
-| 4 | 3% | 4% | Last Result |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 2% | 99.6% |  |
+| 4 | 12% | 97% | Last Result |
+| 5 | 79% | 85% | Median |
+| 6 | 5% | 6% |  |
+| 7 | 1.2% | 1.3% |  |
+| 8 | 0% | 0.1% |  |
+| 9 | 0% | 0.1% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
