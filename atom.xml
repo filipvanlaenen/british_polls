@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2023-08-06T18:42:42.400239+02:00</updated>
+  <updated>2023-08-06T22:51:05.225653+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 24.3–28.8%, 97–175 seats</li><li>Labour Party: 48.2–53.3%, 386–457 seats</li><li>Liberal Democrats: 10.1–13.4%, 25–50 seats</li><li>Scottish National Party: 2.4–4.2%, 18–46 seats</li><li>Green Party: 3.3–5.3%, 1 seats</li><li>Brexit Party: 2.0–3.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2023-07-31-Deltapoll.html</id>
@@ -30,6 +30,54 @@
     <title>Opinion Poll by Omnisis, 28 July 2023</title>
     <updated>2023-08-06T18:42:42.400239+02:00</updated>
     <dc:date>2023-08-06T18:42:42.400239+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 24.4–28.8%, 125–191 seats</li><li>Labour Party: 45.3–50.3%, 370–430 seats</li><li>Liberal Democrats: 9.1–12.2%, 20–41 seats</li><li>Scottish National Party: 2.4–4.2%, 19–51 seats</li><li>Green Party: 4.0–6.2%, 1–2 seats</li><li>Brexit Party: 2.9–4.8%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-27-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-27-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 26–27 July 2023</title>
+    <updated>2023-08-06T19:41:15.998108+02:00</updated>
+    <dc:date>2023-08-06T19:41:15.998108+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 24.7–28.7%, 130–188 seats</li><li>Labour Party: 45.8–50.3%, 375–428 seats</li><li>Liberal Democrats: 9.4–12.2%, 21–41 seats</li><li>Scottish National Party: 2.5–4.1%, 20–48 seats</li><li>Plaid Cymru: 0.1–0.6%, 0–4 seats</li><li>Green Party: 4.8–7.0%, 1–3 seats</li><li>Brexit Party: 2.5–4.1%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-26-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-26-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 25–26 July 2023</title>
+    <updated>2023-08-06T20:20:52.637505+02:00</updated>
+    <dc:date>2023-08-06T20:20:52.637505+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 26.1–30.7%, 130–200 seats</li><li>Labour Party: 43.7–48.8%, 344–407 seats</li><li>Liberal Democrats: 12.9–16.6%, 39–63 seats</li><li>Scottish National Party: 2.4–4.2%, 17–49 seats</li><li>Green Party: 2.5–4.4%, 1 seats</li><li>Brexit Party: 2.4–4.3%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-26-BMGResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-26-BMGResearch.html"/>
+    <title>Opinion Poll by BMG Research for The i, 25–26 July 2023</title>
+    <updated>2023-08-06T20:57:32.31603+02:00</updated>
+    <dc:date>2023-08-06T20:57:32.31603+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 27.0–30.8%, 155–208 seats</li><li>Labour Party: 46.3–50.5%, 362–413 seats</li><li>Liberal Democrats: 9.1–11.7%, 18–33 seats</li><li>Scottish National Party: 2.4–3.9%, 18–45 seats</li><li>Green Party: 1.8–3.1%, 1 seats</li><li>Brexit Party: 1.3–2.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-23-Savanta.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-23-Savanta.html"/>
+    <title>Opinion Poll by Savanta, 21–23 July 2023</title>
+    <updated>2023-08-06T21:36:24.719473+02:00</updated>
+    <dc:date>2023-08-06T21:36:24.719473+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 26.2–31.7%, 140–221 seats</li><li>Labour Party: 43.3–49.4%, 338–409 seats</li><li>Liberal Democrats: 10.5–14.6%, 23–52 seats</li><li>Scottish National Party: 2.2–4.3%, 16–52 seats</li><li>Plaid Cymru: 0.6–1.9%, 4–6 seats</li><li>Green Party: 3.7–6.3%, 1 seats</li><li>Brexit Party: 0.8–2.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-23-IpsosMORI.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-23-IpsosMORI.html"/>
+    <title>Opinion Poll by Ipsos MORI for Evening Standard, 19–23 July 2023</title>
+    <updated>2023-08-06T22:14:40.986931+02:00</updated>
+    <dc:date>2023-08-06T22:14:40.986931+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 24.6–29.3%, 134–205 seats</li><li>Labour Party: 42.5–47.8%, 346–411 seats</li><li>Liberal Democrats: 10.2–13.6%, 25–51 seats</li><li>Scottish National Party: 2.4–4.3%, 19–53 seats</li><li>Green Party: 4.0–6.4%, 1–3 seats</li><li>Brexit Party: 3.7–5.9%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-07-21-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-07-21-Opinium.html"/>
+    <title>Opinion Poll by Opinium for The Observer, 19–21 July 2023</title>
+    <updated>2023-08-06T22:51:05.225653+02:00</updated>
+    <dc:date>2023-08-06T22:51:05.225653+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 25.2–29.6%, 133–198 seats</li><li>Labour Party: 44.9–49.9%, 361–420 seats</li><li>Liberal Democrats: 10.1–13.3%, 24–47 seats</li><li>Scottish National Party: 2.4–4.2%, 18–50 seats</li><li>Green Party: 3.2–5.2%, 1 seats</li><li>Brexit Party: 2.5–4.2%, 0–2 seats</li></ul></div></content>
@@ -4047,5 +4095,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2023-08-06T18:42:42.400239+02:00</dc:date>
+  <dc:date>2023-08-06T22:51:05.225653+02:00</dc:date>
 </feed>
