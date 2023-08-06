@@ -10,10 +10,24 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.4–4.1% | 0.9–4.4% | 0.7–4.6% | 0.5–5.0% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.4% | 1.5–3.7% | 1.3–3.8% | 1.0–4.2% |
+| [28–31 July 2023](2023-07-31-Deltapoll.html) | Deltapoll | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.7% | 1.8–4.1% |
+| [30 July 2023](2023-07-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [28 July 2023](2023-07-28-Omnisis.html) | Omnisis | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% |
+| [26–27 July 2023](2023-07-27-TechneUK.html) | Techne UK | 3.7% | N/A | N/A | N/A | N/A |
+| [25–26 July 2023](2023-07-26-YouGov.html) | YouGov <br> The Times | 3.2% | N/A | N/A | N/A | N/A |
+| [25–26 July 2023](2023-07-26-BMGResearch.html) | BMG Research <br> The i | 3.2% | N/A | N/A | N/A | N/A |
+| [21–24 July 2023](2023-07-24-Deltapoll.html) | Deltapoll | 1.8% | N/A | N/A | N/A | N/A |
+| [21–23 July 2023](2023-07-23-Savanta.html) | Savanta | 1.8% | N/A | N/A | N/A | N/A |
+| [23 July 2023](2023-07-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.7% | N/A | N/A | N/A | N/A |
+| [19–23 July 2023](2023-07-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.4% | N/A | N/A | N/A | N/A |
+| [19–21 July 2023](2023-07-21-Opinium.html) | Opinium <br> The Observer | 4.7% | N/A | N/A | N/A | N/A |
+| [20–21 July 2023](2023-07-21-Omnisis.html) | Omnisis | 3.2% | N/A | N/A | N/A | N/A |
+| [19–20 July 2023](2023-07-20-YouGov.html) | YouGov <br> The Times | 3.7% | N/A | N/A | N/A | N/A |
 | [19–20 July 2023](2023-07-20-TechneUK.html) | Techne UK | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.2% | 2.2–4.6% |
 | [18 July 2023](2023-07-18-MoreinCommon.html) | More in Common | 2.2% | 1.8–2.8% | 1.7–3.0% | 1.6–3.1% | 1.4–3.4% |
 | [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 2.7% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.6–4.4% |
+| [14–16 July 2023](2023-07-16-Savanta.html) | Savanta | 2.2% | N/A | N/A | N/A | N/A |
 | [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.7% | 3.2–4.3% | 3.0–4.5% | 2.9–4.6% | 2.7–5.0% |
 | [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis | 2.8% | 2.3–3.5% | 2.1–3.6% | 2.0–3.8% | 1.8–4.2% |
 | [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK | 2.8% | N/A | N/A | N/A | N/A |
@@ -1022,14 +1036,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 11% | 99.2% |  |
-| 1.5–2.5% | 28% | 88% | Last Result |
-| 2.5–3.5% | 35% | 60% | Median |
-| 3.5–4.5% | 22% | 25% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 39% | 94% | Last Result |
+| 2.5–3.5% | 48% | 55% | Median |
+| 3.5–4.5% | 7% | 7% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1040,10 +1053,24 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–3 |
+| [28–31 July 2023](2023-07-31-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0–1 |
+| [30 July 2023](2023-07-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [28 July 2023](2023-07-28-Omnisis.html) | Omnisis | 0 | 0 | 0 | 0 | 0–2 |
+| [26–27 July 2023](2023-07-27-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [25–26 July 2023](2023-07-26-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [25–26 July 2023](2023-07-26-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [21–24 July 2023](2023-07-24-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [21–23 July 2023](2023-07-23-Savanta.html) | Savanta |  |  |  |  |  |
+| [23 July 2023](2023-07-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [19–23 July 2023](2023-07-23-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [19–21 July 2023](2023-07-21-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [20–21 July 2023](2023-07-21-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [19–20 July 2023](2023-07-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [19–20 July 2023](2023-07-20-TechneUK.html) | Techne UK | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [18 July 2023](2023-07-18-MoreinCommon.html) | More in Common | 0 | 0 | 0 | 0 | 0 |
 | [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0–2 |
+| [14–16 July 2023](2023-07-16-Savanta.html) | Savanta |  |  |  |  |  |
 | [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis | 0 | 0 | 0 | 0 | 0–2 |
 | [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK |  |  |  |  |  |
@@ -2054,11 +2081,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 2% | 19% |  |
-| 2 | 9% | 17% |  |
-| 3 | 8% | 8% |  |
-| 4 | 0.2% | 0.2% |  |
-| 5 | 0% | 0% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 1.0% | 4% |  |
+| 2 | 3% | 3% |  |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 
