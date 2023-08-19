@@ -10,12 +10,22 @@ Last result: **11.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.1–13.9% | 9.7–14.7% | 9.4–15.3% | 8.9–16.3% |
-| [28–31 July 2023](2023-07-31-Deltapoll.html) | Deltapoll | 11.6% | 10.6–12.8% | 10.3–13.1% | 10.1–13.4% | 9.6–13.9% |
+| N/A | [Poll Average](average.html) | 11.0% | 9.8–14.0% | 9.5–14.9% | 9.2–15.4% | 8.8–16.3% |
+| [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 10.5% | 9.5–11.7% | 9.2–12.0% | 8.9–12.3% | 8.5–12.9% |
+| [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | 9.5–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
+| [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis | 10.5% | N/A | N/A | N/A | N/A |
+| [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 12.4% | 11.3–13.5% | 11.0–13.9% | 10.8–14.2% | 10.3–14.8% |
+| [4–7 August 2023](2023-08-07-Deltapoll.html) | Deltapoll | 12.4% | N/A | N/A | N/A | N/A |
+| [6 August 2023](2023-08-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.6% | N/A | N/A | N/A | N/A |
+| [2–4 August 2023](2023-08-04-Opinium.html) | Opinium <br> The Observer | 10.7% | 9.7–11.9% | 9.4–12.2% | 9.2–12.5% | 8.7–13.1% |
+| [3–4 August 2023](2023-08-04-Omnisis.html) | Omnisis | 11.6% | N/A | N/A | N/A | N/A |
+| [2–3 August 2023](2023-08-03-YouGov.html) | YouGov <br> The Times | 10.5% | 9.7–11.4% | 9.5–11.7% | 9.3–11.9% | 8.9–12.3% |
+| [2–3 August 2023](2023-08-03-TechneUK.html) | Techne UK | 10.5% | 9.6–11.6% | 9.3–11.9% | 9.1–12.1% | 8.6–12.7% |
+| [28–31 July 2023](2023-07-31-Deltapoll.html) | Deltapoll | 11.5% | 10.6–12.8% | 10.3–13.1% | 10.1–13.4% | 9.6–13.9% |
 | [30 July 2023](2023-07-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | 10.6–12.5% | 10.3–12.7% | 10.1–13.0% | 9.7–13.5% |
 | [28 July 2023](2023-07-28-Omnisis.html) | Omnisis | 10.5% | 9.5–11.7% | 9.2–12.0% | 8.9–12.3% | 8.5–12.9% |
 | [26–27 July 2023](2023-07-27-TechneUK.html) | Techne UK | 10.6% | 9.6–11.7% | 9.4–12.0% | 9.1–12.2% | 8.7–12.8% |
-| [25–26 July 2023](2023-07-26-YouGov.html) | YouGov <br> The Times | 10.7% | 9.8–11.7% | 9.6–11.9% | 9.4–12.2% | 9.0–12.7% |
+| [25–26 July 2023](2023-07-26-YouGov.html) | YouGov <br> The Times | 10.6% | 9.8–11.7% | 9.6–11.9% | 9.4–12.2% | 9.0–12.7% |
 | [25–26 July 2023](2023-07-26-BMGResearch.html) | BMG Research <br> The i | 14.7% | 13.5–15.9% | 13.2–16.3% | 12.9–16.6% | 12.4–17.2% |
 | [21–24 July 2023](2023-07-24-Deltapoll.html) | Deltapoll | 9.3% | N/A | N/A | N/A | N/A |
 | [21–23 July 2023](2023-07-23-Savanta.html) | Savanta | 10.3% | 9.5–11.2% | 9.3–11.4% | 9.1–11.7% | 8.7–12.1% |
@@ -29,14 +39,15 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 11.6% | 10.4–13.1% | 10.0–13.5% | 9.7–13.8% | 9.2–14.6% |
 | [14–16 July 2023](2023-07-16-Savanta.html) | Savanta | 11.4% | N/A | N/A | N/A | N/A |
 | [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.7% | 12.8–14.8% | 12.5–15.1% | 12.3–15.4% | 11.8–15.9% |
+| [14–16 July 2023](2023-07-16-MoreinCommon.html) | More in Common | 11.5% | N/A | N/A | N/A | N/A |
 | [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis | 10.5% | 9.4–11.6% | 9.1–12.0% | 8.9–12.3% | 8.4–12.8% |
 | [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK | 11.5% | N/A | N/A | N/A | N/A |
 | [10–11 July 2023](2023-07-11-YouGov.html) | YouGov <br> The Times | 11.5% | 10.6–12.5% | 10.4–12.8% | 10.1–13.0% | 9.7–13.5% |
 | [7–10 July 2023](2023-07-10-Deltapoll.html) | Deltapoll | 9.3% | N/A | N/A | N/A | N/A |
 | [7–9 July 2023](2023-07-09-Survation.html) | Survation | 12.3% | 10.9–13.9% | 10.5–14.3% | 10.2–14.7% | 9.6–15.5% |
 | [7–9 July 2023](2023-07-09-Savanta.html) | Savanta | 10.4% | 9.5–11.2% | 9.3–11.5% | 9.1–11.7% | 8.8–12.1% |
-| [9 July 2023](2023-07-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | N/A | N/A | N/A | N/A |
-| [5–7 July 2023](2023-07-07-Opinium.html) | Opinium <br> The Observer | 9.7% | 8.7–10.8% | 8.4–11.1% | 8.2–11.3% | 7.8–11.9% |
+| [9 July 2023](2023-07-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | N/A | N/A | N/A | N/A |
+| [5–7 July 2023](2023-07-07-Opinium.html) | Opinium <br> The Observer | 9.6% | 8.7–10.8% | 8.4–11.1% | 8.2–11.3% | 7.8–11.9% |
 | [6–7 July 2023](2023-07-07-Omnisis.html) | Omnisis | 8.3% | 7.4–9.4% | 7.1–9.7% | 6.9–10.0% | 6.5–10.5% |
 | [5–6 July 2023](2023-07-06-YouGov.html) | YouGov <br> The Times | 9.7% | 8.9–10.6% | 8.7–10.9% | 8.5–11.1% | 8.1–11.6% |
 | [5–6 July 2023](2023-07-06-TechneUK.html) | Techne UK | 10.5% | 9.5–11.5% | 9.3–11.8% | 9.0–12.1% | 8.6–12.6% |
@@ -48,37 +59,37 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [28–29 June 2023](2023-06-29-TechneUK.html) | Techne UK | 11.5% | 10.5–12.6% | 10.2–12.9% | 10.0–13.2% | 9.5–13.7% |
 | [27–29 June 2023](2023-06-29-BMGResearch.html) | BMG Research <br> The i | 11.6% | 10.5–12.7% | 10.3–13.1% | 10.0–13.4% | 9.5–13.9% |
 | [27–28 June 2023](2023-06-28-YouGov.html) | YouGov <br> The Times | 10.5% | 9.7–11.5% | 9.4–11.8% | 9.3–12.0% | 8.9–12.5% |
-| [23–26 June 2023](2023-06-26-Survation.html) | Survation | 11.7% | 10.8–12.6% | 10.5–12.9% | 10.3–13.2% | 9.9–13.6% |
-| [23–26 June 2023](2023-06-26-Deltapoll.html) | Deltapoll | 12.7% | 11.5–14.2% | 11.1–14.6% | 10.8–14.9% | 10.3–15.6% |
+| [23–26 June 2023](2023-06-26-Survation.html) | Survation | 11.4% | 10.8–12.6% | 10.5–12.9% | 10.3–13.2% | 9.9–13.6% |
+| [23–26 June 2023](2023-06-26-Deltapoll.html) | Deltapoll | 12.6% | 11.5–14.2% | 11.1–14.6% | 10.8–14.9% | 10.3–15.6% |
 | [23–25 June 2023](2023-06-25-Savanta.html) | Savanta | 10.3% | 9.6–11.2% | 9.3–11.5% | 9.1–11.7% | 8.8–12.1% |
 | [25 June 2023](2023-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.6% | 12.7–14.7% | 12.4–15.0% | 12.1–15.2% | 11.7–15.7% |
-| [21–23 June 2023](2023-06-23-Opinium.html) | Opinium <br> The Observer | 8.7% | 7.9–9.6% | 7.7–9.9% | 7.5–10.1% | 7.2–10.5% |
+| [21–23 June 2023](2023-06-23-Opinium.html) | Opinium <br> The Observer | 8.6% | 7.9–9.6% | 7.7–9.9% | 7.5–10.1% | 7.2–10.5% |
 | [22–23 June 2023](2023-06-23-Omnisis.html) | Omnisis | 9.4% | 8.4–10.5% | 8.2–10.9% | 7.9–11.2% | 7.5–11.7% |
 | [21–22 June 2023](2023-06-22-TechneUK.html) | Techne UK | 10.4% | 9.5–11.5% | 9.2–11.8% | 9.0–12.0% | 8.6–12.6% |
 | [20–21 June 2023](2023-06-21-YouGov.html) | YouGov <br> The Times | 11.6% | 10.7–12.5% | 10.5–12.7% | 10.3–13.0% | 9.9–13.4% |
 | [14–20 June 2023](2023-06-20-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [15–19 June 2023](2023-06-19-Survation.html) | Survation | 11.3% | 10.1–12.7% | 9.7–13.1% | 9.4–13.4% | 8.9–14.1% |
-| [15–19 June 2023](2023-06-19-MoreinCommon.html) | More in Common | 10.6% | 9.6–11.7% | 9.4–12.0% | 9.1–12.3% | 8.7–12.8% |
-| [16–19 June 2023](2023-06-19-Deltapoll.html) | Deltapoll | 10.5% | N/A | N/A | N/A | N/A |
+| [15–19 June 2023](2023-06-19-MoreinCommon.html) | More in Common | 10.5% | 9.6–11.7% | 9.4–12.0% | 9.1–12.3% | 8.7–12.8% |
+| [16–19 June 2023](2023-06-19-Deltapoll.html) | Deltapoll | 10.4% | N/A | N/A | N/A | N/A |
 | [16–18 June 2023](2023-06-18-Savanta.html) | Savanta | 11.4% | 10.5–12.3% | 10.3–12.5% | 10.1–12.8% | 9.7–13.2% |
 | [18 June 2023](2023-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.6% | N/A | N/A | N/A | N/A |
 | [15–16 June 2023](2023-06-16-YouGov.html) | YouGov <br> The Times | 11.7% | N/A | N/A | N/A | N/A |
 | [15–16 June 2023](2023-06-16-Omnisis.html) | Omnisis | 10.5% | N/A | N/A | N/A | N/A |
 | [14–15 June 2023](2023-06-15-TechneUK.html) | Techne UK | 11.5% | N/A | N/A | N/A | N/A |
-| [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 12.5% | 11.3–13.9% | 10.9–14.3% | 10.6–14.6% | 10.1–15.3% |
+| [9–12 June 2023](2023-06-12-Deltapoll.html) | Deltapoll | 12.4% | 11.3–13.9% | 10.9–14.3% | 10.6–14.6% | 10.1–15.3% |
 | [2–11 June 2023](2023-06-11-YouGov.html) | YouGov <br> Times Radio | 10.5% | N/A | N/A | N/A | N/A |
 | [9–11 June 2023](2023-06-11-Savanta.html) | Savanta | 9.4% | N/A | N/A | N/A | N/A |
 | [11 June 2023](2023-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | 12.5–14.5% | 12.2–14.8% | 11.9–15.0% | 11.5–15.5% |
-| [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer | 11.9% | 10.9–13.0% | 10.6–13.4% | 10.3–13.7% | 9.8–14.2% |
+| [7–9 June 2023](2023-06-09-Opinium.html) | Opinium <br> The Observer | 11.8% | 10.9–13.0% | 10.6–13.4% | 10.3–13.7% | 9.8–14.2% |
 | [8–9 June 2023](2023-06-09-Omnisis.html) | Omnisis | 10.5% | 9.4–11.7% | 9.2–12.0% | 8.9–12.3% | 8.4–12.9% |
 | [7–8 June 2023](2023-06-08-TechneUK.html) | Techne UK | 12.5% | 11.5–13.7% | 11.2–14.0% | 11.0–14.3% | 10.5–14.8% |
 | [6–7 June 2023](2023-06-07-YouGov.html) | YouGov <br> The Times | 11.6% | N/A | N/A | N/A | N/A |
 | [2–5 June 2023](2023-06-05-Deltapoll.html) | Deltapoll | 13.6% | N/A | N/A | N/A | N/A |
-| [2–4 June 2023](2023-06-04-Savanta.html) | Savanta | 11.5% | 10.6–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
+| [2–4 June 2023](2023-06-04-Savanta.html) | Savanta | 11.4% | 10.6–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
 | [4 June 2023](2023-06-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.5% | N/A | N/A | N/A | N/A |
 | [1–2 June 2023](2023-06-02-Omnisis.html) | Omnisis | 10.5% | N/A | N/A | N/A | N/A |
 | [1 June 2023](2023-06-01-TechneUK.html) | Techne UK | 12.5% | N/A | N/A | N/A | N/A |
-| [30–31 May 2023](2023-05-31-YouGov.html) | YouGov <br> The Times | 11.7% | 10.8–12.7% | 10.5–13.0% | 10.3–13.2% | 9.9–13.7% |
+| [30–31 May 2023](2023-05-31-YouGov.html) | YouGov <br> The Times | 11.6% | 10.8–12.7% | 10.5–13.0% | 10.3–13.2% | 9.9–13.7% |
 | [30–31 May 2023](2023-05-31-BMGResearch.html) | BMG Research <br> The i | 10.4% | 9.5–11.6% | 9.2–11.9% | 9.0–12.1% | 8.5–12.7% |
 | [26–28 May 2023](2023-05-28-Savanta.html) | Savanta | 9.3% | 8.6–10.2% | 8.3–10.4% | 8.2–10.6% | 7.8–11.1% |
 | [28 May 2023](2023-05-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | 11.5–13.5% | 11.2–13.7% | 11.0–14.0% | 10.6–14.5% |
@@ -87,54 +98,54 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [25–26 May 2023](2023-05-26-Omnisis.html) | Omnisis | 10.4% | 9.4–11.6% | 9.1–11.9% | 8.9–12.2% | 8.4–12.8% |
 | [24–25 May 2023](2023-05-25-TechneUK.html) | Techne UK | 11.4% | 10.4–12.5% | 10.2–12.8% | 9.9–13.1% | 9.5–13.6% |
 | [18–22 May 2023](2023-05-22-Kantar.html) | Kantar | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.1–14.1% |
-| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 9.5% | 8.6–10.5% | 8.3–10.8% | 8.1–11.1% | 7.7–11.6% |
+| [19–22 May 2023](2023-05-22-Deltapoll.html) | Deltapoll | 9.4% | 8.6–10.5% | 8.3–10.8% | 8.1–11.1% | 7.7–11.6% |
 | [19–21 May 2023](2023-05-21-Savanta.html) | Savanta | 9.3% | 8.5–10.2% | 8.3–10.5% | 8.1–10.7% | 7.8–11.1% |
 | [21 May 2023](2023-05-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.5% | 12.5–14.5% | 12.3–14.8% | 12.0–15.1% | 11.6–15.6% |
 | [17–18 May 2023](2023-05-18-YouGov.html) | YouGov <br> The Times | 12.7% | 11.7–13.7% | 11.5–14.0% | 11.2–14.2% | 10.8–14.8% |
-| [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 10.5% | 9.6–11.6% | 9.3–11.8% | 9.1–12.1% | 8.6–12.6% |
+| [17–18 May 2023](2023-05-18-TechneUK.html) | Techne UK | 10.4% | 9.6–11.6% | 9.3–11.8% | 9.1–12.1% | 8.6–12.6% |
 | [17–18 May 2023](2023-05-18-Omnisis.html) | Omnisis | 10.5% | 9.5–11.6% | 9.2–12.0% | 8.9–12.3% | 8.5–12.8% |
-| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
+| [10–16 May 2023](2023-05-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.2% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
 | [12–15 May 2023](2023-05-15-MoreinCommon.html) | More in Common | 13.4% | 12.5–14.4% | 12.2–14.8% | 12.0–15.0% | 11.5–15.5% |
 | [12–15 May 2023](2023-05-15-Deltapoll.html) | Deltapoll | 12.6% | 11.5–13.8% | 11.2–14.1% | 11.0–14.4% | 10.5–15.0% |
-| [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.2% |
+| [12–14 May 2023](2023-05-14-Savanta.html) | Savanta | 9.3% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.2% |
 | [14 May 2023](2023-05-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.6% | 10.6–12.8% | 10.3–13.1% | 10.1–13.4% | 9.6–14.0% |
 | [10–12 May 2023](2023-05-12-Opinium.html) | Opinium <br> The Observer | 11.5% | 10.7–12.5% | 10.4–12.8% | 10.2–13.0% | 9.8–13.5% |
 | [11–12 May 2023](2023-05-12-Omnisis.html) | Omnisis | 10.5% | 9.5–11.7% | 9.2–12.0% | 8.9–12.3% | 8.5–12.9% |
 | [10–11 May 2023](2023-05-11-TechneUK.html) | Techne UK | 11.5% | 10.5–12.6% | 10.2–12.9% | 10.0–13.2% | 9.5–13.7% |
-| [9–10 May 2023](2023-05-10-YouGov.html) | YouGov <br> The Times | 11.8% | N/A | N/A | N/A | N/A |
+| [9–10 May 2023](2023-05-10-YouGov.html) | YouGov <br> The Times | 11.7% | N/A | N/A | N/A | N/A |
 | [5–9 May 2023](2023-05-09-Deltapoll.html) | Deltapoll | 9.5% | N/A | N/A | N/A | N/A |
 | [5–7 May 2023](2023-05-07-Savanta.html) | Savanta | 9.2% | N/A | N/A | N/A | N/A |
-| [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 16.8% | N/A | N/A | N/A | N/A |
+| [7 May 2023](2023-05-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 16.6% | N/A | N/A | N/A | N/A |
 | [4–5 May 2023](2023-05-05-Omnisis.html) | Omnisis | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.8% | 5.7–9.2% |
-| [3–4 May 2023](2023-05-04-YouGov.html) | YouGov <br> The Times | 10.6% | 9.8–11.6% | 9.5–11.8% | 9.3–12.1% | 8.9–12.6% |
+| [3–4 May 2023](2023-05-04-YouGov.html) | YouGov <br> The Times | 10.5% | 9.8–11.6% | 9.5–11.8% | 9.3–12.1% | 8.9–12.6% |
 | [3–4 May 2023](2023-05-04-BMGResearch.html) | BMG Research <br> The i | 11.5% | 10.5–12.6% | 10.2–12.9% | 10.0–13.2% | 9.5–13.8% |
 | [2–3 May 2023](2023-05-03-TechneUK.html) | Techne UK | 11.4% | 10.4–12.5% | 10.1–12.8% | 9.9–13.1% | 9.4–13.7% |
 | [2 May 2023](2023-05-02-Deltapoll.html) | Deltapoll | 11.6% | 10.6–12.7% | 10.3–13.0% | 10.1–13.3% | 9.6–13.9% |
 | [28–30 April 2023](2023-04-30-Savanta.html) | Savanta | 9.3% | 8.6–10.2% | 8.4–10.4% | 8.2–10.7% | 7.8–11.1% |
-| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.7% | 11.8–13.8% | 11.5–14.1% | 11.3–14.3% | 10.9–14.8% |
+| [30 April 2023](2023-04-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.6% | 11.8–13.8% | 11.5–14.1% | 11.3–14.3% | 10.9–14.8% |
 | [24–28 April 2023](2023-04-28-Survation.html) | Survation | 12.1% | 10.8–13.7% | 10.4–14.2% | 10.0–14.6% | 9.4–15.4% |
-| [26–28 April 2023](2023-04-28-Opinium.html) | Opinium <br> The Observer | 10.7% | 9.7–11.9% | 9.4–12.2% | 9.1–12.5% | 8.7–13.0% |
+| [26–28 April 2023](2023-04-28-Opinium.html) | Opinium <br> The Observer | 10.6% | 9.7–11.9% | 9.4–12.2% | 9.1–12.5% | 8.7–13.0% |
 | [27–28 April 2023](2023-04-28-Omnisis.html) | Omnisis | 10.5% | 9.4–11.7% | 9.2–12.0% | 8.9–12.3% | 8.4–12.9% |
 | [26–27 April 2023](2023-04-27-YouGov.html) | YouGov <br> The Times | 11.6% | 10.7–12.6% | 10.5–12.9% | 10.3–13.1% | 9.9–13.6% |
 | [26–27 April 2023](2023-04-27-TechneUK.html) | Techne UK | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–11.0% | 7.6–11.5% |
 | [24–26 April 2023](2023-04-26-Deltapoll.html) | Deltapoll | 9.6% | 8.6–10.6% | 8.4–10.9% | 8.2–11.2% | 7.7–11.7% |
 | [21–23 April 2023](2023-04-23-Savanta.html) | Savanta | 9.4% | N/A | N/A | N/A | N/A |
-| [23 April 2023](2023-04-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.6% | 10.7–12.6% | 10.5–12.9% | 10.3–13.2% | 9.8–13.6% |
+| [23 April 2023](2023-04-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | 10.7–12.6% | 10.5–12.9% | 10.3–13.2% | 9.8–13.6% |
 | [20–21 April 2023](2023-04-21-Omnisis.html) | Omnisis | 7.4% | 6.5–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
 | [20 April 2023](2023-04-20-TechneUK.html) | Techne UK | 10.3% | 9.4–11.4% | 9.1–11.6% | 8.9–11.9% | 8.5–12.4% |
-| [18–19 April 2023](2023-04-19-YouGov.html) | YouGov <br> The Times | 10.7% | N/A | N/A | N/A | N/A |
+| [18–19 April 2023](2023-04-19-YouGov.html) | YouGov <br> The Times | 10.6% | N/A | N/A | N/A | N/A |
 | [13–17 April 2023](2023-04-17-Deltapoll.html) | Deltapoll | 10.5% | 9.6–11.6% | 9.3–11.9% | 9.1–12.2% | 8.6–12.7% |
-| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta | 8.4% | 7.7–9.2% | 7.5–9.4% | 7.3–9.6% | 7.0–10.0% |
-| [16 April 2023](2023-04-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [14–16 April 2023](2023-04-16-Savanta.html) | Savanta | 8.3% | 7.7–9.2% | 7.5–9.4% | 7.3–9.6% | 7.0–10.0% |
+| [16 April 2023](2023-04-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [12–14 April 2023](2023-04-14-Opinium.html) | Opinium <br> The Observer | 10.6% | 9.6–11.8% | 9.3–12.1% | 9.1–12.4% | 8.6–13.0% |
-| [12–13 April 2023](2023-04-13-YouGov.html) | YouGov <br> The Times | 10.6% | N/A | N/A | N/A | N/A |
+| [12–13 April 2023](2023-04-13-YouGov.html) | YouGov <br> The Times | 10.5% | N/A | N/A | N/A | N/A |
 | [12–13 April 2023](2023-04-13-TechneUK.html) | Techne UK | 10.3% | N/A | N/A | N/A | N/A |
 | [12–13 April 2023](2023-04-13-Omnisis.html) | Omnisis | 9.5% | N/A | N/A | N/A | N/A |
 | [6–11 April 2023](2023-04-11-MoreinCommon.html) | More in Common | 10.5% | 9.6–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.4% |
 | [9 April 2023](2023-04-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
-| [5–6 April 2023](2023-04-06-TechneUK.html) | Techne UK | 9.5% | N/A | N/A | N/A | N/A |
-| [5–6 April 2023](2023-04-06-Opinium.html) | Opinium <br> The Observer | 10.6% | N/A | N/A | N/A | N/A |
+| [5–6 April 2023](2023-04-06-TechneUK.html) | Techne UK | 9.4% | N/A | N/A | N/A | N/A |
+| [5–6 April 2023](2023-04-06-Opinium.html) | Opinium <br> The Observer | 10.5% | N/A | N/A | N/A | N/A |
 | [5–6 April 2023](2023-04-06-Omnisis.html) | Omnisis | 10.5% | N/A | N/A | N/A | N/A |
 | [3 April 2023](2023-04-03-Deltapoll.html) | Deltapoll | 9.4% | N/A | N/A | N/A | N/A |
 | [2 April 2023](2023-04-02-Survation.html) | Survation | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
@@ -146,14 +157,14 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [29 March 2023](2023-03-29-PeoplePolling.html) | PeoplePolling <br> GB News | 9.5% | 8.5–10.7% | 8.2–11.1% | 7.9–11.4% | 7.5–11.9% |
 | [28–29 March 2023](2023-03-29-Omnisis.html) | Omnisis | 9.3% | 8.4–10.5% | 8.1–10.8% | 7.8–11.1% | 7.4–11.6% |
 | [22–29 March 2023](2023-03-29-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.4% | 8.8–14.1% |
-| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll | 10.4% | 9.4–11.5% | 9.2–11.8% | 9.0–12.0% | 8.5–12.6% |
-| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.8–11.2% |
+| [24–27 March 2023](2023-03-27-Deltapoll.html) | Deltapoll | 10.3% | 9.4–11.5% | 9.2–11.8% | 9.0–12.0% | 8.5–12.6% |
+| [24–26 March 2023](2023-03-26-Savanta.html) | Savanta | 9.3% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.8–11.2% |
 | [26 March 2023](2023-03-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.6% | 9.7–11.5% | 9.5–11.8% | 9.3–12.0% | 8.9–12.5% |
 | [23–24 March 2023](2023-03-24-Survation.html) | Survation | 8.2% | 7.1–9.6% | 6.7–9.9% | 6.5–10.3% | 6.0–11.0% |
-| [23–24 March 2023](2023-03-24-Omnisis.html) | Omnisis | 10.6% | N/A | N/A | N/A | N/A |
+| [23–24 March 2023](2023-03-24-Omnisis.html) | Omnisis | 10.5% | N/A | N/A | N/A | N/A |
 | [22–23 March 2023](2023-03-23-TechneUK.html) | Techne UK | 8.3% | 7.5–9.3% | 7.2–9.6% | 7.0–9.8% | 6.7–10.3% |
-| [21–22 March 2023](2023-03-22-YouGov.html) | YouGov <br> The Times | 10.6% | 9.8–11.6% | 9.5–11.8% | 9.3–12.1% | 8.9–12.6% |
-| [22 March 2023](2023-03-22-PeoplePolling.html) | PeoplePolling <br> GB News | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.6% |
+| [21–22 March 2023](2023-03-22-YouGov.html) | YouGov <br> The Times | 10.5% | 9.8–11.6% | 9.5–11.8% | 9.3–12.1% | 8.9–12.6% |
+| [22 March 2023](2023-03-22-PeoplePolling.html) | PeoplePolling <br> GB News | 10.8% | 9.8–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.6% |
 | [17–20 March 2023](2023-03-20-Survation.html) | Survation | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.5–10.3% | 6.0–11.1% |
 | [17–20 March 2023](2023-03-20-Deltapoll.html) | Deltapoll | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.8–9.1% | 5.4–9.6% |
 | [17–19 March 2023](2023-03-19-Savanta.html) | Savanta | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.6% | 7.8–11.0% |
@@ -161,7 +172,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [16–17 March 2023](2023-03-17-PeoplePolling.html) | PeoplePolling <br> GB News | 9.5% | N/A | N/A | N/A | N/A |
 | [15–17 March 2023](2023-03-17-Opinium.html) | Opinium <br> The Observer | 8.4% | 7.5–9.5% | 7.3–9.8% | 7.0–10.1% | 6.6–10.6% |
 | [15–16 March 2023](2023-03-16-YouGov.html) | YouGov <br> The Times | 9.4% | N/A | N/A | N/A | N/A |
-| [15–16 March 2023](2023-03-16-TechneUK.html) | Techne UK | 8.4% | N/A | N/A | N/A | N/A |
+| [15–16 March 2023](2023-03-16-TechneUK.html) | Techne UK | 8.3% | N/A | N/A | N/A | N/A |
 | [15–16 March 2023](2023-03-16-BMGResearch.html) | BMG Research | 8.4% | 7.5–9.4% | 7.3–9.6% | 7.1–9.9% | 6.7–10.4% |
 | [13–15 March 2023](2023-03-15-Survation.html) | Survation | 8.1% | N/A | N/A | N/A | N/A |
 | [15 March 2023](2023-03-15-Omnisis.html) | Omnisis | 6.4% | 5.5–7.6% | 5.2–8.0% | 5.0–8.3% | 4.5–8.9% |
@@ -171,15 +182,15 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [8–10 March 2023](2023-03-10-Opinium.html) | Opinium | 8.4% | N/A | N/A | N/A | N/A |
 | [8–9 March 2023](2023-03-09-TechneUK.html) | Techne UK | 9.4% | N/A | N/A | N/A | N/A |
 | [8–9 March 2023](2023-03-09-Omnisis.html) | Omnisis | 7.4% | N/A | N/A | N/A | N/A |
-| [7–8 March 2023](2023-03-08-YouGov.html) | YouGov <br> The Times | 10.7% | N/A | N/A | N/A | N/A |
+| [7–8 March 2023](2023-03-08-YouGov.html) | YouGov <br> The Times | 10.6% | N/A | N/A | N/A | N/A |
 | [8 March 2023](2023-03-08-PeoplePolling.html) | PeoplePolling <br> GB News | 8.6% | N/A | N/A | N/A | N/A |
 | [2–6 March 2023](2023-03-06-Deltapoll.html) | Deltapoll | 8.3% | N/A | N/A | N/A | N/A |
 | [3–5 March 2023](2023-03-05-Savanta.html) | Savanta | 9.3% | N/A | N/A | N/A | N/A |
-| [5 March 2023](2023-03-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.6% | N/A | N/A | N/A | N/A |
+| [5 March 2023](2023-03-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.5% | N/A | N/A | N/A | N/A |
 | [2–3 March 2023](2023-03-03-Survation.html) | Survation | 10.3% | N/A | N/A | N/A | N/A |
-| [1–3 March 2023](2023-03-03-Opinium.html) | Opinium <br> The Observer | 7.5% | N/A | N/A | N/A | N/A |
+| [1–3 March 2023](2023-03-03-Opinium.html) | Opinium <br> The Observer | 7.4% | N/A | N/A | N/A | N/A |
 | [2–3 March 2023](2023-03-03-Omnisis.html) | Omnisis | 11.5% | N/A | N/A | N/A | N/A |
-| [1–3 March 2023](2023-03-03-FindOutNow.html) | Find Out Now <br> Daily Telegraph | 9.5% | 8.5–10.5% | 8.3–10.9% | 8.0–11.1% | 7.6–11.6% |
+| [1–3 March 2023](2023-03-03-FindOutNow.html) | Find Out Now <br> Daily Telegraph | 9.4% | 8.5–10.5% | 8.3–10.9% | 8.0–11.1% | 7.6–11.6% |
 | [1–2 March 2023](2023-03-02-TechneUK.html) | Techne UK | 8.4% | N/A | N/A | N/A | N/A |
 | [1 March 2023](2023-03-01-YouGov.html) | YouGov <br> The Times | 10.5% | N/A | N/A | N/A | N/A |
 | [1 March 2023](2023-03-01-PeoplePolling.html) | PeoplePolling <br> GB News | 9.4% | N/A | N/A | N/A | N/A |
@@ -193,43 +204,43 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [21–22 February 2023](2023-02-22-YouGov.html) | YouGov <br> The Times | 9.6% | 8.7–10.5% | 8.5–10.7% | 8.3–11.0% | 7.9–11.4% |
 | [22 February 2023](2023-02-22-PeoplePolling.html) | PeoplePolling <br> GB News | 8.6% | 7.6–9.7% | 7.3–10.1% | 7.0–10.3% | 6.6–10.9% |
 | [16–20 February 2023](2023-02-20-Kantar.html) | Kantar | 9.5% | 8.4–10.8% | 8.2–11.1% | 7.9–11.4% | 7.4–12.1% |
-| [17–20 February 2023](2023-02-20-Deltapoll.html) | Deltapoll | 9.3% | 8.3–10.6% | 8.0–10.9% | 7.7–11.2% | 7.2–11.9% |
-| [17–19 February 2023](2023-02-19-Savanta.html) | Savanta | 9.4% | 8.6–10.2% | 8.4–10.5% | 8.2–10.7% | 7.8–11.1% |
+| [17–20 February 2023](2023-02-20-Deltapoll.html) | Deltapoll | 9.2% | 8.3–10.6% | 8.0–10.9% | 7.7–11.2% | 7.2–11.9% |
+| [17–19 February 2023](2023-02-19-Savanta.html) | Savanta | 9.3% | 8.6–10.2% | 8.4–10.5% | 8.2–10.7% | 7.8–11.1% |
 | [18 February 2023](2023-02-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | 9.6–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.4% |
 | [15–17 February 2023](2023-02-17-Opinium.html) | Opinium <br> The Observer | 9.5% | 8.5–10.5% | 8.2–10.9% | 8.0–11.1% | 7.6–11.7% |
 | [15–16 February 2023](2023-02-16-TechneUK.html) | Techne UK | 8.3% | 7.5–9.3% | 7.3–9.6% | 7.1–9.8% | 6.7–10.3% |
 | [10–16 February 2023](2023-02-16-Survation.html) | Survation | 8.3% | 7.9–8.8% | 7.7–8.9% | 7.6–9.1% | 7.4–9.3% |
-| [15–16 February 2023](2023-02-16-Omnisis.html) | Omnisis | 10.6% | 9.6–11.9% | 9.3–12.2% | 9.0–12.5% | 8.5–13.1% |
+| [15–16 February 2023](2023-02-16-Omnisis.html) | Omnisis | 10.5% | 9.6–11.9% | 9.3–12.2% | 9.0–12.5% | 8.5–13.1% |
 | [14–15 February 2023](2023-02-15-YouGov.html) | YouGov <br> The Times | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.4% |
 | [15 February 2023](2023-02-15-PeoplePolling.html) | PeoplePolling <br> GB News | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.9–10.2% | 6.4–10.8% |
 | [10–13 February 2023](2023-02-13-Deltapoll.html) | Deltapoll | 8.2% | N/A | N/A | N/A | N/A |
-| [10–12 February 2023](2023-02-12-Savanta.html) | Savanta | 10.5% | N/A | N/A | N/A | N/A |
+| [10–12 February 2023](2023-02-12-Savanta.html) | Savanta | 10.4% | N/A | N/A | N/A | N/A |
 | [12 February 2023](2023-02-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
 | [10–12 February 2023](2023-02-12-Focaldata.html) | Focaldata | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.8–11.4% | 7.3–12.1% |
 | [9–10 February 2023](2023-02-10-Omnisis.html) | Omnisis | 10.6% | N/A | N/A | N/A | N/A |
 | [8–9 February 2023](2023-02-09-YouGov.html) | YouGov <br> The Times | 10.5% | N/A | N/A | N/A | N/A |
 | [8–9 February 2023](2023-02-09-TechneUK.html) | Techne UK | 9.4% | N/A | N/A | N/A | N/A |
-| [8–9 February 2023](2023-02-09-PeoplePolling.html) | PeoplePolling <br> GB News | 7.6% | N/A | N/A | N/A | N/A |
+| [8–9 February 2023](2023-02-09-PeoplePolling.html) | PeoplePolling <br> GB News | 7.4% | N/A | N/A | N/A | N/A |
 | [1–6 February 2023](2023-02-06-Survation.html) | Survation | 11.7% | 10.7–12.7% | 10.5–13.0% | 10.3–13.2% | 9.8–13.7% |
 | [3–6 February 2023](2023-02-06-Deltapoll.html) | Deltapoll | 9.3% | N/A | N/A | N/A | N/A |
-| [3–5 February 2023](2023-02-05-Savanta.html) | Savanta | 9.5% | N/A | N/A | N/A | N/A |
+| [3–5 February 2023](2023-02-05-Savanta.html) | Savanta | 9.3% | N/A | N/A | N/A | N/A |
 | [5 February 2023](2023-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
-| [2–3 February 2023](2023-02-03-Omnisis.html) | Omnisis | 9.5% | N/A | N/A | N/A | N/A |
+| [2–3 February 2023](2023-02-03-Omnisis.html) | Omnisis | 9.4% | N/A | N/A | N/A | N/A |
 | [1–2 February 2023](2023-02-02-TechneUK.html) | Techne UK | 8.4% | N/A | N/A | N/A | N/A |
 | [1 February 2023](2023-02-01-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
-| [1 February 2023](2023-02-01-PeoplePolling.html) | PeoplePolling <br> GB News | 9.8% | N/A | N/A | N/A | N/A |
-| [26–30 January 2023](2023-01-30-Deltapoll.html) | Deltapoll | 9.5% | 8.4–10.7% | 8.1–11.1% | 7.8–11.4% | 7.3–12.1% |
+| [1 February 2023](2023-02-01-PeoplePolling.html) | PeoplePolling <br> GB News | 9.6% | N/A | N/A | N/A | N/A |
+| [26–30 January 2023](2023-01-30-Deltapoll.html) | Deltapoll | 9.3% | 8.4–10.7% | 8.1–11.1% | 7.8–11.4% | 7.3–12.1% |
 | [29 January 2023](2023-01-29-Savanta.html) | Savanta | 9.4% | 8.6–10.3% | 8.4–10.6% | 8.2–10.8% | 7.8–11.2% |
 | [29 January 2023](2023-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.3% | 7.6–9.2% | 7.3–9.4% | 7.2–9.6% | 6.8–10.1% |
 | [26–27 January 2023](2023-01-27-Omnisis.html) | Omnisis | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–8.9% | 5.6–9.4% |
 | [25–26 January 2023](2023-01-26-TechneUK.html) | Techne UK | 8.4% | 7.5–9.4% | 7.3–9.6% | 7.1–9.9% | 6.7–10.4% |
-| [24–26 January 2023](2023-01-26-BMGResearch.html) | BMG Research | 9.5% | 8.6–10.6% | 8.3–10.9% | 8.1–11.1% | 7.7–11.7% |
+| [24–26 January 2023](2023-01-26-BMGResearch.html) | BMG Research | 9.4% | 8.6–10.6% | 8.3–10.9% | 8.1–11.1% | 7.7–11.7% |
 | [24–25 January 2023](2023-01-25-YouGov.html) | YouGov <br> The Times | 10.4% | 9.6–11.4% | 9.3–11.6% | 9.1–11.9% | 8.7–12.3% |
 | [18–25 January 2023](2023-01-25-IpsosMORI.html) | Ipsos MORI | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.2% | 7.0–11.8% |
 | [24 January 2023](2023-01-24-PeoplePolling.html) | PeoplePolling <br> GB News | 8.5% | 7.5–9.6% | 7.2–9.9% | 7.0–10.2% | 6.6–10.7% |
-| [22 January 2023](2023-01-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.5% | N/A | N/A | N/A | N/A |
-| [19–21 January 2023](2023-01-21-Deltapoll.html) | Deltapoll | 9.5% | N/A | N/A | N/A | N/A |
-| [19–20 January 2023](2023-01-20-Omnisis.html) | Omnisis | 8.4% | N/A | N/A | N/A | N/A |
+| [22 January 2023](2023-01-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
+| [19–21 January 2023](2023-01-21-Deltapoll.html) | Deltapoll | 9.3% | N/A | N/A | N/A | N/A |
+| [19–20 January 2023](2023-01-20-Omnisis.html) | Omnisis | 8.3% | N/A | N/A | N/A | N/A |
 | [18–19 January 2023](2023-01-19-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
 | [18–19 January 2023](2023-01-19-TechneUK.html) | Techne UK | 9.4% | N/A | N/A | N/A | N/A |
 | [18 January 2023](2023-01-18-PeoplePolling.html) | PeoplePolling <br> GB News | 9.6% | N/A | N/A | N/A | N/A |
@@ -238,28 +249,28 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [15 January 2023](2023-01-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 9.4% | 8.6–10.3% | 8.4–10.6% | 8.2–10.8% | 7.8–11.3% |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK | 8.4% | N/A | N/A | N/A | N/A |
-| [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis | 7.4% | N/A | N/A | N/A | N/A |
-| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
+| [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis | 7.2% | N/A | N/A | N/A | N/A |
+| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News | 8.1% | N/A | N/A | N/A | N/A |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
-| [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll | 9.5% | N/A | N/A | N/A | N/A |
+| [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll | 9.4% | N/A | N/A | N/A | N/A |
 | [5–6 January 2023](2023-01-06-Omnisis.html) | Omnisis | 10.4% | N/A | N/A | N/A | N/A |
 | [4–5 January 2023](2023-01-05-YouGov.html) | YouGov <br> The Times | 9.4% | N/A | N/A | N/A | N/A |
 | [4–5 January 2023](2023-01-05-TechneUK.html) | Techne UK | 9.5% | N/A | N/A | N/A | N/A |
 | [4 January 2023](2023-01-04-PeoplePolling.html) | PeoplePolling <br> GB News | 7.3% | N/A | N/A | N/A | N/A |
-| [2–3 January 2023](2023-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.5% | N/A | N/A | N/A | N/A |
+| [2–3 January 2023](2023-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
 | [28 December 2022](2022-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 8.6% | N/A | N/A | N/A | N/A |
 | [21–22 December 2022](2022-12-22-TechneUK.html) | Techne UK | 8.4% | 7.6–9.4% | 7.4–9.7% | 7.2–9.9% | 6.8–10.4% |
 | [22 December 2022](2022-12-22-Omnisis.html) | Omnisis | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
 | [20–21 December 2022](2022-12-21-YouGov.html) | YouGov <br> The Times | 9.4% | N/A | N/A | N/A | N/A |
-| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News | 8.7% | 7.7–9.9% | 7.4–10.2% | 7.1–10.5% | 6.7–11.1% |
+| [21 December 2022](2022-12-21-PeoplePolling.html) | PeoplePolling <br> GB News | 8.5% | 7.7–9.9% | 7.4–10.2% | 7.1–10.5% | 6.7–11.1% |
 | [16–18 December 2022](2022-12-18-Savanta.html) | Savanta | 9.3% | 8.5–10.2% | 8.3–10.5% | 8.1–10.7% | 7.7–11.1% |
 | [14–16 December 2022](2022-12-16-Opinium.html) | Opinium <br> The Observer | 9.4% | 8.4–10.5% | 8.2–10.8% | 8.0–11.1% | 7.5–11.6% |
 | [15–16 December 2022](2022-12-16-Omnisis.html) | Omnisis | 9.4% | N/A | N/A | N/A | N/A |
 | [14–15 December 2022](2022-12-15-YouGov.html) | YouGov <br> The Times | 8.5% | 7.7–9.5% | 7.4–9.8% | 7.2–10.0% | 6.8–10.5% |
 | [14–15 December 2022](2022-12-15-TechneUK.html) | Techne UK | 9.4% | 8.5–10.5% | 8.3–10.7% | 8.1–11.0% | 7.7–11.5% |
-| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.8% |
-| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 13.3% | 12.0–14.8% | 11.7–15.3% | 11.4–15.6% | 10.8–16.4% |
+| [14 December 2022](2022-12-14-PeoplePolling.html) | PeoplePolling <br> GB News | 7.4% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.8% |
+| [7–13 December 2022](2022-12-13-IpsosMORI.html) | Ipsos MORI | 13.2% | 12.0–14.8% | 11.7–15.3% | 11.4–15.6% | 10.8–16.4% |
 | [9–12 December 2022](2022-12-12-Kantar.html) | Kantar | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.8–11.4% | 7.3–12.0% |
 | [9–12 December 2022](2022-12-12-Deltapoll.html) | Deltapoll | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.6% |
 | [9–11 December 2022](2022-12-11-Savanta.html) | Savanta | 8.4% | 7.7–9.2% | 7.5–9.5% | 7.3–9.7% | 7.0–10.1% |
@@ -271,52 +282,52 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [2–5 December 2022](2022-12-05-Savanta.html) | Savanta | 11.3% | N/A | N/A | N/A | N/A |
 | [1–5 December 2022](2022-12-05-Deltapoll.html) | Deltapoll | 10.4% | N/A | N/A | N/A | N/A |
 | [2–4 December 2022](2022-12-04-Savanta.html) | Savanta | 10.4% | N/A | N/A | N/A | N/A |
-| [4 December 2022](2022-12-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
-| [2 December 2022](2022-12-02-Opinium.html) | Opinium <br> The Observer | 8.5% | N/A | N/A | N/A | N/A |
+| [4 December 2022](2022-12-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [2 December 2022](2022-12-02-Opinium.html) | Opinium <br> The Observer | 8.4% | N/A | N/A | N/A | N/A |
 | [1–2 December 2022](2022-12-02-Omnisis.html) | Omnisis | 9.3% | N/A | N/A | N/A | N/A |
 | [1 December 2022](2022-12-01-TechneUK.html) | Techne UK | 10.4% | N/A | N/A | N/A | N/A |
 | [1 December 2022](2022-12-01-BMGResearch.html) | BMG Research <br> The i | 10.3% | 9.4–11.4% | 9.1–11.7% | 8.9–12.0% | 8.4–12.5% |
-| [29–30 November 2022](2022-11-30-YouGov.html) | YouGov <br> The Times | 9.7% | 8.8–10.7% | 8.5–11.0% | 8.3–11.3% | 7.9–11.8% |
-| [30 November 2022](2022-11-30-PeoplePolling.html) | PeoplePolling <br> GB News | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.8% |
+| [29–30 November 2022](2022-11-30-YouGov.html) | YouGov <br> The Times | 9.6% | 8.8–10.7% | 8.5–11.0% | 8.3–11.3% | 7.9–11.8% |
+| [30 November 2022](2022-11-30-PeoplePolling.html) | PeoplePolling <br> GB News | 7.4% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.8% |
 | [24–28 November 2022](2022-11-28-Deltapoll.html) | Deltapoll | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.7–12.4% | 8.1–13.1% |
-| [25–27 November 2022](2022-11-27-SavantaComRes.html) | Savanta ComRes | 10.5% | 9.6–11.4% | 9.4–11.6% | 9.2–11.9% | 8.8–12.3% |
-| [27 November 2022](2022-11-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.6% | 10.7–12.5% | 10.4–12.8% | 10.2–13.1% | 9.8–13.6% |
+| [25–27 November 2022](2022-11-27-SavantaComRes.html) | Savanta ComRes | 10.4% | 9.6–11.4% | 9.4–11.6% | 9.2–11.9% | 8.8–12.3% |
+| [27 November 2022](2022-11-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | 10.7–12.5% | 10.4–12.8% | 10.2–13.1% | 9.8–13.6% |
 | [23–24 November 2022](2022-11-24-TechneUK.html) | Techne UK | 9.1% | 8.2–10.0% | 8.0–10.3% | 7.8–10.6% | 7.4–11.1% |
 | [23–24 November 2022](2022-11-24-Omnisis.html) | Omnisis | 9.4% | 8.4–10.7% | 8.1–11.0% | 7.9–11.3% | 7.4–11.9% |
-| [22–23 November 2022](2022-11-23-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
+| [22–23 November 2022](2022-11-23-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
 | [23 November 2022](2022-11-23-PeoplePolling.html) | PeoplePolling | 8.4% | N/A | N/A | N/A | N/A |
 | [17–21 November 2022](2022-11-21-Kantar.html) | Kantar | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.8–10.2% | 6.4–10.8% |
-| [18–20 November 2022](2022-11-20-SavantaComRes.html) | Savanta ComRes <br> Independent | 10.4% | N/A | N/A | N/A | N/A |
+| [18–20 November 2022](2022-11-20-SavantaComRes.html) | Savanta ComRes <br> Independent | 10.3% | N/A | N/A | N/A | N/A |
 | [20 November 2022](2022-11-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.2% | N/A | N/A | N/A | N/A |
 | [17–19 November 2022](2022-11-19-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9.4% | N/A | N/A | N/A | N/A |
 | [18 November 2022](2022-11-18-PeoplePolling.html) | PeoplePolling <br> GB News | 10.4% | N/A | N/A | N/A | N/A |
-| [17–18 November 2022](2022-11-18-Opinium.html) | Opinium <br> The Observer | 9.6% | 8.6–10.7% | 8.4–11.0% | 8.2–11.2% | 7.7–11.8% |
+| [17–18 November 2022](2022-11-18-Opinium.html) | Opinium <br> The Observer | 9.4% | 8.6–10.7% | 8.4–11.0% | 8.2–11.2% | 7.7–11.8% |
 | [17–18 November 2022](2022-11-18-Omnisis.html) | Omnisis | 10.4% | N/A | N/A | N/A | N/A |
 | [17 November 2022](2022-11-17-TechneUK.html) | Techne UK | 8.1% | N/A | N/A | N/A | N/A |
 | [16–17 November 2022](2022-11-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
 | [15–16 November 2022](2022-11-16-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
-| [9–16 November 2022](2022-11-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 7.3% | 6.3–8.4% | 6.0–8.8% | 5.8–9.1% | 5.4–9.7% |
+| [9–16 November 2022](2022-11-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 7.2% | 6.3–8.4% | 6.0–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [10–14 November 2022](2022-11-14-Deltapoll.html) | Deltapoll | 6.2% | N/A | N/A | N/A | N/A |
-| [13 November 2022](2022-11-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
+| [13 November 2022](2022-11-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
 | [11 November 2022](2022-11-11-Omnisis.html) | Omnisis | 7.4% | 6.5–8.5% | 6.2–8.8% | 6.0–9.1% | 5.6–9.7% |
 | [9–10 November 2022](2022-11-10-YouGov.html) | YouGov <br> The Times | 10.3% | N/A | N/A | N/A | N/A |
 | [9–10 November 2022](2022-11-10-TechneUK.html) | Techne UK | 8.1% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [9–10 November 2022](2022-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | 10.3–12.5% | 10.1–12.8% | 9.8–13.1% | 9.4–13.7% |
-| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | 9.6% | 8.5–10.9% | 8.2–11.2% | 8.0–11.5% | 7.5–12.1% |
+| [9 November 2022](2022-11-09-PeoplePolling.html) | PeoplePolling <br> GB News | 9.7% | 8.5–10.9% | 8.2–11.2% | 8.0–11.5% | 7.5–12.1% |
 | [4–7 November 2022](2022-11-07-Deltapoll.html) | Deltapoll | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.0% | 7.0–11.7% |
-| [6 November 2022](2022-11-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
-| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 8.2% | 7.3–9.2% | 7.1–9.5% | 6.9–9.8% | 6.5–10.3% |
+| [6 November 2022](2022-11-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [2–4 November 2022](2022-11-04-Opinium.html) | Opinium <br> The Observer | 8.1% | 7.3–9.2% | 7.1–9.5% | 6.9–9.8% | 6.5–10.3% |
 | [3–4 November 2022](2022-11-04-Omnisis.html) | Omnisis | 7.3% | N/A | N/A | N/A | N/A |
-| [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK | 9.3% | N/A | N/A | N/A | N/A |
-| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 7.5% | 6.5–8.6% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [2–3 November 2022](2022-11-03-TechneUK.html) | Techne UK | 9.1% | N/A | N/A | N/A | N/A |
+| [1–3 November 2022](2022-11-03-Survation.html) | Survation | 7.4% | 6.5–8.6% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [2–3 November 2022](2022-11-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
 | [1–2 November 2022](2022-11-02-YouGov.html) | YouGov <br> The Times | 9.3% | 8.5–10.3% | 8.2–10.6% | 8.0–10.9% | 7.6–11.4% |
-| [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News | 10.7% | N/A | N/A | N/A | N/A |
-| [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell | 9.4% | N/A | N/A | N/A | N/A |
+| [1 November 2022](2022-11-01-PeoplePolling.html) | PeoplePolling <br> GB News | 10.4% | N/A | N/A | N/A | N/A |
+| [24–31 October 2022](2022-10-31-YouGov.html) | YouGov <br> Ben W. Ansell | 9.3% | N/A | N/A | N/A | N/A |
 | [28–31 October 2022](2022-10-31-Deltapoll.html) | Deltapoll | 9.3% | 8.4–10.3% | 8.2–10.6% | 8.0–10.9% | 7.5–11.4% |
 | [30 October 2022](2022-10-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.5–10.2% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
 | [28–30 October 2022](2022-10-30-Focaldata.html) | Focaldata <br> Best for Britain | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.1–9.6% | 6.8–10.0% |
-| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 10.2% | 9.2–11.3% | 9.0–11.6% | 8.7–11.8% | 8.3–12.4% |
+| [26–28 October 2022](2022-10-28-Opinium.html) | Opinium <br> The Observer | 10.1% | 9.2–11.3% | 9.0–11.6% | 8.7–11.8% | 8.3–12.4% |
 | [27–28 October 2022](2022-10-28-Omnisis.html) | Omnisis | 7.2% | 6.3–8.2% | 6.1–8.4% | 5.9–8.7% | 5.5–9.2% |
 | [26–27 October 2022](2022-10-27-TechneUK.html) | Techne UK | 10.1% | 9.2–11.2% | 9.0–11.5% | 8.7–11.7% | 8.3–12.2% |
 | [26–27 October 2022](2022-10-27-Survation.html) | Survation | 8.2% | 7.4–9.0% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
@@ -326,75 +337,75 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [20–26 October 2022](2022-10-26-Focaldata.html) | Focaldata <br> Best for Britain | 10.3% | N/A | N/A | N/A | N/A |
 | [24–26 October 2022](2022-10-26-BMGResearch.html) | BMG Research <br> Independent | 10.3% | 9.3–11.4% | 9.1–11.7% | 8.8–11.9% | 8.4–12.5% |
 | [21–23 October 2022](2022-10-23-SavantaComRes.html) | Savanta ComRes <br> Independent | 8.1% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.8% |
-| [23 October 2022](2022-10-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | N/A | N/A | N/A | N/A |
+| [23 October 2022](2022-10-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | N/A | N/A | N/A | N/A |
 | [22–23 October 2022](2022-10-23-Deltapoll.html) | Deltapoll <br> Sky News | 10.3% | N/A | N/A | N/A | N/A |
 | [21–22 October 2022](2022-10-22-Omnisis.html) | Omnisis | 10.2% | N/A | N/A | N/A | N/A |
 | [20–21 October 2022](2022-10-21-YouGov.html) | YouGov <br> The Times | 10.4% | 9.5–11.4% | 9.2–11.7% | 9.0–12.0% | 8.6–12.5% |
 | [19–21 October 2022](2022-10-21-Opinium.html) | Opinium <br> The Observer | 9.4% | N/A | N/A | N/A | N/A |
 | [19–21 October 2022](2022-10-21-JLPartners.html) | JL Partners | 8.2% | N/A | N/A | N/A | N/A |
 | [19–20 October 2022](2022-10-20-TechneUK.html) | Techne UK | 11.2% | 10.2–12.2% | 9.9–12.5% | 9.7–12.8% | 9.3–13.3% |
-| [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 11.6% | 10.4–12.8% | 10.1–13.2% | 9.8–13.5% | 9.3–14.1% |
+| [20 October 2022](2022-10-20-PeoplePolling.html) | PeoplePolling <br> GB News | 11.5% | 10.4–12.8% | 10.1–13.2% | 9.8–13.5% | 9.3–14.1% |
 | [20 October 2022](2022-10-20-Omnisis.html) | Omnisis | 7.2% | 6.4–8.2% | 6.1–8.5% | 5.9–8.7% | 5.6–9.2% |
 | [18–19 October 2022](2022-10-19-Survation.html) | Survation | 11.3% | 10.2–12.6% | 9.9–12.9% | 9.7–13.2% | 9.2–13.9% |
-| [19 October 2022](2022-10-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.5% | 11.7–13.4% | 11.4–13.7% | 11.2–13.9% | 10.9–14.3% |
-| [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
-| [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes | 11.2% | 10.3–12.1% | 10.1–12.3% | 9.9–12.6% | 9.5–13.0% |
-| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | 10.5–12.3% | 10.2–12.6% | 10.0–12.8% | 9.6–13.3% |
+| [19 October 2022](2022-10-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | 11.7–13.4% | 11.4–13.7% | 11.2–13.9% | 10.9–14.3% |
+| [13–17 October 2022](2022-10-17-Deltapoll.html) | Deltapoll | 7.2% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
+| [14–16 October 2022](2022-10-16-SavantaComRes.html) | Savanta ComRes | 11.0% | 10.3–12.1% | 10.1–12.3% | 9.9–12.6% | 9.5–13.0% |
+| [16 October 2022](2022-10-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | 10.5–12.3% | 10.2–12.6% | 10.0–12.8% | 9.6–13.3% |
 | [13–14 October 2022](2022-10-14-Omnisis.html) | Omnisis | 10.1% | 9.1–11.3% | 8.8–11.6% | 8.6–11.9% | 8.1–12.5% |
 | [12–13 October 2022](2022-10-13-TechneUK.html) | Techne UK | 11.2% | N/A | N/A | N/A | N/A |
 | [13 October 2022](2022-10-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.0% | N/A | N/A | N/A | N/A |
 | [11–12 October 2022](2022-10-12-YouGov.html) | YouGov <br> The Times | 9.2% | N/A | N/A | N/A | N/A |
 | [12 October 2022](2022-10-12-PeoplePolling.html) | PeoplePolling <br> GB News | 8.2% | N/A | N/A | N/A | N/A |
-| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.4% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.2% |
+| [5–12 October 2022](2022-10-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.3% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.2% |
 | [7–9 October 2022](2022-10-09-SavantaComRes.html) | Savanta ComRes | 10.1% | N/A | N/A | N/A | N/A |
 | [9 October 2022](2022-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [6–7 October 2022](2022-10-07-YouGov.html) | YouGov <br> The Times | 9.2% | 8.3–10.2% | 8.1–10.4% | 7.9–10.7% | 7.5–11.2% |
-| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer | 11.3% | 10.4–12.2% | 10.2–12.5% | 10.0–12.7% | 9.6–13.2% |
+| [5–7 October 2022](2022-10-07-Opinium.html) | Opinium <br> The Observer | 11.2% | 10.4–12.2% | 10.2–12.5% | 10.0–12.7% | 9.6–13.2% |
 | [6–7 October 2022](2022-10-07-Omnisis.html) | Omnisis | 10.4% | 9.3–11.5% | 9.1–11.9% | 8.8–12.1% | 8.3–12.7% |
-| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.8–11.5% | 7.3–12.1% |
+| [6–7 October 2022](2022-10-07-Deltapoll.html) | Deltapoll | 9.4% | 8.4–10.8% | 8.1–11.1% | 7.8–11.5% | 7.3–12.1% |
 | [5–6 October 2022](2022-10-06-TechneUK.html) | Techne UK | 10.2% | 9.2–11.2% | 9.0–11.5% | 8.8–11.7% | 8.4–12.2% |
 | [6 October 2022](2022-10-06-PeoplePolling.html) | PeoplePolling <br> GB News | 8.3% | 7.5–9.3% | 7.2–9.6% | 7.0–9.9% | 6.6–10.3% |
-| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | 9.4–11.5% | 9.2–11.8% | 8.9–12.1% | 8.5–12.7% |
+| [5 October 2022](2022-10-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.4–11.5% | 9.2–11.8% | 8.9–12.1% | 8.5–12.7% |
 | [2 October 2022](2022-10-02-SavantaComRes.html) | Savanta ComRes | 11.1% | 10.2–12.0% | 10.0–12.2% | 9.8–12.5% | 9.4–12.9% |
 | [2 October 2022](2022-10-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.4–11.2% | 9.2–11.5% | 9.0–11.7% | 8.6–12.2% |
-| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 9.2% | 8.3–10.2% | 8.0–10.5% | 7.8–10.8% | 7.4–11.3% |
+| [29–30 September 2022](2022-09-30-Opinium.html) | Opinium <br> The Observer | 9.1% | 8.3–10.2% | 8.0–10.5% | 7.8–10.8% | 7.4–11.3% |
 | [29–30 September 2022](2022-09-30-Omnisis.html) | Omnisis | 7.2% | 6.4–8.3% | 6.2–8.6% | 5.9–8.8% | 5.6–9.3% |
 | [28–29 September 2022](2022-09-29-YouGov.html) | YouGov <br> The Times | 7.3% | 6.5–8.2% | 6.3–8.4% | 6.1–8.6% | 5.8–9.1% |
 | [28–29 September 2022](2022-09-29-TechneUK.html) | Techne UK | 11.2% | 10.2–12.2% | 9.9–12.5% | 9.7–12.8% | 9.3–13.3% |
 | [29 September 2022](2022-09-29-Survation.html) | Survation | 11.1% | 10.0–12.5% | 9.7–12.8% | 9.4–13.2% | 8.9–13.8% |
 | [28–29 September 2022](2022-09-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | 12.6–14.4% | 12.3–14.6% | 12.1–14.8% | 11.7–15.3% |
-| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.1% |
-| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–10.9% | 7.6–11.4% |
+| [28–29 September 2022](2022-09-29-PeoplePolling.html) | PeoplePolling <br> GB News | 9.3% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.1% |
+| [27–29 September 2022](2022-09-29-Deltapoll.html) | Deltapoll <br> Daily Mirror | 9.3% | 8.5–10.4% | 8.2–10.7% | 8.0–10.9% | 7.6–11.4% |
 | [27–29 September 2022](2022-09-29-BMGResearch.html) | BMG Research | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.6–11.3% | 7.1–11.9% |
 | [23–26 September 2022](2022-09-26-Omnisis.html) | Omnisis | 10.2% | N/A | N/A | N/A | N/A |
 | [22–26 September 2022](2022-09-26-Kantar.html) | Kantar | 10.4% | 9.3–11.7% | 9.0–12.1% | 8.8–12.4% | 8.3–13.0% |
-| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times | 9.4% | N/A | N/A | N/A | N/A |
+| [23–25 September 2022](2022-09-25-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
 | [23–25 September 2022](2022-09-25-SavantaComRes.html) | Savanta ComRes | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
-| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | N/A | N/A | N/A | N/A |
-| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll | 12.5% | N/A | N/A | N/A | N/A |
+| [25 September 2022](2022-09-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | N/A | N/A | N/A | N/A |
+| [22–25 September 2022](2022-09-25-Deltapoll.html) | Deltapoll | 12.4% | N/A | N/A | N/A | N/A |
 | [21–23 September 2022](2022-09-23-Opinium.html) | Opinium | 10.1% | N/A | N/A | N/A | N/A |
 | [21–22 September 2022](2022-09-22-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
 | [21–22 September 2022](2022-09-22-TechneUK.html) | Techne UK | 11.1% | N/A | N/A | N/A | N/A |
 | [21 September 2022](2022-09-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | N/A | N/A | N/A | N/A |
 | [21 September 2022](2022-09-21-PeoplePolling.html) | PeoplePolling <br> GB News | 10.3% | N/A | N/A | N/A | N/A |
 | [16–20 September 2022](2022-09-20-Deltapoll.html) | Deltapoll | 10.4% | 9.6–11.4% | 9.4–11.6% | 9.2–11.9% | 8.8–12.3% |
-| [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | 9.5–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
-| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List | 10.2% | N/A | N/A | N/A | N/A |
+| [18 September 2022](2022-09-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.5–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
+| [15–16 September 2022](2022-09-16-SavantaComRes.html) | Savanta ComRes <br> Labour List | 10.3% | N/A | N/A | N/A | N/A |
 | [14–15 September 2022](2022-09-15-TechneUK.html) | Techne UK | 10.1% | 9.2–11.2% | 9.0–11.4% | 8.7–11.7% | 8.3–12.2% |
 | [7–15 September 2022](2022-09-15-IpsosMORI.html) | Ipsos MORI | 13.2% | 11.9–14.7% | 11.5–15.1% | 11.2–15.5% | 10.6–16.2% |
-| [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News | 10.6% | 9.5–11.8% | 9.2–12.1% | 8.9–12.4% | 8.4–13.0% |
-| [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times | 10.4% | 9.4–11.4% | 9.2–11.7% | 9.0–11.9% | 8.6–12.4% |
-| [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll | 9.5% | N/A | N/A | N/A | N/A |
+| [13 September 2022](2022-09-13-PeoplePolling.html) | PeoplePolling <br> GB News | 10.5% | 9.5–11.8% | 9.2–12.1% | 8.9–12.4% | 8.4–13.0% |
+| [11–12 September 2022](2022-09-12-YouGov.html) | YouGov <br> The Times | 10.3% | 9.4–11.4% | 9.2–11.7% | 9.0–11.9% | 8.6–12.4% |
+| [9–12 September 2022](2022-09-12-Deltapoll.html) | Deltapoll | 9.4% | N/A | N/A | N/A | N/A |
 | [11 September 2022](2022-09-11-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 10.1% | 9.3–10.9% | 9.1–11.2% | 8.9–11.4% | 8.5–11.8% |
 | [7–8 September 2022](2022-09-08-TechneUK.html) | Techne UK | 11.1% | N/A | N/A | N/A | N/A |
 | [6–7 September 2022](2022-09-07-YouGov.html) | YouGov <br> The Times | 10.2% | N/A | N/A | N/A | N/A |
 | [7 September 2022](2022-09-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 14.2% | N/A | N/A | N/A | N/A |
-| [7 September 2022](2022-09-07-PeoplePolling.html) | PeoplePolling <br> GB News | 9.5% | N/A | N/A | N/A | N/A |
+| [7 September 2022](2022-09-07-PeoplePolling.html) | PeoplePolling <br> GB News | 9.4% | N/A | N/A | N/A | N/A |
 | [4 September 2022](2022-09-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | N/A | N/A | N/A | N/A |
 | [1–2 September 2022](2022-09-02-TechneUK.html) | Techne UK | 12.1% | 11.1–13.2% | 10.8–13.5% | 10.6–13.8% | 10.2–14.3% |
 | [1–2 September 2022](2022-09-02-Opinium.html) | Opinium <br> The Observer | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.5–13.8% | 10.0–14.4% |
 | [2 September 2022](2022-09-02-Deltapoll.html) | Deltapoll | 10.4% | N/A | N/A | N/A | N/A |
-| [1 September 2022](2022-09-01-YouGov.html) | YouGov | 11.5% | N/A | N/A | N/A | N/A |
+| [1 September 2022](2022-09-01-YouGov.html) | YouGov | 11.3% | N/A | N/A | N/A | N/A |
 | [31 August 2022](2022-08-31-Survation.html) | Survation | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.7–13.9% |
 | [31 August 2022](2022-08-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | 11.4–13.3% | 11.1–13.6% | 10.9–13.8% | 10.5–14.3% |
 | [30 August 2022](2022-08-30-PeoplePolling.html) | PeoplePolling <br> GB News | 10.3% | 9.2–11.5% | 8.9–11.9% | 8.7–12.2% | 8.2–12.8% |
@@ -408,23 +419,23 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [19–22 August 2022](2022-08-22-Deltapoll.html) | Deltapoll | 11.3% | N/A | N/A | N/A | N/A |
 | [21 August 2022](2022-08-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.1% | N/A | N/A | N/A | N/A |
 | [18–19 August 2022](2022-08-19-Opinium.html) | Opinium <br> The Observer | 10.2% | 9.3–11.3% | 9.0–11.6% | 8.8–11.9% | 8.4–12.4% |
-| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research | 11.5% | 10.6–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
+| [16–18 August 2022](2022-08-18-BMGResearch.html) | BMG Research | 11.3% | 10.6–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
 | [16–17 August 2022](2022-08-17-YouGov.html) | YouGov <br> The Times | 11.3% | N/A | N/A | N/A | N/A |
 | [14 August 2022](2022-08-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.2% | N/A | N/A | N/A | N/A |
 | [10–12 August 2022](2022-08-12-TechneUK.html) | Techne UK | 12.1% | N/A | N/A | N/A | N/A |
-| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times | 12.6% | N/A | N/A | N/A | N/A |
+| [9–10 August 2022](2022-08-10-YouGov.html) | YouGov <br> The Times | 12.4% | N/A | N/A | N/A | N/A |
 | [8 August 2022](2022-08-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.2% | N/A | N/A | N/A | N/A |
 | [3–8 August 2022](2022-08-08-Opinium.html) | Opinium <br> The Observer | 12.0% | N/A | N/A | N/A | N/A |
 | [4–5 August 2022](2022-08-05-YouGov.html) | YouGov <br> The Times | 11.4% | N/A | N/A | N/A | N/A |
 | [3–4 August 2022](2022-08-04-TechneUK.html) | Techne UK | 13.2% | N/A | N/A | N/A | N/A |
 | [4 August 2022](2022-08-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | N/A | N/A | N/A | N/A |
 | [1 August 2022](2022-08-01-Kantar.html) | Kantar | 13.5% | N/A | N/A | N/A | N/A |
-| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | N/A | N/A | N/A | N/A |
-| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times | 13.6% | N/A | N/A | N/A | N/A |
+| [31 July 2022](2022-07-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | N/A | N/A | N/A | N/A |
+| [27–28 July 2022](2022-07-28-YouGov.html) | YouGov <br> The Times | 13.4% | N/A | N/A | N/A | N/A |
 | [27–28 July 2022](2022-07-28-TechneUK.html) | Techne UK | 12.1% | N/A | N/A | N/A | N/A |
 | [27 July 2022](2022-07-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | N/A | N/A | N/A | N/A |
 | [21–27 July 2022](2022-07-27-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.3% | 9.2–11.6% | 8.9–12.0% | 8.6–12.3% | 8.1–13.0% |
-| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent | 12.5% | 11.6–13.5% | 11.4–13.7% | 11.2–14.0% | 10.8–14.4% |
+| [22–24 July 2022](2022-07-24-SavantaComRes.html) | Savanta ComRes <br> The Independent | 12.4% | 11.6–13.5% | 11.4–13.7% | 11.2–14.0% | 10.8–14.4% |
 | [24 July 2022](2022-07-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | N/A | N/A | N/A | N/A |
 | [21–23 July 2022](2022-07-23-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 10.5% | N/A | N/A | N/A | N/A |
 | [21–22 July 2022](2022-07-22-YouGov.html) | YouGov <br> The Times | 12.2% | N/A | N/A | N/A | N/A |
@@ -452,9 +463,9 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [1 July 2022](2022-07-01-BMGResearch.html) | BMG Research <br> The Independent | 11.3% | 10.3–12.5% | 10.0–12.8% | 9.8–13.1% | 9.3–13.6% |
 | [29–30 June 2022](2022-06-30-TechneUK.html) | Techne UK | 13.1% | 12.1–14.3% | 11.8–14.6% | 11.6–14.9% | 11.1–15.4% |
 | [29–30 June 2022](2022-06-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | 12.3–14.7% | 12.0–15.0% | 11.8–15.3% | 11.3–15.9% |
-| [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 13.5% | 12.5–14.7% | 12.2–15.0% | 11.9–15.3% | 11.4–15.8% |
+| [28–29 June 2022](2022-06-29-YouGov.html) | YouGov <br> The Times | 13.4% | 12.5–14.7% | 12.2–15.0% | 11.9–15.3% | 11.4–15.8% |
 | [22–29 June 2022](2022-06-29-IpsosMORI.html) | Ipsos MORI | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.6–18.3% |
-| [27 June 2022](2022-06-27-Survation.html) | Survation | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.3% | 8.8–13.9% |
+| [27 June 2022](2022-06-27-Survation.html) | Survation | 11.1% | 10.0–12.5% | 9.6–12.9% | 9.4–13.3% | 8.8–13.9% |
 | [24–26 June 2022](2022-06-26-SavantaComRes.html) | Savanta ComRes <br> The Independent | 10.1% | 9.3–11.0% | 9.1–11.3% | 8.9–11.5% | 8.6–11.9% |
 | [26 June 2022](2022-06-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 15.2% | N/A | N/A | N/A | N/A |
 | [22–24 June 2022](2022-06-24-Opinium.html) | Opinium <br> The Observer | 11.1% | 10.3–12.1% | 10.0–12.4% | 9.8–12.6% | 9.4–13.1% |
@@ -462,44 +473,44 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [22–23 June 2022](2022-06-23-TechneUK.html) | Techne UK | 14.2% | N/A | N/A | N/A | N/A |
 | [22 June 2022](2022-06-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.3% | N/A | N/A | N/A | N/A |
 | [16–20 June 2022](2022-06-20-Kantar.html) | Kantar | 13.7% | 12.4–15.1% | 12.1–15.5% | 11.8–15.9% | 11.2–16.6% |
-| [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes | 10.4% | N/A | N/A | N/A | N/A |
+| [17–19 June 2022](2022-06-19-SavantaComRes.html) | Savanta ComRes | 10.3% | N/A | N/A | N/A | N/A |
 | [19 June 2022](2022-06-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | N/A | N/A | N/A | N/A |
-| [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times | 10.6% | N/A | N/A | N/A | N/A |
+| [15–16 June 2022](2022-06-16-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
 | [15–16 June 2022](2022-06-16-TechneUK.html) | Techne UK | 13.2% | N/A | N/A | N/A | N/A |
-| [15 June 2022](2022-06-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
+| [15 June 2022](2022-06-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | N/A | N/A | N/A | N/A |
 | [10–12 June 2022](2022-06-12-SavantaComRes.html) | Savanta ComRes | 10.2% | N/A | N/A | N/A | N/A |
 | [12 June 2022](2022-06-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 15.1% | N/A | N/A | N/A | N/A |
 | [10 June 2022](2022-06-10-TechneUK.html) | Techne UK | 12.2% | N/A | N/A | N/A | N/A |
-| [10 June 2022](2022-06-10-Survation.html) | Survation | 10.1% | N/A | N/A | N/A | N/A |
+| [10 June 2022](2022-06-10-Survation.html) | Survation | 10.0% | N/A | N/A | N/A | N/A |
 | [8–10 June 2022](2022-06-10-Opinium.html) | Opinium <br> The Observer | 13.2% | N/A | N/A | N/A | N/A |
 | [8–9 June 2022](2022-06-09-YouGov.html) | YouGov <br> The Times | 11.4% | N/A | N/A | N/A | N/A |
 | [8–9 June 2022](2022-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | N/A | N/A | N/A | N/A |
 | [5 June 2022](2022-06-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | N/A | N/A | N/A | N/A |
-| [1–3 June 2022](2022-06-03-YouGov.html) | YouGov <br> The Times | 12.6% | N/A | N/A | N/A | N/A |
+| [1–3 June 2022](2022-06-03-YouGov.html) | YouGov <br> The Times | 12.5% | N/A | N/A | N/A | N/A |
 | [1 June 2022](2022-06-01-TechneUK.html) | Techne UK | 12.2% | 11.2–13.3% | 10.9–13.6% | 10.7–13.9% | 10.2–14.4% |
-| [1 June 2022](2022-06-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.6% | 11.6–13.6% | 11.4–13.9% | 11.1–14.1% | 10.7–14.6% |
+| [1 June 2022](2022-06-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | 11.6–13.6% | 11.4–13.9% | 11.1–14.1% | 10.7–14.6% |
 | [30–31 May 2022](2022-05-31-Omnisis.html) | Omnisis <br> The Byline Times | 9.2% | N/A | N/A | N/A | N/A |
-| [27–29 May 2022](2022-05-29-SavantaComRes.html) | Savanta ComRes | 11.4% | 10.5–12.3% | 10.3–12.6% | 10.1–12.8% | 9.7–13.3% |
+| [27–29 May 2022](2022-05-29-SavantaComRes.html) | Savanta ComRes | 11.2% | 10.5–12.3% | 10.3–12.6% | 10.1–12.8% | 9.7–13.3% |
 | [29 May 2022](2022-05-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.1% | 9.2–11.0% | 9.0–11.3% | 8.8–11.5% | 8.4–11.9% |
 | [25–27 May 2022](2022-05-27-Opinium.html) | Opinium <br> The Observer | 11.1% | 10.1–12.2% | 9.8–12.5% | 9.6–12.8% | 9.1–13.4% |
 | [25–26 May 2022](2022-05-26-TechneUK.html) | Techne UK | 11.1% | 10.2–12.2% | 9.9–12.5% | 9.7–12.8% | 9.2–13.3% |
-| [25–26 May 2022](2022-05-26-Omnisis.html) | Omnisis <br> The Byline Times | 8.4% | N/A | N/A | N/A | N/A |
+| [25–26 May 2022](2022-05-26-Omnisis.html) | Omnisis <br> The Byline Times | 8.3% | N/A | N/A | N/A | N/A |
 | [24–25 May 2022](2022-05-25-YouGov.html) | YouGov <br> The Times | 12.5% | 11.5–13.6% | 11.2–13.9% | 11.0–14.2% | 10.5–14.7% |
-| [25 May 2022](2022-05-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 14.5% | N/A | N/A | N/A | N/A |
+| [25 May 2022](2022-05-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 14.4% | N/A | N/A | N/A | N/A |
 | [19–23 May 2022](2022-05-23-Kantar.html) | Kantar | 13.6% | 12.3–15.0% | 11.9–15.4% | 11.6–15.8% | 11.0–16.5% |
-| [22 May 2022](2022-05-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.5% | N/A | N/A | N/A | N/A |
+| [22 May 2022](2022-05-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
 | [18–19 May 2022](2022-05-19-YouGov.html) | YouGov <br> The Times | 12.5% | 11.5–13.6% | 11.2–13.9% | 10.9–14.2% | 10.5–14.7% |
 | [18–19 May 2022](2022-05-19-TechneUK.html) | Techne UK | 10.2% | 9.3–11.2% | 9.0–11.5% | 8.8–11.7% | 8.4–12.3% |
 | [18–19 May 2022](2022-05-19-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 10.2% | N/A | N/A | N/A | N/A |
 | [18 May 2022](2022-05-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.5% | 11.4–13.6% | 11.1–14.0% | 10.9–14.3% | 10.4–14.8% |
-| [11–17 May 2022](2022-05-17-IpsosMORI.html) | Ipsos MORI | 12.5% | 11.2–13.9% | 10.8–14.3% | 10.5–14.7% | 10.0–15.4% |
+| [11–17 May 2022](2022-05-17-IpsosMORI.html) | Ipsos MORI | 12.4% | 11.2–13.9% | 10.8–14.3% | 10.5–14.7% | 10.0–15.4% |
 | [13–15 May 2022](2022-05-15-SavantaComRes.html) | Savanta ComRes | 10.2% | 9.4–11.1% | 9.2–11.4% | 9.0–11.6% | 8.6–12.0% |
 | [15 May 2022](2022-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.9% | N/A | N/A | N/A | N/A |
 | [11–13 May 2022](2022-05-13-Opinium.html) | Opinium <br> The Observer | 12.1% | 11.1–13.3% | 10.8–13.6% | 10.5–13.9% | 10.0–14.4% |
 | [11–12 May 2022](2022-05-12-TechneUK.html) | Techne UK | 11.2% | N/A | N/A | N/A | N/A |
-| [10–11 May 2022](2022-05-11-YouGov.html) | YouGov <br> The Times | 12.5% | N/A | N/A | N/A | N/A |
-| [6–8 May 2022](2022-05-08-SavantaComRes.html) | Savanta ComRes | 11.4% | N/A | N/A | N/A | N/A |
-| [8 May 2022](2022-05-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
+| [10–11 May 2022](2022-05-11-YouGov.html) | YouGov <br> The Times | 12.4% | N/A | N/A | N/A | N/A |
+| [6–8 May 2022](2022-05-08-SavantaComRes.html) | Savanta ComRes | 11.3% | N/A | N/A | N/A | N/A |
+| [8 May 2022](2022-05-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | N/A | N/A | N/A | N/A |
 | [5–6 May 2022](2022-05-06-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
 | [4–5 May 2022](2022-05-05-TechneUK.html) | Techne UK | 10.1% | N/A | N/A | N/A | N/A |
 | [29 April–1 May 2022](2022-05-01-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
@@ -507,7 +518,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [27–28 April 2022](2022-04-28-TechneUK.html) | Techne UK | 9.1% | 8.2–10.1% | 8.0–10.4% | 7.8–10.6% | 7.4–11.1% |
 | [20–28 April 2022](2022-04-28-IpsosMORI.html) | Ipsos MORI | 10.3% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
 | [26–27 April 2022](2022-04-27-YouGov.html) | YouGov <br> The Times | 11.4% | 10.5–12.5% | 10.2–12.8% | 10.0–13.0% | 9.6–13.5% |
-| [22–26 April 2022](2022-04-26-Survation.html) | Survation | 9.3% | 8.6–10.1% | 8.4–10.3% | 8.2–10.5% | 7.9–10.9% |
+| [22–26 April 2022](2022-04-26-Survation.html) | Survation | 9.2% | 8.6–10.1% | 8.4–10.3% | 8.2–10.5% | 7.9–10.9% |
 | [14–26 April 2022](2022-04-26-Opinium.html) | Opinium | 11.2% | 10.6–11.9% | 10.4–12.1% | 10.2–12.2% | 9.9–12.5% |
 | [22–24 April 2022](2022-04-24-SavantaComRes.html) | Savanta ComRes | 11.2% | 10.4–12.2% | 10.2–12.4% | 10.0–12.7% | 9.6–13.1% |
 | [24 April 2022](2022-04-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | 10.4–12.3% | 10.2–12.6% | 10.0–12.8% | 9.6–13.3% |
@@ -519,10 +530,10 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [13–14 April 2022](2022-04-14-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 9.3% | 8.4–10.3% | 8.1–10.6% | 7.9–10.9% | 7.5–11.4% |
 | [12–13 April 2022](2022-04-13-TechneUK.html) | Techne UK | 9.1% | 8.3–10.1% | 8.0–10.4% | 7.8–10.6% | 7.4–11.1% |
 | [7–11 April 2022](2022-04-11-Kantar.html) | Kantar | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.1–14.1% |
-| [8–10 April 2022](2022-04-10-SavantaComRes.html) | Savanta ComRes | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.8–11.1% |
+| [8–10 April 2022](2022-04-10-SavantaComRes.html) | Savanta ComRes | 9.2% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.8–11.1% |
 | [10 April 2022](2022-04-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.3% | N/A | N/A | N/A | N/A |
 | [6–8 April 2022](2022-04-08-Opinium.html) | Opinium <br> The Observer | 9.9% | 9.1–10.9% | 8.9–11.1% | 8.7–11.3% | 8.3–11.8% |
-| [6–8 April 2022](2022-04-08-Omnisis.html) | Omnisis <br> The Byline Times | 6.3% | N/A | N/A | N/A | N/A |
+| [6–8 April 2022](2022-04-08-Omnisis.html) | Omnisis <br> The Byline Times | 6.2% | N/A | N/A | N/A | N/A |
 | [6–7 April 2022](2022-04-07-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
 | [6–7 April 2022](2022-04-07-TechneUK.html) | Techne UK | 10.1% | N/A | N/A | N/A | N/A |
 | [1–3 April 2022](2022-04-03-SavantaComRes.html) | Savanta ComRes | 11.0% | 10.2–11.9% | 10.0–12.2% | 9.8–12.4% | 9.4–12.8% |
@@ -537,18 +548,18 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [23–24 March 2022](2022-03-24-YouGov.html) | YouGov | 10.4% | 9.5–11.4% | 9.2–11.7% | 9.0–11.9% | 8.6–12.5% |
 | [23–24 March 2022](2022-03-24-TechneUK.html) | Techne UK | 10.1% | N/A | N/A | N/A | N/A |
 | [22–23 March 2022](2022-03-23-YouGov.html) | YouGov | 9.3% | N/A | N/A | N/A | N/A |
-| [17–21 March 2022](2022-03-21-Kantar.html) | Kantar | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
+| [17–21 March 2022](2022-03-21-Kantar.html) | Kantar | 12.5% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
 | [20 March 2022](2022-03-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.2% | 10.4–12.2% | 10.1–12.5% | 9.9–12.7% | 9.5–13.2% |
 | [16–17 March 2022](2022-03-17-YouGov.html) | YouGov <br> The Times | 10.3% | N/A | N/A | N/A | N/A |
 | [16–17 March 2022](2022-03-17-TechneUK.html) | Techne UK | 10.2% | N/A | N/A | N/A | N/A |
 | [9–16 March 2022](2022-03-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.8% |
-| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 9.2% | 8.5–10.1% | 8.3–10.3% | 8.1–10.5% | 7.7–11.0% |
+| [11–13 March 2022](2022-03-13-SavantaComRes.html) | Savanta ComRes | 9.0% | 8.5–10.1% | 8.3–10.3% | 8.1–10.5% | 7.7–11.0% |
 | [13 March 2022](2022-03-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
 | [9–11 March 2022](2022-03-11-Opinium.html) | Opinium <br> The Observer | 9.2% | 8.4–10.0% | 8.1–10.3% | 8.0–10.5% | 7.6–11.0% |
-| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 10.4% | 9.6–11.4% | 9.3–11.6% | 9.1–11.9% | 8.7–12.3% |
+| [8–11 March 2022](2022-03-11-Deltapoll.html) | Deltapoll | 10.3% | 9.6–11.4% | 9.3–11.6% | 9.1–11.9% | 8.7–12.3% |
 | [9–10 March 2022](2022-03-10-TechneUK.html) | Techne UK | 9.1% | N/A | N/A | N/A | N/A |
 | [8–9 March 2022](2022-03-09-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
-| [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
+| [7 March 2022](2022-03-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
 | [4–6 March 2022](2022-03-06-SavantaComRes.html) | Savanta ComRes | 9.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2022](2022-03-04-YouGov.html) | YouGov <br> The Times | 7.3% | N/A | N/A | N/A | N/A |
 | [2–3 March 2022](2022-03-03-TechneUK.html) | Techne UK | 10.1% | 9.2–11.2% | 9.0–11.4% | 8.7–11.7% | 8.3–12.2% |
@@ -556,14 +567,14 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [21–28 February 2022](2022-02-28-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 8.1% | 7.3–8.9% | 7.1–9.2% | 7.0–9.4% | 6.6–9.8% |
 | [25–27 February 2022](2022-02-27-SavantaComRes.html) | Savanta ComRes | 9.2% | 8.5–10.1% | 8.2–10.3% | 8.1–10.5% | 7.7–10.9% |
 | [24–25 February 2022](2022-02-25-YouGov.html) | YouGov <br> The Times | 9.2% | 8.4–10.2% | 8.1–10.5% | 7.9–10.7% | 7.5–11.2% |
-| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 11.3% | 10.4–12.2% | 10.2–12.5% | 10.0–12.7% | 9.6–13.2% |
+| [23–25 February 2022](2022-02-25-Opinium.html) | Opinium <br> The Observer | 11.1% | 10.4–12.2% | 10.2–12.5% | 10.0–12.7% | 9.6–13.2% |
 | [23–24 February 2022](2022-02-24-TechneUK.html) | Techne UK | 9.1% | 8.2–10.1% | 8.0–10.4% | 7.8–10.6% | 7.4–11.1% |
 | [22–23 February 2022](2022-02-23-Omnisis.html) | Omnisis <br> The Byline Times | 8.3% | N/A | N/A | N/A | N/A |
 | [17–21 February 2022](2022-02-21-Survation.html) | Survation | 9.2% | 8.4–10.0% | 8.2–10.3% | 8.0–10.5% | 7.6–10.9% |
 | [21 February 2022](2022-02-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | 10.4–12.3% | 10.2–12.6% | 10.0–12.8% | 9.6–13.3% |
 | [17–21 February 2022](2022-02-21-Kantar.html) | Kantar | 12.3% | 11.1–13.7% | 10.8–14.1% | 10.5–14.5% | 9.9–15.2% |
 | [18–20 February 2022](2022-02-20-SavantaComRes.html) | Savanta ComRes <br> The Independent | 11.1% | 10.3–12.0% | 10.1–12.3% | 9.9–12.5% | 9.5–13.0% |
-| [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 10.5% | 9.6–11.5% | 9.3–11.8% | 9.1–12.1% | 8.7–12.6% |
+| [16–17 February 2022](2022-02-17-YouGov.html) | YouGov <br> The Times | 10.4% | 9.6–11.5% | 9.3–11.8% | 9.1–12.1% | 8.7–12.6% |
 | [16–17 February 2022](2022-02-17-TechneUK.html) | Techne UK | 10.0% | 9.1–11.1% | 8.9–11.4% | 8.6–11.6% | 8.2–12.2% |
 | [14 February 2022](2022-02-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | 10.6–12.5% | 10.3–12.7% | 10.1–13.0% | 9.7–13.5% |
 | [11–13 February 2022](2022-02-13-SavantaComRes.html) | Savanta ComRes | 11.1% | 9.9–12.5% | 9.6–12.8% | 9.3–13.2% | 8.8–13.9% |
@@ -575,20 +586,20 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [3–4 February 2022](2022-02-04-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 10.4% | 9.5–11.5% | 9.2–11.8% | 9.0–12.1% | 8.6–12.6% |
 | [1–2 February 2022](2022-02-02-YouGov.html) | YouGov <br> The Times | 10.2% | N/A | N/A | N/A | N/A |
 | [1–2 February 2022](2022-02-02-TechneUK.html) | Techne UK | 9.8% | N/A | N/A | N/A | N/A |
-| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.4% | 10.6–12.4% | 10.3–12.7% | 10.1–12.9% | 9.7–13.4% |
+| [31 January 2022](2022-01-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | 10.6–12.4% | 10.3–12.7% | 10.1–12.9% | 9.7–13.4% |
 | [28–30 January 2022](2022-01-30-SavantaComRes.html) | Savanta ComRes | 9.0% | 8.2–9.8% | 8.0–10.0% | 7.8–10.2% | 7.5–10.6% |
 | [28 January 2022](2022-01-28-TechneUK.html) | Techne UK | 12.3% | 11.3–13.4% | 11.0–13.7% | 10.8–14.0% | 10.3–14.6% |
-| [27–28 January 2022](2022-01-28-Opinium.html) | Opinium <br> The Observer | 9.2% | 8.3–10.2% | 8.1–10.5% | 7.9–10.7% | 7.5–11.2% |
+| [27–28 January 2022](2022-01-28-Opinium.html) | Opinium <br> The Observer | 9.1% | 8.3–10.2% | 8.1–10.5% | 7.9–10.7% | 7.5–11.2% |
 | [26–27 January 2022](2022-01-27-YouGov.html) | YouGov <br> The Times | 11.4% | 10.4–12.4% | 10.1–12.7% | 9.9–13.0% | 9.4–13.5% |
-| [26–27 January 2022](2022-01-27-Omnisis.html) | Omnisis <br> The Byline Times | 7.3% | N/A | N/A | N/A | N/A |
-| [25–27 January 2022](2022-01-27-Deltapoll.html) | Deltapoll <br> Daily Mirror | 10.4% | 9.4–11.5% | 9.2–11.8% | 8.9–12.1% | 8.5–12.6% |
+| [26–27 January 2022](2022-01-27-Omnisis.html) | Omnisis <br> The Byline Times | 7.2% | N/A | N/A | N/A | N/A |
+| [25–27 January 2022](2022-01-27-Deltapoll.html) | Deltapoll <br> Daily Mirror | 10.3% | 9.4–11.5% | 9.2–11.8% | 8.9–12.1% | 8.5–12.6% |
 | [25 January 2022](2022-01-25-Survation.html) | Survation <br> Daily Mail | 10.2% | 9.1–11.5% | 8.8–11.8% | 8.5–12.1% | 8.0–12.8% |
 | [19–25 January 2022](2022-01-25-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.4% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
 | [24 January 2022](2022-01-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.3% | N/A | N/A | N/A | N/A |
 | [20–24 January 2022](2022-01-24-Kantar.html) | Kantar | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.0–14.1% |
 | [21–23 January 2022](2022-01-23-SavantaComRes.html) | Savanta ComRes | 11.3% | N/A | N/A | N/A | N/A |
 | [11–23 January 2022](2022-01-23-JLPartners.html) | JL Partners <br> Sunday Times | 10.3% | N/A | N/A | N/A | N/A |
-| [20–21 January 2022](2022-01-21-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
+| [20–21 January 2022](2022-01-21-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
 | [20 January 2022](2022-01-20-Omnisis.html) | Omnisis <br> The Byline Times | 8.3% | N/A | N/A | N/A | N/A |
 | [14–17 January 2022](2022-01-17-Survation.html) | Survation <br> 38 Degrees | 10.3% | 9.5–11.2% | 9.2–11.5% | 9.0–11.7% | 8.6–12.2% |
 | [17 January 2022](2022-01-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | 8.6–10.3% | 8.3–10.5% | 8.1–10.7% | 7.8–11.2% |
@@ -597,38 +608,38 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [13–14 January 2022](2022-01-14-YouGov.html) | YouGov <br> The Times | 11.5% | 10.5–12.5% | 10.2–12.8% | 10.0–13.1% | 9.5–13.7% |
 | [13–14 January 2022](2022-01-14-SavantaComRes.html) | Savanta ComRes | 11.1% | N/A | N/A | N/A | N/A |
 | [12–14 January 2022](2022-01-14-Opinium.html) | Opinium <br> The Observer | 9.1% | 8.1–10.2% | 7.8–10.5% | 7.6–10.8% | 7.2–11.4% |
-| [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times | 11.8% | N/A | N/A | N/A | N/A |
-| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 11.4% | 10.2–12.8% | 9.8–13.2% | 9.5–13.5% | 9.0–14.2% |
+| [12–13 January 2022](2022-01-13-YouGov.html) | YouGov <br> The Times | 11.5% | N/A | N/A | N/A | N/A |
+| [12–13 January 2022](2022-01-13-Focaldata.html) | Focaldata | 11.3% | 10.2–12.8% | 9.8–13.2% | 9.5–13.5% | 9.0–14.2% |
 | [13 January 2022](2022-01-13-FindOutNow.html) | Find Out Now | 11.5% | 10.7–12.5% | 10.4–12.8% | 10.2–13.0% | 9.8–13.5% |
-| [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times | 13.8% | N/A | N/A | N/A | N/A |
+| [11–12 January 2022](2022-01-12-YouGov.html) | YouGov <br> The Times | 13.5% | N/A | N/A | N/A | N/A |
 | [10 January 2022](2022-01-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.4% | N/A | N/A | N/A | N/A |
 | [7–9 January 2022](2022-01-09-SavantaComRes.html) | Savanta ComRes | 11.1% | N/A | N/A | N/A | N/A |
 | [6–7 January 2022](2022-01-07-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
 | [5–7 January 2022](2022-01-07-Opinium.html) | Opinium <br> The Observer | 11.1% | N/A | N/A | N/A | N/A |
-| [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
-| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10.5% | 9.5–11.5% | 9.2–11.8% | 9.0–12.1% | 8.6–12.7% |
+| [3 January 2022](2022-01-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
+| [23–30 December 2021](2021-12-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10.4% | 9.5–11.5% | 9.2–11.8% | 9.0–12.1% | 8.6–12.7% |
 | [21–23 December 2021](2021-12-23-Opinium.html) | Opinium <br> The Observer | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
-| [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
+| [20–21 December 2021](2021-12-21-Focaldata.html) | Focaldata | 9.1% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [19–20 December 2021](2021-12-20-YouGov.html) | YouGov <br> The Times | 12.5% | 11.5–13.5% | 11.2–13.9% | 11.0–14.1% | 10.5–14.7% |
 | [20 December 2021](2021-12-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 13.4% | 12.4–14.4% | 12.2–14.8% | 11.9–15.0% | 11.5–15.5% |
 | [17–19 December 2021](2021-12-19-SavantaComRes.html) | Savanta ComRes | 13.1% | 12.2–14.1% | 11.9–14.4% | 11.7–14.6% | 11.3–15.1% |
 | [16 December 2021](2021-12-16-SavantaComRes.html) | Savanta ComRes <br> The Daily Express | 10.3% | N/A | N/A | N/A | N/A |
 | [14–15 December 2021](2021-12-15-YouGov.html) | YouGov <br> The Times | 10.4% | 9.5–11.5% | 9.3–11.8% | 9.0–12.0% | 8.6–12.5% |
 | [14–15 December 2021](2021-12-15-FindOutNow.html) | Find Out Now <br> The Telegraph | 10.7% | 9.5–12.1% | 9.2–12.5% | 8.9–12.8% | 8.3–13.5% |
-| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 8.5% | 7.7–9.4% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
-| [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society | 8.5% | N/A | N/A | N/A | N/A |
-| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.8% | 10.8–12.8% | 10.6–13.0% | 10.4–13.3% | 10.0–13.8% |
+| [13–14 December 2021](2021-12-14-Survation.html) | Survation <br> 38 Degrees | 8.2% | 7.7–9.4% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
+| [8–13 December 2021](2021-12-13-YouGov.html) | YouGov <br> Fabian Society | 8.4% | N/A | N/A | N/A | N/A |
+| [13 December 2021](2021-12-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.6% | 10.8–12.8% | 10.6–13.0% | 10.4–13.3% | 10.0–13.8% |
 | [9–13 December 2021](2021-12-13-Kantar.html) | Kantar | 11.5% | 10.3–12.8% | 9.9–13.2% | 9.6–13.6% | 9.1–14.3% |
 | [10–11 December 2021](2021-12-11-Survation.html) | Survation <br> GMB | 9.4% | 8.4–10.6% | 8.1–11.0% | 7.9–11.3% | 7.4–11.8% |
 | [9–10 December 2021](2021-12-10-YouGov.html) | YouGov <br> The Times | 8.4% | 7.6–9.3% | 7.3–9.6% | 7.1–9.8% | 6.8–10.3% |
-| [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.7–10.9% |
+| [9–10 December 2021](2021-12-10-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 9.1% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.7–10.9% |
 | [8–10 December 2021](2021-12-10-Opinium.html) | Opinium <br> The Observer | 9.1% | 8.3–9.9% | 8.1–10.2% | 7.9–10.4% | 7.5–10.8% |
 | [3–10 December 2021](2021-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.7–13.9% |
 | [8–9 December 2021](2021-12-09-YouGov.html) | YouGov <br> The Times | 9.5% | N/A | N/A | N/A | N/A |
 | [8–9 December 2021](2021-12-09-Survation.html) | Survation <br> The Mirror | 10.3% | 9.2–11.5% | 8.9–11.9% | 8.7–12.2% | 8.2–12.8% |
-| [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
-| [8 December 2021](2021-12-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.6% | 10.5–12.7% | 10.2–13.0% | 10.0–13.3% | 9.5–13.9% |
-| [6 December 2021](2021-12-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
+| [9 December 2021](2021-12-09-Focaldata.html) | Focaldata <br> Times Radio | 7.5% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [8 December 2021](2021-12-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.5% | 10.5–12.7% | 10.2–13.0% | 10.0–13.3% | 9.5–13.9% |
+| [6 December 2021](2021-12-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
 | [3–5 December 2021](2021-12-05-SavantaComRes.html) | Savanta ComRes | 9.1% | N/A | N/A | N/A | N/A |
 | [2–4 December 2021](2021-12-04-Deltapoll.html) | Deltapoll | 10.4% | 9.4–11.5% | 9.2–11.8% | 8.9–12.1% | 8.5–12.6% |
 | [1–2 December 2021](2021-12-02-YouGov.html) | YouGov <br> The Times | 9.5% | 8.6–10.5% | 8.4–10.8% | 8.2–11.0% | 7.7–11.5% |
@@ -639,15 +650,15 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [24–25 November 2021](2021-11-25-YouGov.html) | YouGov <br> The Times | 7.4% | 6.6–8.3% | 6.4–8.5% | 6.2–8.7% | 5.8–9.2% |
 | [18–22 November 2021](2021-11-22-Kantar.html) | Kantar | 10.4% | 9.3–11.7% | 9.0–12.1% | 8.7–12.4% | 8.2–13.0% |
 | [19–21 November 2021](2021-11-21-SavantaComRes.html) | Savanta ComRes | 10.2% | 9.4–11.1% | 9.1–11.3% | 8.9–11.5% | 8.6–12.0% |
-| [21 November 2021](2021-11-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.8% | 7.8–11.2% |
+| [21 November 2021](2021-11-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | 8.6–10.3% | 8.4–10.5% | 8.2–10.8% | 7.8–11.2% |
 | [10–19 November 2021](2021-11-19-Panelbase.html) | Panelbase | 9.1% | 8.5–9.7% | 8.4–9.9% | 8.2–10.1% | 8.0–10.4% |
 | [17–18 November 2021](2021-11-18-YouGov.html) | YouGov <br> The Times | 7.4% | N/A | N/A | N/A | N/A |
 | [11–15 November 2021](2021-11-15-Survation.html) | Survation <br> 38 Degrees | 10.2% | 9.5–11.0% | 9.3–11.2% | 9.2–11.3% | 8.9–11.7% |
-| [15 November 2021](2021-11-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
+| [15 November 2021](2021-11-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [11–12 November 2021](2021-11-12-SavantaComRes.html) | Savanta ComRes <br> Daily Mail | 10.1% | N/A | N/A | N/A | N/A |
 | [10–12 November 2021](2021-11-12-Opinium.html) | Opinium <br> The Observer | 9.2% | 8.2–10.3% | 7.9–10.7% | 7.6–11.0% | 7.2–11.6% |
 | [10–11 November 2021](2021-11-11-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
-| [10 November 2021](2021-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.5% | N/A | N/A | N/A | N/A |
+| [10 November 2021](2021-11-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [8 November 2021](2021-11-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
 | [5–7 November 2021](2021-11-07-SavantaComRes.html) | Savanta ComRes | 10.2% | N/A | N/A | N/A | N/A |
 | [5–6 November 2021](2021-11-06-Opinium.html) | Opinium <br> The Observer | 9.1% | N/A | N/A | N/A | N/A |
@@ -662,8 +673,8 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [22–24 October 2021](2021-10-24-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
 | [20–21 October 2021](2021-10-21-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
 | [18 October 2021](2021-10-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
-| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 6.3% | 5.4–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
-| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 8.4% | N/A | N/A | N/A | N/A |
+| [11–18 October 2021](2021-10-18-NumberCruncherPolitics.html) | Number Cruncher Politics | 6.2% | 5.4–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
+| [14–18 October 2021](2021-10-18-Kantar.html) | Kantar | 8.3% | N/A | N/A | N/A | N/A |
 | [15–17 October 2021](2021-10-17-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9.4% | N/A | N/A | N/A | N/A |
@@ -672,11 +683,11 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [8–10 October 2021](2021-10-10-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
 | [6–7 October 2021](2021-10-07-Survation.html) | Survation <br> Sunday Mirror | 9.3% | N/A | N/A | N/A | N/A |
 | [5–6 October 2021](2021-10-06-YouGov.html) | YouGov <br> The Times | 9.3% | N/A | N/A | N/A | N/A |
-| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [4 October 2021](2021-10-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [1–3 October 2021](2021-10-03-SavantaComRes.html) | Savanta ComRes | 9.0% | N/A | N/A | N/A | N/A |
 | [1 October 2021](2021-10-01-Opinium.html) | Opinium <br> The Observer | 8.1% | N/A | N/A | N/A | N/A |
 | [28–29 September 2021](2021-09-29-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
-| [29 September 2021](2021-09-29-Survation.html) | Survation | 8.2% | N/A | N/A | N/A | N/A |
+| [29 September 2021](2021-09-29-Survation.html) | Survation | 8.1% | N/A | N/A | N/A | N/A |
 | [27 September 2021](2021-09-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [23–27 September 2021](2021-09-27-Kantar.html) | Kantar | 11.5% | N/A | N/A | N/A | N/A |
 | [22–23 September 2021](2021-09-23-YouGov.html) | YouGov <br> The Times | 10.4% | N/A | N/A | N/A | N/A |
@@ -685,9 +696,9 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [20 September 2021](2021-09-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.3% | N/A | N/A | N/A | N/A |
 | [17–19 September 2021](2021-09-19-SavantaComRes.html) | Savanta ComRes | 9.1% | N/A | N/A | N/A | N/A |
 | [16–17 September 2021](2021-09-17-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
-| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 7.3% | N/A | N/A | N/A | N/A |
+| [15–16 September 2021](2021-09-16-YouGov.html) | YouGov <br> The Times | 7.2% | N/A | N/A | N/A | N/A |
 | [9–16 September 2021](2021-09-16-Panelbase.html) | Panelbase | 10.0% | N/A | N/A | N/A | N/A |
-| [10–14 September 2021](2021-09-14-Survation.html) | Survation | 9.2% | N/A | N/A | N/A | N/A |
+| [10–14 September 2021](2021-09-14-Survation.html) | Survation | 9.1% | N/A | N/A | N/A | N/A |
 | [13 September 2021](2021-09-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
 | [10–12 September 2021](2021-09-12-SavantaComRes.html) | Savanta ComRes | 8.9% | N/A | N/A | N/A | N/A |
 | [9–11 September 2021](2021-09-11-Opinium.html) | Opinium <br> The Observer | 8.1% | N/A | N/A | N/A | N/A |
@@ -697,41 +708,41 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [2–3 September 2021](2021-09-03-YouGov.html) | YouGov <br> The Times | 8.2% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
 | [2–3 September 2021](2021-09-03-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 9.6% | N/A | N/A | N/A | N/A |
-| [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 10.3% | N/A | N/A | N/A | N/A |
-| [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.4% | N/A | N/A | N/A | N/A |
+| [27–29 August 2021](2021-08-29-SavantaComRes.html) | Savanta ComRes | 10.2% | N/A | N/A | N/A | N/A |
+| [29 August 2021](2021-08-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
 | [25–26 August 2021](2021-08-26-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
-| [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | N/A | N/A | N/A | N/A |
+| [23 August 2021](2021-08-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | N/A | N/A | N/A | N/A |
 | [19–23 August 2021](2021-08-23-Kantar.html) | Kantar | 14.6% | N/A | N/A | N/A | N/A |
-| [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
+| [20–22 August 2021](2021-08-22-SavantaComRes.html) | Savanta ComRes | 9.1% | N/A | N/A | N/A | N/A |
 | [19–20 August 2021](2021-08-20-Opinium.html) | Opinium <br> The Observer | 8.1% | N/A | N/A | N/A | N/A |
 | [17–18 August 2021](2021-08-18-YouGov.html) | YouGov <br> The Times | 9.2% | N/A | N/A | N/A | N/A |
 | [16 August 2021](2021-08-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
-| [13–15 August 2021](2021-08-15-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
-| [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 9.3% | 8.6–10.2% | 8.3–10.4% | 8.2–10.7% | 7.8–11.1% |
+| [13–15 August 2021](2021-08-15-SavantaComRes.html) | Savanta ComRes | 9.1% | N/A | N/A | N/A | N/A |
+| [11–12 August 2021](2021-08-12-YouGov.html) | YouGov <br> The Times | 9.2% | 8.6–10.2% | 8.3–10.4% | 8.2–10.7% | 7.8–11.1% |
 | [9 August 2021](2021-08-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.6–11.0% |
 | [9 August 2021](2021-08-09-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.1% | 11.9–14.5% | 11.6–14.9% | 11.2–15.3% | 10.7–16.0% |
-| [6–8 August 2021](2021-08-08-SavantaComRes.html) | Savanta ComRes | 10.3% | N/A | N/A | N/A | N/A |
+| [6–8 August 2021](2021-08-08-SavantaComRes.html) | Savanta ComRes | 10.2% | N/A | N/A | N/A | N/A |
 | [5–6 August 2021](2021-08-06-YouGov.html) | YouGov <br> The Times | 8.2% | N/A | N/A | N/A | N/A |
 | [5–6 August 2021](2021-08-06-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.3% | 5.7–8.7% |
 | [2 August 2021](2021-08-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.2% | 10.3–12.1% | 10.1–12.4% | 9.8–12.7% | 9.4–13.1% |
-| [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes | 10.3% | N/A | N/A | N/A | N/A |
+| [1 August 2021](2021-08-01-SavantaComRes.html) | Savanta ComRes | 10.2% | N/A | N/A | N/A | N/A |
 | [28–29 July 2021](2021-07-29-YouGov.html) | YouGov <br> The Times | 8.3% | 7.5–9.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.3% |
 | [23–26 July 2021](2021-07-26-Deltapoll.html) | Deltapoll | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.6% | 4.8–8.0% |
-| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 10.2% | 9.4–11.1% | 9.2–11.3% | 9.0–11.5% | 8.6–12.0% |
+| [23–25 July 2021](2021-07-25-SavantaComRes.html) | Savanta ComRes | 10.1% | 9.4–11.1% | 9.2–11.3% | 9.0–11.5% | 8.6–12.0% |
 | [25 July 2021](2021-07-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.2% | 8.4–10.1% | 8.2–10.4% | 8.0–10.6% | 7.6–11.1% |
 | [23 July 2021](2021-07-23-Survation.html) | Survation | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
 | [22–23 July 2021](2021-07-23-Opinium.html) | Opinium <br> The Observer | 8.1% | 7.3–8.9% | 7.1–9.2% | 7.0–9.4% | 6.6–9.8% |
 | [20–21 July 2021](2021-07-21-YouGov.html) | YouGov <br> The Times | 9.3% | 8.4–10.3% | 8.2–10.6% | 8.0–10.8% | 7.6–11.3% |
 | [19–20 July 2021](2021-07-20-Survation.html) | Survation | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.3% | 8.8–13.9% |
-| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.4% | 9.5–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
-| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 8.3% | N/A | N/A | N/A | N/A |
+| [19 July 2021](2021-07-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.5–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
+| [16–18 July 2021](2021-07-18-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
 | [15–16 July 2021](2021-07-16-YouGov.html) | YouGov <br> The Times | 8.3% | 7.5–9.2% | 7.3–9.5% | 7.1–9.7% | 6.7–10.2% |
 | [5–13 July 2021](2021-07-13-Survation.html) | Survation | 9.0% | 8.3–9.9% | 8.1–10.1% | 7.9–10.3% | 7.5–10.8% |
 | [12 July 2021](2021-07-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12.3% | 11.4–13.3% | 11.1–13.6% | 10.9–13.9% | 10.5–14.4% |
 | [7–12 July 2021](2021-07-12-Kantar.html) | Kantar | 12.2% | 11.0–13.6% | 10.6–14.0% | 10.3–14.3% | 9.8–15.0% |
 | [9–11 July 2021](2021-07-11-SavantaComRes.html) | Savanta ComRes | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [8–9 July 2021](2021-07-09-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.4–6.8% | 5.3–7.0% | 5.1–7.2% | 4.8–7.6% |
-| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 9.4% | 8.6–10.2% | 8.3–10.5% | 8.1–10.7% | 7.8–11.2% |
+| [7–8 July 2021](2021-07-08-YouGov.html) | YouGov <br> The Times | 9.2% | 8.6–10.2% | 8.3–10.5% | 8.1–10.7% | 7.8–11.2% |
 | [2–8 July 2021](2021-07-08-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.3% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
 | [5 July 2021](2021-07-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.4–9.1% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
 | [2–4 July 2021](2021-07-04-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.5–9.0% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
@@ -743,33 +754,33 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [23–25 June 2021](2021-06-25-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.0–8.3% | 5.7–8.7% |
 | [23–24 June 2021](2021-06-24-YouGov.html) | YouGov <br> The Times | 9.3% | 8.5–10.3% | 8.2–10.6% | 8.0–10.8% | 7.7–11.3% |
 | [21 June 2021](2021-06-21-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
-| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes | 10.3% | 9.4–11.1% | 9.2–11.4% | 9.0–11.6% | 8.7–12.1% |
+| [18–20 June 2021](2021-06-20-SavantaComRes.html) | Savanta ComRes | 10.2% | 9.4–11.1% | 9.2–11.4% | 9.0–11.6% | 8.7–12.1% |
 | [17–20 June 2021](2021-06-20-Deltapoll.html) | Deltapoll | 10.5% | 9.7–11.4% | 9.5–11.6% | 9.3–11.9% | 8.9–12.3% |
 | [16–17 June 2021](2021-06-17-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
-| [11–15 June 2021](2021-06-15-Survation.html) | Survation | 8.2% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
+| [11–15 June 2021](2021-06-15-Survation.html) | Survation | 8.1% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
 | [7–14 June 2021](2021-06-14-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.1% | 4.4–5.9% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [11–13 June 2021](2021-06-13-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
-| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.3% | N/A | N/A | N/A | N/A |
+| [13 June 2021](2021-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.2% | N/A | N/A | N/A | N/A |
 | [10–12 June 2021](2021-06-12-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 7.3% | N/A | N/A | N/A | N/A |
 | [10–11 June 2021](2021-06-11-Opinium.html) | Opinium <br> The Observer | 6.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2021](2021-06-10-YouGov.html) | YouGov <br> The Times | 7.1% | N/A | N/A | N/A | N/A |
 | [9–10 June 2021](2021-06-10-Survation.html) | Survation | 9.1% | N/A | N/A | N/A | N/A |
-| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | N/A | N/A | N/A | N/A |
+| [7 June 2021](2021-06-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | N/A | N/A | N/A | N/A |
 | [3–7 June 2021](2021-06-07-Kantar.html) | Kantar | 8.2% | 7.2–9.4% | 7.0–9.7% | 6.7–10.0% | 6.3–10.6% |
 | [4–6 June 2021](2021-06-06-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
 | [2–3 June 2021](2021-06-03-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
-| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.5% |
-| [1–2 June 2021](2021-06-02-Survation.html) | Survation | 9.2% | N/A | N/A | N/A | N/A |
+| [3 June 2021](2021-06-03-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.1% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.5% |
+| [1–2 June 2021](2021-06-02-Survation.html) | Survation | 9.1% | N/A | N/A | N/A | N/A |
 | [31 May 2021](2021-05-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | N/A | N/A | N/A | N/A |
-| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 9.3% | N/A | N/A | N/A | N/A |
-| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 8.4% | N/A | N/A | N/A | N/A |
+| [28–30 May 2021](2021-05-30-SavantaComRes.html) | Savanta ComRes | 9.2% | N/A | N/A | N/A | N/A |
+| [27–28 May 2021](2021-05-28-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
 | [27–28 May 2021](2021-05-28-Survation.html) | Survation <br> Daily Mail | 10.0% | N/A | N/A | N/A | N/A |
-| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 6.2% | N/A | N/A | N/A | N/A |
+| [27–28 May 2021](2021-05-28-Opinium.html) | Opinium <br> The Observer | 6.1% | N/A | N/A | N/A | N/A |
 | [27–28 May 2021](2021-05-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 7.2% | N/A | N/A | N/A | N/A |
-| [25–26 May 2021](2021-05-26-Survation.html) | Survation | 8.2% | N/A | N/A | N/A | N/A |
+| [25–26 May 2021](2021-05-26-Survation.html) | Survation | 8.1% | N/A | N/A | N/A | N/A |
 | [24 May 2021](2021-05-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.2% | N/A | N/A | N/A | N/A |
 | [21–23 May 2021](2021-05-23-SavantaComRes.html) | Savanta ComRes | 9.0% | N/A | N/A | N/A | N/A |
-| [19–20 May 2021](2021-05-20-YouGov.html) | YouGov <br> The Times | 8.3% | N/A | N/A | N/A | N/A |
+| [19–20 May 2021](2021-05-20-YouGov.html) | YouGov <br> The Times | 8.2% | N/A | N/A | N/A | N/A |
 | [17 May 2021](2021-05-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.3% | 9.4–11.2% | 9.2–11.4% | 9.0–11.7% | 8.6–12.1% |
 | [14–16 May 2021](2021-05-16-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.4–9.0% | 7.2–9.2% | 7.1–9.4% | 6.7–9.8% |
 | [13–14 May 2021](2021-05-14-Opinium.html) | Opinium <br> The Observer | 8.2% | 7.4–9.0% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
@@ -778,12 +789,12 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [7–9 May 2021](2021-05-09-SavantaComRes.html) | Savanta ComRes | 8.0% | N/A | N/A | N/A | N/A |
 | [4–5 May 2021](2021-05-05-YouGov.html) | YouGov <br> The Times | 7.2% | N/A | N/A | N/A | N/A |
 | [4–5 May 2021](2021-05-05-Panelbase.html) | Panelbase | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.3% |
-| [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.3% | N/A | N/A | N/A | N/A |
-| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.4–9.0% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
+| [3 May 2021](2021-05-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | N/A | N/A | N/A | N/A |
+| [2 May 2021](2021-05-02-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.4–9.0% | 7.2–9.3% | 7.0–9.5% | 6.7–9.9% |
 | [28–30 April 2021](2021-04-30-Opinium.html) | Opinium <br> The Observer | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.9% |
-| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
+| [29–30 April 2021](2021-04-30-Focaldata.html) | Focaldata <br> The Sunday Times | 6.1% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
 | [27–29 April 2021](2021-04-29-Survation.html) | Survation <br> Daily Mail | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
-| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.2% | 4.4–6.3% | 4.2–6.6% | 4.0–6.8% | 3.6–7.3% |
+| [28–29 April 2021](2021-04-29-NumberCruncherPolitics.html) | Number Cruncher Politics | 5.1% | 4.4–6.3% | 4.2–6.6% | 4.0–6.8% | 3.6–7.3% |
 | [27–28 April 2021](2021-04-28-YouGov.html) | YouGov <br> The Times | 7.2% | N/A | N/A | N/A | N/A |
 | [26 April 2021](2021-04-26-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | N/A | N/A | N/A | N/A |
 | [22–26 April 2021](2021-04-26-Kantar.html) | Kantar | 10.3% | 9.2–11.6% | 8.9–11.9% | 8.6–12.3% | 8.1–12.9% |
@@ -798,12 +809,12 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [13–14 April 2021](2021-04-14-YouGov.html) | YouGov | 8.3% | N/A | N/A | N/A | N/A |
 | [12 April 2021](2021-04-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | N/A | N/A | N/A | N/A |
 | [9–11 April 2021](2021-04-11-SavantaComRes.html) | Savanta ComRes | 7.2% | N/A | N/A | N/A | N/A |
-| [8–10 April 2021](2021-04-10-Survation.html) | Survation | 8.2% | N/A | N/A | N/A | N/A |
+| [8–10 April 2021](2021-04-10-Survation.html) | Survation | 8.1% | N/A | N/A | N/A | N/A |
 | [8–10 April 2021](2021-04-10-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6.3% | N/A | N/A | N/A | N/A |
 | [8–9 April 2021](2021-04-09-Opinium.html) | Opinium <br> The Observer | 6.0% | N/A | N/A | N/A | N/A |
-| [7–8 April 2021](2021-04-08-YouGov.html) | YouGov <br> The Times | 6.3% | N/A | N/A | N/A | N/A |
+| [7–8 April 2021](2021-04-08-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
 | [5 April 2021](2021-04-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.2% | N/A | N/A | N/A | N/A |
-| [2–4 April 2021](2021-04-04-SavantaComRes.html) | Savanta ComRes | 8.2% | N/A | N/A | N/A | N/A |
+| [2–4 April 2021](2021-04-04-SavantaComRes.html) | Savanta ComRes | 8.1% | N/A | N/A | N/A | N/A |
 | [1 April 2021](2021-04-01-YouGov.html) | YouGov <br> The Times | 7.2% | N/A | N/A | N/A | N/A |
 | [29 March 2021](2021-03-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | N/A | N/A | N/A | N/A |
 | [25–29 March 2021](2021-03-29-Kantar.html) | Kantar | 9.2% | N/A | N/A | N/A | N/A |
@@ -811,20 +822,20 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [25–26 March 2021](2021-03-26-YouGov.html) | YouGov <br> The Times | 8.2% | N/A | N/A | N/A | N/A |
 | [25–26 March 2021](2021-03-26-Opinium.html) | Opinium <br> The Observer | 6.2% | N/A | N/A | N/A | N/A |
 | [22 March 2021](2021-03-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.1% | N/A | N/A | N/A | N/A |
-| [19–21 March 2021](2021-03-21-SavantaComRes.html) | Savanta ComRes | 6.1% | N/A | N/A | N/A | N/A |
+| [19–21 March 2021](2021-03-21-SavantaComRes.html) | Savanta ComRes | 6.0% | N/A | N/A | N/A | N/A |
 | [18–19 March 2021](2021-03-19-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
 | [16–19 March 2021](2021-03-19-BMGResearch.html) | BMG Research <br> The Independent | 9.3% | N/A | N/A | N/A | N/A |
 | [12–16 March 2021](2021-03-16-NumberCruncherPolitics.html) | Number Cruncher Politics | 7.0% | N/A | N/A | N/A | N/A |
-| [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.3% | 6.5–8.1% | 6.3–8.3% | 6.2–8.5% | 5.9–8.9% |
+| [15 March 2021](2021-03-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | 6.5–8.1% | 6.3–8.3% | 6.2–8.5% | 5.9–8.9% |
 | [14 March 2021](2021-03-14-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.4% | 6.6–9.8% |
-| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [11–12 March 2021](2021-03-12-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [5–12 March 2021](2021-03-12-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times | 7.4% | 6.6–8.3% | 6.4–8.5% | 6.2–8.7% | 5.8–9.2% |
+| [9–10 March 2021](2021-03-10-YouGov.html) | YouGov <br> The Times | 7.2% | 6.6–8.3% | 6.4–8.5% | 6.2–8.7% | 5.8–9.2% |
 | [9–10 March 2021](2021-03-10-Survation.html) | Survation <br> Sunday Mirror | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [8 March 2021](2021-03-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [5–7 March 2021](2021-03-07-SavantaComRes.html) | Savanta ComRes | 8.0% | 7.3–8.9% | 7.1–9.1% | 7.0–9.3% | 6.6–9.7% |
 | [3–4 March 2021](2021-03-04-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
-| [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
+| [1 March 2021](2021-03-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
 | [26–28 February 2021](2021-02-28-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.2–8.4% | 5.9–8.7% |
 | [25–26 February 2021](2021-02-26-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
 | [24–26 February 2021](2021-02-26-Opinium.html) | Opinium <br> The Observer | 7.1% | N/A | N/A | N/A | N/A |
@@ -840,11 +851,11 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [9–10 February 2021](2021-02-10-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
 | [8 February 2021](2021-02-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.4–8.0% | 6.2–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [5–7 February 2021](2021-02-07-SavantaComRes.html) | Savanta ComRes | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
-| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 9.2% | 8.1–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
+| [5–6 February 2021](2021-02-06-Survation.html) | Survation | 9.1% | 8.1–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [4 February 2021](2021-02-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [2–3 February 2021](2021-02-03-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–7.0% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
 | [2 February 2021](2021-02-02-FindOutNow.html) | Find Out Now | 7.2% | N/A | N/A | N/A | N/A |
-| [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.1–9.6% | 6.8–10.0% |
+| [1 February 2021](2021-02-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.5–9.1% | 7.3–9.4% | 7.1–9.6% | 6.8–10.0% |
 | [1 February 2021](2021-02-01-NumberCruncherPolitics.html) | Number Cruncher Politics <br> ITV | 5.1% | 4.5–5.9% | 4.4–6.1% | 4.2–6.2% | 4.0–6.6% |
 | [29–31 January 2021](2021-01-31-SavantaComRes.html) | Savanta ComRes | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
 | [28–29 January 2021](2021-01-29-Opinium.html) | Opinium <br> The Observer | 7.2% | 6.5–8.0% | 6.3–8.3% | 6.2–8.5% | 5.8–8.9% |
@@ -855,9 +866,9 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [21–23 January 2021](2021-01-23-Deltapoll.html) | Deltapoll | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.8–9.2% |
 | [21–22 January 2021](2021-01-22-YouGov.html) | YouGov <br> The Times | 5.2% | 4.5–5.9% | 4.3–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [18 January 2021](2021-01-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–10.0% |
-| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.5–8.1% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
-| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
-| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
+| [15–17 January 2021](2021-01-17-SavantaComRes.html) | Savanta ComRes | 7.1% | 6.5–8.1% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
+| [14–15 January 2021](2021-01-15-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [13–14 January 2021](2021-01-14-YouGov.html) | YouGov <br> The Times | 5.1% | 4.6–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [12–13 January 2021](2021-01-13-Survation.html) | Survation | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [11 January 2021](2021-01-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–10.0% |
 | [8–10 January 2021](2021-01-10-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.3–9.1% | 7.1–9.4% | 6.9–9.6% | 6.5–10.1% |
@@ -865,7 +876,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [4–5 January 2021](2021-01-05-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
 | [26–30 December 2020](2020-12-30-Deltapoll.html) | Deltapoll <br> Daily Mirror | 4.2% | 3.6–5.0% | 3.5–5.2% | 3.3–5.4% | 3.1–5.8% |
 | [4–29 December 2020](2020-12-29-Focaldata.html) | Focaldata | 9.3% | 9.0–9.5% | 8.9–9.6% | 8.9–9.7% | 8.7–9.8% |
-| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5.3% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
+| [21–22 December 2020](2020-12-22-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
 | [22 December 2020](2020-12-22-Survation.html) | Survation | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [18–21 December 2020](2020-12-21-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.2–9.1% | 7.0–9.4% | 6.8–9.7% | 6.4–10.2% |
 | [16–17 December 2020](2020-12-17-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.8% |
@@ -875,30 +886,31 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [4–10 December 2020](2020-12-10-Survation.html) | Survation | 8.1% | 7.5–8.7% | 7.4–8.9% | 7.2–9.1% | 7.0–9.4% |
 | [4–10 December 2020](2020-12-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [8–9 December 2020](2020-12-09-YouGov.html) | YouGov <br> The Times | 8.3% | 7.5–9.3% | 7.3–9.6% | 7.1–9.8% | 6.7–10.3% |
-| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 6.3% | 5.9–6.7% | 5.8–6.8% | 5.7–6.9% | 5.5–7.1% |
+| [8 December 2020](2020-12-08-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.9–6.7% | 5.8–6.8% | 5.7–6.9% | 5.5–7.1% |
 | [3–4 December 2020](2020-12-04-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
-| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
+| [2–3 December 2020](2020-12-03-YouGov.html) | YouGov <br> The Times | 6.1% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [2 December 2020](2020-12-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [27–29 November 2020](2020-11-29-SavantaComRes.html) | Savanta ComRes | 8.1% | 7.2–9.1% | 7.0–9.4% | 6.8–9.7% | 6.4–10.2% |
-| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 7.3% | 6.4–8.5% | 6.1–8.9% | 5.9–9.2% | 5.4–9.8% |
+| [20–28 November 2020](2020-11-28-NumberCruncherPolitics.html) | Number Cruncher Politics | 7.2% | 6.4–8.5% | 6.1–8.9% | 5.9–9.2% | 5.4–9.8% |
 | [26–28 November 2020](2020-11-28-Deltapoll.html) | Deltapoll <br> Daily Mail | 9.6% | 8.6–10.7% | 8.4–11.0% | 8.2–11.2% | 7.7–11.8% |
 | [26–27 November 2020](2020-11-27-YouGov.html) | YouGov <br> The Times | 5.2% | 4.5–5.9% | 4.3–6.1% | 4.2–6.3% | 3.9–6.7% |
 | [20–22 November 2020](2020-11-22-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.3–8.2% | 6.1–8.5% | 5.9–8.8% | 5.5–9.3% |
-| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.7% |
+| [19–20 November 2020](2020-11-20-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.5–7.0% | 5.4–7.2% | 5.2–7.4% | 4.9–7.7% |
 | [19 November 2020](2020-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | 7.4–8.8% | 7.2–9.0% | 7.1–9.2% | 6.8–9.6% |
 | [17–18 November 2020](2020-11-18-YouGov.html) | YouGov <br> The Times | 7.2% | 6.4–8.1% | 6.2–8.3% | 6.0–8.6% | 5.7–9.0% |
-| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.2% | 4.0–6.6% |
+| [13–15 November 2020](2020-11-15-SavantaComRes.html) | Savanta ComRes | 5.1% | 4.6–5.9% | 4.4–6.1% | 4.3–6.2% | 4.0–6.6% |
 | [11–12 November 2020](2020-11-12-YouGov.html) | YouGov <br> The Times | 5.2% | 4.5–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [11 November 2020](2020-11-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.4–7.8% | 6.3–8.0% | 6.1–8.2% | 5.8–8.5% |
-| [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 8.3% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
-| [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 8.4% | 7.4–9.6% | 7.2–9.9% | 6.9–10.2% | 6.5–10.8% |
+| [6–9 November 2020](2020-11-09-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.5–9.1% | 7.3–9.3% | 7.1–9.5% | 6.8–9.9% |
+| [5–9 November 2020](2020-11-09-Kantar.html) | Kantar | 8.2% | 7.4–9.6% | 7.2–9.9% | 6.9–10.2% | 6.5–10.8% |
 | [5–6 November 2020](2020-11-06-Survation.html) | Survation | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.2% | 6.1–8.4% | 5.7–8.7% |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 7.3% | 6.6–8.2% | 6.3–8.5% | 6.2–8.7% | 5.8–9.2% |
+| [30 October–2 November 2020](2020-11-02-SavantaComRes.html) | Savanta ComRes | 7.1% | N/A | N/A | N/A | N/A |
 | [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.2–7.5% | 4.8–8.0% |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.6–7.8% | 6.4–8.0% | 6.2–8.1% | 6.0–8.4% |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–10.0% | 6.1–10.6% |
-| [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
+| [23–26 October 2020](2020-10-26-SavantaComRes.html) | Savanta ComRes | 7.1% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [22–24 October 2020](2020-10-24-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 7.2% | 6.4–8.2% | 6.2–8.4% | 6.0–8.6% | 5.7–9.1% |
 | [22–23 October 2020](2020-10-23-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [21–22 October 2020](2020-10-22-YouGov.html) | YouGov <br> The Times | 7.0% | 6.3–7.9% | 6.1–8.2% | 5.9–8.4% | 5.5–8.8% |
@@ -921,16 +933,16 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [22–23 September 2020](2020-09-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 7.1% | 6.5–7.8% | 6.3–8.0% | 6.2–8.2% | 5.9–8.6% |
 | [17–21 September 2020](2020-09-21-Kantar.html) | Kantar | 9.2% | 8.2–10.4% | 7.9–10.8% | 7.6–11.1% | 7.1–11.7% |
 | [18–20 September 2020](2020-09-20-SavantaComRes.html) | Savanta ComRes | 8.2% | 7.4–9.0% | 7.2–9.2% | 7.0–9.4% | 6.7–9.8% |
-| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [11–18 September 2020](2020-09-18-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8.1% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [16–17 September 2020](2020-09-17-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.2–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [15–16 September 2020](2020-09-16-Survation.html) | Survation | 7.1% | 6.1–8.2% | 5.9–8.6% | 5.6–8.9% | 5.2–9.4% |
 | [15–16 September 2020](2020-09-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.1% | 6.7–9.5% |
-| [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [11 September 2020](2020-09-11-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [8–9 September 2020](2020-09-09-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
 | [4–8 September 2020](2020-09-08-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.4% |
 | [3–4 September 2020](2020-09-04-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
 | [2–4 September 2020](2020-09-04-Survation.html) | Survation | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
-| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.2% | 7.5–8.9% | 7.3–9.1% | 7.1–9.3% | 6.8–9.7% |
+| [1–2 September 2020](2020-09-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | 7.5–8.9% | 7.3–9.1% | 7.1–9.3% | 6.8–9.7% |
 | [26–28 August 2020](2020-08-28-Opinium.html) | Opinium <br> The Observer | 6.4% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.9% |
 | [24–25 August 2020](2020-08-25-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.0–7.4% | 4.7–7.8% |
 | [24 August 2020](2020-08-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.1% | 8.3–10.0% | 8.1–10.2% | 7.9–10.5% | 7.5–10.9% |
@@ -970,27 +982,27 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [25 June 2020](2020-06-25-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies <br> Election Maps UK | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
 | [18–19 June 2020](2020-06-19-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [18 June 2020](2020-06-18-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.4% | 6.6–9.8% |
-| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 8.3% | 7.3–9.5% | 7.1–9.8% | 6.8–10.1% | 6.4–10.7% |
+| [11–15 June 2020](2020-06-15-Kantar.html) | Kantar | 8.2% | 7.3–9.5% | 7.1–9.8% | 6.8–10.1% | 6.4–10.7% |
 | [12–14 June 2020](2020-06-14-SavantaComRes.html) | Savanta ComRes <br> The Daily Telegraph | 9.1% | 8.3–9.9% | 8.1–10.2% | 7.9–10.4% | 7.6–10.8% |
 | [11–12 June 2020](2020-06-12-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.7–7.8% |
-| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [11–12 June 2020](2020-06-12-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [11 June 2020](2020-06-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.9% | 8.0–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.0% |
 | [9–10 June 2020](2020-06-10-Survation.html) | Survation | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.2–10.5% |
 | [5–10 June 2020](2020-06-10-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.7% |
 | [4–5 June 2020](2020-06-05-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
-| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 8.5% | 7.6–9.5% | 7.3–9.7% | 7.1–10.0% | 6.8–10.5% |
-| [3 June 2020](2020-06-03-Survation.html) | Survation | 7.2% | 6.2–8.3% | 6.0–8.7% | 5.7–8.9% | 5.3–9.5% |
+| [4–5 June 2020](2020-06-05-Deltapoll.html) | Deltapoll | 8.4% | 7.6–9.5% | 7.3–9.7% | 7.1–10.0% | 6.8–10.5% |
+| [3 June 2020](2020-06-03-Survation.html) | Survation | 7.1% | 6.2–8.3% | 6.0–8.7% | 5.7–8.9% | 5.3–9.5% |
 | [3 June 2020](2020-06-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.0% | 8.1–10.1% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
-| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
+| [29–30 May 2020](2020-05-30-YouGov.html) | YouGov <br> The Times | 6.1% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [28–29 May 2020](2020-05-29-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
 | [27–28 May 2020](2020-05-28-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 8.3% | 7.4–9.3% | 7.2–9.5% | 7.0–9.8% | 6.6–10.3% |
 | [26–27 May 2020](2020-05-27-YouGov.html) | YouGov <br> Datapraxis | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.6% |
 | [27 May 2020](2020-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.9% | 8.0–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.0% |
 | [25–26 May 2020](2020-05-26-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.0–7.4% | 4.7–7.8% |
 | [22–26 May 2020](2020-05-26-Survation.html) | Survation | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
-| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.7% |
+| [21–22 May 2020](2020-05-22-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.7% |
 | [18–19 May 2020](2020-05-19-YouGov.html) | YouGov <br> The Times | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.0–7.3% | 4.7–7.7% |
-| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 7.3% | 6.6–8.1% | 6.4–8.3% | 6.2–8.5% | 5.9–8.9% |
+| [15–17 May 2020](2020-05-17-SavantaComRes.html) | Savanta ComRes | 7.2% | 6.6–8.1% | 6.4–8.3% | 6.2–8.5% | 5.9–8.9% |
 | [15 May 2020](2020-05-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
 | [13–14 May 2020](2020-05-14-Opinium.html) | Opinium <br> The Observer | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.5–8.3% |
 | [5–11 May 2020](2020-05-11-Kantar.html) | Kantar | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
@@ -1004,13 +1016,13 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [16–20 April 2020](2020-04-20-Kantar.html) | Kantar | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
 | [16–17 April 2020](2020-04-17-YouGov.html) | YouGov <br> The Times | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
 | [17 April 2020](2020-04-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.0% | 7.1–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
-| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [15–17 April 2020](2020-04-17-Opinium.html) | Opinium | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [7–9 April 2020](2020-04-09-Opinium.html) | Opinium | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.2% | 3.9–6.5% |
-| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 10.5% | 9.5–11.6% | 9.3–11.9% | 9.0–12.1% | 8.6–12.7% |
+| [7–9 April 2020](2020-04-09-BMGResearch.html) | BMG Research <br> The Independent | 10.3% | 9.5–11.6% | 9.3–11.9% | 9.0–12.1% | 8.6–12.7% |
 | [1–3 April 2020](2020-04-03-Opinium.html) | Opinium | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [1–2 April 2020](2020-04-02-YouGov.html) | YouGov <br> The Times | 8.1% | 7.3–9.1% | 7.1–9.3% | 6.9–9.6% | 6.5–10.0% |
 | [1–2 April 2020](2020-04-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.4% | 6.6–9.8% |
-| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 6.2% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
+| [26–27 March 2020](2020-03-27-Opinium.html) | Opinium | 6.0% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.7% |
 | [24–26 March 2020](2020-03-26-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 7.2% | 6.2–8.3% | 5.9–8.7% | 5.7–9.0% | 5.3–9.5% |
 | [23 March 2020](2020-03-23-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 8.1% | 7.2–9.1% | 7.0–9.3% | 6.8–9.6% | 6.4–10.1% |
 | [19–20 March 2020](2020-03-20-Opinium.html) | Opinium <br> The Observer | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
@@ -1028,7 +1040,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [30–31 January 2020](2020-01-31-Survation.html) | Survation <br> The Times | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 7.9–12.9% |
 | [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 10.2% | 9.2–11.2% | 9.0–11.5% | 8.8–11.7% | 8.3–12.3% |
 | [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 9.2% | 8.4–10.1% | 8.2–10.4% | 8.0–10.6% | 7.7–11.1% |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 11.5% | 10.5–12.7% | 10.2–13.0% | 10.0–13.3% | 9.5–13.8% |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 11.4% | 10.5–12.7% | 10.2–13.0% | 10.0–13.3% | 9.5–13.8% |
 
 ### Probability Mass Function
 
@@ -1037,16 +1049,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 3% | 99.9% |  |
-| 9.5–10.5% | 18% | 97% |  |
-| 10.5–11.5% | 29% | 79% |  |
-| 11.5–12.5% | 24% | 50% | Last Result, Median |
-| 12.5–13.5% | 13% | 26% |  |
-| 13.5–14.5% | 7% | 12% |  |
-| 14.5–15.5% | 4% | 6% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 6% | 99.8% |  |
+| 9.5–10.5% | 29% | 94% |  |
+| 10.5–11.5% | 29% | 65% | Median |
+| 11.5–12.5% | 14% | 36% | Last Result |
+| 12.5–13.5% | 9% | 22% |  |
+| 13.5–14.5% | 6% | 13% |  |
+| 14.5–15.5% | 5% | 7% |  |
 | 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -1058,7 +1070,17 @@ Last result: **11** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 23–46 | 22–52 | 20–54 | 18–61 |
+| N/A | [Poll Average](average.html) | 28 | 21–44 | 19–52 | 17–54 | 15–61 |
+| [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 25 | 19–32 | 17–36 | 15–38 | 11–41 |
+| [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 21 | 17–28 | 16–30 | 15–32 | 11–37 |
+| [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 34 | 27–42 | 26–43 | 24–45 | 22–52 |
+| [4–7 August 2023](2023-08-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [6 August 2023](2023-08-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [2–4 August 2023](2023-08-04-Opinium.html) | Opinium <br> The Observer | 28 | 22–38 | 20–39 | 19–41 | 15–44 |
+| [3–4 August 2023](2023-08-04-Omnisis.html) | Omnisis |  |  |  |  |  |
+| [2–3 August 2023](2023-08-03-YouGov.html) | YouGov <br> The Times | 30 | 24–38 | 23–39 | 21–40 | 19–42 |
+| [2–3 August 2023](2023-08-03-TechneUK.html) | Techne UK | 27 | 22–37 | 20–38 | 19–40 | 16–42 |
 | [28–31 July 2023](2023-07-31-Deltapoll.html) | Deltapoll | 37 | 28–43 | 26–48 | 25–50 | 22–52 |
 | [30 July 2023](2023-07-30-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 28 | 22–37 | 20–39 | 19–40 | 17–43 |
 | [28 July 2023](2023-07-28-Omnisis.html) | Omnisis | 30 | 23–39 | 21–40 | 19–42 | 17–50 |
@@ -1077,6 +1099,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [14–17 July 2023](2023-07-17-Deltapoll.html) | Deltapoll | 40 | 27–50 | 25–51 | 23–55 | 21–61 |
 | [14–16 July 2023](2023-07-16-Savanta.html) | Savanta |  |  |  |  |  |
 | [16 July 2023](2023-07-16-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 43 | 38–52 | 37–53 | 34–54 | 31–58 |
+| [14–16 July 2023](2023-07-16-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [13–14 July 2023](2023-07-14-Omnisis.html) | Omnisis | 30 | 22–39 | 20–41 | 19–42 | 17–50 |
 | [12–13 July 2023](2023-07-13-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [10–11 July 2023](2023-07-11-YouGov.html) | YouGov <br> The Times | 36 | 27–42 | 24–45 | 23–49 | 21–52 |
@@ -1287,7 +1310,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 19 | 12–23 | 10–25 | 9–26 | 7–28 |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -1943,6 +1966,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [5–6 November 2020](2020-11-06-Survation.html) | Survation | 6 | 4–8 | 4–11 | 3–13 | 2–17 |
 | [5–6 November 2020](2020-11-06-Opinium.html) | Opinium <br> The Observer | 3 | 2–6 | 1–6 | 1–6 | 0–6 |
 | [4–5 November 2020](2020-11-05-YouGov.html) | YouGov <br> The Times | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
+| [30 October–2 November 2020](2020-11-02-SavantaComRes.html) | Savanta ComRes |  |  |  |  |  |
 | [28–29 October 2020](2020-10-29-YouGov.html) | YouGov | 1 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [28 October 2020](2020-10-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–4 | 1–4 | 1–6 | 0–6 |
 | [22–28 October 2020](2020-10-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 3–7 | 3–7 | 2–10 | 1–15 |
@@ -2086,61 +2110,62 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0% | 100% | Last Result |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.1% | 99.9% |  |
-| 16 | 0.1% | 99.9% |  |
-| 17 | 0.2% | 99.8% |  |
-| 18 | 0.4% | 99.5% |  |
-| 19 | 0.7% | 99.2% |  |
-| 20 | 1.3% | 98% |  |
-| 21 | 1.3% | 97% |  |
-| 22 | 2% | 96% |  |
-| 23 | 4% | 93% |  |
-| 24 | 3% | 90% |  |
-| 25 | 4% | 86% |  |
-| 26 | 5% | 82% |  |
-| 27 | 6% | 77% |  |
-| 28 | 4% | 71% |  |
-| 29 | 3% | 67% |  |
-| 30 | 3% | 64% |  |
-| 31 | 5% | 61% |  |
-| 32 | 4% | 56% |  |
-| 33 | 3% | 51% | Median |
-| 34 | 3% | 48% |  |
-| 35 | 2% | 46% |  |
-| 36 | 4% | 43% |  |
-| 37 | 5% | 40% |  |
-| 38 | 6% | 35% |  |
-| 39 | 5% | 29% |  |
-| 40 | 4% | 24% |  |
-| 41 | 4% | 20% |  |
-| 42 | 3% | 16% |  |
-| 43 | 2% | 14% |  |
-| 44 | 1.2% | 12% |  |
-| 45 | 0.5% | 11% |  |
-| 46 | 0.6% | 10% |  |
-| 47 | 1.0% | 10% |  |
-| 48 | 0.7% | 9% |  |
-| 49 | 0.4% | 8% |  |
-| 50 | 0.6% | 7% |  |
-| 51 | 1.5% | 7% |  |
-| 52 | 1.0% | 5% |  |
-| 53 | 1.1% | 4% |  |
-| 54 | 1.1% | 3% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.1% | 99.9% | Last Result |
+| 12 | 0.1% | 99.8% |  |
+| 13 | 0% | 99.7% |  |
+| 14 | 0.2% | 99.7% |  |
+| 15 | 0.5% | 99.5% |  |
+| 16 | 0.5% | 99.1% |  |
+| 17 | 1.2% | 98.6% |  |
+| 18 | 2% | 97% |  |
+| 19 | 2% | 96% |  |
+| 20 | 3% | 94% |  |
+| 21 | 3% | 90% |  |
+| 22 | 4% | 88% |  |
+| 23 | 6% | 83% |  |
+| 24 | 4% | 77% |  |
+| 25 | 5% | 73% |  |
+| 26 | 7% | 68% |  |
+| 27 | 7% | 61% |  |
+| 28 | 5% | 54% | Median |
+| 29 | 3% | 49% |  |
+| 30 | 3% | 46% |  |
+| 31 | 4% | 43% |  |
+| 32 | 4% | 39% |  |
+| 33 | 3% | 36% |  |
+| 34 | 2% | 33% |  |
+| 35 | 1.4% | 31% |  |
+| 36 | 2% | 29% |  |
+| 37 | 3% | 27% |  |
+| 38 | 3% | 24% |  |
+| 39 | 3% | 21% |  |
+| 40 | 2% | 18% |  |
+| 41 | 2% | 16% |  |
+| 42 | 2% | 13% |  |
+| 43 | 1.4% | 12% |  |
+| 44 | 1.0% | 10% |  |
+| 45 | 0.4% | 9% |  |
+| 46 | 0.4% | 9% |  |
+| 47 | 0.7% | 9% |  |
+| 48 | 0.7% | 8% |  |
+| 49 | 0.3% | 7% |  |
+| 50 | 0.3% | 7% |  |
+| 51 | 1.1% | 7% |  |
+| 52 | 0.9% | 6% |  |
+| 53 | 1.3% | 5% |  |
+| 54 | 1.3% | 3% |  |
 | 55 | 0.4% | 2% |  |
 | 56 | 0.3% | 2% |  |
-| 57 | 0.4% | 1.3% |  |
-| 58 | 0.1% | 1.0% |  |
-| 59 | 0.2% | 0.8% |  |
+| 57 | 0.4% | 1.5% |  |
+| 58 | 0.1% | 1.1% |  |
+| 59 | 0.2% | 1.0% |  |
 | 60 | 0.1% | 0.7% |  |
-| 61 | 0.2% | 0.6% |  |
-| 62 | 0.1% | 0.4% |  |
+| 61 | 0.2% | 0.7% |  |
+| 62 | 0.2% | 0.4% |  |
 | 63 | 0.1% | 0.3% |  |
 | 64 | 0.1% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
+| 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0.1% |  |
 | 67 | 0% | 0.1% |  |
 | 68 | 0% | 0% |  |
