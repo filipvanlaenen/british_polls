@@ -10,8 +10,13 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.5–4.2% | 1.3–4.8% | 1.1–5.1% | 0.9–5.7% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.5–3.6% | 1.3–3.8% | 1.1–4.0% | 0.8–4.4% |
+| [17–21 August 2023](2023-08-21-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.8% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% | 1.1–3.0% |
+| [20 August 2023](2023-08-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times | 3.2% | N/A | N/A | N/A | N/A |
+| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer | 4.2% | N/A | N/A | N/A | N/A |
 | [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 2.7% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% | 1.7–4.1% |
+| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common | 2.8% | N/A | N/A | N/A | N/A |
 | [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.5–3.3% |
 | [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis | 2.7% | N/A | N/A | N/A | N/A |
 | [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
@@ -250,7 +255,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 2.7% | 2.3–3.3% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK | 3.2% | N/A | N/A | N/A | N/A |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis | 1.3% | N/A | N/A | N/A | N/A |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 3.2% | N/A | N/A | N/A | N/A |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 3.2% | N/A | N/A | N/A | N/A |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News | 3.1% | N/A | N/A | N/A | N/A |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.7% | N/A | N/A | N/A | N/A |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll | 1.4% | N/A | N/A | N/A | N/A |
@@ -1049,13 +1054,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 34% | 89% | Last Result |
-| 2.5–3.5% | 34% | 54% | Median |
-| 3.5–4.5% | 14% | 21% |  |
-| 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 0.8% | 0.9% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 34% | 86% | Last Result |
+| 2.5–3.5% | 40% | 52% | Median |
+| 3.5–4.5% | 12% | 12% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1066,8 +1070,13 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [17–21 August 2023](2023-08-21-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
+| [20 August 2023](2023-08-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 0 | 0 | 0 | 0–2 | 0–2 |
+| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
@@ -1306,7 +1315,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–2 |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2106,18 +2115,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 1.2% | 15% |  |
-| 2 | 3% | 14% |  |
-| 3 | 8% | 11% |  |
-| 4 | 2% | 3% |  |
-| 5 | 0.2% | 0.3% |  |
-| 6 | 0.1% | 0.2% |  |
-| 7 | 0% | 0.1% |  |
-| 8 | 0% | 0.1% |  |
-| 9 | 0% | 0.1% |  |
-| 10 | 0% | 0.1% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 2% | 8% |  |
+| 2 | 5% | 6% |  |
+| 3 | 1.4% | 1.4% |  |
+| 4 | 0% | 0% |  |
 
 
