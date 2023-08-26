@@ -10,13 +10,13 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.5–3.6% | 1.3–3.8% | 1.1–4.0% | 0.8–4.4% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.6–3.9% | 1.3–4.3% | 1.2–4.6% | 0.9–5.2% |
 | [17–21 August 2023](2023-08-21-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.8% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% | 1.1–3.0% |
 | [20 August 2023](2023-08-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
-| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times | 3.2% | N/A | N/A | N/A | N/A |
-| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer | 4.2% | N/A | N/A | N/A | N/A |
+| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
+| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.2–5.4% | 3.0–5.8% |
 | [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 2.7% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% | 1.7–4.1% |
-| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common | 2.8% | N/A | N/A | N/A | N/A |
+| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common | 2.8% | 2.3–3.3% | 2.2–3.5% | 2.1–3.6% | 1.9–3.9% |
 | [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.5–3.3% |
 | [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis | 2.7% | N/A | N/A | N/A | N/A |
 | [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
@@ -1054,12 +1054,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 34% | 86% | Last Result |
-| 2.5–3.5% | 40% | 52% | Median |
-| 3.5–4.5% | 12% | 12% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 10% | 100% |  |
+| 1.5–2.5% | 27% | 90% | Last Result |
+| 2.5–3.5% | 43% | 64% | Median |
+| 3.5–4.5% | 17% | 20% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1070,13 +1071,13 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [17–21 August 2023](2023-08-21-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [20 August 2023](2023-08-20-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
-| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [17–18 August 2023](2023-08-18-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [16–18 August 2023](2023-08-18-Opinium.html) | Opinium <br> The Observer | 3 | 1–3 | 0–4 | 0–4 | 0–4 |
 | [18 August 2023](2023-08-18-Omnisis.html) | Omnisis | 0 | 0 | 0 | 0–2 | 0–2 |
-| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [14–16 August 2023](2023-08-16-MoreinCommon.html) | More in Common | 0 | 0 | 0 | 0 | 0–2 |
 | [13 August 2023](2023-08-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0 |
 | [10–11 August 2023](2023-08-11-Omnisis.html) | Omnisis |  |  |  |  |  |
 | [9–11 August 2023](2023-08-11-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
@@ -2115,10 +2116,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 2% | 8% |  |
-| 2 | 5% | 6% |  |
-| 3 | 1.4% | 1.4% |  |
-| 4 | 0% | 0% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 2% | 16% |  |
+| 2 | 6% | 14% |  |
+| 3 | 7% | 8% |  |
+| 4 | 0.6% | 0.6% |  |
+| 5 | 0% | 0% |  |
 
 
