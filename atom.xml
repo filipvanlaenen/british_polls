@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2023-09-03T19:59:27.774956+02:00</updated>
+  <updated>2023-09-10T09:27:49.786704+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Green Party: 3.9–6.3%, 1–2 seats</li><li>Liberal Democrats: 7.9–11.2%, 11–36 seats</li><li>Scottish National Party: 2.3–4.3%, 17–53 seats</li><li>Labour Party: 45.4–51.0%, 364–431 seats</li><li>Brexit Party: 2.0–3.8%, 0 seats</li><li>Conservative Party: 24.9–29.9%, 135–206 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-09-08-WeThink.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-09-08-WeThink.html"/>
+    <title>Opinion Poll by We Think, 7–8 September 2023</title>
+    <updated>2023-09-09T23:40:15.115453+02:00</updated>
+    <dc:date>2023-09-09T23:40:15.115453+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Green Party: 2.5–4.3%, 1 seats</li><li>Liberal Democrats: 9.1–12.2%, 20–41 seats</li><li>Scottish National Party: 2.4–4.2%, 19–51 seats</li><li>Labour Party: 45.8–50.8%, 375–438 seats</li><li>Brexit Party: 2.5–4.2%, 0–2 seats</li><li>Conservative Party: 24.1–28.5%, 119–188 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-09-07-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-09-07-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 6–7 September 2023</title>
+    <updated>2023-09-10T09:27:49.786704+02:00</updated>
+    <dc:date>2023-09-10T09:27:49.786704+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Green Party: 3.2–5.4%, 1 seats</li><li>Liberal Democrats: 9.9–13.5%, 23–51 seats</li><li>Scottish National Party: 2.3–4.3%, 18–51 seats</li><li>Labour Party: 45.6–51.2%, 371–446 seats</li><li>Brexit Party: 2.4–4.4%, 0–3 seats</li><li>Conservative Party: 24.0–28.9%, 105–186 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2023-09-01-WeThink.html</id>
@@ -4255,5 +4271,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2023-09-03T19:59:27.774956+02:00</dc:date>
+  <dc:date>2023-09-10T09:27:49.786704+02:00</dc:date>
 </feed>
