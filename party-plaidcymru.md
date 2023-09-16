@@ -11,8 +11,11 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [10 September 2023](2023-09-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 September 2023](2023-09-08-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 September 2023](2023-09-08-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 September 2023](2023-09-07-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [4 September 2023](2023-09-04-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 September 2023](2023-09-04-Deltapoll.html) | Deltapoll | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [1–3 September 2023](2023-09-03-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [3 September 2023](2023-09-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -1085,8 +1088,11 @@ Last result: **4** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [10 September 2023](2023-09-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [7–8 September 2023](2023-09-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [7–8 September 2023](2023-09-08-WeThink.html) | We Think |  |  |  |  |  |
 | [6–7 September 2023](2023-09-07-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [4 September 2023](2023-09-04-Kantar.html) | Kantar |  |  |  |  |  |
 | [1–4 September 2023](2023-09-04-Deltapoll.html) | Deltapoll | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [1–3 September 2023](2023-09-03-Savanta.html) | Savanta |  |  |  |  |  |
 | [3 September 2023](2023-09-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
