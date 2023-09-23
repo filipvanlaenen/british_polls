@@ -1097,7 +1097,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [21–22 September 2023](2023-09-22-WeThink.html) | We Think |  |  |  |  |  |
 | [20–21 September 2023](2023-09-21-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [18–20 September 2023](2023-09-20-MoreinCommon.html) | More in Common |  |  |  |  |  |
@@ -1105,7 +1105,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [17 September 2023](2023-09-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [14–15 September 2023](2023-09-15-WeThink.html) | We Think |  |  |  |  |  |
 | [13–15 September 2023](2023-09-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [11–15 September 2023](2023-09-15-Deltapoll.html) | Deltapoll | 5 | 5 | 5 | 4–5 | 4–6 |
+| [11–15 September 2023](2023-09-15-Deltapoll.html) | Deltapoll | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [13–14 September 2023](2023-09-14-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [9–12 September 2023](2023-09-12-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [10 September 2023](2023-09-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -2172,10 +2172,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 3% | 99.7% | Last Result |
-| 5 | 94% | 96% | Median |
-| 6 | 2% | 2% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 5% | 99.5% | Last Result |
+| 5 | 93% | 95% | Median |
+| 6 | 1.2% | 1.3% |  |
 | 7 | 0% | 0% |  |
 
 
