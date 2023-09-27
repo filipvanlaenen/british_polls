@@ -10,7 +10,10 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.8% | 1.6–4.1% | 1.4–4.4% | 1.1–4.9% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.8–4.0% | 1.6–4.2% | 1.4–4.4% | 1.1–4.8% |
+| [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 2.3% | 1.9–2.7% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% |
+| [24 September 2023](2023-09-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.7% | 3.2–4.3% | 3.1–4.5% | 2.9–4.7% | 2.7–5.0% |
+| [21–22 September 2023](2023-09-22-YouGov.html) | YouGov <br> The Times | 3.7% | 3.2–4.3% | 3.0–4.4% | 2.9–4.6% | 2.7–4.9% |
 | [21–22 September 2023](2023-09-22-WeThink.html) | We Think | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.2% |
 | [20–21 September 2023](2023-09-21-TechneUK.html) | Techne UK | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% | 1.5–3.5% |
 | [18–20 September 2023](2023-09-20-MoreinCommon.html) | More in Common | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.4–4.3% | 2.1–4.7% |
@@ -19,6 +22,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [14–15 September 2023](2023-09-15-WeThink.html) | We Think | 3.2% | 2.7–4.0% | 2.5–4.2% | 2.4–4.4% | 2.1–4.8% |
 | [13–15 September 2023](2023-09-15-Opinium.html) | Opinium <br> The Observer | 3.7% | 3.1–4.5% | 2.9–4.7% | 2.8–4.8% | 2.5–5.2% |
 | [11–15 September 2023](2023-09-15-Deltapoll.html) | Deltapoll | 2.8% | 2.3–3.3% | 2.2–3.5% | 2.1–3.6% | 1.9–3.9% |
+| [13–14 September 2023](2023-09-14-YouGov.html) | YouGov <br> The Times | 3.7% | N/A | N/A | N/A | N/A |
 | [13–14 September 2023](2023-09-14-TechneUK.html) | Techne UK | 2.8% | N/A | N/A | N/A | N/A |
 | [9–12 September 2023](2023-09-12-IpsosMORI.html) | Ipsos MORI | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.2% |
 | [10 September 2023](2023-09-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2.7% | 2.3–3.3% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% |
@@ -1085,10 +1089,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 36% | 95% | Last Result |
-| 2.5–3.5% | 43% | 59% | Median |
-| 3.5–4.5% | 14% | 16% |  |
-| 4.5–5.5% | 1.4% | 1.4% |  |
+| 1.5–2.5% | 40% | 95% | Last Result |
+| 2.5–3.5% | 32% | 55% | Median |
+| 3.5–4.5% | 21% | 23% |  |
+| 4.5–5.5% | 1.4% | 1.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -1101,6 +1105,9 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [24 September 2023](2023-09-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [21–22 September 2023](2023-09-22-YouGov.html) | YouGov <br> The Times | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [21–22 September 2023](2023-09-22-WeThink.html) | We Think | 0 | 0 | 0 | 0–1 | 0–2 |
 | [20–21 September 2023](2023-09-21-TechneUK.html) | Techne UK | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2023](2023-09-20-MoreinCommon.html) | More in Common | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -1109,6 +1116,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [14–15 September 2023](2023-09-15-WeThink.html) | We Think | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [13–15 September 2023](2023-09-15-Opinium.html) | Opinium <br> The Observer | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [11–15 September 2023](2023-09-15-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [13–14 September 2023](2023-09-14-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [13–14 September 2023](2023-09-14-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [9–12 September 2023](2023-09-12-IpsosMORI.html) | Ipsos MORI | 0 | 0 | 0 | 0 | 0 |
 | [10 September 2023](2023-09-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0 | 0 | 0 | 0 | 0–2 |
@@ -2175,10 +2183,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 2% | 13% |  |
-| 2 | 6% | 11% |  |
-| 3 | 5% | 5% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 3% | 20% |  |
+| 2 | 10% | 18% |  |
+| 3 | 7% | 7% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
