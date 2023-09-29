@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2023-09-27T18:05:45.904472+02:00</updated>
+  <updated>2023-09-29T18:37:50.268279+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Green Party: 3.1–5.4%, 1 seats</li><li>Scottish National Party: 2.3–4.3%, 16–51 seats</li><li>Labour Party: 46.7–52.3%, 361–426 seats</li><li>Liberal Democrats: 9.0–12.4%, 17–39 seats</li><li>Conservative Party: 26.0–31.0%, 136–206 seats</li><li>Brexit Party: 2.3–4.3%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-09-29-WeThink.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-09-29-WeThink.html"/>
+    <title>Opinion Poll by We Think, 28–29 September 2023</title>
+    <updated>2023-09-29T18:37:50.268279+02:00</updated>
+    <dc:date>2023-09-29T18:37:50.268279+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Green Party: 4.1–5.9%, 1 seats</li><li>Scottish National Party: 3.5–5.1%, 40–57 seats</li><li>Labour Party: 44.3–48.4%, 333–381 seats</li><li>UK Independence Party: 0.0–0.3%, 0 seats</li><li>Plaid Cymru: 0.7–1.6%, 4–5 seats</li><li>Liberal Democrats: 9.4–11.9%, 15–31 seats</li><li>Conservative Party: 27.7–31.4%, 171–217 seats</li><li>Brexit Party: 1.7–3.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2023-09-25-Deltapoll.html</id>
@@ -4423,5 +4431,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2023-09-27T18:05:45.904472+02:00</dc:date>
+  <dc:date>2023-09-29T18:37:50.268279+02:00</dc:date>
 </feed>
