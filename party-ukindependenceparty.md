@@ -10,7 +10,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
 | [28–29 September 2023](2023-09-29-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -38,7 +38,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [1–3 September 2023](2023-09-03-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [3 September 2023](2023-09-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [1 September 2023](2023-09-01-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
-| [1 September 2023](2023-09-01-Survation.html) | Survation <br> Greenpeace | 0.1% | N/A | N/A | N/A | N/A |
+| [1 September 2023](2023-09-01-Survation.html) | Survation <br> Greenpeace | 0.1% | 0.0–0.1% | 0.0–0.1% | 0.0–0.1% | 0.0–0.1% |
 | [1 September 2023](2023-09-01-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 August 2023](2023-08-31-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 August 2023](2023-08-31-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
@@ -1094,7 +1094,6 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 100% | 100% | Last Result, Median |
 | 0.5–1.5% | 0% | 0% |  |
-| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1133,7 +1132,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [1–3 September 2023](2023-09-03-Savanta.html) | Savanta |  |  |  |  |  |
 | [3 September 2023](2023-09-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [1 September 2023](2023-09-01-WeThink.html) | We Think |  |  |  |  |  |
-| [1 September 2023](2023-09-01-Survation.html) | Survation <br> Greenpeace |  |  |  |  |  |
+| [1 September 2023](2023-09-01-Survation.html) | Survation <br> Greenpeace | 0 | 0 | 0 | 0 | 0 |
 | [1 September 2023](2023-09-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [30–31 August 2023](2023-08-31-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [30–31 August 2023](2023-08-31-TechneUK.html) | Techne UK |  |  |  |  |  |
