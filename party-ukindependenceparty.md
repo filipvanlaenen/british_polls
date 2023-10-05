@@ -10,8 +10,12 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [2 October 2023](2023-10-02-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [1 October 2023](2023-10-01-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [1 October 2023](2023-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 September 2023](2023-09-29-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
+| [27–29 September 2023](2023-09-29-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
@@ -1092,8 +1096,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 100% | 100% | Last Result, Median |
-| 0.5–1.5% | 0% | 0% |  |
+| 0.0–0.5% | 98% | 100% | Last Result, Median |
+| 0.5–1.5% | 2% | 2% |  |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1105,7 +1110,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2 October 2023](2023-10-02-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [1 October 2023](2023-10-01-Savanta.html) | Savanta |  |  |  |  |  |
+| [1 October 2023](2023-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [28–29 September 2023](2023-09-29-WeThink.html) | We Think |  |  |  |  |  |
+| [27–29 September 2023](2023-09-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [26–27 September 2023](2023-09-27-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26–27 September 2023](2023-09-27-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
