@@ -10,7 +10,14 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [9 October 2023](2023-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 October 2023](2023-10-08-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 October 2023](2023-10-07-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [5–6 October 2023](2023-10-06-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
+| [6 October 2023](2023-10-06-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 October 2023](2023-10-05-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 October 2023](2023-10-05-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2023](2023-10-02-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [1 October 2023](2023-10-01-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [1 October 2023](2023-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -18,6 +25,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [27–29 September 2023](2023-09-29-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 September 2023](2023-09-27-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [11–25 September 2023](2023-09-25-Survation.html) | Survation <br> 38 Degrees | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
 | [22–24 September 2023](2023-09-24-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [24 September 2023](2023-09-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -1096,8 +1104,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98% | 100% | Last Result, Median |
-| 0.5–1.5% | 2% | 2% |  |
+| 0.0–0.5% | 99.7% | 100% | Last Result, Median |
+| 0.5–1.5% | 0.3% | 0.3% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -1110,6 +1118,13 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9 October 2023](2023-10-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [6–8 October 2023](2023-10-08-Savanta.html) | Savanta |  |  |  |  |  |
+| [5–7 October 2023](2023-10-07-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
+| [5–6 October 2023](2023-10-06-WeThink.html) | We Think |  |  |  |  |  |
+| [6 October 2023](2023-10-06-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [4–5 October 2023](2023-10-05-YouGov.html) | YouGov |  |  |  |  |  |
+| [4–5 October 2023](2023-10-05-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [2 October 2023](2023-10-02-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [1 October 2023](2023-10-01-Savanta.html) | Savanta |  |  |  |  |  |
 | [1 October 2023](2023-10-01-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -1117,6 +1132,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [27–29 September 2023](2023-09-29-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [26–27 September 2023](2023-09-27-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26–27 September 2023](2023-09-27-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [11–25 September 2023](2023-09-25-Survation.html) | Survation <br> 38 Degrees |  |  |  |  |  |
 | [22–25 September 2023](2023-09-25-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [22–24 September 2023](2023-09-24-Savanta.html) | Savanta |  |  |  |  |  |
 | [24 September 2023](2023-09-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
