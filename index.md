@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 138–227 | 43–52% <br> 336–430 | 9–15% <br> 18–51 | 1–4% <br> 0–48 | 1–6% <br> 0–2 | 2–4% <br> 0–2 | 1–2% <br> 4–5 | N/A <br> 1 | 0% <br> 0 | N/A <br> N/A | N/A <br> 18 |
+| N/A | [Poll Average](average.html) | 26–33% <br> 139–234 | 43–52% <br> 337–429 | 9–15% <br> 18–50 | 1–4% <br> 0–48 | 2–6% <br> 0–2 | 2–4% <br> 0–2 | 1–2% <br> 4–5 | N/A <br> 1 | 0% <br> 0 | N/A <br> N/A | N/A <br> 18 |
 | [19–20 October 2023](2023-10-20-WeThink.html) | We Think | 26–31% <br> 134–211 | 48–53% <br> 378–442 | 9–12% <br> 19–40 | 1–3% <br> 1–34 | 2–4% <br> 1 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [18–19 October 2023](2023-10-19-TechneUK.html) | Techne UK | 25–30% <br> 134–198 | 45–50% <br> 362–420 | 10–13% <br> 23–47 | 2–4% <br> 18–50 | 4–6% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [17–18 October 2023](2023-10-18-YouGov.html) | YouGov <br> The Times | 24–29% <br> 115–187 | 47–52% <br> 381–449 | 8–11% <br> 15–37 | 2–4% <br> 18–49 | 5–7% <br> 1–3 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
@@ -14,7 +14,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [13–15 October 2023](2023-10-15-Savanta.html) | Savanta | 28–32% <br> 176–226 | 44–49% <br> 344–392 | 9–12% <br> 16–31 | 2–4% <br> 18–49 | 1–2% <br> 0–1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [15 October 2023](2023-10-15-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 28–33% <br> 180–231 | 43–47% <br> 352–395 | 13–16% <br> 36–56 | 1–2% <br> 0–4 | 3–4% <br> 1 | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [12–13 October 2023](2023-10-13-Opinium.html) | Opinium <br> The Observer | 27–32% <br> 162–227 | 44–49% <br> 339–402 | 9–12% <br> 16–37 | 2–4% <br> 17–53 | 4–6% <br> 1 | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
-| [11–12 October 2023](2023-10-12-BMGResearch.html) | BMG Research <br> The i | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–12 October 2023](2023-10-12-BMGResearch.html) | BMG Research <br> The i | 29–34% <br> 191–246 | 43–48% <br> 341–389 | 10–13% <br> 20–39 | 2–3% <br> 3–31 | 4–6% <br> 1 | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [11–25 September 2023](2023-09-25-Survation.html) | Survation <br> 38 Degrees | 29–31% <br> 175–200 | 46–48% <br> 353–375 | 12–13% <br> 28–39 | 3–4% <br> 35–45 | 2–3% <br> 1 | 2% <br> 0 | 1% <br> 4–5 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
 
