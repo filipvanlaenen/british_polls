@@ -10,10 +10,16 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.2–5.7% | 1.6–6.1% | 1.5–6.3% | 1.2–6.9% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.5–5.8% | 2.3–6.1% | 2.2–6.4% | 1.9–6.9% |
+| [24–25 October 2023](2023-10-25-YouGov.html) | YouGov | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
+| [23 October 2023](2023-10-23-PeoplePolling.html) | PeoplePolling <br> GB News | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
+| [20–22 October 2023](2023-10-22-Savanta.html) | Savanta | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.7–3.4% |
+| [22 October 2023](2023-10-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
 | [19–20 October 2023](2023-10-20-WeThink.html) | We Think | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.5% | 2.1–4.9% |
+| [19–20 October 2023](2023-10-20-Deltapoll.html) | Deltapoll | 4.1% | N/A | N/A | N/A | N/A |
 | [18–19 October 2023](2023-10-19-TechneUK.html) | Techne UK | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
 | [17–18 October 2023](2023-10-18-YouGov.html) | YouGov <br> The Times | 5.8% | 5.1–6.6% | 4.9–6.9% | 4.7–7.1% | 4.4–7.5% |
+| [11–18 October 2023](2023-10-18-IpsosMORI.html) | Ipsos MORI | 6.6% | N/A | N/A | N/A | N/A |
 | [14–16 October 2023](2023-10-16-MoreinCommon.html) | More in Common | 4.9% | 4.4–5.6% | 4.2–5.7% | 4.1–5.9% | 3.8–6.2% |
 | [13–16 October 2023](2023-10-16-Deltapoll.html) | Deltapoll | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [13–15 October 2023](2023-10-15-Savanta.html) | Savanta | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% |
@@ -1117,16 +1123,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 11% | 96% |  |
-| 2.5–3.5% | 19% | 86% | Last Result |
-| 3.5–4.5% | 17% | 66% |  |
-| 4.5–5.5% | 35% | 49% | Median |
-| 5.5–6.5% | 13% | 14% |  |
-| 6.5–7.5% | 1.4% | 1.4% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 12% | 100% |  |
+| 2.5–3.5% | 19% | 88% | Last Result |
+| 3.5–4.5% | 20% | 69% |  |
+| 4.5–5.5% | 34% | 49% | Median |
+| 5.5–6.5% | 13% | 15% |  |
+| 6.5–7.5% | 1.5% | 2% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1137,10 +1141,16 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–3 |
+| [24–25 October 2023](2023-10-25-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
+| [23 October 2023](2023-10-23-PeoplePolling.html) | PeoplePolling <br> GB News | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [20–22 October 2023](2023-10-22-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
+| [22 October 2023](2023-10-22-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [19–20 October 2023](2023-10-20-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1 |
+| [19–20 October 2023](2023-10-20-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [18–19 October 2023](2023-10-19-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1–3 |
 | [17–18 October 2023](2023-10-18-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [11–18 October 2023](2023-10-18-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [14–16 October 2023](2023-10-16-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [13–16 October 2023](2023-10-16-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–2 |
 | [13–15 October 2023](2023-10-15-Savanta.html) | Savanta | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2246,10 +2256,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 94% | 96% | Last Result, Median |
-| 2 | 2% | 3% |  |
-| 3 | 1.1% | 1.1% |  |
+| 1 | 94% | 100% | Last Result, Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
