@@ -10,8 +10,16 @@ Last result: **0.1%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [23–24 November 2023](2023-11-24-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 November 2023](2023-11-23-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 November 2023](2023-11-23-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
+| [16–20 November 2023](2023-11-20-Deltapoll.html) | Deltapoll | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [17–19 November 2023](2023-11-19-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
+| [19 November 2023](2023-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 November 2023](2023-11-17-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 November 2023](2023-11-17-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 November 2023](2023-11-17-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 November 2023](2023-11-16-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 November 2023](2023-11-15-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14 November 2023](2023-11-14-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
@@ -23,6 +31,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [8–10 November 2023](2023-11-10-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 November 2023](2023-11-09-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 November 2023](2023-11-08-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [8 November 2023](2023-11-08-LordAshcroft.html) | Lord Ashcroft | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 November 2023](2023-11-08-IpsosMORI.html) | Ipsos MORI | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 November 2023](2023-11-06-Deltapoll.html) | Deltapoll | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [3–5 November 2023](2023-11-05-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
@@ -353,7 +362,7 @@ Last result: **0.1%** (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis | 0.0% | N/A | N/A | N/A | N/A |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll | 0.1% | N/A | N/A | N/A | N/A |
@@ -1151,8 +1160,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 99.9% | 100% | Last Result, Median |
-| 0.5–1.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 98.7% | 100% | Last Result, Median |
+| 0.5–1.5% | 1.3% | 1.3% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -1165,7 +1174,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–24 November 2023](2023-11-24-WeThink.html) | We Think |  |  |  |  |  |
+| [22–23 November 2023](2023-11-23-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [22–23 November 2023](2023-11-23-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [16–20 November 2023](2023-11-20-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [17–19 November 2023](2023-11-19-Savanta.html) | Savanta |  |  |  |  |  |
+| [19 November 2023](2023-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [16–17 November 2023](2023-11-17-WeThink.html) | We Think |  |  |  |  |  |
+| [15–17 November 2023](2023-11-17-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [15–17 November 2023](2023-11-17-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [15–16 November 2023](2023-11-16-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [14–15 November 2023](2023-11-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [14 November 2023](2023-11-14-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
@@ -1177,6 +1194,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [8–10 November 2023](2023-11-10-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [8–9 November 2023](2023-11-09-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [7–8 November 2023](2023-11-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [8 November 2023](2023-11-08-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
 | [1–8 November 2023](2023-11-08-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
 | [3–6 November 2023](2023-11-06-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [3–5 November 2023](2023-11-05-Savanta.html) | Savanta |  |  |  |  |  |
@@ -1507,7 +1525,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |

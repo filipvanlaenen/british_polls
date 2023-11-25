@@ -10,8 +10,16 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.0–6.8% | 2.8–7.1% | 2.7–7.4% | 2.5–7.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.5–6.5% | 2.8–6.9% | 2.7–7.2% | 2.5–7.7% |
+| [23–24 November 2023](2023-11-24-WeThink.html) | We Think | 4.9% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.4–6.9% |
+| [22–23 November 2023](2023-11-23-YouGov.html) | YouGov <br> The Times | 5.8% | 5.2–6.5% | 5.0–6.8% | 4.8–6.9% | 4.5–7.3% |
+| [22–23 November 2023](2023-11-23-TechneUK.html) | Techne UK | 5.8% | 5.1–6.7% | 4.9–6.9% | 4.8–7.1% | 4.5–7.6% |
+| [16–20 November 2023](2023-11-20-Deltapoll.html) | Deltapoll | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [17–19 November 2023](2023-11-19-Savanta.html) | Savanta | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
+| [19 November 2023](2023-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [16–17 November 2023](2023-11-17-WeThink.html) | We Think | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
+| [15–17 November 2023](2023-11-17-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
+| [15–17 November 2023](2023-11-17-MoreinCommon.html) | More in Common | 4.1% | 3.6–4.8% | 3.5–5.0% | 3.3–5.1% | 3.1–5.5% |
 | [15–16 November 2023](2023-11-16-TechneUK.html) | Techne UK | 5.8% | 5.1–6.6% | 4.9–6.9% | 4.7–7.1% | 4.4–7.5% |
 | [14–15 November 2023](2023-11-15-YouGov.html) | YouGov <br> The Times | 6.7% | 6.1–7.5% | 5.9–7.7% | 5.8–7.8% | 5.5–8.2% |
 | [14 November 2023](2023-11-14-PeoplePolling.html) | PeoplePolling <br> GB News | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.8–7.2% | 4.5–7.7% |
@@ -23,6 +31,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [8–10 November 2023](2023-11-10-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
 | [8–9 November 2023](2023-11-09-TechneUK.html) | Techne UK | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.5% |
 | [7–8 November 2023](2023-11-08-YouGov.html) | YouGov <br> The Times | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.9–7.0% | 4.6–7.3% |
+| [8 November 2023](2023-11-08-LordAshcroft.html) | Lord Ashcroft | 5.8% | 5.2–6.5% | 5.1–6.7% | 5.0–6.9% | 4.7–7.2% |
 | [1–8 November 2023](2023-11-08-IpsosMORI.html) | Ipsos MORI | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
 | [3–6 November 2023](2023-11-06-Deltapoll.html) | Deltapoll | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.5–7.6% | 4.2–8.1% |
 | [3–5 November 2023](2023-11-05-Savanta.html) | Savanta | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.0% |
@@ -353,7 +362,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.0–5.4% |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK | 4.1% | N/A | N/A | N/A | N/A |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis | 5.6% | N/A | N/A | N/A | N/A |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times | 4.2% | N/A | N/A | N/A | N/A |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News | 5.6% | N/A | N/A | N/A | N/A |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.1% | N/A | N/A | N/A | N/A |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll | 4.1% | N/A | N/A | N/A | N/A |
@@ -1152,13 +1161,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.8% | 100% |  |
-| 2.5–3.5% | 15% | 99.2% | Last Result |
-| 3.5–4.5% | 16% | 84% |  |
-| 4.5–5.5% | 29% | 69% | Median |
-| 5.5–6.5% | 25% | 39% |  |
-| 6.5–7.5% | 13% | 15% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 10% | 99.3% | Last Result |
+| 3.5–4.5% | 24% | 90% |  |
+| 4.5–5.5% | 30% | 66% | Median |
+| 5.5–6.5% | 27% | 36% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -1170,8 +1179,16 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [23–24 November 2023](2023-11-24-WeThink.html) | We Think | 1 | 1 | 1 | 1–2 | 1–3 |
+| [22–23 November 2023](2023-11-23-YouGov.html) | YouGov <br> The Times | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [22–23 November 2023](2023-11-23-TechneUK.html) | Techne UK | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [16–20 November 2023](2023-11-20-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–3 |
+| [17–19 November 2023](2023-11-19-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
+| [19 November 2023](2023-11-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1–2 |
 | [16–17 November 2023](2023-11-17-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1 |
+| [15–17 November 2023](2023-11-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1–3 |
+| [15–17 November 2023](2023-11-17-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [15–16 November 2023](2023-11-16-TechneUK.html) | Techne UK | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [14–15 November 2023](2023-11-15-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [14 November 2023](2023-11-14-PeoplePolling.html) | PeoplePolling <br> GB News | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -1183,6 +1200,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [8–10 November 2023](2023-11-10-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1–2 | 1–3 |
 | [8–9 November 2023](2023-11-09-TechneUK.html) | Techne UK | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [7–8 November 2023](2023-11-08-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [8 November 2023](2023-11-08-LordAshcroft.html) | Lord Ashcroft | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1–8 November 2023](2023-11-08-IpsosMORI.html) | Ipsos MORI | 1 | 1 | 1–2 | 1–2 | 1–3 |
 | [3–6 November 2023](2023-11-06-Deltapoll.html) | Deltapoll | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–5 November 2023](2023-11-05-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 0–1 |
@@ -1513,7 +1531,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [11–13 January 2023](2023-01-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
 | [11–12 January 2023](2023-01-12-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [11–12 January 2023](2023-01-12-Omnisis.html) | Omnisis |  |  |  |  |  |
-| [11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [10–11 January 2023](2023-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [11 January 2023](2023-01-11-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [8 January 2023](2023-01-08-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [5–7 January 2023](2023-01-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2313,9 +2331,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 72% | 100% | Last Result, Median |
-| 2 | 14% | 28% |  |
-| 3 | 14% | 14% |  |
+| 1 | 78% | 100% | Last Result, Median |
+| 2 | 13% | 22% |  |
+| 3 | 8% | 8% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
