@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2023-12-17T15:23:15.346771+01:00</updated>
+  <updated>2023-12-17T17:05:59.846127+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 46.0–52.2%, 367–451 seats</li><li>Brexit Party: 3.1–5.6%, 0–3 seats</li><li>Liberal Democrats: 8.9–12.8%, 19–46 seats</li><li>Scottish National Party: 2.3–4.5%, 17–53 seats</li><li>Conservative Party: 24.0–29.5%, 104–193 seats</li><li>Green Party: 3.0–5.5%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2023-12-15-WeThink.html</id>
@@ -54,6 +54,22 @@
     <title>Opinion Poll by Savanta, 8–10 December 2023</title>
     <updated>2023-12-17T15:23:15.346771+01:00</updated>
     <dc:date>2023-12-17T15:23:15.346771+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 44.1–48.7%, 369–421 seats</li><li>Brexit Party: 4.3–6.3%, 2–4 seats</li><li>Liberal Democrats: 12.5–15.7%, 39–62 seats</li><li>Scottish National Party: 1.6–2.9%, 5–32 seats</li><li>Conservative Party: 25.0–29.1%, 129–193 seats</li><li>Green Party: 3.4–5.2%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-12-10-RedfieldWiltonStrategies.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-12-10-RedfieldWiltonStrategies.html"/>
+    <title>Opinion Poll by Redfield &amp; Wilton Strategies, 10 December 2023</title>
+    <updated>2023-12-17T16:28:21.601827+01:00</updated>
+    <dc:date>2023-12-17T16:28:21.601827+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 40.4–46.7%, 341–421 seats</li><li>Brexit Party: 2.3–4.6%, 0–3 seats</li><li>Liberal Democrats: 11.8–16.2%, 38–72 seats</li><li>Scottish National Party: 2.2–4.5%, 18–52 seats</li><li>Conservative Party: 22.8–28.3%, 104–194 seats</li><li>Green Party: 6.0–9.4%, 1–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2023-12-07-IpsosMORI.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2023-12-07-IpsosMORI.html"/>
+    <title>Opinion Poll by Ipsos MORI, 1–7 December 2023</title>
+    <updated>2023-12-17T17:05:59.846127+01:00</updated>
+    <dc:date>2023-12-17T17:05:59.846127+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 40.9–45.3%, 323–369 seats</li><li>Brexit Party: 2.9–4.6%, 0–3 seats</li><li>Liberal Democrats: 11.2–14.2%, 26–43 seats</li><li>Scottish National Party: 2.4–4.0%, 21–50 seats</li><li>Conservative Party: 28.4–32.6%, 182–231 seats</li><li>Green Party: 4.1–6.0%, 1 seats</li></ul></div></content>
@@ -5159,5 +5175,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2023-12-17T15:23:15.346771+01:00</dc:date>
+  <dc:date>2023-12-17T17:05:59.846127+01:00</dc:date>
 </feed>
