@@ -1212,7 +1212,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33 | 23–50 | 21–54 | 19–59 | 16–68 |
-| [22 December 2023](2023-12-22-WeThink.html) | We Think | 39 | 29–48 | 27–53 | 26–54 | 23–58 |
+| [22 December 2023](2023-12-22-WeThink.html) | We Think | 39 | 30–48 | 27–53 | 26–54 | 23–58 |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation |  |  |  |  |  |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 26 | 22–32 | 20–36 | 19–37 | 17–39 |
@@ -2419,15 +2419,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 3% | 53% | Median |
 | 34 | 3% | 49% |  |
 | 35 | 3% | 46% |  |
-| 36 | 3% | 44% |  |
-| 37 | 5% | 41% |  |
+| 36 | 3% | 43% |  |
+| 37 | 4% | 41% |  |
 | 38 | 4% | 36% |  |
 | 39 | 5% | 32% |  |
 | 40 | 3% | 27% |  |
 | 41 | 4% | 24% |  |
-| 42 | 2% | 20% |  |
+| 42 | 3% | 20% |  |
 | 43 | 2% | 18% |  |
-| 44 | 1.3% | 15% |  |
+| 44 | 1.4% | 16% |  |
 | 45 | 0.7% | 14% |  |
 | 46 | 0.8% | 13% |  |
 | 47 | 0.9% | 13% |  |
@@ -2435,10 +2435,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.6% | 11% |  |
 | 50 | 1.0% | 10% |  |
 | 51 | 2% | 9% |  |
-| 52 | 1.2% | 8% |  |
+| 52 | 1.3% | 8% |  |
 | 53 | 0.9% | 7% |  |
-| 54 | 1.2% | 6% |  |
-| 55 | 0.6% | 5% |  |
+| 54 | 1.1% | 6% |  |
+| 55 | 0.7% | 5% |  |
 | 56 | 0.3% | 4% |  |
 | 57 | 0.6% | 4% |  |
 | 58 | 0.2% | 3% |  |
