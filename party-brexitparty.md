@@ -10,8 +10,11 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.5% | 2.9–5.8% | 2.7–6.0% | 2.3–6.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.4% | 2.9–5.7% | 2.7–5.9% | 2.3–6.4% |
+| [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 4.2% | 3.7–4.8% | 3.5–5.0% | 3.4–5.1% | 3.2–5.4% |
+| [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.7% | 4.1–5.4% | 3.9–5.6% | 3.8–5.7% | 3.5–6.1% |
 | [14–15 December 2023](2023-12-15-WeThink.html) | We Think | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [13–15 December 2023](2023-12-15-Opinium.html) | Opinium <br> The Observer | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.2–5.4% | 3.0–5.8% |
 | [13–14 December 2023](2023-12-14-TechneUK.html) | Techne UK | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
 | [12–14 December 2023](2023-12-14-MoreinCommon.html) | More in Common | 3.7% | 3.2–4.3% | 3.0–4.5% | 2.9–4.6% | 2.7–5.0% |
 | [12–13 December 2023](2023-12-13-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.7% |
@@ -1185,12 +1188,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.5% | 100% | Last Result |
-| 2.5–3.5% | 21% | 98.5% |  |
-| 3.5–4.5% | 41% | 78% | Median |
-| 4.5–5.5% | 28% | 37% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 1.4% | 100% | Last Result |
+| 2.5–3.5% | 18% | 98.6% |  |
+| 3.5–4.5% | 44% | 80% | Median |
+| 4.5–5.5% | 29% | 36% |  |
+| 5.5–6.5% | 7% | 7% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -1203,7 +1206,10 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–4 | 2–4 | 2–4 | 0–4 |
 | [14–15 December 2023](2023-12-15-WeThink.html) | We Think | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [13–15 December 2023](2023-12-15-Opinium.html) | Opinium <br> The Observer | 3 | 2–3 | 0–4 | 0–4 | 0–5 |
 | [13–14 December 2023](2023-12-14-TechneUK.html) | Techne UK | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [12–14 December 2023](2023-12-14-MoreinCommon.html) | More in Common | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12–13 December 2023](2023-12-13-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 2–4 | 1–6 |
@@ -2378,13 +2384,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 3% | 74% |  |
-| 2 | 20% | 71% |  |
-| 3 | 42% | 51% | Median |
-| 4 | 8% | 9% |  |
-| 5 | 0.5% | 0.9% |  |
-| 6 | 0.2% | 0.4% |  |
+| 0 | 23% | 100% | Last Result |
+| 1 | 3% | 77% |  |
+| 2 | 20% | 74% |  |
+| 3 | 47% | 54% | Median |
+| 4 | 7% | 8% |  |
+| 5 | 0.4% | 0.8% |  |
+| 6 | 0.2% | 0.3% |  |
 | 7 | 0.1% | 0.2% |  |
 | 8 | 0% | 0.1% |  |
 | 9 | 0% | 0.1% |  |
