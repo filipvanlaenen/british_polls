@@ -10,19 +10,19 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.7–5.5% | 3.5–5.7% | 3.3–5.9% | 2.9–6.3% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.6–6.4% | 3.3–6.8% | 3.0–7.1% | 2.7–7.7% |
 | [18–19 January 2024](2024-01-19-WeThink.html) | We Think | 4.1% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
-| [17–18 January 2024](2024-01-18-TechneUK.html) | Techne UK | 5.0% | N/A | N/A | N/A | N/A |
-| [16–17 January 2024](2024-01-17-YouGov.html) | YouGov <br> The Times | 5.9% | N/A | N/A | N/A | N/A |
-| [11–15 January 2024](2024-01-15-LordAshcroft.html) | Lord Ashcroft | 5.9% | N/A | N/A | N/A | N/A |
-| [12–15 January 2024](2024-01-15-Deltapoll.html) | Deltapoll | 5.0% | N/A | N/A | N/A | N/A |
-| [12–14 January 2024](2024-01-14-Savanta.html) | Savanta | 3.3% | N/A | N/A | N/A | N/A |
-| [14 January 2024](2024-01-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | N/A | N/A | N/A | N/A |
+| [17–18 January 2024](2024-01-18-TechneUK.html) | Techne UK | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [16–17 January 2024](2024-01-17-YouGov.html) | YouGov <br> The Times | 5.9% | 5.3–6.7% | 5.1–6.9% | 5.0–7.1% | 4.7–7.5% |
+| [11–15 January 2024](2024-01-15-LordAshcroft.html) | Lord Ashcroft | 5.9% | 5.4–6.3% | 5.3–6.5% | 5.2–6.6% | 5.0–6.8% |
+| [12–15 January 2024](2024-01-15-Deltapoll.html) | Deltapoll | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
+| [12–14 January 2024](2024-01-14-Savanta.html) | Savanta | 3.3% | 2.8–3.8% | 2.7–4.0% | 2.6–4.1% | 2.4–4.4% |
+| [14 January 2024](2024-01-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.2% | 3.1–5.6% |
 | [11–12 January 2024](2024-01-12-WeThink.html) | We Think | 4.2% | N/A | N/A | N/A | N/A |
-| [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer | 5.0% | N/A | N/A | N/A | N/A |
+| [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.5% |
 | [10–11 January 2024](2024-01-11-YouGov.html) | YouGov <br> The Times | 6.8% | N/A | N/A | N/A | N/A |
 | [10–11 January 2024](2024-01-11-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
-| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 6.7% | N/A | N/A | N/A | N/A |
+| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.6–7.9% | 5.3–8.3% |
 | [5–7 January 2024](2024-01-07-Savanta.html) | Savanta | 4.1% | N/A | N/A | N/A | N/A |
 | [7 January 2024](2024-01-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | N/A | N/A | N/A | N/A |
 | [4–5 January 2024](2024-01-05-WeThink.html) | We Think | 4.2% | N/A | N/A | N/A | N/A |
@@ -1210,13 +1210,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% | Last Result |
-| 3.5–4.5% | 38% | 94% |  |
-| 4.5–5.5% | 47% | 55% | Median |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 9% | 99.8% | Last Result |
+| 3.5–4.5% | 22% | 91% |  |
+| 4.5–5.5% | 36% | 69% | Median |
+| 5.5–6.5% | 25% | 33% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1227,19 +1229,19 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [18–19 January 2024](2024-01-19-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1–2 |
-| [17–18 January 2024](2024-01-18-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [16–17 January 2024](2024-01-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [11–15 January 2024](2024-01-15-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
-| [12–15 January 2024](2024-01-15-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [12–14 January 2024](2024-01-14-Savanta.html) | Savanta |  |  |  |  |  |
-| [14 January 2024](2024-01-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [17–18 January 2024](2024-01-18-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1–2 | 1–3 |
+| [16–17 January 2024](2024-01-17-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [11–15 January 2024](2024-01-15-LordAshcroft.html) | Lord Ashcroft | 1 | 1 | 1–2 | 1–2 | 1–3 |
+| [12–15 January 2024](2024-01-15-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1 |
+| [12–14 January 2024](2024-01-14-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
+| [14 January 2024](2024-01-14-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
 | [11–12 January 2024](2024-01-12-WeThink.html) | We Think |  |  |  |  |  |
-| [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1–2 |
 | [10–11 January 2024](2024-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10–11 January 2024](2024-01-11-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio |  |  |  |  |  |
+| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [5–7 January 2024](2024-01-07-Savanta.html) | Savanta |  |  |  |  |  |
 | [7 January 2024](2024-01-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–5 January 2024](2024-01-05-WeThink.html) | We Think |  |  |  |  |  |
@@ -2429,9 +2431,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 96% | 100% | Last Result, Median |
-| 2 | 3% | 4% |  |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 85% | 100% | Last Result, Median |
+| 2 | 10% | 15% |  |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 
