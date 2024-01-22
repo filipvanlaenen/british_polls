@@ -32,7 +32,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.4% |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 6.8% | N/A | N/A | N/A | N/A |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.4% |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 1.6% | 1.2–2.3% | 1.1–2.4% | 1.0–2.6% | 0.8–3.0% |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.8–3.5% |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% |
@@ -1251,7 +1251,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 1 | 1 | 1–2 | 1–2 | 1–3 |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 1 | 1 | 1 | 1–2 | 1–3 |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1–2 | 1–2 | 1–3 |

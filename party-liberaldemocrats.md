@@ -32,7 +32,7 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 10.6% | 9.8–11.6% | 9.5–11.9% | 9.3–12.1% | 8.9–12.6% |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 12.8% | 11.6–14.2% | 11.2–14.6% | 10.9–14.9% | 10.4–15.6% |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 11.8% | 10.8–13.0% | 10.6–13.3% | 10.3–13.6% | 9.8–14.1% |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 10.9% | N/A | N/A | N/A | N/A |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 10.9% | 10.0–11.8% | 9.7–12.1% | 9.5–12.3% | 9.1–12.8% |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 10.6% | 9.8–11.5% | 9.6–11.8% | 9.4–12.0% | 9.0–12.5% |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.8% | 10.9–12.8% | 10.7–13.1% | 10.4–13.4% | 10.0–13.9% |
@@ -1252,7 +1252,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 33 | 24–40 | 22–43 | 21–47 | 19–50 |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 39 | 30–48 | 27–53 | 26–54 | 23–58 |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 41 | 35–51 | 32–52 | 30–55 | 25–59 |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 33 | 25–40 | 23–41 | 22–43 | 20–50 |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 25 | 20–33 | 19–38 | 15–39 | 12–42 |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 26 | 22–32 | 20–36 | 19–37 | 17–39 |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 37 | 30–47 | 27–50 | 25–51 | 22–54 |
@@ -2453,9 +2453,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 6% | 65% |  |
 | 27 | 6% | 59% |  |
 | 28 | 6% | 53% | Median |
-| 29 | 3% | 48% |  |
-| 30 | 4% | 45% |  |
-| 31 | 4% | 41% |  |
+| 29 | 3% | 47% |  |
+| 30 | 4% | 44% |  |
+| 31 | 5% | 41% |  |
 | 32 | 5% | 36% |  |
 | 33 | 4% | 31% |  |
 | 34 | 3% | 27% |  |

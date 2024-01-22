@@ -32,7 +32,7 @@ Last result: **3.9%** (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 4.3% | 3.7–4.9% | 3.6–5.1% | 3.4–5.3% | 3.2–5.6% |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.2–4.6% |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 3.3% | N/A | N/A | N/A | N/A |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 3.2% | 2.8–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
@@ -1239,7 +1239,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer | 53 | 45–57 | 41–57 | 41–58 | 37–58 |
 | [10–11 January 2024](2024-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10–11 January 2024](2024-01-11-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 38 | 28–47 | 24–51 | 21–52 | 17–55 |
+| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 38 | 29–47 | 24–51 | 21–52 | 17–55 |
 | [5–7 January 2024](2024-01-07-Savanta.html) | Savanta |  |  |  |  |  |
 | [7 January 2024](2024-01-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–5 January 2024](2024-01-05-WeThink.html) | We Think |  |  |  |  |  |
@@ -1249,7 +1249,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 52 | 42–57 | 40–57 | 38–57 | 34–58 |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 39 | 26–49 | 19–51 | 17–53 | 10–56 |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 38 | 27–45 | 24–49 | 22–51 | 18–54 |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 38 | 29–46 | 26–50 | 22–52 | 19–54 |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 15 | 4–28 | 3–31 | 1–36 | 0–43 |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 38 | 28–45 | 24–48 | 21–51 | 18–54 |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 52 | 43–56 | 41–57 | 41–58 | 38–58 |
@@ -2446,12 +2446,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 1.0% | 88% |  |
 | 22 | 0.9% | 87% |  |
 | 23 | 0.8% | 87% |  |
-| 24 | 1.0% | 86% |  |
-| 25 | 1.3% | 85% |  |
-| 26 | 1.5% | 83% |  |
+| 24 | 0.9% | 86% |  |
+| 25 | 1.4% | 85% |  |
+| 26 | 2% | 84% |  |
 | 27 | 1.3% | 82% |  |
 | 28 | 1.2% | 81% |  |
-| 29 | 2% | 79% |  |
+| 29 | 2% | 80% |  |
 | 30 | 1.4% | 77% |  |
 | 31 | 4% | 76% |  |
 | 32 | 3% | 71% |  |

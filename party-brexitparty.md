@@ -32,7 +32,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.5–6.1% |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.7–5.9% | 3.5–6.3% |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.7% |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.4–5.6% |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 4.2% | 3.7–4.8% | 3.5–5.0% | 3.4–5.1% | 3.2–5.4% |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.7% | 4.1–5.4% | 3.9–5.6% | 3.8–5.7% | 3.5–6.1% |
@@ -1240,7 +1240,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [10–12 January 2024](2024-01-12-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 2–4 | 2–4 | 0–5 |
 | [10–11 January 2024](2024-01-11-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [10–11 January 2024](2024-01-11-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [9–11 January 2024](2024-01-11-MoreinCommon.html) | More in Common <br> Times Radio | 3 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [5–7 January 2024](2024-01-07-Savanta.html) | Savanta |  |  |  |  |  |
 | [7 January 2024](2024-01-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [4–5 January 2024](2024-01-05-WeThink.html) | We Think |  |  |  |  |  |
@@ -1250,7 +1250,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [28 December 2023](2023-12-28-PeoplePolling.html) | PeoplePolling <br> GB News | 3 | 2–3 | 1–3 | 0–4 | 0–4 |
 | [22 December 2023](2023-12-22-WeThink.html) | We Think | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [20–21 December 2023](2023-12-21-TechneUK.html) | Techne UK | 3 | 2–4 | 2–4 | 0–4 | 0–5 |
-| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [19–20 December 2023](2023-12-20-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 2–4 | 2–6 |
 | [15–18 December 2023](2023-12-18-Survation.html) | Survation | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [15–17 December 2023](2023-12-17-Savanta.html) | Savanta | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [17 December 2023](2023-12-17-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 2–4 | 2–4 | 2–4 | 0–4 |
