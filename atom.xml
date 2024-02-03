@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2024-01-22T17:39:11.742172+01:00</updated>
+  <updated>2024-02-03T22:28:32.557025+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 2.3–4.4%, 20–54 seats</li><li>Labour Party: 45.1–50.8%, 379–460 seats</li><li>Green Party: 6.1–9.1%, 2–3 seats</li><li>Liberal Democrats: 8.0–11.4%, 17–41 seats</li><li>Brexit Party: 4.0–6.5%, 1–4 seats</li><li>Conservative Party: 22.1–27.0%, 91–178 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2024-02-02-WeThink.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2024-02-02-WeThink.html"/>
+    <title>Opinion Poll by We Think, 1–2 February 2024</title>
+    <updated>2024-02-03T21:12:18.597692+01:00</updated>
+    <dc:date>2024-02-03T21:12:18.597692+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 2.4–4.2%, 21–51 seats</li><li>Labour Party: 45.8–50.8%, 384–456 seats</li><li>Green Party: 4.1–6.3%, 1–2 seats</li><li>Liberal Democrats: 9.3–12.4%, 23–50 seats</li><li>Brexit Party: 3.7–5.9%, 0–4 seats</li><li>Conservative Party: 22.6–27.0%, 91–171 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2024-02-01-TechneUK.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2024-02-01-TechneUK.html"/>
+    <title>Opinion Poll by Techne UK, 1 February 2024</title>
+    <updated>2024-02-03T21:49:03.276595+01:00</updated>
+    <dc:date>2024-02-03T21:49:03.276595+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Scottish National Party: 2.5–4.2%, 22–51 seats</li><li>Plaid Cymru: 0.7–1.7%, 4–6 seats</li><li>Labour Party: 45.6–50.2%, 380–445 seats</li><li>Green Party: 4.2–6.2%, 1–2 seats</li><li>Liberal Democrats: 8.5–11.2%, 19–40 seats</li><li>Brexit Party: 4.7–6.8%, 3–7 seats</li><li>Conservative Party: 23.1–27.1%, 106–177 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2024-01-31-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2024-01-31-YouGov.html"/>
+    <title>Opinion Poll by YouGov, 30–31 January 2024</title>
+    <updated>2024-02-03T22:28:32.557025+01:00</updated>
+    <dc:date>2024-02-03T22:28:32.557025+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 48.5–54.4%, 398–482 seats</li><li>Brexit Party: 3.6–6.1%, 0–4 seats</li><li>Liberal Democrats: 8.0–11.6%, 17–42 seats</li><li>Scottish National Party: 2.3–4.5%, 19–52 seats</li><li>Conservative Party: 22.1–27.3%, 73–165 seats</li><li>Green Party: 3.1–5.5%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2024-01-19-WeThink.html</id>
@@ -5327,5 +5351,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2024-01-22T17:39:11.742172+01:00</dc:date>
+  <dc:date>2024-02-03T22:28:32.557025+01:00</dc:date>
 </feed>
