@@ -10,13 +10,13 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.6–1.8% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
 | [1–2 February 2024](2024-02-02-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [30–31 January 2024](2024-01-31-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
-| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | N/A | N/A | N/A | N/A |
-| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 0.3% | N/A | N/A | N/A | N/A |
+| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 0.0% | N/A | N/A | N/A | N/A |
 | [26 January 2024](2024-01-26-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -1226,9 +1226,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 97% | 99.9% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 47% | 100% |  |
+| 0.5–1.5% | 51% | 53% | Last Result, Median |
+| 1.5–2.5% | 1.4% | 1.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1240,13 +1240,13 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5 | 4–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1–2 February 2024](2024-02-02-WeThink.html) | We Think |  |  |  |  |  |
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 5 | 5 | 5 | 4–6 | 4–6 |
 | [30–31 January 2024](2024-01-31-Survation.html) | Survation |  |  |  |  |  |
-| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 2 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [26–28 January 2024](2024-01-28-Savanta.html) | Savanta |  |  |  |  |  |
 | [26 January 2024](2024-01-26-WeThink.html) | We Think |  |  |  |  |  |
 | [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -2458,10 +2458,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 2% | 99.9% | Last Result |
-| 5 | 96% | 98% | Median |
-| 6 | 2% | 2% |  |
+| 0 | 10% | 100% |  |
+| 1 | 12% | 90% |  |
+| 2 | 15% | 77% |  |
+| 3 | 10% | 62% |  |
+| 4 | 3% | 52% | Last Result, Median |
+| 5 | 48% | 49% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 

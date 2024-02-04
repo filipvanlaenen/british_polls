@@ -10,16 +10,16 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.9–5.9% | 3.8–6.2% | 3.7–6.5% | 3.4–6.9% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.8% | 3.1–6.1% | 2.8–6.4% | 2.2–6.9% |
 | [1–2 February 2024](2024-02-02-WeThink.html) | We Think | 5.1% | 4.3–6.0% | 4.1–6.3% | 4.0–6.5% | 3.6–7.0% |
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK | 4.7% | 4.0–5.4% | 3.9–5.7% | 3.7–5.9% | 3.4–6.2% |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 5.7% | 5.0–6.4% | 4.9–6.7% | 4.7–6.8% | 4.4–7.2% |
-| [30–31 January 2024](2024-01-31-Survation.html) | Survation | 3.1% | N/A | N/A | N/A | N/A |
-| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.7% | N/A | N/A | N/A | N/A |
-| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
-| [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 4.1% | N/A | N/A | N/A | N/A |
-| [26 January 2024](2024-01-26-WeThink.html) | We Think | 5.6% | N/A | N/A | N/A | N/A |
-| [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer | 4.7% | N/A | N/A | N/A | N/A |
+| [30–31 January 2024](2024-01-31-Survation.html) | Survation | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
+| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.7% | 5.0–6.4% | 4.8–6.6% | 4.7–6.8% | 4.4–7.2% |
+| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.4–5.2% | 3.1–5.5% |
+| [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
+| [26 January 2024](2024-01-26-WeThink.html) | We Think | 5.6% | 4.8–6.6% | 4.6–6.8% | 4.4–7.1% | 4.1–7.6% |
+| [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer | 4.7% | 4.0–5.5% | 3.8–5.8% | 3.6–6.0% | 3.3–6.4% |
 | [24–25 January 2024](2024-01-25-TechneUK.html) | Techne UK | 4.2% | N/A | N/A | N/A | N/A |
 | [25 January 2024](2024-01-25-PeoplePolling.html) | PeoplePolling <br> GB News | 5.6% | N/A | N/A | N/A | N/A |
 | [23–24 January 2024](2024-01-24-YouGov.html) | YouGov | 6.2% | N/A | N/A | N/A | N/A |
@@ -1226,11 +1226,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% | Last Result |
-| 2.5–3.5% | 1.5% | 100% |  |
-| 3.5–4.5% | 42% | 98.5% |  |
-| 4.5–5.5% | 37% | 56% | Median |
-| 5.5–6.5% | 18% | 19% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 1.4% | 100% | Last Result |
+| 2.5–3.5% | 8% | 98.6% |  |
+| 3.5–4.5% | 42% | 91% |  |
+| 4.5–5.5% | 32% | 48% | Median |
+| 5.5–6.5% | 15% | 17% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -1243,16 +1244,16 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 1–4 | 0–5 | 0–7 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–6 |
 | [1–2 February 2024](2024-02-02-WeThink.html) | We Think | 3 | 2–4 | 2–4 | 1–4 | 0–8 |
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK | 3 | 2–3 | 0–3 | 0–4 | 0–4 |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 4 | 3–5 | 3–5 | 3–7 | 2–12 |
-| [30–31 January 2024](2024-01-31-Survation.html) | Survation |  |  |  |  |  |
-| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [26–28 January 2024](2024-01-28-Savanta.html) | Savanta |  |  |  |  |  |
-| [26 January 2024](2024-01-26-WeThink.html) | We Think |  |  |  |  |  |
-| [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [30–31 January 2024](2024-01-31-Survation.html) | Survation | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 3–4 | 3–4 | 3–4 | 3–6 |
+| [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [26 January 2024](2024-01-26-WeThink.html) | We Think | 3 | 3–4 | 2–4 | 2–5 | 0–12 |
+| [24–26 January 2024](2024-01-26-Opinium.html) | Opinium <br> The Observer | 3 | 2–4 | 2–4 | 0–4 | 0–6 |
 | [24–25 January 2024](2024-01-25-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [25 January 2024](2024-01-25-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [23–24 January 2024](2024-01-24-YouGov.html) | YouGov |  |  |  |  |  |
@@ -2461,20 +2462,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 3% | 95% |  |
-| 2 | 22% | 93% |  |
-| 3 | 53% | 71% | Median |
-| 4 | 15% | 18% |  |
-| 5 | 1.4% | 3% |  |
-| 6 | 0.5% | 1.2% |  |
-| 7 | 0.3% | 0.8% |  |
-| 8 | 0.1% | 0.5% |  |
-| 9 | 0% | 0.4% |  |
-| 10 | 0.1% | 0.4% |  |
-| 11 | 0.1% | 0.3% |  |
-| 12 | 0.1% | 0.2% |  |
-| 13 | 0.1% | 0.1% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 3% | 85% |  |
+| 2 | 20% | 82% |  |
+| 3 | 47% | 62% | Median |
+| 4 | 13% | 15% |  |
+| 5 | 0.9% | 2% |  |
+| 6 | 0.3% | 0.8% |  |
+| 7 | 0.2% | 0.5% |  |
+| 8 | 0% | 0.3% |  |
+| 9 | 0% | 0.2% |  |
+| 10 | 0% | 0.2% |  |
+| 11 | 0% | 0.2% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 
