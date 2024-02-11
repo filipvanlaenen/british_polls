@@ -10,7 +10,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.6–5.9% | 1.9–6.2% | 1.6–6.4% | 1.2–6.9% |
+| N/A | [Poll Average](average.html) | 4.4% | 2.7–5.9% | 1.9–6.1% | 1.6–6.4% | 1.2–6.9% |
 | [8–9 February 2024](2024-02-09-WeThink.html) | We Think | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [7–8 February 2024](2024-02-08-YouGov.html) | YouGov <br> The Times | 5.7% | 5.1–6.4% | 4.9–6.7% | 4.7–6.9% | 4.4–7.2% |
 | [7–8 February 2024](2024-02-08-TechneUK.html) | Techne UK | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.7–5.8% | 3.4–6.2% |
@@ -21,7 +21,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK | 4.7% | 4.0–5.4% | 3.9–5.7% | 3.7–5.9% | 3.4–6.2% |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 5.7% | 5.0–6.4% | 4.9–6.7% | 4.7–6.8% | 4.4–7.2% |
 | [30–31 January 2024](2024-01-31-Survation.html) | Survation | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
-| [26–31 January 2024](2024-01-31-MoreinCommon.html) | More in Common | 3.7% | N/A | N/A | N/A | N/A |
+| [26–31 January 2024](2024-01-31-MoreinCommon.html) | More in Common | 3.7% | 3.3–4.2% | 3.2–4.3% | 3.1–4.5% | 2.9–4.7% |
 | [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.7% | 5.0–6.4% | 4.8–6.6% | 4.7–6.8% | 4.4–7.2% |
 | [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 4.2% | 3.6–4.8% | 3.5–5.0% | 3.4–5.2% | 3.1–5.5% |
 | [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
@@ -1236,11 +1236,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
 | 1.5–2.5% | 7% | 98% | Last Result |
-| 2.5–3.5% | 8% | 90% |  |
-| 3.5–4.5% | 34% | 83% |  |
-| 4.5–5.5% | 29% | 48% | Median |
-| 5.5–6.5% | 18% | 20% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 2.5–3.5% | 10% | 91% |  |
+| 3.5–4.5% | 37% | 82% | Median |
+| 4.5–5.5% | 26% | 44% |  |
+| 5.5–6.5% | 17% | 18% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -1263,7 +1263,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [1 February 2024](2024-02-01-TechneUK.html) | Techne UK | 3 | 2–3 | 0–3 | 0–4 | 0–4 |
 | [30–31 January 2024](2024-01-31-YouGov.html) | YouGov | 4 | 3–5 | 3–5 | 3–7 | 2–12 |
 | [30–31 January 2024](2024-01-31-Survation.html) | Survation | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
-| [26–31 January 2024](2024-01-31-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [26–31 January 2024](2024-01-31-MoreinCommon.html) | More in Common | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [29 January 2024](2024-01-29-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3 | 3–4 | 3–4 | 3–4 | 3–6 |
 | [26–29 January 2024](2024-01-29-Deltapoll.html) | Deltapoll | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26–28 January 2024](2024-01-28-Savanta.html) | Savanta | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -2477,13 +2477,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 3% | 78% |  |
-| 2 | 16% | 75% |  |
-| 3 | 44% | 59% | Median |
-| 4 | 14% | 15% |  |
-| 5 | 0.6% | 1.2% |  |
-| 6 | 0.3% | 0.6% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 3% | 76% |  |
+| 2 | 18% | 73% |  |
+| 3 | 41% | 55% | Median |
+| 4 | 13% | 14% |  |
+| 5 | 0.6% | 1.1% |  |
+| 6 | 0.2% | 0.6% |  |
 | 7 | 0.1% | 0.4% |  |
 | 8 | 0% | 0.2% |  |
 | 9 | 0% | 0.2% |  |
