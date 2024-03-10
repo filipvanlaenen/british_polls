@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_polls</id>
   <title>All Registered Polls for the House of Commons</title>
-  <updated>2024-03-10T19:08:22.870417+01:00</updated>
+  <updated>2024-03-10T19:55:38.462182+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 23.8–29.0%, 123–201 seats</li><li>Liberal Democrats: 8.2–11.7%, 15–40 seats</li><li>Green Party: 4.0–6.6%, 1–3 seats</li><li>Labour Party: 44.1–50.0%, 355–431 seats</li><li>Scottish National Party: 2.3–4.5%, 18–55 seats</li><li>Brexit Party: 4.9–7.8%, 3–17 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_polls/2024-03-08-WeThink.html</id>
@@ -54,6 +54,14 @@
     <title>Opinion Poll by Deltapoll, 1–4 March 2024</title>
     <updated>2024-03-10T19:08:22.870417+01:00</updated>
     <dc:date>2024-03-10T19:08:22.870417+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party: 26.7–30.5%, 157–213 seats</li><li>Liberal Democrats: 9.4–12.0%, 19–37 seats</li><li>Green Party: 2.6–4.1%, 1 seats</li><li>Labour Party: 44.4–48.7%, 351–404 seats</li><li>Scottish National Party: 2.5–4.0%, 19–49 seats</li><li>Brexit Party: 2.9–4.6%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_polls/2024-03-03-Savanta.html</id>
+    <link href="https://filipvanlaenen.github.io/british_polls/2024-03-03-Savanta.html"/>
+    <title>Opinion Poll by Savanta, 1–3 March 2024</title>
+    <updated>2024-03-10T19:55:38.462182+01:00</updated>
+    <dc:date>2024-03-10T19:55:38.462182+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Labour Party: 42.2–48.1%, 335–407 seats</li><li>Scottish National Party: 2.3–4.4%, 18–54 seats</li><li>Conservative Party: 25.3–30.6%, 140–218 seats</li><li>Liberal Democrats: 10.0–13.9%, 22–51 seats</li><li>Green Party: 3.9–6.5%, 1–2 seats</li><li>Brexit Party: 3.6–6.1%, 0–4 seats</li></ul></div></content>
@@ -5527,5 +5535,5 @@
     <updated>2021-01-12T08:18:13+01:00</updated>
     <dc:date>2021-01-12T08:18:13+01:00</dc:date>
   </entry>
-  <dc:date>2024-03-10T19:08:22.870417+01:00</dc:date>
+  <dc:date>2024-03-10T19:55:38.462182+01:00</dc:date>
 </feed>
