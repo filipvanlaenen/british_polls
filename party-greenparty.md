@@ -21,8 +21,8 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.9% | 4.4–6.1% | 4.2–6.3% | 3.9–6.6% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 4.2% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 6.0% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 6.0% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 5.9% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.2% | 4.8–7.6% |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6.7% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
@@ -1301,8 +1301,8 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1–2 | 1–3 | 1–3 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |

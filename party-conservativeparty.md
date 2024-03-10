@@ -21,8 +21,8 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 25.2% | 23.9–26.5% | 23.5–26.9% | 23.2–27.2% | 22.6–27.9% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 24.6% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 27.3% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 22.1% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 24.8% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 22.1% | 20.9–23.4% | 20.6–23.7% | 20.3–24.0% | 19.7–24.6% |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 24.8% | 23.4–26.2% | 23.0–26.6% | 22.6–27.0% | 22.0–27.7% |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 21.3% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 29.9% | N/A | N/A | N/A | N/A |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 24.7% | N/A | N/A | N/A | N/A |
@@ -1321,8 +1321,8 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 146 | 126–166 | 117–173 | 108–178 | 93–186 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 96 | 78–120 | 74–127 | 71–136 | 64–149 |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 142 | 112–162 | 101–170 | 95–176 | 82–185 |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2661,36 +2661,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 0.1% | 75% |  |
 | 105 | 0.2% | 75% |  |
 | 106 | 0.2% | 75% |  |
-| 107 | 0.2% | 74% |  |
+| 107 | 0.3% | 74% |  |
 | 108 | 0.2% | 74% |  |
 | 109 | 0.2% | 74% |  |
 | 110 | 0.2% | 74% |  |
 | 111 | 0.2% | 74% |  |
 | 112 | 0.2% | 73% |  |
 | 113 | 0.2% | 73% |  |
-| 114 | 0.1% | 73% |  |
+| 114 | 0.2% | 73% |  |
 | 115 | 0.2% | 73% |  |
 | 116 | 0.2% | 73% |  |
 | 117 | 0.3% | 72% |  |
 | 118 | 0.2% | 72% |  |
 | 119 | 0.2% | 72% |  |
-| 120 | 0.3% | 72% |  |
+| 120 | 0.2% | 72% |  |
 | 121 | 0.3% | 72% |  |
-| 122 | 0.2% | 71% |  |
+| 122 | 0.3% | 71% |  |
 | 123 | 0.3% | 71% |  |
 | 124 | 0.3% | 71% |  |
 | 125 | 0.4% | 70% |  |
 | 126 | 0.4% | 70% |  |
-| 127 | 0.4% | 70% |  |
+| 127 | 0.3% | 70% |  |
 | 128 | 0.4% | 69% |  |
-| 129 | 0.5% | 69% |  |
+| 129 | 0.4% | 69% |  |
 | 130 | 0.4% | 68% |  |
-| 131 | 0.4% | 68% |  |
+| 131 | 0.5% | 68% |  |
 | 132 | 0.6% | 68% |  |
 | 133 | 0.5% | 67% |  |
 | 134 | 0.7% | 66% |  |
 | 135 | 0.6% | 66% |  |
-| 136 | 0.8% | 65% |  |
+| 136 | 0.7% | 65% |  |
 | 137 | 0.5% | 64% |  |
 | 138 | 0.5% | 64% |  |
 | 139 | 0.8% | 63% |  |
@@ -2699,8 +2699,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 1.0% | 61% |  |
 | 143 | 0.8% | 60% |  |
 | 144 | 1.0% | 59% |  |
-| 145 | 0.9% | 58% |  |
-| 146 | 0.8% | 58% |  |
+| 145 | 0.8% | 58% |  |
+| 146 | 0.9% | 58% |  |
 | 147 | 0.9% | 57% |  |
 | 148 | 0.8% | 56% |  |
 | 149 | 0.8% | 55% |  |
@@ -2711,13 +2711,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 0.9% | 51% |  |
 | 155 | 0.7% | 50% | Median |
 | 156 | 0.7% | 49% |  |
-| 157 | 0.7% | 49% |  |
-| 158 | 0.9% | 48% |  |
-| 159 | 0.7% | 47% |  |
-| 160 | 0.8% | 46% |  |
-| 161 | 0.7% | 46% |  |
+| 157 | 0.8% | 49% |  |
+| 158 | 0.8% | 48% |  |
+| 159 | 0.8% | 47% |  |
+| 160 | 0.7% | 46% |  |
+| 161 | 0.6% | 46% |  |
 | 162 | 0.8% | 45% |  |
-| 163 | 0.6% | 44% |  |
+| 163 | 0.7% | 44% |  |
 | 164 | 0.8% | 44% |  |
 | 165 | 0.8% | 43% |  |
 | 166 | 0.6% | 42% |  |
@@ -2727,7 +2727,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 0.8% | 39% |  |
 | 171 | 0.8% | 39% |  |
 | 172 | 0.9% | 38% |  |
-| 173 | 0.9% | 37% |  |
+| 173 | 0.8% | 37% |  |
 | 174 | 0.9% | 36% |  |
 | 175 | 0.8% | 35% |  |
 | 176 | 1.0% | 34% |  |
@@ -2739,7 +2739,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 182 | 1.2% | 28% |  |
 | 183 | 1.0% | 27% |  |
 | 184 | 1.2% | 26% |  |
-| 185 | 1.1% | 24% |  |
+| 185 | 1.0% | 24% |  |
 | 186 | 1.2% | 23% |  |
 | 187 | 1.2% | 22% |  |
 | 188 | 1.1% | 21% |  |

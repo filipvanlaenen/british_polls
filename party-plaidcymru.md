@@ -21,7 +21,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 0.0% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 1.1% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
@@ -1296,7 +1296,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |

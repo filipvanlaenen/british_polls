@@ -21,8 +21,8 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 4.7% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 5.7% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 6.7% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 4.7% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 6.7% | 6.0–7.5% | 5.9–7.8% | 5.7–8.0% | 5.4–8.4% |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.7–5.9% | 3.4–6.3% |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.7% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 4.7% | N/A | N/A | N/A | N/A |
@@ -1298,11 +1298,11 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 4 | 3–6 | 3–11 | 3–13 | 2–18 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 4 | 3–9 | 3–12 | 3–14 | 3–18 |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–10 | 3–12 | 3–13 | 3–17 |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–9 | 3–12 | 3–13 | 3–17 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 4 | 3–9 | 3–12 | 3–13 | 3–17 |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2563,10 +2563,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 8% |  |
 | 8 | 0.4% | 6% |  |
 | 9 | 0.2% | 6% |  |
-| 10 | 0.6% | 6% |  |
-| 11 | 0.9% | 5% |  |
+| 10 | 0.5% | 6% |  |
+| 11 | 0.8% | 5% |  |
 | 12 | 2% | 4% |  |
-| 13 | 0.9% | 3% |  |
+| 13 | 1.0% | 3% |  |
 | 14 | 0.7% | 2% |  |
 | 15 | 0.1% | 1.1% |  |
 | 16 | 0.3% | 1.0% |  |

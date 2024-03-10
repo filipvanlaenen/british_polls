@@ -21,8 +21,8 @@ Last result: **32.1%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 47.1% | 45.6–48.6% | 45.1–49.0% | 44.8–49.4% | 44.1–50.1% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 50.4% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 43.6% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 50.8% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 47.4% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 50.8% | 49.3–52.3% | 48.9–52.7% | 48.5–53.0% | 47.8–53.7% |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 47.4% | 45.7–49.0% | 45.3–49.5% | 44.9–49.9% | 44.1–50.7% |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 50.1% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 45.8% | N/A | N/A | N/A | N/A |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 47.2% | N/A | N/A | N/A | N/A |
@@ -1314,11 +1314,11 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 473 | 451–490 | 443–495 | 436–498 | 419–504 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 354 | 333–376 | 328–382 | 324–387 | 316–398 |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 378 | 360–395 | 355–400 | 351–404 | 343–412 |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 401 | 382–420 | 376–429 | 371–436 | 361–449 |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 401 | 382–420 | 376–428 | 371–436 | 362–449 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 462 | 437–480 | 430–484 | 422–487 | 408–494 |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 409 | 390–435 | 383–444 | 378–450 | 369–461 |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2747,53 +2747,53 @@ The following table shows the probability mass function per seat for the [poll a
 | 377 | 1.4% | 72% |  |
 | 378 | 1.2% | 70% |  |
 | 379 | 1.1% | 69% |  |
-| 380 | 1.5% | 68% |  |
+| 380 | 1.4% | 68% |  |
 | 381 | 1.1% | 66% |  |
 | 382 | 1.2% | 65% |  |
 | 383 | 0.9% | 64% |  |
 | 384 | 1.2% | 63% |  |
 | 385 | 1.1% | 62% |  |
 | 386 | 1.1% | 61% |  |
-| 387 | 1.0% | 60% |  |
+| 387 | 1.1% | 60% |  |
 | 388 | 0.9% | 59% |  |
 | 389 | 0.9% | 58% |  |
 | 390 | 0.8% | 57% |  |
 | 391 | 1.0% | 56% |  |
-| 392 | 1.0% | 55% |  |
-| 393 | 1.0% | 54% |  |
+| 392 | 0.9% | 55% |  |
+| 393 | 0.9% | 54% |  |
 | 394 | 1.0% | 53% |  |
-| 395 | 1.0% | 52% |  |
+| 395 | 1.1% | 52% |  |
 | 396 | 1.0% | 51% |  |
-| 397 | 1.1% | 50% | Median |
+| 397 | 1.0% | 50% | Median |
 | 398 | 1.2% | 49% |  |
 | 399 | 1.1% | 48% |  |
-| 400 | 1.3% | 47% |  |
-| 401 | 1.0% | 46% |  |
+| 400 | 1.2% | 47% |  |
+| 401 | 1.1% | 46% |  |
 | 402 | 1.1% | 45% |  |
 | 403 | 0.9% | 44% |  |
 | 404 | 1.1% | 43% |  |
 | 405 | 0.9% | 42% |  |
 | 406 | 1.0% | 41% |  |
-| 407 | 1.2% | 40% |  |
-| 408 | 1.0% | 38% |  |
+| 407 | 1.1% | 40% |  |
+| 408 | 1.1% | 39% |  |
 | 409 | 0.8% | 37% |  |
-| 410 | 0.7% | 37% |  |
-| 411 | 0.7% | 36% |  |
-| 412 | 0.9% | 35% |  |
-| 413 | 0.7% | 34% |  |
+| 410 | 0.6% | 37% |  |
+| 411 | 0.8% | 36% |  |
+| 412 | 0.8% | 35% |  |
+| 413 | 0.8% | 34% |  |
 | 414 | 0.6% | 34% |  |
 | 415 | 0.5% | 33% |  |
-| 416 | 0.8% | 32% |  |
-| 417 | 0.6% | 32% |  |
+| 416 | 0.7% | 32% |  |
+| 417 | 0.5% | 32% |  |
 | 418 | 0.4% | 31% |  |
 | 419 | 0.4% | 31% |  |
 | 420 | 0.5% | 30% |  |
 | 421 | 0.3% | 30% |  |
-| 422 | 0.3% | 30% |  |
-| 423 | 0.5% | 29% |  |
+| 422 | 0.4% | 30% |  |
+| 423 | 0.4% | 29% |  |
 | 424 | 0.3% | 29% |  |
 | 425 | 0.3% | 28% |  |
-| 426 | 0.2% | 28% |  |
+| 426 | 0.3% | 28% |  |
 | 427 | 0.2% | 28% |  |
 | 428 | 0.3% | 28% |  |
 | 429 | 0.2% | 27% |  |
@@ -2804,7 +2804,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 434 | 0.2% | 26% |  |
 | 435 | 0.3% | 26% |  |
 | 436 | 0.2% | 26% |  |
-| 437 | 0.2% | 26% |  |
+| 437 | 0.3% | 26% |  |
 | 438 | 0.2% | 26% |  |
 | 439 | 0.2% | 25% |  |
 | 440 | 0.3% | 25% |  |

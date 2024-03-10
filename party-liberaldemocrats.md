@@ -21,8 +21,8 @@ Last result: **11.5%** (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10.9% | 10.1–11.9% | 9.8–12.2% | 9.6–12.5% | 9.2–13.0% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 9.7% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 10.9% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 7.7% | N/A | N/A | N/A | N/A |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 10.8% | N/A | N/A | N/A | N/A |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 7.7% | 7.0–8.6% | 6.8–8.8% | 6.6–9.0% | 6.3–9.4% |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 10.8% | 9.8–11.9% | 9.5–12.2% | 9.3–12.4% | 8.9–13.0% |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 9.6% | N/A | N/A | N/A | N/A |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 10.7% | N/A | N/A | N/A | N/A |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 11.8% | N/A | N/A | N/A | N/A |
@@ -1301,8 +1301,8 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 37 | 27–42 | 25–46 | 23–49 | 21–51 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 20 | 15–26 | 14–28 | 11–30 | 8–35 |
+| [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 36 | 27–43 | 24–47 | 23–50 | 20–52 |
 | [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll |  |  |  |  |  |
@@ -2578,23 +2578,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 61% |  |
 | 30 | 3% | 59% |  |
 | 31 | 4% | 56% |  |
-| 32 | 4% | 52% | Median |
-| 33 | 3% | 48% |  |
+| 32 | 4% | 53% | Median |
+| 33 | 3% | 49% |  |
 | 34 | 2% | 46% |  |
 | 35 | 2% | 44% |  |
-| 36 | 3% | 41% |  |
-| 37 | 4% | 38% |  |
-| 38 | 5% | 34% |  |
-| 39 | 3% | 30% |  |
+| 36 | 3% | 42% |  |
+| 37 | 4% | 39% |  |
+| 38 | 5% | 35% |  |
+| 39 | 4% | 30% |  |
 | 40 | 4% | 26% |  |
 | 41 | 3% | 22% |  |
 | 42 | 2% | 19% |  |
-| 43 | 1.3% | 18% |  |
+| 43 | 1.4% | 18% |  |
 | 44 | 0.7% | 16% |  |
-| 45 | 1.2% | 16% |  |
+| 45 | 1.2% | 15% |  |
 | 46 | 2% | 14% |  |
 | 47 | 1.2% | 12% |  |
-| 48 | 1.0% | 11% |  |
+| 48 | 1.1% | 11% |  |
 | 49 | 1.3% | 10% |  |
 | 50 | 2% | 9% |  |
 | 51 | 2% | 7% |  |
