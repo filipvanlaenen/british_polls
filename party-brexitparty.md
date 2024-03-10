@@ -10,15 +10,15 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 4.8–6.8% | 4.6–7.2% | 4.4–7.4% | 4.1–8.0% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.0–6.8% | 3.6–7.1% | 3.4–7.4% | 3.0–7.9% |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think | 6.2% | 5.4–7.2% | 5.1–7.5% | 4.9–7.8% | 4.6–8.3% |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.3% | 4.0–6.6% |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 5.1% | 4.5–5.9% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.8–7.8% | 4.5–8.4% |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 5.6% | 4.9–6.5% | 4.7–6.8% | 4.5–7.0% | 4.2–7.4% |
-| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 3.7% | N/A | N/A | N/A | N/A |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.2% | N/A | N/A | N/A | N/A |
+| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 3.7% | 3.2–4.3% | 3.1–4.4% | 2.9–4.6% | 2.7–4.9% |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 4.7% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 5.7% | N/A | N/A | N/A | N/A |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 6.7% | N/A | N/A | N/A | N/A |
@@ -1272,12 +1272,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 35% | 96% |  |
-| 5.5–6.5% | 44% | 61% | Median |
-| 6.5–7.5% | 15% | 17% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 2.5–3.5% | 4% | 100% |  |
+| 3.5–4.5% | 11% | 96% |  |
+| 4.5–5.5% | 28% | 85% |  |
+| 5.5–6.5% | 40% | 57% | Median |
+| 6.5–7.5% | 15% | 16% |  |
+| 7.5–8.5% | 1.5% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -1290,15 +1290,15 @@ Last result: **0** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–11 | 3–13 | 2–18 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 0–11 | 0–13 | 0–18 |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think | 4 | 3–12 | 3–14 | 3–17 | 3–19 |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–5 | 3–6 | 2–12 |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–5 | 3–7 | 3–12 |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 3 | 3–4 | 2–4 | 2–4 | 0–6 |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 4 | 3–6 | 3–11 | 3–13 | 2–18 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 4 | 3–9 | 3–12 | 3–14 | 3–18 |
-| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta |  |  |  |  |  |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–10 | 3–12 | 3–13 | 3–17 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -2553,26 +2553,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0.1% | 99.8% |  |
-| 2 | 2% | 99.7% |  |
-| 3 | 41% | 98% |  |
-| 4 | 40% | 57% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0.9% | 93% |  |
+| 2 | 5% | 92% |  |
+| 3 | 34% | 88% |  |
+| 4 | 37% | 54% | Median |
 | 5 | 5% | 17% |  |
-| 6 | 3% | 12% |  |
-| 7 | 2% | 9% |  |
-| 8 | 0.4% | 7% |  |
+| 6 | 3% | 11% |  |
+| 7 | 2% | 8% |  |
+| 8 | 0.4% | 6% |  |
 | 9 | 0.2% | 6% |  |
-| 10 | 0.5% | 6% |  |
+| 10 | 0.6% | 6% |  |
 | 11 | 0.9% | 5% |  |
-| 12 | 2% | 5% |  |
-| 13 | 1.0% | 3% |  |
+| 12 | 2% | 4% |  |
+| 13 | 0.9% | 3% |  |
 | 14 | 0.7% | 2% |  |
-| 15 | 0.1% | 1.2% |  |
-| 16 | 0.3% | 1.1% |  |
-| 17 | 0.2% | 0.8% |  |
-| 18 | 0.3% | 0.6% |  |
-| 19 | 0.3% | 0.4% |  |
+| 15 | 0.1% | 1.1% |  |
+| 16 | 0.3% | 1.0% |  |
+| 17 | 0.1% | 0.7% |  |
+| 18 | 0.2% | 0.5% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

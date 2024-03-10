@@ -10,15 +10,15 @@ Last result: **3.9%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.7–3.9% | 2.6–4.1% | 2.5–4.2% | 2.2–4.6% |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think | 3.2% | 2.7–4.0% | 2.5–4.3% | 2.3–4.5% | 2.1–4.9% |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 3.3% | 2.8–3.9% | 2.7–4.0% | 2.5–4.2% | 2.3–4.5% |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 3.3% | 2.7–4.0% | 2.6–4.2% | 2.4–4.3% | 2.2–4.7% |
-| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 3.2% | N/A | N/A | N/A | N/A |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | N/A | N/A | N/A | N/A |
+| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.3–4.5% |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think | 3.2% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium | 3.3% | N/A | N/A | N/A | N/A |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 3.3% | N/A | N/A | N/A | N/A |
@@ -1273,9 +1273,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 68% | 96% | Median |
-| 3.5–4.5% | 27% | 28% | Last Result |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 69% | 96% | Median |
+| 3.5–4.5% | 26% | 27% | Last Result |
+| 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -1287,15 +1287,15 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 27–48 | 24–52 | 21–53 | 17–56 |
+| N/A | [Poll Average](average.html) | 38 | 27–47 | 24–51 | 21–53 | 17–56 |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think | 38 | 25–50 | 21–53 | 18–55 | 16–57 |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 39 | 31–48 | 27–51 | 24–53 | 18–55 |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 36 | 27–44 | 25–45 | 24–47 | 21–53 |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 36 | 27–44 | 22–47 | 21–50 | 18–54 |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 40 | 28–52 | 23–54 | 20–55 | 16–57 |
-| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta |  |  |  |  |  |
-| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 35 | 26–44 | 21–46 | 19–49 | 17–53 |
+| [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 30–46 | 26–50 | 23–52 | 19–54 |
 | [1 March 2024](2024-03-01-WeThink.html) | We Think |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -2550,53 +2550,52 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0% | 100% |  |
-| 12 | 0% | 99.9% |  |
+| 12 | 0% | 100% |  |
 | 13 | 0% | 99.9% |  |
 | 14 | 0% | 99.9% |  |
 | 15 | 0.1% | 99.9% |  |
 | 16 | 0.1% | 99.8% |  |
 | 17 | 0.3% | 99.7% |  |
-| 18 | 0.5% | 99.3% |  |
-| 19 | 0.5% | 98.9% |  |
-| 20 | 0.5% | 98% |  |
-| 21 | 0.8% | 98% |  |
-| 22 | 1.2% | 97% |  |
+| 18 | 0.5% | 99.4% |  |
+| 19 | 0.6% | 98.9% |  |
+| 20 | 0.6% | 98% |  |
+| 21 | 0.9% | 98% |  |
+| 22 | 1.1% | 97% |  |
 | 23 | 0.7% | 96% |  |
-| 24 | 1.1% | 95% |  |
+| 24 | 1.0% | 95% |  |
 | 25 | 2% | 94% |  |
-| 26 | 1.4% | 92% |  |
+| 26 | 2% | 93% |  |
 | 27 | 1.4% | 91% |  |
-| 28 | 1.0% | 89% |  |
+| 28 | 1.3% | 89% |  |
 | 29 | 3% | 88% |  |
 | 30 | 2% | 85% |  |
-| 31 | 3% | 83% |  |
-| 32 | 4% | 80% |  |
+| 31 | 4% | 83% |  |
+| 32 | 3% | 79% |  |
 | 33 | 2% | 76% |  |
-| 34 | 10% | 74% |  |
-| 35 | 2% | 65% |  |
-| 36 | 8% | 62% |  |
-| 37 | 3% | 54% |  |
-| 38 | 8% | 52% | Median |
-| 39 | 3% | 44% |  |
-| 40 | 4% | 41% |  |
-| 41 | 8% | 37% |  |
-| 42 | 3% | 29% |  |
-| 43 | 4% | 26% |  |
-| 44 | 5% | 22% |  |
-| 45 | 2% | 17% |  |
-| 46 | 2% | 14% |  |
-| 47 | 1.1% | 12% |  |
-| 48 | 2% | 11% | Last Result |
-| 49 | 1.2% | 9% |  |
-| 50 | 1.1% | 8% |  |
-| 51 | 2% | 7% |  |
-| 52 | 2% | 5% |  |
-| 53 | 1.4% | 4% |  |
-| 54 | 0.9% | 2% |  |
-| 55 | 0.7% | 2% |  |
-| 56 | 0.4% | 0.9% |  |
-| 57 | 0.4% | 0.5% |  |
+| 34 | 11% | 74% |  |
+| 35 | 2% | 63% |  |
+| 36 | 8% | 61% |  |
+| 37 | 2% | 53% |  |
+| 38 | 9% | 51% | Median |
+| 39 | 3% | 42% |  |
+| 40 | 5% | 39% |  |
+| 41 | 7% | 34% |  |
+| 42 | 3% | 27% |  |
+| 43 | 4% | 23% |  |
+| 44 | 4% | 19% |  |
+| 45 | 2% | 15% |  |
+| 46 | 2% | 13% |  |
+| 47 | 0.9% | 10% |  |
+| 48 | 2% | 9% | Last Result |
+| 49 | 1.0% | 8% |  |
+| 50 | 1.0% | 7% |  |
+| 51 | 2% | 6% |  |
+| 52 | 1.3% | 4% |  |
+| 53 | 1.1% | 3% |  |
+| 54 | 0.7% | 2% |  |
+| 55 | 0.5% | 1.2% |  |
+| 56 | 0.3% | 0.6% |  |
+| 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
