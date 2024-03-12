@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.9–1.3% | 0.8–1.4% | 0.8–1.5% | 0.6–1.8% |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 1.1% | 0.8–1.4% | 0.7–1.6% | 0.7–1.6% | 0.6–1.8% |
@@ -51,7 +51,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 | [6–9 February 2024](2024-02-09-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 February 2024](2024-02-08-YouGov.html) | YouGov <br> The Times | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [7–8 February 2024](2024-02-08-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
-| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 1.1% | N/A | N/A | N/A | N/A |
+| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 1.1% | 1.0–1.2% | 0.9–1.3% | 0.9–1.3% | 0.9–1.4% |
 | [3–5 February 2024](2024-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 February 2024](2024-02-05-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
 | [4 February 2024](2024-02-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
@@ -1271,9 +1271,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 95% | 99.8% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 98% | 99.9% | Last Result, Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1285,7 +1285,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 4–5 | 4–6 |
 | [7–8 March 2024](2024-03-08-WeThink.html) | We Think |  |  |  |  |  |
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 5 | 5 | 4–5 | 4–5 | 3–6 |
@@ -1326,7 +1326,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 | [6–9 February 2024](2024-02-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [7–8 February 2024](2024-02-08-YouGov.html) | YouGov <br> The Times | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [7–8 February 2024](2024-02-08-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine |  |  |  |  |  |
+| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 5 | 5 | 5 | 5 | 5 |
 | [3–5 February 2024](2024-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [2–5 February 2024](2024-02-05-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [4 February 2024](2024-02-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 2 | 0–3 | 0–3 | 0–4 | 0–5 |
@@ -2548,10 +2548,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 8% | 99.4% | Last Result |
-| 5 | 90% | 91% | Median |
-| 6 | 1.3% | 1.3% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 4% | 99.7% | Last Result |
+| 5 | 95% | 96% | Median |
+| 6 | 0.6% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
