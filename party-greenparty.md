@@ -10,7 +10,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.6–7.0% | 2.4–7.4% | 2.2–7.7% | 2.0–8.3% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.2–7.0% | 2.6–7.4% | 2.4–7.6% | 2.1–8.2% |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 4.3% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 3.0–6.0% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
@@ -19,13 +19,13 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 4.2% | 3.6–5.0% | 3.5–5.2% | 3.3–5.4% | 3.1–5.8% |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 6.9% | 6.2–7.8% | 6.0–8.0% | 5.9–8.2% | 5.5–8.6% |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.4% |
-| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 5.0% | N/A | N/A | N/A | N/A |
+| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.8–6.4% |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph | 3.4% | N/A | N/A | N/A | N/A |
 | [24 March 2024](2024-03-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.2% | N/A | N/A | N/A | N/A |
-| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
+| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.3% | 3.1–5.6% |
 | [21–22 March 2024](2024-03-22-WeThink.html) | We Think | 5.0% | N/A | N/A | N/A | N/A |
-| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 3.3% | N/A | N/A | N/A | N/A |
-| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 6.8% | N/A | N/A | N/A | N/A |
+| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 3.3% | 3.1–3.5% | 3.1–3.6% | 3.0–3.6% | 3.0–3.7% |
+| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 6.8% | 6.1–7.6% | 5.9–7.9% | 5.7–8.1% | 5.3–8.5% |
 | [20–21 March 2024](2024-03-21-TechneUK.html) | Techne UK | 5.2% | N/A | N/A | N/A | N/A |
 | [19–20 March 2024](2024-03-20-YouGov.html) | YouGov <br> The Times | 7.0% | N/A | N/A | N/A | N/A |
 | [19–20 March 2024](2024-03-20-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
@@ -37,7 +37,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [11–14 March 2024](2024-03-14-Survation.html) | Survation | 2.4% | N/A | N/A | N/A | N/A |
 | [12–13 March 2024](2024-03-13-YouGov.html) | YouGov <br> The Times | 6.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2024](2024-03-11-MoreinCommon.html) | More in Common | 5.1% | N/A | N/A | N/A | N/A |
-| [7–11 March 2024](2024-03-11-LordAshcroft.html) | Lord Ashcroft | 6.8% | N/A | N/A | N/A | N/A |
+| [7–11 March 2024](2024-03-11-LordAshcroft.html) | Lord Ashcroft | 6.8% | 6.4–7.3% | 6.2–7.4% | 6.1–7.6% | 5.9–7.8% |
 | [8–11 March 2024](2024-03-11-Deltapoll.html) | Deltapoll | 3.4% | N/A | N/A | N/A | N/A |
 | [8–10 March 2024](2024-03-10-Savanta.html) | Savanta | 3.3% | N/A | N/A | N/A | N/A |
 | [10 March 2024](2024-03-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.3% | N/A | N/A | N/A | N/A |
@@ -46,7 +46,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 5.9% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 6.1% | 5.2–7.1% | 5.0–7.4% | 4.8–7.7% | 4.4–8.2% |
-| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 5.1% | N/A | N/A | N/A | N/A |
+| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 5.1% | 4.4–6.0% | 4.2–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 5.1% | 4.4–5.9% | 4.2–6.2% | 4.0–6.4% | 3.7–6.8% |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 3.3% | 2.9–3.9% | 2.7–4.0% | 2.6–4.1% | 2.4–4.4% |
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.1% | 4.5–5.9% | 4.4–6.1% | 4.2–6.3% | 3.9–6.6% |
@@ -1304,14 +1304,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 12% | 91% | Last Result |
-| 3.5–4.5% | 31% | 80% |  |
-| 4.5–5.5% | 18% | 49% | Median |
-| 5.5–6.5% | 13% | 31% |  |
-| 6.5–7.5% | 14% | 18% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 14% | 96% | Last Result |
+| 3.5–4.5% | 24% | 82% |  |
+| 4.5–5.5% | 22% | 57% | Median |
+| 5.5–6.5% | 14% | 35% |  |
+| 6.5–7.5% | 18% | 21% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -1332,13 +1332,13 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 2–3 | 1–3 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 1 | 1 | 1 | 1 | 1 |
-| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–2 |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
 | [24 March 2024](2024-03-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [21–22 March 2024](2024-03-22-WeThink.html) | We Think |  |  |  |  |  |
-| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain |  |  |  |  |  |
-| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 1 | 1 | 1 | 1 | 1 |
+| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [20–21 March 2024](2024-03-21-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-MoreinCommon.html) | More in Common |  |  |  |  |  |
@@ -1350,7 +1350,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [11–14 March 2024](2024-03-14-Survation.html) | Survation |  |  |  |  |  |
 | [12–13 March 2024](2024-03-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [8–11 March 2024](2024-03-11-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [7–11 March 2024](2024-03-11-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
+| [7–11 March 2024](2024-03-11-LordAshcroft.html) | Lord Ashcroft | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [8–11 March 2024](2024-03-11-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [8–10 March 2024](2024-03-10-Savanta.html) | Savanta |  |  |  |  |  |
 | [10 March 2024](2024-03-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -1359,7 +1359,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 1 | 1 | 1–2 | 1–2 | 1–3 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–3 |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1–2 | 1–3 | 1–3 |
@@ -2618,10 +2618,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 71% | 100% | Last Result, Median |
-| 2 | 12% | 29% |  |
-| 3 | 17% | 17% |  |
-| 4 | 0.3% | 0.3% |  |
+| 1 | 70% | 100% | Last Result, Median |
+| 2 | 9% | 30% |  |
+| 3 | 21% | 21% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
