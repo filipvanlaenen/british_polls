@@ -12,6 +12,7 @@ Last result: **0.5%** (General Election of 12 December 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.0% | N/A | N/A | N/A | N/A |
@@ -1304,8 +1305,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 94% | 99.8% | Last Result, Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.5–1.5% | 93% | 99.8% | Last Result, Median |
+| 1.5–2.5% | 7% | 7% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1319,6 +1320,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think |  |  |  |  |  |
+| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
@@ -2614,9 +2616,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 2% | 99.9% | Last Result |
-| 5 | 90% | 97% | Median |
-| 6 | 6% | 7% |  |
-| 7 | 0.5% | 0.6% |  |
+| 5 | 89% | 97% | Median |
+| 6 | 7% | 8% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 

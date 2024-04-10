@@ -12,6 +12,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.7% | 4.5–7.3% | 4.2–7.8% | 4.1–8.2% | 3.9–8.9% |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.7% | 4.5–8.2% |
+| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 7.8% | 7.1–8.7% | 6.8–9.0% | 6.7–9.2% | 6.3–9.6% |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.6% | 5.9–7.4% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
@@ -1325,6 +1326,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–12 | 2–14 | 2–18 | 1–20 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 4 | 3–7 | 3–12 | 3–13 | 2–18 |
+| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–5 | 3–6 | 2–12 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 4 | 3–6 | 3–11 | 3–12 | 3–16 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 14 | 6–19 | 5–20 | 4–20 | 4–21 |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–11 | 3–12 | 3–14 | 3–18 |
