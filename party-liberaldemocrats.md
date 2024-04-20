@@ -1326,8 +1326,8 @@ Last result: **11** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 18–42 | 7–49 | 7–53 | 6–63 |
-| [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 34 | 26–41 | 24–44 | 23–49 | 20–52 |
-| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 30 | 24–39 | 22–40 | 20–41 | 18–45 |
+| [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 34 | 26–42 | 24–44 | 23–49 | 20–52 |
+| [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 31 | 24–39 | 22–40 | 21–41 | 18–45 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 30 | 22–39 | 21–40 | 19–43 | 17–50 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 27 | 20–36 | 19–38 | 18–40 | 16–45 |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 30–47 | 27–50 | 26–51 | 22–53 |
@@ -2646,23 +2646,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 5% | 56% |  |
 | 29 | 3% | 52% | Median |
 | 30 | 4% | 49% |  |
-| 31 | 4% | 45% |  |
+| 31 | 5% | 45% |  |
 | 32 | 4% | 40% |  |
-| 33 | 2% | 36% |  |
+| 33 | 3% | 36% |  |
 | 34 | 2% | 33% |  |
 | 35 | 3% | 31% |  |
 | 36 | 3% | 29% |  |
 | 37 | 4% | 25% |  |
-| 38 | 4% | 21% |  |
+| 38 | 4% | 22% |  |
 | 39 | 3% | 18% |  |
-| 40 | 2% | 14% |  |
+| 40 | 2% | 15% |  |
 | 41 | 2% | 12% |  |
-| 42 | 1.0% | 10% |  |
+| 42 | 1.1% | 10% |  |
 | 43 | 0.7% | 9% |  |
 | 44 | 0.4% | 9% |  |
 | 45 | 0.8% | 8% |  |
 | 46 | 1.0% | 7% |  |
-| 47 | 0.6% | 6% |  |
+| 47 | 0.7% | 6% |  |
 | 48 | 0.5% | 6% |  |
 | 49 | 0.7% | 5% |  |
 | 50 | 0.7% | 5% |  |
