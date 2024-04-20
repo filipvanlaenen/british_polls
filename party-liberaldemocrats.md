@@ -1328,7 +1328,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | N/A | [Poll Average](average.html) | 29 | 18–42 | 7–49 | 7–53 | 6–63 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 34 | 26–42 | 24–44 | 23–49 | 20–52 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 31 | 24–39 | 22–40 | 21–41 | 18–45 |
-| [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 30 | 22–39 | 21–40 | 19–43 | 17–50 |
+| [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 30 | 22–39 | 20–41 | 19–43 | 17–50 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 27 | 20–36 | 19–38 | 18–40 | 16–45 |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 30–47 | 27–50 | 26–51 | 22–53 |
 | [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 30 | 22–40 | 20–42 | 19–44 | 16–51 |
@@ -2653,7 +2653,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 3% | 31% |  |
 | 36 | 3% | 29% |  |
 | 37 | 4% | 25% |  |
-| 38 | 4% | 22% |  |
+| 38 | 4% | 21% |  |
 | 39 | 3% | 18% |  |
 | 40 | 2% | 15% |  |
 | 41 | 2% | 12% |  |
@@ -2664,7 +2664,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 1.0% | 7% |  |
 | 47 | 0.7% | 6% |  |
 | 48 | 0.5% | 6% |  |
-| 49 | 0.7% | 5% |  |
+| 49 | 0.6% | 5% |  |
 | 50 | 0.7% | 5% |  |
 | 51 | 0.7% | 4% |  |
 | 52 | 0.4% | 3% |  |
