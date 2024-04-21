@@ -1332,7 +1332,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–11 | 3–12 | 3–14 | 3–18 |
 | [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 3 | 2–4 | 0–4 | 0–4 | 0–5 |
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 4 | 3–5 | 3–6 | 3–7 | 2–13 |
-| [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 18 | 12–20 | 10–21 | 6–21 | 4–23 |
+| [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 19 | 12–20 | 9–21 | 6–21 | 4–23 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 3 | 3–4 | 2–4 | 2–4 | 1–5 |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
@@ -2628,16 +2628,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 5% | 22% |  |
 | 6 | 3% | 17% |  |
 | 7 | 2% | 14% |  |
-| 8 | 0.4% | 12% |  |
+| 8 | 0.5% | 12% |  |
 | 9 | 0.3% | 12% |  |
 | 10 | 0.6% | 12% |  |
-| 11 | 0.9% | 11% |  |
+| 11 | 1.0% | 11% |  |
 | 12 | 2% | 10% |  |
 | 13 | 2% | 8% |  |
 | 14 | 1.5% | 6% |  |
-| 15 | 0.2% | 5% |  |
+| 15 | 0.1% | 5% |  |
 | 16 | 1.0% | 5% |  |
-| 17 | 0.4% | 4% |  |
+| 17 | 0.5% | 4% |  |
 | 18 | 0.9% | 3% |  |
 | 19 | 1.4% | 2% |  |
 | 20 | 0.7% | 0.8% |  |

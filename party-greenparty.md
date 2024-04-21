@@ -1329,7 +1329,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1–2 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1–2 |
 | [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1 |
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1 |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 2–3 | 1–3 |

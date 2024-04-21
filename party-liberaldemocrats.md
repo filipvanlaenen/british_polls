@@ -1329,11 +1329,11 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 34 | 26–42 | 24–44 | 23–49 | 20–52 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 31 | 24–39 | 22–40 | 21–41 | 18–45 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 30 | 22–39 | 20–41 | 19–43 | 17–50 |
-| [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 27 | 20–36 | 19–38 | 18–40 | 16–45 |
-| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 30–47 | 27–50 | 26–51 | 22–53 |
-| [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 30 | 22–40 | 20–42 | 19–44 | 16–51 |
+| [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 27 | 20–37 | 19–38 | 18–40 | 16–45 |
+| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 30–47 | 27–50 | 25–51 | 22–53 |
+| [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 30 | 22–40 | 20–41 | 19–44 | 16–51 |
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 36 | 26–43 | 24–47 | 23–50 | 20–52 |
-| [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 41 | 34–51 | 31–52 | 29–53 | 25–57 |
+| [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 41 | 34–51 | 31–52 | 29–53 | 24–58 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 33 | 26–39 | 25–40 | 24–41 | 22–43 |
 | [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 23 | 18–27 | 16–30 | 15–32 | 10–37 |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
@@ -2650,20 +2650,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 4% | 40% |  |
 | 33 | 3% | 36% |  |
 | 34 | 2% | 33% |  |
-| 35 | 3% | 31% |  |
+| 35 | 2% | 31% |  |
 | 36 | 3% | 29% |  |
 | 37 | 4% | 25% |  |
-| 38 | 4% | 21% |  |
+| 38 | 4% | 22% |  |
 | 39 | 3% | 18% |  |
-| 40 | 2% | 15% |  |
+| 40 | 2% | 14% |  |
 | 41 | 2% | 12% |  |
-| 42 | 1.1% | 10% |  |
+| 42 | 1.2% | 10% |  |
 | 43 | 0.7% | 9% |  |
 | 44 | 0.4% | 9% |  |
 | 45 | 0.8% | 8% |  |
 | 46 | 1.0% | 7% |  |
-| 47 | 0.7% | 6% |  |
-| 48 | 0.5% | 6% |  |
+| 47 | 0.6% | 6% |  |
+| 48 | 0.6% | 6% |  |
 | 49 | 0.6% | 5% |  |
 | 50 | 0.7% | 5% |  |
 | 51 | 0.7% | 4% |  |

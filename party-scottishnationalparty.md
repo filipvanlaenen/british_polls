@@ -1326,8 +1326,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 39 | 30–49 | 26–51 | 23–53 | 18–56 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 37 | 28–45 | 22–49 | 21–52 | 20–55 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 41 | 31–48 | 28–52 | 25–53 | 22–55 |
-| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 34 | 27–43 | 24–46 | 22–48 | 20–53 |
-| [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 37 | 24–48 | 21–52 | 18–53 | 16–56 |
+| [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 34 | 27–44 | 25–45 | 22–48 | 20–53 |
+| [27–28 March 2024](2024-03-28-WeThink.html) | We Think | 38 | 24–48 | 21–52 | 18–53 | 16–56 |
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 36 | 27–45 | 23–49 | 21–52 | 18–55 |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 40 | 34–50 | 32–52 | 28–53 | 22–56 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 36 | 29–42 | 26–44 | 23–45 | 21–50 |
@@ -2638,21 +2638,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.7% | 94% |  |
 | 20 | 0.7% | 93% |  |
 | 21 | 1.3% | 92% |  |
-| 22 | 1.3% | 91% |  |
+| 22 | 1.4% | 91% |  |
 | 23 | 0.9% | 90% |  |
 | 24 | 0.7% | 89% |  |
 | 25 | 1.1% | 88% |  |
 | 26 | 1.4% | 87% |  |
-| 27 | 1.3% | 86% |  |
+| 27 | 1.4% | 85% |  |
 | 28 | 0.8% | 84% |  |
 | 29 | 3% | 83% |  |
 | 30 | 2% | 80% |  |
-| 31 | 3% | 79% |  |
+| 31 | 3% | 78% |  |
 | 32 | 5% | 75% |  |
-| 33 | 2% | 71% |  |
-| 34 | 11% | 69% |  |
+| 33 | 2% | 70% |  |
+| 34 | 11% | 68% |  |
 | 35 | 2% | 57% |  |
-| 36 | 10% | 56% | Median |
+| 36 | 10% | 55% | Median |
 | 37 | 2% | 46% |  |
 | 38 | 9% | 43% |  |
 | 39 | 3% | 35% |  |
