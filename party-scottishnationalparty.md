@@ -1331,10 +1331,10 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 36 | 27–45 | 23–49 | 21–52 | 18–55 |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 40 | 34–50 | 32–52 | 28–53 | 22–56 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 36 | 29–42 | 26–44 | 23–45 | 21–50 |
-| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 38 | 26–46 | 23–49 | 20–52 | 17–54 |
+| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 38 | 26–46 | 23–49 | 20–52 | 17–55 |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
 | [24 March 2024](2024-03-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 38 | 28–47 | 24–51 | 21–52 | 17–55 |
+| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 38 | 28–47 | 23–51 | 21–52 | 17–55 |
 | [21–22 March 2024](2024-03-22-WeThink.html) | We Think |  |  |  |  |  |
 | [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 36 | 32–38 | 31–38 | 29–39 | 27–42 |
 | [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 39 | 30–49 | 26–52 | 22–53 | 18–56 |
@@ -2634,9 +2634,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.7% | 97% |  |
 | 16 | 1.1% | 97% |  |
 | 17 | 1.0% | 96% |  |
-| 18 | 0.9% | 95% |  |
+| 18 | 1.0% | 95% |  |
 | 19 | 0.7% | 94% |  |
-| 20 | 0.7% | 93% |  |
+| 20 | 0.8% | 93% |  |
 | 21 | 1.3% | 92% |  |
 | 22 | 1.4% | 91% |  |
 | 23 | 0.9% | 90% |  |
@@ -2650,7 +2650,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 3% | 78% |  |
 | 32 | 5% | 75% |  |
 | 33 | 2% | 70% |  |
-| 34 | 11% | 68% |  |
+| 34 | 11% | 69% |  |
 | 35 | 2% | 57% |  |
 | 36 | 10% | 55% | Median |
 | 37 | 2% | 46% |  |
@@ -2663,16 +2663,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 4% | 15% |  |
 | 45 | 2% | 11% |  |
 | 46 | 2% | 9% |  |
-| 47 | 0.9% | 7% |  |
-| 48 | 1.1% | 6% | Last Result |
-| 49 | 0.7% | 5% |  |
+| 47 | 1.0% | 7% |  |
+| 48 | 1.1% | 7% | Last Result |
+| 49 | 0.8% | 5% |  |
 | 50 | 0.8% | 5% |  |
 | 51 | 1.1% | 4% |  |
 | 52 | 0.9% | 3% |  |
 | 53 | 0.8% | 2% |  |
 | 54 | 0.5% | 1.0% |  |
 | 55 | 0.3% | 0.6% |  |
-| 56 | 0.1% | 0.3% |  |
+| 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 

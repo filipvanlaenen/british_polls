@@ -1339,7 +1339,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [24 March 2024](2024-03-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 3 | 3–4 | 3–4 | 3–5 | 2–10 |
 | [21–22 March 2024](2024-03-22-WeThink.html) | We Think |  |  |  |  |  |
-| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 2 | 2–3 | 1–3 | 0–3 | 0–3 |
+| [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 2 | 1–3 | 1–3 | 0–3 | 0–3 |
 | [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–5 | 3–6 | 2–12 |
 | [20–21 March 2024](2024-03-21-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -2621,7 +2621,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 0.5% | 99.6% |  |
+| 1 | 0.6% | 99.6% |  |
 | 2 | 7% | 99.1% |  |
 | 3 | 40% | 92% |  |
 | 4 | 30% | 52% | Median |

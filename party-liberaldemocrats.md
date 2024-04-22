@@ -1335,13 +1335,13 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [27–28 March 2024](2024-03-28-TechneUK.html) | Techne UK | 36 | 26–43 | 24–47 | 23–50 | 20–52 |
 | [26–27 March 2024](2024-03-27-YouGov.html) | YouGov <br> The Times | 41 | 34–51 | 31–52 | 29–53 | 24–58 |
 | [25–27 March 2024](2024-03-27-Savanta.html) | Savanta <br> The Sun | 33 | 26–39 | 25–40 | 24–41 | 22–43 |
-| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 23 | 18–27 | 16–30 | 15–32 | 10–37 |
+| [22–25 March 2024](2024-03-25-Deltapoll.html) | Deltapoll | 23 | 17–27 | 16–30 | 15–32 | 10–37 |
 | [22–24 March 2024](2024-03-24-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
 | [24 March 2024](2024-03-24-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 27 | 22–32 | 20–37 | 19–38 | 16–40 |
+| [23–24 March 2024](2024-03-24-MoreinCommon.html) | More in Common | 27 | 22–33 | 20–36 | 19–38 | 16–40 |
 | [21–22 March 2024](2024-03-22-WeThink.html) | We Think |  |  |  |  |  |
 | [8–22 March 2024](2024-03-22-Survation.html) | Survation <br> Best for Britain | 27 | 26–31 | 25–32 | 25–32 | 24–33 |
-| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 31 | 24–38 | 22–40 | 20–41 | 18–45 |
+| [20–22 March 2024](2024-03-22-Opinium.html) | Opinium <br> The Observer | 31 | 24–39 | 22–40 | 20–41 | 18–45 |
 | [20–21 March 2024](2024-03-21-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-MoreinCommon.html) | More in Common |  |  |  |  |  |
@@ -2638,12 +2638,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 2% | 88% |  |
 | 21 | 2% | 87% |  |
 | 22 | 3% | 85% |  |
-| 23 | 3% | 82% |  |
-| 24 | 3% | 79% |  |
+| 23 | 4% | 82% |  |
+| 24 | 3% | 78% |  |
 | 25 | 4% | 75% |  |
 | 26 | 6% | 71% |  |
 | 27 | 9% | 65% |  |
-| 28 | 5% | 56% |  |
+| 28 | 4% | 56% |  |
 | 29 | 3% | 52% | Median |
 | 30 | 4% | 49% |  |
 | 31 | 5% | 45% |  |
@@ -2652,10 +2652,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 2% | 33% |  |
 | 35 | 2% | 31% |  |
 | 36 | 3% | 29% |  |
-| 37 | 4% | 25% |  |
-| 38 | 4% | 22% |  |
+| 37 | 4% | 26% |  |
+| 38 | 4% | 21% |  |
 | 39 | 3% | 18% |  |
-| 40 | 2% | 14% |  |
+| 40 | 2% | 15% |  |
 | 41 | 2% | 12% |  |
 | 42 | 1.2% | 10% |  |
 | 43 | 0.7% | 9% |  |

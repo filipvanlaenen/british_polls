@@ -1318,7 +1318,7 @@ Last result: **4** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 4–6 | 4–7 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think |  |  |  |  |  |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 5 | 5 | 5–6 | 5–6 | 4–7 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK |  |  |  |  |  |
@@ -2616,9 +2616,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 2% | 99.9% | Last Result |
-| 5 | 89% | 98% | Median |
+| 5 | 89% | 97% | Median |
 | 6 | 7% | 8% |  |
-| 7 | 0.7% | 0.8% |  |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 
