@@ -1369,7 +1369,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1 |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 1–2 |
 | [23–25 February 2024](2024-02-25-Savanta.html) | Savanta | 1 | 1 | 1 | 1 | 1 |

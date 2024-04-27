@@ -1383,7 +1383,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 462 | 437–480 | 430–484 | 422–487 | 408–494 |
 | [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 409 | 390–435 | 383–444 | 378–450 | 369–461 |
-| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 460 | 429–481 | 417–486 | 408–492 | 396–503 |
+| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 459 | 429–481 | 417–487 | 408–492 | 395–503 |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 362 | 344–380 | 340–384 | 337–388 | 330–398 |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 408 | 388–435 | 381–444 | 376–451 | 366–463 |
 | [23–25 February 2024](2024-02-25-Savanta.html) | Savanta | 383 | 367–402 | 361–407 | 357–411 | 348–418 |
@@ -1411,7 +1411,7 @@ Last result: **202** seats (General Election of 12 December 2019)
 | [6–9 February 2024](2024-02-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [7–8 February 2024](2024-02-08-YouGov.html) | YouGov <br> The Times | 451 | 424–473 | 417–478 | 412–482 | 403–489 |
 | [7–8 February 2024](2024-02-08-TechneUK.html) | Techne UK | 406 | 386–427 | 380–437 | 375–445 | 366–457 |
-| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 431 | 417–440 | 414–442 | 412–445 | 407–449 |
+| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 431 | 417–440 | 414–442 | 412–445 | 407–448 |
 | [3–5 February 2024](2024-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 407 | 398–420 | 395–424 | 392–428 | 386–439 |
 | [2–5 February 2024](2024-02-05-Deltapoll.html) | Deltapoll | 371 | 352–388 | 346–393 | 342–398 | 335–408 |
 | [4 February 2024](2024-02-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 407 | 389–426 | 383–433 | 378–441 | 370–454 |

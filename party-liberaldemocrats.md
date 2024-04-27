@@ -1389,7 +1389,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [13–15 February 2024](2024-02-15-Survation.html) | Survation | 19 | 10–26 | 8–27 | 7–29 | 6–35 |
 | [9–12 February 2024](2024-02-12-YouGov.html) | YouGov <br> WPI Strategy |  |  |  |  |  |
 | [8–12 February 2024](2024-02-12-LordAshcroft.html) | Lord Ashcroft | 8 | 6–12 | 6–12 | 6–15 | 6–17 |
-| [12 February 2024](2024-02-12-FindOutNow.html) | FindOutNow <br> The Mirror | 43 | 39–47 | 38–49 | 38–50 | 37–51 |
+| [12 February 2024](2024-02-12-FindOutNow.html) | FindOutNow <br> The Mirror | 43 | 39–48 | 38–49 | 38–50 | 37–51 |
 | [8–12 February 2024](2024-02-12-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [9–11 February 2024](2024-02-11-Savanta.html) | Savanta |  |  |  |  |  |
 | [11 February 2024](2024-02-11-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |

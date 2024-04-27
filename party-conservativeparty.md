@@ -1388,7 +1388,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [1 March 2024](2024-03-01-Opinium.html) | Opinium |  |  |  |  |  |
 | [28–29 February 2024](2024-02-29-YouGov.html) | YouGov <br> The Times | 96 | 78–120 | 74–127 | 71–136 | 64–149 |
 | [28–29 February 2024](2024-02-29-TechneUK.html) | Techne UK | 142 | 112–162 | 101–170 | 95–176 | 82–185 |
-| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 80 | 57–113 | 51–127 | 44–137 | 34–152 |
+| [21–28 February 2024](2024-02-28-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 80 | 58–113 | 51–127 | 44–137 | 34–151 |
 | [23–27 February 2024](2024-02-27-MoreinCommon.html) | More in Common | 202 | 183–219 | 178–223 | 174–227 | 164–232 |
 | [23–26 February 2024](2024-02-26-Deltapoll.html) | Deltapoll | 136 | 106–158 | 95–165 | 88–172 | 75–181 |
 | [23–25 February 2024](2024-02-25-Savanta.html) | Savanta | 177 | 156–193 | 150–199 | 146–204 | 138–213 |
@@ -1416,7 +1416,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [6–9 February 2024](2024-02-09-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [7–8 February 2024](2024-02-08-YouGov.html) | YouGov <br> The Times | 102 | 78–131 | 72–139 | 69–145 | 61–153 |
 | [7–8 February 2024](2024-02-08-TechneUK.html) | Techne UK | 148 | 125–170 | 115–177 | 106–182 | 92–190 |
-| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 102 | 90–117 | 88–120 | 86–122 | 82–128 |
+| [7 February 2024](2024-02-07-WhitestoneInsight.html) | Whitestone Insight <br> Lady McAlpine | 101 | 90–117 | 88–120 | 86–122 | 82–127 |
 | [3–5 February 2024](2024-02-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 137 | 122–147 | 117–150 | 113–153 | 101–160 |
 | [2–5 February 2024](2024-02-05-Deltapoll.html) | Deltapoll | 190 | 173–210 | 167–215 | 162–219 | 151–226 |
 | [4 February 2024](2024-02-04-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 154 | 135–172 | 127–179 | 118–183 | 105–191 |
