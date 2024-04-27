@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
-| N/A | [Poll Average](average.html) | 19–30% <br> 46–209 | 43–52% <br> 346–479 | 6–12% <br> 7–53 | 2–4% <br> 14–52 | 2–8% <br> 1–3 | 4–8% <br> 2–18 | 1–2% <br> 4–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
+| N/A | [Poll Average](average.html) | 19–30% <br> 46–209 | 43–52% <br> 345–479 | 6–12% <br> 7–53 | 2–4% <br> 14–52 | 2–8% <br> 1–3 | 4–8% <br> 2–18 | 1–2% <br> 4–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 24–29% <br> 105–193 | 46–52% <br> 382–457 | 9–13% <br> 23–49 | 2–3% <br> 4–36 | 3–6% <br> 1 | 5–8% <br> 3–13 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 25–29% <br> 147–210 | 42–47% <br> 340–400 | 9–12% <br> 21–41 | 2–4% <br> 23–53 | 6–8% <br> 1–3 | 4–6% <br> 3–6 | 1–2% <br> 5–6 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 22–26% <br> 81–162 | 47–52% <br> 392–468 | 8–11% <br> 19–43 | 2–4% <br> 21–52 | 3–5% <br> 1 | 5–8% <br> 3–12 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
