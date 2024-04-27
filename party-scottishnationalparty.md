@@ -1358,7 +1358,7 @@ Last result: **48** seats (General Election of 12 December 2019)
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 36 | 27–44 | 25–45 | 24–47 | 21–53 |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 36 | 27–44 | 22–47 | 21–50 | 18–54 |
 | [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 40 | 29–50 | 24–52 | 20–54 | 17–56 |
+| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 39 | 29–50 | 24–52 | 20–54 | 17–56 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 40 | 28–52 | 23–54 | 20–55 | 16–57 |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 35 | 26–44 | 21–46 | 19–49 | 17–53 |
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 38 | 29–46 | 26–50 | 23–52 | 19–54 |
@@ -2636,9 +2636,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 1.0% | 96% |  |
 | 18 | 1.0% | 95% |  |
 | 19 | 0.7% | 94% |  |
-| 20 | 0.8% | 93% |  |
+| 20 | 0.7% | 93% |  |
 | 21 | 1.3% | 92% |  |
-| 22 | 1.4% | 91% |  |
+| 22 | 1.3% | 91% |  |
 | 23 | 0.9% | 90% |  |
 | 24 | 0.7% | 89% |  |
 | 25 | 1.1% | 88% |  |
@@ -2663,9 +2663,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 4% | 15% |  |
 | 45 | 2% | 11% |  |
 | 46 | 2% | 9% |  |
-| 47 | 1.0% | 7% |  |
+| 47 | 0.9% | 7% |  |
 | 48 | 1.1% | 7% | Last Result |
-| 49 | 0.8% | 5% |  |
+| 49 | 0.7% | 5% |  |
 | 50 | 0.8% | 5% |  |
 | 51 | 1.1% | 4% |  |
 | 52 | 0.9% | 3% |  |

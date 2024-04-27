@@ -1361,8 +1361,8 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [6–8 March 2024](2024-03-08-Opinium.html) | Opinium <br> The Observer | 31 | 24–38 | 23–40 | 21–41 | 19–44 |
 | [6–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> The Times | 36 | 27–44 | 25–48 | 22–49 | 20–52 |
 | [6–7 March 2024](2024-03-07-TechneUK.html) | Techne UK | 41 | 35–51 | 31–52 | 29–55 | 26–59 |
-| [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 49 | 37–60 | 34–64 | 32–65 | 26–71 |
-| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 31 | 23–39 | 21–41 | 20–42 | 17–48 |
+| [7 March 2024](2024-03-07-PeoplePolling.html) | PeoplePolling <br> GB News | 49 | 37–60 | 34–64 | 32–65 | 26–70 |
+| [6–7 March 2024](2024-03-07-BMGResearch.html) | BMG Research <br> The i | 31 | 23–39 | 22–41 | 20–42 | 17–48 |
 | [1–4 March 2024](2024-03-04-Deltapoll.html) | Deltapoll | 22 | 15–27 | 12–29 | 10–32 | 7–37 |
 | [1–3 March 2024](2024-03-03-Savanta.html) | Savanta | 26 | 22–32 | 20–35 | 19–37 | 17–39 |
 | [3 March 2024](2024-03-03-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 37 | 27–42 | 25–46 | 23–49 | 21–51 |
@@ -2655,14 +2655,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 4% | 26% |  |
 | 38 | 4% | 21% |  |
 | 39 | 3% | 18% |  |
-| 40 | 2% | 15% |  |
+| 40 | 2% | 14% |  |
 | 41 | 2% | 12% |  |
-| 42 | 1.2% | 10% |  |
+| 42 | 1.1% | 10% |  |
 | 43 | 0.7% | 9% |  |
 | 44 | 0.4% | 9% |  |
-| 45 | 0.8% | 8% |  |
+| 45 | 0.7% | 8% |  |
 | 46 | 1.0% | 7% |  |
-| 47 | 0.6% | 6% |  |
+| 47 | 0.7% | 6% |  |
 | 48 | 0.6% | 6% |  |
 | 49 | 0.6% | 5% |  |
 | 50 | 0.7% | 5% |  |
