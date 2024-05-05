@@ -10,7 +10,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.2% | 4.4–7.6% | 4.1–7.9% | 3.7–8.5% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.7–7.3% | 4.4–7.6% | 4.2–7.9% | 3.8–8.5% |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.8% | 4.5–8.4% |
 | [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.5% |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 6.2% | 5.4–7.0% | 5.2–7.3% | 5.0–7.5% | 4.7–8.0% |
@@ -46,7 +46,7 @@ Last result: **2.0%** (General Election of 12 December 2019)
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.7% | 4.5–8.2% |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 4.0–6.8% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
-| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 6.7% | N/A | N/A | N/A | N/A |
+| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 6.7% | 6.0–7.6% | 5.8–7.8% | 5.6–8.0% | 5.3–8.5% |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 7.8% | 7.1–8.7% | 6.8–9.0% | 6.7–9.2% | 6.3–9.6% |
 | [2–3 April 2024](2024-04-03-BMGResearch.html) | BMG Research <br> The i | 6.7% | N/A | N/A | N/A | N/A |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6.6% | 5.9–7.4% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
@@ -1341,11 +1341,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% | Last Result |
 | 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 8% | 99.8% |  |
-| 4.5–5.5% | 24% | 92% |  |
-| 5.5–6.5% | 40% | 68% | Median |
-| 6.5–7.5% | 22% | 28% |  |
-| 7.5–8.5% | 5% | 6% |  |
+| 3.5–4.5% | 7% | 99.8% |  |
+| 4.5–5.5% | 22% | 93% |  |
+| 5.5–6.5% | 40% | 71% | Median |
+| 6.5–7.5% | 24% | 30% |  |
+| 7.5–8.5% | 6% | 6% |  |
 | 8.5–9.5% | 0.3% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -1394,7 +1394,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 4 | 3–7 | 3–12 | 3–13 | 2–18 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–5 | 3–6 | 2–12 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 4 | 3–6 | 3–11 | 3–12 | 3–16 |
-| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 4 | 4–12 | 3–13 | 3–15 | 3–19 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 14 | 6–19 | 5–20 | 4–20 | 4–21 |
 | [2–3 April 2024](2024-04-03-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 3–11 | 3–12 | 3–14 | 3–18 |
@@ -2692,25 +2692,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.7% | 100% | Last Result |
 | 1 | 0.3% | 99.3% |  |
 | 2 | 3% | 99.0% |  |
-| 3 | 29% | 96% |  |
-| 4 | 36% | 66% | Median |
-| 5 | 8% | 30% |  |
-| 6 | 4% | 22% |  |
-| 7 | 3% | 18% |  |
+| 3 | 28% | 96% |  |
+| 4 | 37% | 68% | Median |
+| 5 | 8% | 31% |  |
+| 6 | 4% | 23% |  |
+| 7 | 3% | 19% |  |
 | 8 | 1.0% | 15% |  |
 | 9 | 0.4% | 14% |  |
 | 10 | 1.3% | 14% |  |
-| 11 | 1.4% | 12% |  |
-| 12 | 2% | 11% |  |
+| 11 | 2% | 13% |  |
+| 12 | 3% | 11% |  |
 | 13 | 3% | 9% |  |
-| 14 | 1.3% | 6% |  |
-| 15 | 0.1% | 5% |  |
-| 16 | 1.5% | 4% |  |
+| 14 | 1.4% | 6% |  |
+| 15 | 0.1% | 4% |  |
+| 16 | 1.4% | 4% |  |
 | 17 | 0.6% | 3% |  |
 | 18 | 0.7% | 2% |  |
-| 19 | 1.1% | 2% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
+| 19 | 1.1% | 1.5% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 

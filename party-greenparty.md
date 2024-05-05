@@ -10,7 +10,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.1–7.1% | 2.6–7.7% | 2.4–8.1% | 2.0–9.0% |
+| N/A | [Poll Average](average.html) | 5.2% | 3.2–7.3% | 2.6–7.8% | 2.4–8.2% | 2.0–9.0% |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.7% | 3.7–7.2% |
 | [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
@@ -46,7 +46,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 4.3% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 3.0–6.0% |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 6.8% | 6.1–7.6% | 5.9–7.9% | 5.7–8.1% | 5.3–8.5% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
-| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 7.0% | N/A | N/A | N/A | N/A |
+| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.8% |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
 | [2–3 April 2024](2024-04-03-BMGResearch.html) | BMG Research <br> The i | 5.2% | N/A | N/A | N/A | N/A |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.3% | 3.1–5.6% |
@@ -1342,11 +1342,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
 | 2.5–3.5% | 9% | 96% | Last Result |
-| 3.5–4.5% | 17% | 86% |  |
-| 4.5–5.5% | 37% | 69% | Median |
-| 5.5–6.5% | 16% | 32% |  |
-| 6.5–7.5% | 10% | 15% |  |
-| 7.5–8.5% | 5% | 6% |  |
+| 3.5–4.5% | 16% | 87% |  |
+| 4.5–5.5% | 35% | 71% | Median |
+| 5.5–6.5% | 17% | 37% |  |
+| 6.5–7.5% | 13% | 20% |  |
+| 7.5–8.5% | 6% | 7% |  |
 | 8.5–9.5% | 1.1% | 1.2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -1396,7 +1396,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1–2 |
-| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [2–3 April 2024](2024-04-03-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [2–3 April 2024](2024-04-03-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
 | [31 March 2024](2024-03-31-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1–2 |
@@ -2691,12 +2691,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 77% | 100% | Last Result, Median |
-| 2 | 7% | 23% |  |
-| 3 | 15% | 17% |  |
+| 1 | 71% | 100% | Last Result, Median |
+| 2 | 8% | 29% |  |
+| 3 | 19% | 21% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.2% |  |
-| 6 | 0% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
 
 
