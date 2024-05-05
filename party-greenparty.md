@@ -1362,7 +1362,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1 May 2024](2024-05-01-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [19–29 April 2024](2024-04-29-LabourTogether.html) | Labour Together | 1 | 1 | 1 | 1 | 1–2 |
