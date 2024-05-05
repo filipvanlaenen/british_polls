@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CON | LAB | LIBDEM | SNP | GREEN | BREXIT | PC | SPKR | UKIP | ChUK | NI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
-| N/A | [Poll Average](average.html) | 19–29% <br> 55–203 | 43–51% <br> 348–483 | 8–13% <br> 15–55 | 2–5% <br> 12–56 | 2–8% <br> 1–3 | 4–8% <br> 2–17 | 1–3% <br> 5–10 | N/A <br> 1 | 0% <br> 0 | N/A <br> N/A | N/A <br> 18 |
+| N/A | [Poll Average](average.html) | 19–29% <br> 54–202 | 43–51% <br> 349–482 | 8–13% <br> 15–54 | 2–5% <br> 12–56 | 2–8% <br> 1–3 | 4–8% <br> 2–17 | 1–3% <br> 5–10 | N/A <br> 1 | 0% <br> 0 | N/A <br> N/A | N/A <br> 18 |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 24–29% <br> 121–208 | 45–51% <br> 374–453 | 7–11% <br> 11–34 | 1–3% <br> 4–40 | 4–7% <br> 1–3 | 5–8% <br> 3–16 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 24–29% <br> 130–205 | 41–46% <br> 334–406 | 10–14% <br> 26–54 | 2–4% <br> 22–54 | 5–7% <br> 1–3 | 5–7% <br> 3–16 | 1–2% <br> 4–7 | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 22–26% <br> 83–169 | 46–51% <br> 399–469 | 9–13% <br> 26–52 | 2–3% <br> 6–34 | 4–6% <br> 1–3 | 5–8% <br> 3–13 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
@@ -19,7 +19,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [22–23 April 2024](2024-04-23-BMGResearch.html) | BMG Research <br> The i | 25–30% <br> 151–218 | 43–48% <br> 331–401 | 8–12% <br> 15–38 | 2–4% <br> 21–55 | 4–6% <br> 1–2 | 6–8% <br> 3–20 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [3–15 April 2024](2024-04-15-IpsosMORI.html) | Ipsos MORI | 18–23% <br> 43–137 | 44–50% <br> 404–493 | 8–12% <br> 22–56 | 2–4% <br> 22–55 | 6–9% <br> 2–4 | 5–8% <br> 3–17 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | [4–7 April 2024](2024-04-07-JLPartners.html) | JLPartners <br> The Rest is Politics | 24–28% <br> 134–191 | 44–48% <br> 347–403 | 10–12% <br> 20–42 | 3–5% <br> 40–58 | 3–5% <br> 1 | 5–7% <br> 3–14 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
-| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4 April 2024](2024-04-04-PeoplePolling.html) | PeoplePolling <br> GB News | 19–23% <br> 49–114 | 47–52% <br> 417–479 | 9–12% <br> 24–50 | 4–6% <br> 38–58 | 6–8% <br> 2–3 | 6–8% <br> 3–15 | N/A <br> N/A | N/A <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> 18 |
 | 12 December 2019 | General Election | 43.6% <br> 365 | 32.1% <br> 202 | 11.5% <br> 11 | 3.9% <br> 48 | 2.8% <br> 1 | 2.0% <br> 0 | 0.5% <br> 4 | 0.1% <br> 1 | 0.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 18 |
 
 Only polls for which at least the sample size has been published are included in the table above.
