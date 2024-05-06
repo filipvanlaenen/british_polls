@@ -1365,7 +1365,7 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 39 | 31–49 | 27–51 | 26–52 | 25–55 |
 | [1 May 2024](2024-05-01-YouGov.html) | YouGov <br> The Times | 51 | 43–57 | 41–60 | 39–63 | 37–68 |
 | [19–29 April 2024](2024-04-29-LabourTogether.html) | Labour Together | 39 | 36–41 | 35–42 | 33–43 | 31–46 |
-| [26–29 April 2024](2024-04-29-Deltapoll.html) | Deltapoll | 20 | 14–26 | 11–27 | 10–30 | 7–35 |
+| [26–29 April 2024](2024-04-29-Deltapoll.html) | Deltapoll | 20 | 14–26 | 11–27 | 9–30 | 7–36 |
 | [26–28 April 2024](2024-04-28-Savanta.html) | Savanta <br> The Telegraph | 27 | 23–36 | 21–38 | 20–39 | 18–41 |
 | [28 April 2024](2024-04-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 23–38 | 21–40 | 20–41 | 18–48 |
 | [26–28 April 2024](2024-04-28-MoreinCommon.html) | More in Common | 40 | 32–47 | 30–51 | 28–52 | 25–54 |
@@ -2693,18 +2693,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 0.1% | 99.9% |  |
 | 9 | 0.1% | 99.8% |  |
-| 10 | 0.2% | 99.7% |  |
+| 10 | 0.3% | 99.7% |  |
 | 11 | 0.2% | 99.4% | Last Result |
 | 12 | 0.4% | 99.2% |  |
-| 13 | 0.2% | 98.9% |  |
-| 14 | 0.3% | 98.7% |  |
+| 13 | 0.2% | 98.8% |  |
+| 14 | 0.3% | 98.6% |  |
 | 15 | 1.1% | 98% |  |
 | 16 | 0.6% | 97% |  |
-| 17 | 1.2% | 97% |  |
-| 18 | 2% | 95% |  |
+| 17 | 1.1% | 97% |  |
+| 18 | 1.3% | 95% |  |
 | 19 | 2% | 94% |  |
-| 20 | 3% | 91% |  |
-| 21 | 2% | 88% |  |
+| 20 | 3% | 92% |  |
+| 21 | 2% | 89% |  |
 | 22 | 4% | 86% |  |
 | 23 | 4% | 83% |  |
 | 24 | 3% | 78% |  |
@@ -2712,7 +2712,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 4% | 72% |  |
 | 27 | 4% | 68% |  |
 | 28 | 3% | 64% |  |
-| 29 | 2% | 62% |  |
+| 29 | 2% | 61% |  |
 | 30 | 2% | 60% |  |
 | 31 | 3% | 57% |  |
 | 32 | 3% | 54% |  |

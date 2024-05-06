@@ -1364,7 +1364,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 4 | 3–7 | 3–12 | 3–13 | 3–17 |
 | [1 May 2024](2024-05-01-YouGov.html) | YouGov <br> The Times | 10 | 4–16 | 4–19 | 4–19 | 3–20 |
 | [19–29 April 2024](2024-04-29-LabourTogether.html) | Labour Together | 4 | 4 | 4–5 | 3–5 | 3–6 |
-| [26–29 April 2024](2024-04-29-Deltapoll.html) | Deltapoll | 4 | 3–4 | 3–6 | 3–8 | 2–13 |
+| [26–29 April 2024](2024-04-29-Deltapoll.html) | Deltapoll | 3 | 3–4 | 3–6 | 3–7 | 2–13 |
 | [26–28 April 2024](2024-04-28-Savanta.html) | Savanta <br> The Telegraph | 3 | 2–3 | 2–3 | 0–4 | 0–4 |
 | [28 April 2024](2024-04-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 4–12 | 3–13 | 3–15 | 3–18 |
 | [26–28 April 2024](2024-04-28-MoreinCommon.html) | More in Common | 3 | 3–4 | 3–4 | 2–4 | 2–6 |
