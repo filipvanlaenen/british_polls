@@ -1370,9 +1370,9 @@ Last result: **11** seats (General Election of 12 December 2019)
 | [28 April 2024](2024-04-28-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 30 | 23–38 | 21–40 | 20–41 | 18–48 |
 | [26–28 April 2024](2024-04-28-MoreinCommon.html) | More in Common | 40 | 32–47 | 30–51 | 28–52 | 25–54 |
 | [25–26 April 2024](2024-04-26-WeThink.html) | We Think | 31 | 22–40 | 20–43 | 18–47 | 16–51 |
-| [24–25 April 2024](2024-04-25-TechneUK.html) | Techne UK | 27 | 21–37 | 19–39 | 18–40 | 15–46 |
-| [23–25 April 2024](2024-04-25-Survation.html) | Survation | 23 | 17–28 | 15–32 | 12–34 | 9–38 |
-| [23–24 April 2024](2024-04-24-YouGov.html) | YouGov <br> The Times | 36 | 28–45 | 25–48 | 23–50 | 20–52 |
+| [24–25 April 2024](2024-04-25-TechneUK.html) | Techne UK | 27 | 21–37 | 19–39 | 18–40 | 16–46 |
+| [23–25 April 2024](2024-04-25-Survation.html) | Survation | 23 | 17–28 | 15–31 | 12–34 | 9–38 |
+| [23–24 April 2024](2024-04-24-YouGov.html) | YouGov <br> The Times | 36 | 28–45 | 25–48 | 23–50 | 21–52 |
 | [22–23 April 2024](2024-04-23-BMGResearch.html) | BMG Research <br> The i | 24 | 18–32 | 16–36 | 15–38 | 10–40 |
 | [19–22 April 2024](2024-04-22-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [19–21 April 2024](2024-04-21-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
@@ -2693,7 +2693,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 0.1% | 99.9% |  |
 | 9 | 0.1% | 99.8% |  |
-| 10 | 0.3% | 99.7% |  |
+| 10 | 0.2% | 99.7% |  |
 | 11 | 0.2% | 99.4% | Last Result |
 | 12 | 0.4% | 99.2% |  |
 | 13 | 0.2% | 98.8% |  |
@@ -2712,7 +2712,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 4% | 72% |  |
 | 27 | 4% | 68% |  |
 | 28 | 3% | 64% |  |
-| 29 | 2% | 61% |  |
+| 29 | 2% | 62% |  |
 | 30 | 2% | 60% |  |
 | 31 | 3% | 57% |  |
 | 32 | 3% | 54% |  |
@@ -2720,17 +2720,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 2% | 49% |  |
 | 35 | 3% | 47% |  |
 | 36 | 4% | 44% |  |
-| 37 | 5% | 40% |  |
+| 37 | 5% | 41% |  |
 | 38 | 5% | 36% |  |
 | 39 | 4% | 31% |  |
 | 40 | 4% | 27% |  |
-| 41 | 4% | 22% |  |
+| 41 | 3% | 23% |  |
 | 42 | 2% | 19% |  |
 | 43 | 2% | 17% |  |
 | 44 | 1.1% | 15% |  |
 | 45 | 1.0% | 14% |  |
 | 46 | 1.1% | 13% |  |
-| 47 | 1.1% | 12% |  |
+| 47 | 1.0% | 12% |  |
 | 48 | 1.0% | 11% |  |
 | 49 | 1.4% | 10% |  |
 | 50 | 2% | 8% |  |
@@ -2740,7 +2740,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0.8% | 3% |  |
 | 55 | 0.6% | 2% |  |
 | 56 | 0.6% | 2% |  |
-| 57 | 0.4% | 1.3% |  |
+| 57 | 0.3% | 1.3% |  |
 | 58 | 0.2% | 0.9% |  |
 | 59 | 0.2% | 0.8% |  |
 | 60 | 0.1% | 0.5% |  |
