@@ -10,9 +10,96 @@ Last result: **2.8%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.2–7.3% | 2.6–7.8% | 2.4–8.2% | 2.0–9.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–7.2% | 3.7–7.4% | 3.5–7.5% | 3.3–7.8% |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 4.2% | N/A | N/A | N/A | N/A |
+| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 6.1% | N/A | N/A | N/A | N/A |
+| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 6.2% | N/A | N/A | N/A | N/A |
+| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 5.3% | N/A | N/A | N/A | N/A |
+| [12–13 June 2024](2024-06-13-WeThink.html) | We Think | 5.2% | N/A | N/A | N/A | N/A |
+| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK | 5.2% | N/A | N/A | N/A | N/A |
+| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.4% | N/A | N/A | N/A | N/A |
+| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News | 8.0% | N/A | N/A | N/A | N/A |
+| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat | 5.2% | N/A | N/A | N/A | N/A |
+| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents | 4.3% | N/A | N/A | N/A | N/A |
+| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i | 5.2% | N/A | N/A | N/A | N/A |
+| [10–11 June 2024](2024-06-11-YouGov.html) | YouGov <br> Sky News | 7.1% | N/A | N/A | N/A | N/A |
+| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain | 5.2% | N/A | N/A | N/A | N/A |
+| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata | 4.3% | N/A | N/A | N/A | N/A |
+| [7–10 June 2024](2024-06-10-Verian.html) | Verian | 7.0% | N/A | N/A | N/A | N/A |
+| [7–10 June 2024](2024-06-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.4% | 4.1–4.7% | 4.0–4.8% | 4.0–4.8% | 3.8–5.0% |
+| [6–10 June 2024](2024-06-10-LordAshcroft.html) | Lord Ashcroft | 7.0% | 6.5–7.5% | 6.4–7.6% | 6.2–7.8% | 6.0–8.0% |
+| [7–9 June 2024](2024-06-09-Savanta.html) | Savanta <br> The Telegraph | 3.4% | 2.9–3.9% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% |
+| [7–9 June 2024](2024-06-09-JLPartners.html) | JL Partners <br> The Rest is Politics | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
+| [6–8 June 2024](2024-06-08-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 4.3% | 3.7–4.9% | 3.6–5.1% | 3.4–5.3% | 3.2–5.6% |
+| [6–7 June 2024](2024-06-07-WeThink.html) | We Think | 4.2% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
+| [5–7 June 2024](2024-06-07-Savanta.html) | Savanta <br> The Telegraph | 2.5% | N/A | N/A | N/A | N/A |
+| [5–7 June 2024](2024-06-07-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
+| [5–7 June 2024](2024-06-07-MoreinCommon.html) | More in Common | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 3.9–6.2% |
+| [5–6 June 2024](2024-06-06-YouGov.html) | YouGov | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.4% | 4.6–7.8% |
+| [5–6 June 2024](2024-06-06-WhitestoneInsight.html) | Whitestone Insight | 4.3% | 3.8–5.0% | 3.6–5.2% | 3.5–5.4% | 3.2–5.7% |
+| [5–6 June 2024](2024-06-06-TechneUK.html) | Techne UK | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.2–6.5% | 3.9–6.9% |
+| [5–6 June 2024](2024-06-06-Survation.html) | Survation | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.3% |
+| [5–6 June 2024](2024-06-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.2% | N/A | N/A | N/A | N/A |
+| [3–6 June 2024](2024-06-06-Focaldata.html) | Focaldata | 4.3% | 3.7–4.9% | 3.6–5.1% | 3.4–5.3% | 3.2–5.6% |
+| [4–5 June 2024](2024-06-05-Norstat.html) | Norstat | 4.3% | 3.5–5.3% | 3.3–5.5% | 3.1–5.8% | 2.8–6.3% |
+| [4–5 June 2024](2024-06-05-BMGResearch.html) | BMG Research <br> The i | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.1–6.5% | 3.8–6.9% |
+| [3–4 June 2024](2024-06-04-YouGov.html) | YouGov <br> Sky News | 6.1% | N/A | N/A | N/A | N/A |
+| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI | 7.5% | N/A | N/A | N/A | N/A |
+| [3 June 2024](2024-06-03-Verian.html) | Verian | 6.7% | N/A | N/A | N/A | N/A |
+| [1–3 June 2024](2024-06-03-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
+| [3 June 2024](2024-06-03-LordAshcroft.html) | Lord Ashcroft | 5.1% | N/A | N/A | N/A | N/A |
+| [3 June 2024](2024-06-03-Deltapoll.html) | Deltapoll | 3.4% | N/A | N/A | N/A | N/A |
+| [2 June 2024](2024-06-02-Savanta.html) | Savanta <br> The Telegraph | 3.3% | N/A | N/A | N/A | N/A |
+| [2 June 2024](2024-06-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.3% | N/A | N/A | N/A | N/A |
+| [2 June 2024](2024-06-02-JLPartners.html) | JL Partners <br> The Rest is Politics | 2.5% | N/A | N/A | N/A | N/A |
+| [30–31 May 2024](2024-05-31-WeThink.html) | We Think | 5.2% | N/A | N/A | N/A | N/A |
+| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer | 5.1% | N/A | N/A | N/A | N/A |
+| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata | 5.1% | N/A | N/A | N/A | N/A |
+| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 5.1% | N/A | N/A | N/A | N/A |
+| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
+| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
+| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i | 5.0% | N/A | N/A | N/A | N/A |
+| [26–28 May 2024](2024-05-28-YouGov.html) | YouGov <br> Sky News | 5.9% | N/A | N/A | N/A | N/A |
+| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft | 6.7% | N/A | N/A | N/A | N/A |
+| [24–27 May 2024](2024-05-27-Survation.html) | Survation | 2.5% | N/A | N/A | N/A | N/A |
+| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.2% | N/A | N/A | N/A | N/A |
+| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph | 3.3% | N/A | N/A | N/A | N/A |
+| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics | 4.3% | N/A | N/A | N/A | N/A |
+| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 5.0% | N/A | N/A | N/A | N/A |
+| [23–24 May 2024](2024-05-24-YouGov.html) | YouGov <br> The Times | 5.2% | N/A | N/A | N/A | N/A |
+| [23–24 May 2024](2024-05-24-WeThink.html) | We Think | 5.2% | N/A | N/A | N/A | N/A |
+| [23–24 May 2024](2024-05-24-Opinium.html) | Opinium <br> The Observer | 5.9% | N/A | N/A | N/A | N/A |
+| [22–23 May 2024](2024-05-23-TechneUK.html) | Techne UK | 4.3% | N/A | N/A | N/A | N/A |
+| [22–23 May 2024](2024-05-23-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
+| [3–22 May 2024](2024-05-22-YouGov.html) | YouGov | 6.0% | N/A | N/A | N/A | N/A |
+| [21–22 May 2024](2024-05-22-Survation.html) | Survation | 1.7% | N/A | N/A | N/A | N/A |
+| [17–20 May 2024](2024-05-20-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
+| [17–19 May 2024](2024-05-19-Savanta.html) | Savanta <br> The Telegraph | 4.2% | N/A | N/A | N/A | N/A |
+| [19 May 2024](2024-05-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.3% | N/A | N/A | N/A | N/A |
+| [17–19 May 2024](2024-05-19-MoreinCommon.html) | More in Common | 5.1% | N/A | N/A | N/A | N/A |
+| [16–17 May 2024](2024-05-17-WeThink.html) | We Think | 6.8% | N/A | N/A | N/A | N/A |
+| [15–17 May 2024](2024-05-17-Opinium.html) | Opinium <br> The Observer | 5.9% | N/A | N/A | N/A | N/A |
+| [15–16 May 2024](2024-05-16-YouGov.html) | YouGov <br> The Times | 6.7% | N/A | N/A | N/A | N/A |
+| [15–16 May 2024](2024-05-16-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 5.1% | N/A | N/A | N/A | N/A |
+| [15–16 May 2024](2024-05-16-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
+| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News | 6.9% | N/A | N/A | N/A | N/A |
+| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI | 9.3% | N/A | N/A | N/A | N/A |
+| [9–13 May 2024](2024-05-13-LordAshcroft.html) | Lord Ashcroft | 6.8% | N/A | N/A | N/A | N/A |
+| [10–13 May 2024](2024-05-13-Deltapoll.html) | Deltapoll | 5.2% | N/A | N/A | N/A | N/A |
+| [10–12 May 2024](2024-05-12-Savanta.html) | Savanta <br> The Telegraph | 3.3% | N/A | N/A | N/A | N/A |
+| [12 May 2024](2024-05-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.2% | N/A | N/A | N/A | N/A |
+| [9–10 May 2024](2024-05-10-WeThink.html) | We Think | 5.0% | N/A | N/A | N/A | N/A |
+| [9–10 May 2024](2024-05-10-Survation.html) | Survation | 5.9% | N/A | N/A | N/A | N/A |
+| [8–9 May 2024](2024-05-09-TechneUK.html) | Techne UK | 5.1% | N/A | N/A | N/A | N/A |
+| [7–8 May 2024](2024-05-08-YouGov.html) | YouGov <br> The Times | 6.0% | N/A | N/A | N/A | N/A |
+| [3–7 May 2024](2024-05-07-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
+| [3–5 May 2024](2024-05-05-Savanta.html) | Savanta <br> The Telegraph | 3.3% | N/A | N/A | N/A | N/A |
+| [5 May 2024](2024-05-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4.3% | N/A | N/A | N/A | N/A |
+| [2–5 May 2024](2024-05-05-JLPartners.html) | JL Partners <br> The Rest is Politics | 4.2% | N/A | N/A | N/A | N/A |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.7% | 3.7–7.2% |
 | [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
+| [2–3 May 2024](2024-05-03-MoreinCommon.html) | More in Common | 4.2% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [1 May 2024](2024-05-01-YouGov.html) | YouGov <br> The Times | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.3% | 5.6–8.7% |
 | [19–29 April 2024](2024-04-29-LabourTogether.html) | Labour Together | 5.1% | 4.8–5.4% | 4.7–5.5% | 4.6–5.6% | 4.5–5.7% |
@@ -33,6 +120,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [17–18 April 2024](2024-04-18-TechneUK.html) | Techne UK | 4.3% | N/A | N/A | N/A | N/A |
 | [17–18 April 2024](2024-04-18-Survation.html) | Survation | 3.2% | N/A | N/A | N/A | N/A |
 | [16–17 April 2024](2024-04-17-YouGov.html) | YouGov <br> The Times | 6.9% | N/A | N/A | N/A | N/A |
+| [11–15 April 2024](2024-04-15-LordAshcroft.html) | Lord Ashcroft | 6.8% | N/A | N/A | N/A | N/A |
 | [3–15 April 2024](2024-04-15-IpsosMORI.html) | Ipsos MORI | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.6–10.0% |
 | [12–15 April 2024](2024-04-15-Deltapoll.html) | Deltapoll | 4.2% | N/A | N/A | N/A | N/A |
 | [12–14 April 2024](2024-04-14-Savanta.html) | Savanta <br> The Telegraph | 3.4% | N/A | N/A | N/A | N/A |
@@ -42,7 +130,7 @@ Last result: **2.8%** (General Election of 12 December 2019)
 | [10–11 April 2024](2024-04-11-TechneUK.html) | Techne UK | 4.3% | N/A | N/A | N/A | N/A |
 | [5–7 April 2024](2024-04-07-Savanta.html) | Savanta <br> The Telegraph | 3.3% | N/A | N/A | N/A | N/A |
 | [7 April 2024](2024-04-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 5.2% | N/A | N/A | N/A | N/A |
-| [4–7 April 2024](2024-04-07-JLPartners.html) | JLPartners <br> The Rest is Politics | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.3% | 3.2–5.7% |
+| [4–7 April 2024](2024-04-07-JLPartners.html) | JL Partners <br> The Rest is Politics | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.3% | 3.2–5.7% |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 4.3% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 3.0–6.0% |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 6.8% | 6.1–7.6% | 5.9–7.9% | 5.7–8.1% | 5.3–8.5% |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
@@ -1339,17 +1427,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 9% | 96% | Last Result |
-| 3.5–4.5% | 16% | 87% |  |
-| 4.5–5.5% | 35% | 71% | Median |
-| 5.5–6.5% | 17% | 37% |  |
-| 6.5–7.5% | 13% | 20% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 1.1% | 1.2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 3% | 100% | Last Result |
+| 3.5–4.5% | 43% | 97% |  |
+| 4.5–5.5% | 20% | 54% | Median |
+| 5.5–6.5% | 5% | 34% |  |
+| 6.5–7.5% | 27% | 29% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1360,9 +1445,96 @@ Last result: **1** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror |  |  |  |  |  |
+| [12–13 June 2024](2024-06-13-WeThink.html) | We Think |  |  |  |  |  |
+| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat |  |  |  |  |  |
+| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents |  |  |  |  |  |
+| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [10–11 June 2024](2024-06-11-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
+| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
+| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata |  |  |  |  |  |
+| [7–10 June 2024](2024-06-10-Verian.html) | Verian |  |  |  |  |  |
+| [7–10 June 2024](2024-06-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 1 | 1 |
+| [6–10 June 2024](2024-06-10-LordAshcroft.html) | Lord Ashcroft | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–9 June 2024](2024-06-09-Savanta.html) | Savanta <br> The Telegraph | 1 | 1 | 1 | 1 | 1 |
+| [7–9 June 2024](2024-06-09-JLPartners.html) | JL Partners <br> The Rest is Politics | 1 | 1 | 1 | 1 | 1 |
+| [6–8 June 2024](2024-06-08-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 1 | 1 | 1 | 1 | 1–2 |
+| [6–7 June 2024](2024-06-07-WeThink.html) | We Think | 1 | 1 | 1 | 1–2 | 1–2 |
+| [5–7 June 2024](2024-06-07-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [5–7 June 2024](2024-06-07-Opinium.html) | Opinium <br> The Observer | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [5–7 June 2024](2024-06-07-MoreinCommon.html) | More in Common | 1 | 1 | 1 | 1 | 1–2 |
+| [5–6 June 2024](2024-06-06-YouGov.html) | YouGov | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [5–6 June 2024](2024-06-06-WhitestoneInsight.html) | Whitestone Insight | 1 | 1 | 1 | 1 | 1–2 |
+| [5–6 June 2024](2024-06-06-TechneUK.html) | Techne UK | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [5–6 June 2024](2024-06-06-Survation.html) | Survation | 1 | 1 | 1 | 1 | 1–3 |
+| [5–6 June 2024](2024-06-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [3–6 June 2024](2024-06-06-Focaldata.html) | Focaldata | 1 | 1 | 1 | 1 | 1 |
+| [4–5 June 2024](2024-06-05-Norstat.html) | Norstat | 1 | 1 | 1 | 1–2 | 1–2 |
+| [4–5 June 2024](2024-06-05-BMGResearch.html) | BMG Research <br> The i | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [3–4 June 2024](2024-06-04-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
+| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [3 June 2024](2024-06-03-Verian.html) | Verian |  |  |  |  |  |
+| [1–3 June 2024](2024-06-03-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [3 June 2024](2024-06-03-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
+| [3 June 2024](2024-06-03-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [2 June 2024](2024-06-02-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [2 June 2024](2024-06-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [2 June 2024](2024-06-02-JLPartners.html) | JL Partners <br> The Rest is Politics |  |  |  |  |  |
+| [30–31 May 2024](2024-05-31-WeThink.html) | We Think |  |  |  |  |  |
+| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata |  |  |  |  |  |
+| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror |  |  |  |  |  |
+| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [26–28 May 2024](2024-05-28-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
+| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
+| [24–27 May 2024](2024-05-27-Survation.html) | Survation |  |  |  |  |  |
+| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics |  |  |  |  |  |
+| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [23–24 May 2024](2024-05-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [23–24 May 2024](2024-05-24-WeThink.html) | We Think |  |  |  |  |  |
+| [23–24 May 2024](2024-05-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [22–23 May 2024](2024-05-23-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [22–23 May 2024](2024-05-23-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [3–22 May 2024](2024-05-22-YouGov.html) | YouGov |  |  |  |  |  |
+| [21–22 May 2024](2024-05-22-Survation.html) | Survation |  |  |  |  |  |
+| [17–20 May 2024](2024-05-20-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [17–19 May 2024](2024-05-19-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [19 May 2024](2024-05-19-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [17–19 May 2024](2024-05-19-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [16–17 May 2024](2024-05-17-WeThink.html) | We Think |  |  |  |  |  |
+| [15–17 May 2024](2024-05-17-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [15–16 May 2024](2024-05-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–16 May 2024](2024-05-16-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror |  |  |  |  |  |
+| [15–16 May 2024](2024-05-16-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
+| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [9–13 May 2024](2024-05-13-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
+| [10–13 May 2024](2024-05-13-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [10–12 May 2024](2024-05-12-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [12 May 2024](2024-05-12-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [9–10 May 2024](2024-05-10-WeThink.html) | We Think |  |  |  |  |  |
+| [9–10 May 2024](2024-05-10-Survation.html) | Survation |  |  |  |  |  |
+| [8–9 May 2024](2024-05-09-TechneUK.html) | Techne UK |  |  |  |  |  |
+| [7–8 May 2024](2024-05-08-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [3–7 May 2024](2024-05-07-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [3–5 May 2024](2024-05-05-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
+| [5 May 2024](2024-05-05-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [2–5 May 2024](2024-05-05-JLPartners.html) | JL Partners <br> The Rest is Politics |  |  |  |  |  |
 | [2–3 May 2024](2024-05-03-WeThink.html) | We Think | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–3 May 2024](2024-05-03-Opinium.html) | Opinium <br> The Observer | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [2–3 May 2024](2024-05-03-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [1–2 May 2024](2024-05-02-TechneUK.html) | Techne UK | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1 May 2024](2024-05-01-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [19–29 April 2024](2024-04-29-LabourTogether.html) | Labour Together | 1 | 1 | 1 | 1 | 1–2 |
@@ -1383,6 +1555,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [17–18 April 2024](2024-04-18-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [17–18 April 2024](2024-04-18-Survation.html) | Survation |  |  |  |  |  |
 | [16–17 April 2024](2024-04-17-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [11–15 April 2024](2024-04-15-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
 | [3–15 April 2024](2024-04-15-IpsosMORI.html) | Ipsos MORI | 3 | 3–4 | 2–4 | 2–4 | 2–6 |
 | [12–15 April 2024](2024-04-15-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [12–14 April 2024](2024-04-14-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
@@ -1392,7 +1565,7 @@ Last result: **1** seats (General Election of 12 December 2019)
 | [10–11 April 2024](2024-04-11-TechneUK.html) | Techne UK |  |  |  |  |  |
 | [5–7 April 2024](2024-04-07-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
 | [7 April 2024](2024-04-07-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [4–7 April 2024](2024-04-07-JLPartners.html) | JLPartners <br> The Rest is Politics | 1 | 1 | 1 | 1 | 1 |
+| [4–7 April 2024](2024-04-07-JLPartners.html) | JL Partners <br> The Rest is Politics | 1 | 1 | 1 | 1 | 1 |
 | [4–5 April 2024](2024-04-05-WeThink.html) | We Think | 1 | 1 | 1 | 1 | 1 |
 | [3–5 April 2024](2024-04-05-Opinium.html) | Opinium <br> The Observer | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 April 2024](2024-04-04-TechneUK.html) | Techne UK | 1 | 1 | 1 | 1 | 1–2 |
@@ -2691,11 +2864,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 71% | 100% | Last Result, Median |
-| 2 | 8% | 29% |  |
-| 3 | 19% | 21% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0.1% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 1 | 66% | 100% | Last Result, Median |
+| 2 | 5% | 34% |  |
+| 3 | 29% | 29% |  |
+| 4 | 0% | 0% |  |
 
 
