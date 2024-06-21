@@ -10,22 +10,22 @@ Last result: **43.6%** (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.6% | 22.2–27.0% | 21.8–27.6% | 21.4–28.0% | 20.7–28.8% |
-| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 22.7% | N/A | N/A | N/A | N/A |
-| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 25.4% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 20.3% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 21.3% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-WeThink.html) | We Think | 22.0% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK | 21.2% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 20.1% | N/A | N/A | N/A | N/A |
-| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News | 21.4% | N/A | N/A | N/A | N/A |
-| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat | 23.0% | N/A | N/A | N/A | N/A |
-| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents | 27.3% | N/A | N/A | N/A | N/A |
-| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i | 23.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.0% | 20.4–26.8% | 19.8–27.4% | 19.3–27.9% | 18.5–28.9% |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 22.7% | 21.5–23.9% | 21.1–24.3% | 20.8–24.6% | 20.3–25.2% |
+| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 25.4% | 24.1–26.7% | 23.8–27.1% | 23.5–27.4% | 22.9–28.1% |
+| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 20.3% | 19.1–21.5% | 18.8–21.8% | 18.5–22.1% | 18.0–22.7% |
+| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 21.3% | 20.1–22.6% | 19.8–23.0% | 19.5–23.3% | 18.9–23.9% |
+| [12–13 June 2024](2024-06-13-WeThink.html) | We Think | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.5% | 19.0–25.3% |
+| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.1% |
+| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 20.1% | 18.8–21.6% | 18.4–22.0% | 18.1–22.4% | 17.5–23.1% |
+| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News | 21.4% | 19.9–23.1% | 19.5–23.6% | 19.1–24.0% | 18.4–24.8% |
+| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat | 23.0% | 21.3–24.9% | 20.8–25.4% | 20.4–25.9% | 19.6–26.8% |
+| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents | 27.3% | 26.0–28.7% | 25.6–29.0% | 25.3–29.4% | 24.7–30.0% |
+| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i | 23.1% | 21.7–24.6% | 21.4–25.1% | 21.0–25.4% | 20.3–26.2% |
 | [10–11 June 2024](2024-06-11-YouGov.html) | YouGov <br> Sky News | 20.3% | N/A | N/A | N/A | N/A |
-| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain | 25.0% | N/A | N/A | N/A | N/A |
-| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata | 26.5% | N/A | N/A | N/A | N/A |
-| [7–10 June 2024](2024-06-10-Verian.html) | Verian | 22.2% | N/A | N/A | N/A | N/A |
+| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata | 26.5% | 25.5–27.6% | 25.2–28.0% | 25.0–28.2% | 24.4–28.7% |
+| [7–10 June 2024](2024-06-10-Verian.html) | Verian | 22.2% | 20.7–23.8% | 20.3–24.3% | 19.9–24.7% | 19.2–25.5% |
 | [7–10 June 2024](2024-06-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 21.2% | 20.7–21.8% | 20.5–21.9% | 20.4–22.1% | 20.1–22.3% |
 | [6–10 June 2024](2024-06-10-LordAshcroft.html) | Lord Ashcroft | 23.3% | 22.5–24.1% | 22.3–24.4% | 22.1–24.6% | 21.7–25.0% |
 | [7–9 June 2024](2024-06-09-Savanta.html) | Savanta <br> The Telegraph | 26.7% | 25.5–28.0% | 25.2–28.4% | 24.9–28.7% | 24.3–29.3% |
@@ -44,7 +44,7 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [4–5 June 2024](2024-06-05-Norstat.html) | Norstat | 24.2% | 22.4–26.0% | 21.9–26.6% | 21.5–27.0% | 20.7–28.0% |
 | [4–5 June 2024](2024-06-05-BMGResearch.html) | BMG Research <br> The i | 25.3% | 23.9–26.9% | 23.5–27.3% | 23.1–27.7% | 22.4–28.5% |
 | [3–4 June 2024](2024-06-04-YouGov.html) | YouGov <br> Sky News | 21.4% | N/A | N/A | N/A | N/A |
-| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI | 24.7% | N/A | N/A | N/A | N/A |
+| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI | 24.7% | 23.0–26.6% | 22.5–27.1% | 22.1–27.6% | 21.2–28.5% |
 | [3 June 2024](2024-06-03-Verian.html) | Verian | 24.7% | N/A | N/A | N/A | N/A |
 | [1–3 June 2024](2024-06-03-MoreinCommon.html) | More in Common | 28.6% | N/A | N/A | N/A | N/A |
 | [3 June 2024](2024-06-03-LordAshcroft.html) | Lord Ashcroft | 24.9% | N/A | N/A | N/A | N/A |
@@ -52,21 +52,21 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [2 June 2024](2024-06-02-Savanta.html) | Savanta <br> The Telegraph | 29.8% | N/A | N/A | N/A | N/A |
 | [2 June 2024](2024-06-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 22.0% | N/A | N/A | N/A | N/A |
 | [2 June 2024](2024-06-02-JLPartners.html) | JL Partners <br> The Rest is Politics | 28.1% | N/A | N/A | N/A | N/A |
-| [30–31 May 2024](2024-05-31-WeThink.html) | We Think | 23.0% | N/A | N/A | N/A | N/A |
-| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer | 27.0% | N/A | N/A | N/A | N/A |
-| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata | 28.3% | N/A | N/A | N/A | N/A |
-| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times | 23.0% | N/A | N/A | N/A | N/A |
-| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 26.0% | N/A | N/A | N/A | N/A |
-| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK | 22.8% | N/A | N/A | N/A | N/A |
-| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common | 28.1% | N/A | N/A | N/A | N/A |
-| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i | 29.1% | N/A | N/A | N/A | N/A |
+| [30–31 May 2024](2024-05-31-WeThink.html) | We Think | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.2% |
+| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
+| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata | 28.3% | 27.1–29.5% | 26.8–29.8% | 26.5–30.1% | 26.0–30.7% |
+| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times | 23.0% | 21.8–24.3% | 21.4–24.7% | 21.1–25.0% | 20.6–25.6% |
+| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 26.0% | 24.7–27.3% | 24.3–27.7% | 24.0–28.0% | 23.4–28.7% |
+| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK | 22.8% | 21.5–24.3% | 21.1–24.7% | 20.8–25.0% | 20.1–25.7% |
+| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common | 28.1% | 26.7–29.4% | 26.4–29.8% | 26.1–30.1% | 25.5–30.8% |
+| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i | 29.1% | 27.6–30.7% | 27.2–31.2% | 26.8–31.6% | 26.1–32.4% |
 | [26–28 May 2024](2024-05-28-YouGov.html) | YouGov <br> Sky News | 21.6% | N/A | N/A | N/A | N/A |
-| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft | 25.7% | N/A | N/A | N/A | N/A |
-| [24–27 May 2024](2024-05-27-Survation.html) | Survation | 25.3% | N/A | N/A | N/A | N/A |
-| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 24.6% | N/A | N/A | N/A | N/A |
-| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph | 28.2% | N/A | N/A | N/A | N/A |
-| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics | 30.4% | N/A | N/A | N/A | N/A |
-| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 24.7% | N/A | N/A | N/A | N/A |
+| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft | 25.7% | 24.9–26.6% | 24.6–26.8% | 24.4–27.0% | 24.1–27.4% |
+| [24–27 May 2024](2024-05-27-Survation.html) | Survation | 25.3% | 24.0–26.6% | 23.7–27.0% | 23.4–27.3% | 22.8–27.9% |
+| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 24.6% | 24.1–25.1% | 23.9–25.3% | 23.8–25.4% | 23.5–25.7% |
+| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph | 28.2% | 27.0–29.5% | 26.6–29.9% | 26.3–30.2% | 25.7–30.8% |
+| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics | 30.4% | 29.1–31.8% | 28.7–32.2% | 28.4–32.6% | 27.7–33.2% |
+| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 24.7% | 23.3–26.3% | 22.9–26.7% | 22.5–27.1% | 21.9–27.8% |
 | [23–24 May 2024](2024-05-24-YouGov.html) | YouGov <br> The Times | 24.2% | N/A | N/A | N/A | N/A |
 | [23–24 May 2024](2024-05-24-WeThink.html) | We Think | 23.9% | N/A | N/A | N/A | N/A |
 | [23–24 May 2024](2024-05-24-Opinium.html) | Opinium <br> The Observer | 29.1% | N/A | N/A | N/A | N/A |
@@ -83,8 +83,8 @@ Last result: **43.6%** (General Election of 12 December 2019)
 | [15–16 May 2024](2024-05-16-YouGov.html) | YouGov <br> The Times | 21.7% | N/A | N/A | N/A | N/A |
 | [15–16 May 2024](2024-05-16-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 25.9% | N/A | N/A | N/A | N/A |
 | [15–16 May 2024](2024-05-16-TechneUK.html) | Techne UK | 22.9% | N/A | N/A | N/A | N/A |
-| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News | 22.0% | N/A | N/A | N/A | N/A |
-| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI | 21.7% | N/A | N/A | N/A | N/A |
+| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News | 22.0% | 20.6–23.5% | 20.2–24.0% | 19.9–24.4% | 19.2–25.1% |
+| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI | 21.7% | 20.0–23.5% | 19.5–24.0% | 19.1–24.4% | 18.4–25.3% |
 | [9–13 May 2024](2024-05-13-LordAshcroft.html) | Lord Ashcroft | 23.8% | N/A | N/A | N/A | N/A |
 | [10–13 May 2024](2024-05-13-Deltapoll.html) | Deltapoll | 29.2% | N/A | N/A | N/A | N/A |
 | [10–12 May 2024](2024-05-12-Savanta.html) | Savanta <br> The Telegraph | 26.4% | N/A | N/A | N/A | N/A |
@@ -1427,17 +1427,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
-| 20.5–21.5% | 3% | 99.7% |  |
-| 21.5–22.5% | 14% | 97% |  |
-| 22.5–23.5% | 30% | 83% |  |
-| 23.5–24.5% | 18% | 53% | Median |
-| 24.5–25.5% | 7% | 35% |  |
-| 25.5–26.5% | 12% | 28% |  |
-| 26.5–27.5% | 11% | 16% |  |
-| 27.5–28.5% | 4% | 5% |  |
-| 28.5–29.5% | 0.8% | 0.8% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.5% | 100% |  |
+| 18.5–19.5% | 3% | 99.4% |  |
+| 19.5–20.5% | 8% | 96% |  |
+| 20.5–21.5% | 13% | 88% |  |
+| 21.5–22.5% | 16% | 74% |  |
+| 22.5–23.5% | 17% | 58% | Median |
+| 23.5–24.5% | 12% | 42% |  |
+| 24.5–25.5% | 9% | 30% |  |
+| 25.5–26.5% | 9% | 21% |  |
+| 26.5–27.5% | 8% | 12% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.8% | 0.9% |  |
 | 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 | 31.5–32.5% | 0% | 0% |  |
@@ -1463,22 +1465,22 @@ Last result: **365** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 131 | 92–171 | 81–179 | 74–185 | 66–198 |
-| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
-| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-WeThink.html) | We Think |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat |  |  |  |  |  |
-| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents |  |  |  |  |  |
-| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 118 | 66–174 | 56–183 | 47–191 | 36–205 |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 92 | 68–124 | 63–133 | 59–139 | 52–148 |
+| [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 155 | 133–177 | 127–183 | 122–189 | 108–200 |
+| [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 84 | 56–105 | 52–110 | 47–115 | 39–125 |
+| [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 85 | 63–116 | 57–122 | 51–128 | 45–139 |
+| [12–13 June 2024](2024-06-13-WeThink.html) | We Think | 92 | 63–130 | 57–139 | 53–146 | 42–158 |
+| [12–13 June 2024](2024-06-13-TechneUK.html) | Techne UK | 76 | 54–107 | 48–117 | 44–126 | 36–140 |
+| [12–13 June 2024](2024-06-13-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 54 | 37–78 | 33–89 | 29–99 | 22–114 |
+| [12 June 2024](2024-06-12-PeoplePolling.html) | PeoplePolling <br> GB News | 108 | 71–138 | 64–146 | 57–154 | 48–168 |
+| [10–12 June 2024](2024-06-12-Norstat.html) | Norstat | 120 | 82–155 | 73–163 | 67–168 | 54–181 |
+| [11–12 June 2024](2024-06-12-MoreinCommon.html) | More in Common <br> The News Agents | 181 | 157–202 | 150–208 | 146–212 | 139–219 |
+| [11–12 June 2024](2024-06-12-BMGResearch.html) | BMG Research <br> The i | 117 | 82–141 | 75–150 | 70–155 | 58–167 |
 | [10–11 June 2024](2024-06-11-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
-| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
-| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata |  |  |  |  |  |
-| [7–10 June 2024](2024-06-10-Verian.html) | Verian |  |  |  |  |  |
+| [5–11 June 2024](2024-06-11-Survation.html) | Survation <br> Good Morning Britain | 154 | 126–184 | 115–192 | 104–198 | 89–209 |
+| [7–11 June 2024](2024-06-11-Focaldata.html) | Focaldata | 169 | 154–185 | 149–188 | 146–190 | 138–199 |
+| [7–10 June 2024](2024-06-10-Verian.html) | Verian | 107 | 69–134 | 63–141 | 56–147 | 47–161 |
 | [7–10 June 2024](2024-06-10-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 67 | 61–78 | 59–83 | 57–86 | 54–91 |
 | [6–10 June 2024](2024-06-10-LordAshcroft.html) | Lord Ashcroft | 127 | 112–150 | 108–155 | 105–158 | 96–164 |
 | [7–9 June 2024](2024-06-09-Savanta.html) | Savanta <br> The Telegraph | 169 | 153–187 | 148–191 | 144–195 | 133–205 |
@@ -1497,7 +1499,7 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [4–5 June 2024](2024-06-05-Norstat.html) | Norstat | 125 | 80–152 | 72–161 | 66–169 | 57–182 |
 | [4–5 June 2024](2024-06-05-BMGResearch.html) | BMG Research <br> The i | 156 | 134–179 | 125–185 | 116–188 | 98–200 |
 | [3–4 June 2024](2024-06-04-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
-| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [4 June 2024](2024-06-04-IpsosMORI.html) | Ipsos MORI | 156 | 124–182 | 111–188 | 104–194 | 89–207 |
 | [3 June 2024](2024-06-03-Verian.html) | Verian |  |  |  |  |  |
 | [1–3 June 2024](2024-06-03-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [3 June 2024](2024-06-03-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
@@ -1505,21 +1507,21 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [2 June 2024](2024-06-02-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
 | [2 June 2024](2024-06-02-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
 | [2 June 2024](2024-06-02-JLPartners.html) | JL Partners <br> The Rest is Politics |  |  |  |  |  |
-| [30–31 May 2024](2024-05-31-WeThink.html) | We Think |  |  |  |  |  |
-| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata |  |  |  |  |  |
-| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror |  |  |  |  |  |
-| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i |  |  |  |  |  |
+| [30–31 May 2024](2024-05-31-WeThink.html) | We Think | 107 | 80–144 | 74–150 | 70–156 | 61–165 |
+| [29–31 May 2024](2024-05-31-Opinium.html) | Opinium <br> The Observer | 167 | 154–188 | 149–192 | 143–196 | 132–204 |
+| [30–31 May 2024](2024-05-31-Focaldata.html) | Focaldata | 193 | 175–209 | 170–216 | 165–219 | 158–228 |
+| [29–30 May 2024](2024-05-30-YouGov.html) | YouGov <br> The Times | 112 | 86–142 | 80–150 | 76–156 | 69–165 |
+| [29–30 May 2024](2024-05-30-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror | 158 | 140–179 | 134–183 | 127–187 | 111–194 |
+| [29–30 May 2024](2024-05-30-TechneUK.html) | Techne UK | 96 | 70–133 | 63–140 | 59–146 | 51–156 |
+| [27–29 May 2024](2024-05-29-MoreinCommon.html) | More in Common | 184 | 164–201 | 159–207 | 155–212 | 145–222 |
+| [28–29 May 2024](2024-05-29-BMGResearch.html) | BMG Research <br> The i | 202 | 182–226 | 174–231 | 168–237 | 158–245 |
 | [26–28 May 2024](2024-05-28-YouGov.html) | YouGov <br> Sky News |  |  |  |  |  |
-| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
-| [24–27 May 2024](2024-05-27-Survation.html) | Survation |  |  |  |  |  |
-| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
-| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
-| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics |  |  |  |  |  |
-| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday |  |  |  |  |  |
+| [24–28 May 2024](2024-05-28-LordAshcroft.html) | Lord Ashcroft | 160 | 146–169 | 136–172 | 133–174 | 126–179 |
+| [24–27 May 2024](2024-05-27-Survation.html) | Survation | 135 | 109–151 | 98–156 | 91–161 | 81–172 |
+| [25–27 May 2024](2024-05-27-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 139 | 128–148 | 122–149 | 118–151 | 112–154 |
+| [24–26 May 2024](2024-05-26-Savanta.html) | Savanta <br> The Telegraph | 185 | 168–203 | 162–208 | 158–211 | 150–220 |
+| [24–25 May 2024](2024-05-25-JLPartners.html) | JL Partners <br> The Rest is Politics | 217 | 199–230 | 192–233 | 187–235 | 179–242 |
+| [23–25 May 2024](2024-05-25-Deltapoll.html) | Deltapoll <br> Mail on Sunday | 144 | 109–163 | 100–171 | 95–177 | 83–185 |
 | [23–24 May 2024](2024-05-24-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [23–24 May 2024](2024-05-24-WeThink.html) | We Think |  |  |  |  |  |
 | [23–24 May 2024](2024-05-24-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -1536,8 +1538,8 @@ Last result: **365** seats (General Election of 12 December 2019)
 | [15–16 May 2024](2024-05-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [15–16 May 2024](2024-05-16-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express/Daily Mirror |  |  |  |  |  |
 | [15–16 May 2024](2024-05-16-TechneUK.html) | Techne UK |  |  |  |  |  |
-| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News |  |  |  |  |  |
-| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [16 May 2024](2024-05-16-PeoplePolling.html) | PeoplePolling <br> GB News | 90 | 69–121 | 65–134 | 61–140 | 52–152 |
+| [8–14 May 2024](2024-05-14-IpsosMORI.html) | Ipsos MORI | 108 | 68–138 | 60–148 | 53–157 | 42–169 |
 | [9–13 May 2024](2024-05-13-LordAshcroft.html) | Lord Ashcroft |  |  |  |  |  |
 | [10–13 May 2024](2024-05-13-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [10–12 May 2024](2024-05-12-Savanta.html) | Savanta <br> The Telegraph |  |  |  |  |  |
@@ -2882,170 +2884,202 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0% | 99.9% |  |
-| 58 | 0% | 99.9% |  |
-| 59 | 0% | 99.9% |  |
-| 60 | 0% | 99.9% |  |
-| 61 | 0.1% | 99.9% |  |
-| 62 | 0.1% | 99.8% |  |
-| 63 | 0% | 99.7% |  |
-| 64 | 0.1% | 99.7% |  |
-| 65 | 0.1% | 99.6% |  |
-| 66 | 0% | 99.5% |  |
-| 67 | 0.1% | 99.5% |  |
-| 68 | 0.1% | 99.3% |  |
-| 69 | 0.2% | 99.2% |  |
-| 70 | 0.2% | 99.0% |  |
-| 71 | 0.4% | 98.8% |  |
-| 72 | 0.4% | 98% |  |
-| 73 | 0.3% | 98% |  |
-| 74 | 0.3% | 98% |  |
-| 75 | 0.2% | 97% |  |
-| 76 | 0.3% | 97% |  |
-| 77 | 0.3% | 97% |  |
-| 78 | 0.6% | 97% |  |
-| 79 | 0.2% | 96% |  |
-| 80 | 0.5% | 96% |  |
-| 81 | 0.8% | 95% |  |
-| 82 | 0.3% | 95% |  |
-| 83 | 0.5% | 94% |  |
-| 84 | 0.4% | 94% |  |
-| 85 | 0.2% | 93% |  |
-| 86 | 0.4% | 93% |  |
-| 87 | 0.3% | 93% |  |
-| 88 | 0.6% | 92% |  |
-| 89 | 0.5% | 92% |  |
-| 90 | 0.6% | 91% |  |
-| 91 | 0.6% | 91% |  |
-| 92 | 1.3% | 90% |  |
-| 93 | 0.7% | 89% |  |
-| 94 | 0.7% | 88% |  |
-| 95 | 1.3% | 87% |  |
-| 96 | 1.0% | 86% |  |
-| 97 | 0.4% | 85% |  |
-| 98 | 0.7% | 85% |  |
-| 99 | 0.8% | 84% |  |
-| 100 | 0.7% | 83% |  |
-| 101 | 0.7% | 83% |  |
-| 102 | 0.6% | 82% |  |
-| 103 | 0.6% | 81% |  |
-| 104 | 1.3% | 81% |  |
-| 105 | 0.6% | 79% |  |
-| 106 | 0.7% | 79% |  |
-| 107 | 0.7% | 78% |  |
-| 108 | 1.0% | 77% |  |
-| 109 | 0.9% | 76% |  |
-| 110 | 1.4% | 75% |  |
-| 111 | 0.8% | 74% |  |
-| 112 | 0.9% | 73% |  |
-| 113 | 0.5% | 72% |  |
-| 114 | 1.4% | 72% |  |
-| 115 | 2% | 70% |  |
-| 116 | 1.0% | 69% |  |
-| 117 | 1.3% | 68% |  |
-| 118 | 1.0% | 67% |  |
-| 119 | 2% | 66% |  |
-| 120 | 1.2% | 64% |  |
-| 121 | 1.3% | 63% |  |
-| 122 | 1.3% | 61% |  |
-| 123 | 1.3% | 60% |  |
-| 124 | 1.4% | 59% |  |
-| 125 | 0.6% | 57% |  |
-| 126 | 2% | 57% |  |
-| 127 | 1.2% | 55% |  |
-| 128 | 0.9% | 54% |  |
-| 129 | 1.0% | 53% |  |
-| 130 | 1.0% | 52% |  |
-| 131 | 1.2% | 51% | Median |
-| 132 | 0.5% | 50% |  |
-| 133 | 0.9% | 49% |  |
-| 134 | 1.2% | 48% |  |
-| 135 | 1.1% | 47% |  |
-| 136 | 0.5% | 46% |  |
-| 137 | 1.0% | 46% |  |
-| 138 | 1.3% | 45% |  |
-| 139 | 1.0% | 43% |  |
-| 140 | 1.4% | 42% |  |
-| 141 | 1.1% | 41% |  |
-| 142 | 1.3% | 40% |  |
-| 143 | 0.9% | 38% |  |
-| 144 | 1.1% | 38% |  |
-| 145 | 1.3% | 36% |  |
-| 146 | 1.0% | 35% |  |
-| 147 | 0.9% | 34% |  |
-| 148 | 2% | 33% |  |
-| 149 | 2% | 31% |  |
-| 150 | 0.8% | 30% |  |
-| 151 | 1.3% | 29% |  |
-| 152 | 0.9% | 28% |  |
-| 153 | 2% | 27% |  |
-| 154 | 0.8% | 25% |  |
-| 155 | 1.0% | 24% |  |
-| 156 | 0.5% | 23% |  |
-| 157 | 1.2% | 23% |  |
-| 158 | 0.9% | 22% |  |
-| 159 | 0.9% | 21% |  |
-| 160 | 0.8% | 20% |  |
-| 161 | 0.4% | 19% |  |
-| 162 | 0.7% | 19% |  |
-| 163 | 0.6% | 18% |  |
-| 164 | 0.8% | 17% |  |
-| 165 | 1.0% | 16% |  |
-| 166 | 0.6% | 16% |  |
-| 167 | 1.5% | 15% |  |
-| 168 | 1.3% | 13% |  |
-| 169 | 0.8% | 12% |  |
-| 170 | 1.3% | 11% |  |
-| 171 | 0.6% | 10% |  |
-| 172 | 1.1% | 9% |  |
-| 173 | 0.7% | 8% |  |
-| 174 | 0.4% | 8% |  |
-| 175 | 0.7% | 7% |  |
-| 176 | 0.5% | 7% |  |
-| 177 | 0.4% | 6% |  |
-| 178 | 0.5% | 6% |  |
-| 179 | 0.4% | 5% |  |
-| 180 | 0.7% | 5% |  |
-| 181 | 0.4% | 4% |  |
-| 182 | 0.5% | 4% |  |
-| 183 | 0.2% | 3% |  |
-| 184 | 0.1% | 3% |  |
-| 185 | 0.5% | 3% |  |
-| 186 | 0.3% | 2% |  |
-| 187 | 0.3% | 2% |  |
-| 188 | 0.1% | 2% |  |
-| 189 | 0.2% | 1.5% |  |
-| 190 | 0.1% | 1.3% |  |
-| 191 | 0.1% | 1.2% |  |
-| 192 | 0.1% | 1.1% |  |
-| 193 | 0.1% | 1.0% |  |
-| 194 | 0.1% | 0.9% |  |
-| 195 | 0.1% | 0.8% |  |
-| 196 | 0.1% | 0.7% |  |
-| 197 | 0.1% | 0.6% |  |
-| 198 | 0.1% | 0.5% |  |
-| 199 | 0.1% | 0.4% |  |
-| 200 | 0.1% | 0.4% |  |
-| 201 | 0.1% | 0.3% |  |
-| 202 | 0% | 0.2% |  |
-| 203 | 0% | 0.2% |  |
-| 204 | 0% | 0.1% |  |
-| 205 | 0% | 0.1% |  |
-| 206 | 0% | 0.1% |  |
-| 207 | 0% | 0.1% |  |
-| 208 | 0% | 0.1% |  |
-| 209 | 0% | 0% |  |
-| 210 | 0% | 0% |  |
-| 211 | 0% | 0% |  |
-| 212 | 0% | 0% |  |
-| 213 | 0% | 0% |  |
-| 214 | 0% | 0% |  |
-| 215 | 0% | 0% |  |
-| 216 | 0% | 0% |  |
-| 217 | 0% | 0% |  |
-| 218 | 0% | 0% |  |
-| 219 | 0% | 0% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 99.9% |  |
+| 26 | 0% | 99.9% |  |
+| 27 | 0% | 99.9% |  |
+| 28 | 0% | 99.9% |  |
+| 29 | 0% | 99.9% |  |
+| 30 | 0% | 99.8% |  |
+| 31 | 0% | 99.8% |  |
+| 32 | 0.1% | 99.8% |  |
+| 33 | 0.1% | 99.7% |  |
+| 34 | 0% | 99.7% |  |
+| 35 | 0.1% | 99.6% |  |
+| 36 | 0.1% | 99.6% |  |
+| 37 | 0.1% | 99.5% |  |
+| 38 | 0.1% | 99.4% |  |
+| 39 | 0.1% | 99.3% |  |
+| 40 | 0.2% | 99.1% |  |
+| 41 | 0.1% | 98.9% |  |
+| 42 | 0.1% | 98.8% |  |
+| 43 | 0.2% | 98.7% |  |
+| 44 | 0.3% | 98.5% |  |
+| 45 | 0.2% | 98% |  |
+| 46 | 0.2% | 98% |  |
+| 47 | 0.3% | 98% |  |
+| 48 | 0.2% | 97% |  |
+| 49 | 0.3% | 97% |  |
+| 50 | 0.2% | 97% |  |
+| 51 | 0.3% | 97% |  |
+| 52 | 0.2% | 96% |  |
+| 53 | 0.5% | 96% |  |
+| 54 | 0.4% | 96% |  |
+| 55 | 0.2% | 95% |  |
+| 56 | 0.5% | 95% |  |
+| 57 | 0.4% | 95% |  |
+| 58 | 0.5% | 94% |  |
+| 59 | 0.4% | 94% |  |
+| 60 | 0.4% | 93% |  |
+| 61 | 0.4% | 93% |  |
+| 62 | 0.6% | 92% |  |
+| 63 | 0.5% | 92% |  |
+| 64 | 0.5% | 91% |  |
+| 65 | 0.7% | 91% |  |
+| 66 | 0.5% | 90% |  |
+| 67 | 0.6% | 90% |  |
+| 68 | 0.8% | 89% |  |
+| 69 | 0.8% | 88% |  |
+| 70 | 0.6% | 87% |  |
+| 71 | 0.5% | 87% |  |
+| 72 | 0.8% | 86% |  |
+| 73 | 0.7% | 85% |  |
+| 74 | 0.5% | 85% |  |
+| 75 | 0.8% | 84% |  |
+| 76 | 0.9% | 84% |  |
+| 77 | 0.7% | 83% |  |
+| 78 | 0.8% | 82% |  |
+| 79 | 1.0% | 81% |  |
+| 80 | 0.7% | 80% |  |
+| 81 | 0.8% | 79% |  |
+| 82 | 0.8% | 79% |  |
+| 83 | 0.7% | 78% |  |
+| 84 | 0.6% | 77% |  |
+| 85 | 0.8% | 76% |  |
+| 86 | 0.9% | 76% |  |
+| 87 | 1.1% | 75% |  |
+| 88 | 0.9% | 74% |  |
+| 89 | 0.8% | 73% |  |
+| 90 | 0.9% | 72% |  |
+| 91 | 0.6% | 71% |  |
+| 92 | 1.0% | 70% |  |
+| 93 | 0.9% | 69% |  |
+| 94 | 0.9% | 69% |  |
+| 95 | 0.8% | 68% |  |
+| 96 | 0.8% | 67% |  |
+| 97 | 0.6% | 66% |  |
+| 98 | 0.8% | 65% |  |
+| 99 | 0.6% | 65% |  |
+| 100 | 0.8% | 64% |  |
+| 101 | 0.8% | 63% |  |
+| 102 | 0.6% | 62% |  |
+| 103 | 0.6% | 62% |  |
+| 104 | 0.8% | 61% |  |
+| 105 | 0.9% | 60% |  |
+| 106 | 0.7% | 60% |  |
+| 107 | 0.7% | 59% |  |
+| 108 | 0.9% | 58% |  |
+| 109 | 0.7% | 57% |  |
+| 110 | 0.8% | 57% |  |
+| 111 | 0.6% | 56% |  |
+| 112 | 0.6% | 55% |  |
+| 113 | 0.8% | 55% |  |
+| 114 | 0.8% | 54% |  |
+| 115 | 1.0% | 53% |  |
+| 116 | 0.8% | 52% |  |
+| 117 | 0.9% | 51% |  |
+| 118 | 0.7% | 50% | Median |
+| 119 | 0.7% | 50% |  |
+| 120 | 0.8% | 49% |  |
+| 121 | 0.6% | 48% |  |
+| 122 | 0.7% | 47% |  |
+| 123 | 0.8% | 47% |  |
+| 124 | 1.0% | 46% |  |
+| 125 | 0.5% | 45% |  |
+| 126 | 0.8% | 44% |  |
+| 127 | 0.6% | 44% |  |
+| 128 | 0.6% | 43% |  |
+| 129 | 0.7% | 42% |  |
+| 130 | 1.0% | 42% |  |
+| 131 | 0.8% | 41% |  |
+| 132 | 0.6% | 40% |  |
+| 133 | 0.7% | 39% |  |
+| 134 | 0.7% | 39% |  |
+| 135 | 0.6% | 38% |  |
+| 136 | 0.6% | 37% |  |
+| 137 | 0.6% | 37% |  |
+| 138 | 0.7% | 36% |  |
+| 139 | 0.7% | 35% |  |
+| 140 | 0.8% | 35% |  |
+| 141 | 0.6% | 34% |  |
+| 142 | 0.7% | 33% |  |
+| 143 | 0.6% | 33% |  |
+| 144 | 0.8% | 32% |  |
+| 145 | 0.8% | 31% |  |
+| 146 | 0.7% | 30% |  |
+| 147 | 0.6% | 30% |  |
+| 148 | 0.8% | 29% |  |
+| 149 | 0.7% | 28% |  |
+| 150 | 0.8% | 27% |  |
+| 151 | 0.6% | 27% |  |
+| 152 | 0.7% | 26% |  |
+| 153 | 1.0% | 25% |  |
+| 154 | 0.9% | 24% |  |
+| 155 | 0.7% | 24% |  |
+| 156 | 0.6% | 23% |  |
+| 157 | 0.8% | 22% |  |
+| 158 | 0.8% | 21% |  |
+| 159 | 0.8% | 21% |  |
+| 160 | 0.7% | 20% |  |
+| 161 | 0.6% | 19% |  |
+| 162 | 0.8% | 19% |  |
+| 163 | 0.8% | 18% |  |
+| 164 | 0.7% | 17% |  |
+| 165 | 0.9% | 16% |  |
+| 166 | 0.7% | 15% |  |
+| 167 | 0.7% | 15% |  |
+| 168 | 0.7% | 14% |  |
+| 169 | 0.7% | 13% |  |
+| 170 | 0.7% | 13% |  |
+| 171 | 0.6% | 12% |  |
+| 172 | 0.7% | 11% |  |
+| 173 | 0.6% | 11% |  |
+| 174 | 0.5% | 10% |  |
+| 175 | 0.6% | 10% |  |
+| 176 | 0.6% | 9% |  |
+| 177 | 0.5% | 8% |  |
+| 178 | 0.5% | 8% |  |
+| 179 | 0.6% | 7% |  |
+| 180 | 0.5% | 7% |  |
+| 181 | 0.5% | 6% |  |
+| 182 | 0.5% | 6% |  |
+| 183 | 0.4% | 5% |  |
+| 184 | 0.3% | 5% |  |
+| 185 | 0.5% | 5% |  |
+| 186 | 0.4% | 4% |  |
+| 187 | 0.4% | 4% |  |
+| 188 | 0.3% | 3% |  |
+| 189 | 0.2% | 3% |  |
+| 190 | 0.3% | 3% |  |
+| 191 | 0.2% | 3% |  |
+| 192 | 0.2% | 2% |  |
+| 193 | 0.1% | 2% |  |
+| 194 | 0.2% | 2% |  |
+| 195 | 0.1% | 2% |  |
+| 196 | 0.3% | 2% |  |
+| 197 | 0.1% | 1.4% |  |
+| 198 | 0.1% | 1.3% |  |
+| 199 | 0.1% | 1.2% |  |
+| 200 | 0.1% | 1.1% |  |
+| 201 | 0.1% | 1.0% |  |
+| 202 | 0.1% | 0.8% |  |
+| 203 | 0.1% | 0.7% |  |
+| 204 | 0.1% | 0.7% |  |
+| 205 | 0.1% | 0.6% |  |
+| 206 | 0.1% | 0.5% |  |
+| 207 | 0.1% | 0.4% |  |
+| 208 | 0% | 0.4% |  |
+| 209 | 0.1% | 0.3% |  |
+| 210 | 0% | 0.3% |  |
+| 211 | 0% | 0.2% |  |
+| 212 | 0% | 0.2% |  |
+| 213 | 0% | 0.2% |  |
+| 214 | 0% | 0.1% |  |
+| 215 | 0% | 0.1% |  |
+| 216 | 0% | 0.1% |  |
+| 217 | 0% | 0.1% |  |
+| 218 | 0% | 0.1% |  |
+| 219 | 0% | 0.1% |  |
 | 220 | 0% | 0% |  |
 | 221 | 0% | 0% |  |
 | 222 | 0% | 0% |  |
