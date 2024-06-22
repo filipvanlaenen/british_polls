@@ -1449,7 +1449,7 @@ Last result: **0** seats (General Election of 12 December 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 3–21 | 3–23 | 2–26 | 0–31 |
-| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 4 | 3–5 | 3–6 | 3–10 | 3–13 |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 4 | 3–5 | 3–6 | 3–9 | 3–13 |
 | [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 12 | 4–19 | 4–19 | 4–20 | 4–20 |
 | [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 24 | 21–30 | 20–31 | 20–31 | 19–35 |
 | [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 19 | 13–21 | 12–21 | 12–21 | 5–25 |

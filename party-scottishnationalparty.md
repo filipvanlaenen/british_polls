@@ -1446,8 +1446,8 @@ Last result: **48** seats (General Election of 12 December 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 18–53 | 16–57 | 13–58 | 6–58 |
-| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 19 | 12–25 | 9–29 | 6–30 | 3–34 |
+| N/A | [Poll Average](average.html) | 38 | 18–53 | 15–57 | 13–58 | 6–58 |
+| [12–14 June 2024](2024-06-14-Savanta.html) | Savanta <br> The Telegraph | 19 | 12–25 | 9–28 | 6–30 | 3–34 |
 | [12–14 June 2024](2024-06-14-Opinium.html) | Opinium <br> The Observer | 18 | 10–31 | 8–34 | 6–36 | 4–40 |
 | [12–13 June 2024](2024-06-13-YouGov.html) | YouGov <br> The Times | 43 | 37–50 | 34–51 | 33–52 | 28–53 |
 | [12–13 June 2024](2024-06-13-WhitestoneInsight.html) | Whitestone Insight <br> Daily Express and Daily Mirror | 39 | 34–47 | 30–50 | 27–51 | 24–54 |
@@ -2881,7 +2881,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 1.5% | 96% |  |
 | 16 | 2% | 95% |  |
 | 17 | 2% | 93% |  |
-| 18 | 1.5% | 91% |  |
+| 18 | 2% | 91% |  |
 | 19 | 2% | 89% |  |
 | 20 | 2% | 87% |  |
 | 21 | 4% | 85% |  |
